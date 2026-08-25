@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "schemaVersion": 2,
+    "module": "grammar",
+    "note": "hasContent = statik page.tsx faylı yazılıbmı, dərsin məzmunu bu JSON-da deyil, öz statik səhifəsindədir"
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "cumlenin-esaslari",
+      "code": "01",
+      "title": "Sentence Basics",
+      "titleAz": "Cümlənin əsasları",
+      "description": "İngilis cümləsinin təməl qaydaları — söz sırası, əsas fel, təsdiq/inkar/sual məntiqi.",
+      "sections": [
+        {
+          "id": 1,
+          "chapterId": 1,
+          "slug": "soz-sirasi",
+          "code": "1.1",
+          "title": "Word Order",
+          "titleAz": "Söz sırası",
+          "summary": "Subject + Verb + Object — ingilis cümləsinin skeleti.",
+          "hasContent": true
+        },
+        {
+          "id": 2,
+          "chapterId": 1,
+          "slug": "tesdiq-inkar-sual",
+          "code": "1.2",
+          "title": "Statements, Negatives & Questions — General Logic",
+          "titleAz": "Təsdiq, inkar və sual məntiqi",
+          "summary": "Köməkçi fel və söz sırası ilə inkar/sual qurmağın ümumi prinsipi.",
+          "hasContent": true
+        },
+        {
+          "id": 3,
+          "chapterId": 1,
+          "slug": "to-be-feli",
+          "code": "1.3",
+          "title": "To Be (am / is / are)",
+          "titleAz": "To be feli",
+          "summary": "İlk konkret fel — demək olar bütün digər qaydaların əsasında dayanır.",
+          "hasContent": true
+        },
+        {
+          "id": 4,
+          "chapterId": 1,
+          "slug": "there-is-there-are",
+          "code": "1.4",
+          "title": "There is / There are",
+          "titleAz": "There is / There are",
+          "summary": "Mövcudluğu bildirmək — Azərbaycan dilindən struktur baxımından fərqli.",
+          "hasContent": true
+        },
+        {
+          "id": 5,
+          "chapterId": 1,
+          "slug": "emr-cumleleri",
+          "code": "1.5",
+          "title": "Imperatives",
+          "titleAz": "Əmr cümlələri",
+          "summary": "Ən sadə cümlə növü — subyektsiz birbaşa əmr forması.",
+          "hasContent": true
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "5 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": true
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "5 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
+      }
+    }
+  ]
+}
