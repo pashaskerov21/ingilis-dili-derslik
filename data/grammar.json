@@ -78,6 +78,110 @@
         "description": "5 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
         "hasContent": true
       }
+    },
+    {
+      "id": 2,
+      "slug": "isimler-artikler-kemiyyet",
+      "code": "02",
+      "title": "Nouns, Articles & Quantifiers",
+      "titleAz": "İsimlər, Artiklər və Kəmiyyət göstəriciləri",
+      "description": "İsimlərin növləri, cəmlik, üç artikl forması, mülkiyyət halı və kəmiyyət göstəriciləri.",
+      "sections": [
+        {
+          "id": 6,
+          "chapterId": 2,
+          "slug": "sayila-bilen-bilmeyen-isimler",
+          "code": "2.1",
+          "title": "Countable & Uncountable Nouns",
+          "titleAz": "Sayıla bilən və sayıla bilməyən isimlər",
+          "summary": "İsimlərin iki əsas kateqoriyası — kəmiyyət göstəricilərinin və artiklərin seçimini müəyyən edir.",
+          "hasContent": true
+        },
+        {
+          "id": 7,
+          "chapterId": 2,
+          "slug": "cem-isimlerin-duzeldilmesi",
+          "code": "2.2",
+          "title": "Plural Noun Formation",
+          "titleAz": "Cəm isimlərin düzəldilməsi",
+          "summary": "Müntəzəm (-s/-es) və qeyri-müntəzəm cəm formaları.",
+          "hasContent": true
+        },
+        {
+          "id": 8,
+          "chapterId": 2,
+          "slug": "artikl-a-an",
+          "code": "2.3",
+          "title": "Indefinite Article: a / an",
+          "titleAz": "Qeyri-müəyyən artikl: a / an",
+          "summary": "İlk dəfə qeyd olunan, qeyri-konkret tək isimlərlə işlənmə.",
+          "hasContent": false
+        },
+        {
+          "id": 9,
+          "chapterId": 2,
+          "slug": "artikl-the",
+          "code": "2.4",
+          "title": "Definite Article: the",
+          "titleAz": "Müəyyən artikl: the",
+          "summary": "Artıq bilinən, konkret isimlərlə işlənmə.",
+          "hasContent": false
+        },
+        {
+          "id": 10,
+          "chapterId": 2,
+          "slug": "artiklsiz-islenme",
+          "code": "2.5",
+          "title": "Zero Article",
+          "titleAz": "Artiklsiz işlənmə",
+          "summary": "Artikl heç işlənməyən hallar — ümumi mənalar, xüsusi isimlər.",
+          "hasContent": false
+        },
+        {
+          "id": 11,
+          "chapterId": 2,
+          "slug": "mulkiyyet-hal-s",
+          "code": "2.6",
+          "title": "Possessive Case ('s)",
+          "titleAz": "Mülkiyyət halı ('s)",
+          "summary": "Sahiblik bildirən 's şəkilçisi və of-birləşməsi ilə fərqi.",
+          "hasContent": false
+        },
+        {
+          "id": 12,
+          "chapterId": 2,
+          "slug": "kemiyyet-gostericileri-1",
+          "code": "2.7",
+          "title": "Quantifiers I — some / any / much / many / a few / a little",
+          "titleAz": "Kəmiyyət göstəriciləri I",
+          "summary": "Sayıla bilən/bilməyən isimlərlə işlənən əsas kəmiyyət göstəriciləri.",
+          "hasContent": false
+        },
+        {
+          "id": 13,
+          "chapterId": 2,
+          "slug": "kemiyyet-gostericileri-2",
+          "code": "2.8",
+          "title": "Quantifiers II — every / each / all / most / no / none",
+          "titleAz": "Kəmiyyət göstəriciləri II",
+          "summary": "Tam və qismən əhatə bildirən kəmiyyət göstəriciləri.",
+          "hasContent": false
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "8 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": false
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": false
+      }
     }
   ]
 }

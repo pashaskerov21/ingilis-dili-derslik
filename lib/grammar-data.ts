@@ -23,6 +23,22 @@ export function getChapterBySlug(slug: string): Chapter | undefined {
   return data.chapters.find((chapter) => chapter.slug === slug);
 }
 
+/** JSON sırasında bu fəsildən əvvəlki fəsil; birincidirsə undefined. */
+export function getPreviousChapter(slug: string): Chapter | undefined {
+  const index = data.chapters.findIndex((chapter) => chapter.slug === slug);
+
+  return index > 0 ? data.chapters[index - 1] : undefined;
+}
+
+/** JSON sırasında bu fəsildən sonrakı fəsil; sonuncudursa undefined. */
+export function getNextChapter(slug: string): Chapter | undefined {
+  const index = data.chapters.findIndex((chapter) => chapter.slug === slug);
+
+  return index !== -1 && index < data.chapters.length - 1
+    ? data.chapters[index + 1]
+    : undefined;
+}
+
 /** Fəsil + bölmə slug cütü ilə tək bölmə; tapılmasa undefined. */
 export function getSectionBySlug(
   chapterSlug: string,

@@ -26,10 +26,12 @@ export function Header({ items, back }: HeaderProps) {
     <header className="mb-8 flex items-start justify-between gap-4 border-b border-line pb-4 transition-colors duration-300">
       <div className="min-w-0 flex-1">
         <Breadcrumb items={items} />
+        {/* Mobil breadkramb özü "← valideyn" düyməsini göstərdiyi üçün bu
+            təkrar keçid yalnız geniş ekranda görünür. */}
         {back ? (
           <Link
             href={back.href}
-            className="mt-3 inline-block font-mono text-xs text-muted underline-offset-4 transition-colors hover:text-accent hover:underline"
+            className="mt-1 hidden font-mono text-xs text-muted underline-offset-4 transition-colors hover:text-accent hover:underline sm:inline-block"
           >
             ← {back.label}
           </Link>

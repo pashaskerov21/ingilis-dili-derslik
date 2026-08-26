@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import { Fraunces, Inter, JetBrains_Mono } from 'next/font/google';
+import { ScrollToTop } from '@/components/ScrollToTop';
 import { ThemeProvider } from '@/components/ThemeProvider';
 import './globals.css';
 
@@ -22,14 +23,14 @@ const mono = JetBrains_Mono({
   display: 'swap',
 });
 
-const title = 'Learn English — Sıfırdan İngilis Dili';
+const title = 'English — Sıfırdan İngilis Dili';
 const description =
   'Sıfırdan ingilis dili öyrənmək üçün offline işləyən tətbiq: addım-addım qrammatika kurikulumu, səviyələr üzrə lüğət və mətnlər, təkrar testləri. Proqramçılar və özünütəhsil edənlər üçün.';
 
 export const metadata: Metadata = {
   title,
   description,
-  applicationName: 'Learn English',
+  applicationName: 'English',
   manifest: '/manifest.json',
   icons: {
     icon: [{ url: '/icon.svg', type: 'image/svg+xml' }, { url: '/favicon.ico' }],
@@ -39,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     title,
     description,
-    siteName: 'Learn English',
+    siteName: 'English',
     locale: 'az_AZ',
     type: 'website',
   },
@@ -69,6 +70,8 @@ export default function RootLayout({
     >
       <body className="min-h-dvh bg-background text-foreground transition-colors duration-300">
         <ThemeProvider>
+          {/* Səhifə keçidində scroll-u yuxarı qaytarır. */}
+          <ScrollToTop />
           {/* Bütün səhifələr üçün ortaq oxunaqlı sütun eni. */}
           <div className="mx-auto w-full max-w-2xl px-5 py-10 transition-colors duration-300 sm:px-6 sm:py-14">
             {children}

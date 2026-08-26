@@ -1,4 +1,4 @@
-# Learn English
+# English
 
 Sıfırdan ingilis dili öyrənmək üçün **offline işləyə bilən** veb-tətbiq (gələcəkdə PWA).
 Proqramçılar və ümumiyyətlə özünütəhsil edənlər üçün: addım-addım qrammatika kurikulumu,

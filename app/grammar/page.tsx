@@ -4,7 +4,7 @@ import { Header } from '@/components/Header';
 import { getAllChapters } from '@/lib/grammar-data';
 
 export const metadata: Metadata = {
-  title: 'Qrammatika — Learn English',
+  title: 'Qrammatika — English',
   description:
     'İngilis dili qrammatikasının səviyyəsiz, ardıcıl kurikulumu — fəsillər üzrə.',
 };

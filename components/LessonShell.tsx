@@ -2,7 +2,11 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { ReactNode } from 'react';
 import { Header } from '@/components/Header';
-import { getChapterBySlug } from '@/lib/grammar-data';
+import {
+  getChapterBySlug,
+  getNextChapter,
+  getPreviousChapter,
+} from '@/lib/grammar-data';
 import type {
   Chapter,
   ChapterReview,
@@ -123,8 +127,19 @@ function SectionShell({
   const section = chapter.sections[index];
   const review = chapter.chapterReview;
 
+  // Fəslin ilk bölməsindəysə "əvvəlki" fəsli tərk edir: əvvəlki fəslin
+  // nümunə bankı bu fəsildən əvvəlki son dayanacaqdır. Birinci fəsildə belə
+  // bir hədəf olmadığı üçün düymə gizli qalır.
+  const previousChapter =
+    index === 0 ? getPreviousChapter(chapter.slug) : undefined;
+  const previousBank = previousChapter?.exampleBank;
+
   const previous =
-    index > 0 ? sectionTarget(chapter.slug, chapter.sections[index - 1]) : undefined;
+    index > 0
+      ? sectionTarget(chapter.slug, chapter.sections[index - 1])
+      : previousChapter && previousBank
+        ? bankTarget(previousChapter.slug, previousBank)
+        : undefined;
 
   // Sonuncu bölmədən sonra növbəti dayanacaq fəsil xülasəsidir.
   const next =
@@ -229,9 +244,15 @@ function BankShell({
       ? sectionTarget(chapter.slug, lastSection)
       : undefined;
 
-  // TODO: fəsillər arası keçid — növbəti fəsil hazır olanda buradan onun ilk
-  // bölməsinə keçid əlavə olunacaq; hazırda "Növbəti" gizlidir.
-  const next = undefined;
+  // Nümunə bankı fəslin son dayanacağıdır — "növbəti" növbəti fəslin ilk
+  // bölməsinə keçir. Sonuncu fəsildə belə bir hədəf yoxdur, düymə gizlənir.
+  const nextChapter = getNextChapter(chapter.slug);
+  const nextFirstSection = nextChapter?.sections[0];
+
+  const next =
+    nextChapter && nextFirstSection
+      ? sectionTarget(nextChapter.slug, nextFirstSection)
+      : undefined;
 
   return (
     <main>

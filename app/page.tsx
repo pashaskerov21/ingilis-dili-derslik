@@ -37,7 +37,7 @@ export default function HomePage() {
     <main>
       <header>
         <p className="font-mono text-xs uppercase tracking-widest text-muted">
-          Learn English
+          English
         </p>
         <h1 className="mt-2 font-display text-3xl sm:text-4xl">
           Sıfırdan İngilis Dili
