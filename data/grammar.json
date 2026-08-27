@@ -173,14 +173,118 @@
         "title": "Chapter Summary",
         "titleAz": "Fəsil Xülasəsi",
         "description": "8 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       },
       "exampleBank": {
         "slug": "numuneler",
         "title": "Example Bank",
         "titleAz": "Nümunələr",
         "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
+      }
+    },
+    {
+      "id": 3,
+      "slug": "evezlikler",
+      "code": "03",
+      "title": "Pronouns",
+      "titleAz": "Əvəzliklər",
+      "description": "Şəxs, mülkiyyət, refleksiv, göstərici və qeyri-müəyyən əvəzliklər.",
+      "sections": [
+        {
+          "id": 14,
+          "chapterId": 3,
+          "slug": "sexs-evezlikleri-subject",
+          "code": "3.1",
+          "title": "Subject Pronouns",
+          "titleAz": "Şəxs əvəzlikləri (subyekt forması)",
+          "summary": "I, you, he, she, it, we, they — cümlənin subyekti kimi.",
+          "hasContent": true
+        },
+        {
+          "id": 15,
+          "chapterId": 3,
+          "slug": "obyekt-evezlikleri",
+          "code": "3.2",
+          "title": "Object Pronouns",
+          "titleAz": "Obyekt əvəzlikləri",
+          "summary": "me, you, him, her, it, us, them — felin və sözönlərinin obyekti kimi.",
+          "hasContent": true
+        },
+        {
+          "id": 16,
+          "chapterId": 3,
+          "slug": "mulkiyyet-sifetleri-evezlikleri",
+          "code": "3.3",
+          "title": "Possessive Adjectives & Pronouns",
+          "titleAz": "Mülkiyyət sifətləri və əvəzlikləri",
+          "summary": "my/mine, your/yours və s. — fərqli qrammatik rollar.",
+          "hasContent": true
+        },
+        {
+          "id": 17,
+          "chapterId": 3,
+          "slug": "refleksiv-evezlikler",
+          "code": "3.4",
+          "title": "Reflexive Pronouns",
+          "titleAz": "Refleksiv əvəzliklər",
+          "summary": "myself, yourself, himself və s. — hərəkət subyektə qayıdanda.",
+          "hasContent": true
+        },
+        {
+          "id": 18,
+          "chapterId": 3,
+          "slug": "qarsiliqli-evezlikler",
+          "code": "3.5",
+          "title": "Reciprocal Pronouns",
+          "titleAz": "Qarşılıqlı əvəzliklər",
+          "summary": "each other, one another — qarşılıqlı hərəkət bildirmək.",
+          "hasContent": true
+        },
+        {
+          "id": 19,
+          "chapterId": 3,
+          "slug": "gosterici-evezlikler",
+          "code": "3.6",
+          "title": "Demonstrative Pronouns",
+          "titleAz": "Göstərici əvəzliklər",
+          "summary": "this, that, these, those — yaxınlıq/uzaqlıq və tək/cəm.",
+          "hasContent": true
+        },
+        {
+          "id": 20,
+          "chapterId": 3,
+          "slug": "qeyri-mueyyen-evezlikler",
+          "code": "3.7",
+          "title": "Indefinite Pronouns",
+          "titleAz": "Qeyri-müəyyən əvəzliklər",
+          "summary": "someone, anything, nobody, everywhere — some/any/no/every əsaslı birləşmələr.",
+          "hasContent": true
+        },
+        {
+          "id": 21,
+          "chapterId": 3,
+          "slug": "evezedici-one",
+          "code": "3.8",
+          "title": "Substitute One / Ones",
+          "titleAz": "Əvəzedici 'one'",
+          "summary": "Təkrarı önləmək üçün ismin yerinə keçən 'one/ones'.",
+          "hasContent": true
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "8 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": true
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
       }
     }
   ]
