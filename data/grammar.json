@@ -437,6 +437,234 @@
         "description": "150-yə yaxın ən çox işlənən qeyri-müntəzəm fel, üç forma və tərcümə ilə — əzbər üçün sürətli istinad.",
         "hasContent": true
       }
+    },
+    {
+      "id": 5,
+      "slug": "modal-feller",
+      "code": "05",
+      "title": "Modal Verbs",
+      "titleAz": "Modal fellər",
+      "description": "Bacarıq, icazə, öhdəlik, ehtimal və məsləhət bildirən köməkçi fellər.",
+      "sections": [
+        {
+          "id": 34,
+          "chapterId": 5,
+          "slug": "baciriq-can-could-be-able-to",
+          "code": "5.1",
+          "title": "Ability: can / could / be able to",
+          "titleAz": "Bacarıq: can / could / be able to",
+          "summary": "İndiki və keçmiş bacarığı ifadə etmək.",
+          "hasContent": true
+        },
+        {
+          "id": 35,
+          "chapterId": 5,
+          "slug": "icaze-xahis",
+          "code": "5.2",
+          "title": "Permission & Requests: can / could / may / might",
+          "titleAz": "İcazə və xahiş",
+          "summary": "İcazə istəmək/vermək, nəzakətli xahiş etmək arasında registr fərqi.",
+          "hasContent": true
+        },
+        {
+          "id": 36,
+          "chapterId": 5,
+          "slug": "ohdelik-must-have-to",
+          "code": "5.3",
+          "title": "Obligation & Necessity: must / have to / need to",
+          "titleAz": "Öhdəlik və zərurət",
+          "summary": "Daxili (must) və xarici (have to) öhdəlik arasındakı fərq.",
+          "hasContent": true
+        },
+        {
+          "id": 37,
+          "chapterId": 5,
+          "slug": "zeruret-yoxlugu-qadaga",
+          "code": "5.4",
+          "title": "Absence of Necessity & Prohibition: don't have to / mustn't",
+          "titleAz": "Zərurət yoxluğu və qadağa",
+          "summary": "\"Lazım deyil\" ilə \"qadağandır\" arasındakı kəskin məna fərqi.",
+          "hasContent": true
+        },
+        {
+          "id": 38,
+          "chapterId": 5,
+          "slug": "mesleh-should-ought-had-better",
+          "code": "5.5",
+          "title": "Advice & Recommendation: should / ought to / had better",
+          "titleAz": "Məsləhət və tövsiyə",
+          "summary": "Yumşaq məsləhətdən sərt xəbərdarlığa qədər registr spektri.",
+          "hasContent": true
+        },
+        {
+          "id": 39,
+          "chapterId": 5,
+          "slug": "ehtimal-may-might-could",
+          "code": "5.6",
+          "title": "Possibility & Probability: may / might / could",
+          "titleAz": "Ehtimal (indiki/gələcək)",
+          "summary": "Fərqli əminlik dərəcələri ilə ehtimal bildirmək.",
+          "hasContent": true
+        },
+        {
+          "id": 40,
+          "chapterId": 5,
+          "slug": "mentiqi-netice-must-cant",
+          "code": "5.7",
+          "title": "Deduction & Certainty: must / can't",
+          "titleAz": "Məntiqi nəticə çıxarma",
+          "summary": "Dəlilə əsaslanan güclü inam — \"olmalıdır\" / \"ola bilməz\".",
+          "hasContent": true
+        },
+        {
+          "id": 41,
+          "chapterId": 5,
+          "slug": "kecmis-modallar",
+          "code": "5.8",
+          "title": "Past Modals: modal + have + Past Participle",
+          "titleAz": "Keçmiş modal fellər",
+          "summary": "Keçmişə aid ehtimal, tənqid və peşmançılıq (should have, must have, could have).",
+          "hasContent": true
+        },
+        {
+          "id": 42,
+          "chapterId": 5,
+          "slug": "istek-teklif-vede-will-would",
+          "code": "5.9",
+          "title": "Willingness, Offers & Promises: will / would / shall",
+          "titleAz": "İstəklilik, təklif və vəd",
+          "summary": "4.10-dakı will-in sosial funksiyalarının dərinləşdirilməsi.",
+          "hasContent": true
+        },
+        {
+          "id": 43,
+          "chapterId": 5,
+          "slug": "kecmis-vercisler-would-used-to",
+          "code": "5.10",
+          "title": "Past Habits: would / used to",
+          "titleAz": "Keçmiş vərdişlər: would / used to",
+          "summary": "Keçmiş adəti ifadə edən iki forma və aralarındakı fərq.",
+          "hasContent": true
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "10 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": true
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "10 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
+      }
+    },
+    {
+      "id": 6,
+      "slug": "sifet-ve-zerfler",
+      "code": "06",
+      "title": "Adjectives & Adverbs",
+      "titleAz": "Sifət və Zərflər",
+      "description": "Sifətlərin sırası, zərf düzəltmə, müqayisə dərəcələri və gücləndiricilər.",
+      "sections": [
+        {
+          "id": 44,
+          "chapterId": 6,
+          "slug": "sifetlerin-sirasi",
+          "code": "6.1",
+          "title": "Order of Adjectives",
+          "titleAz": "Sifətlərin sırası",
+          "summary": "Bir neçə sifət eyni isimdən əvvəl gələndə tabe olduğu sabit sıra.",
+          "hasContent": false
+        },
+        {
+          "id": 45,
+          "chapterId": 6,
+          "slug": "zerf-duzeltme",
+          "code": "6.2",
+          "title": "Adverb Formation",
+          "titleAz": "Zərf düzəltmə",
+          "summary": "Sifətdən -ly ilə zərf düzəltmə qaydaları və qeyri-müntəzəm formalar.",
+          "hasContent": false
+        },
+        {
+          "id": 46,
+          "chapterId": 6,
+          "slug": "zerf-novleri-ve-yeri",
+          "code": "6.3",
+          "title": "Types & Position of Adverbs",
+          "titleAz": "Zərflərin növləri və cümlədəki yeri",
+          "summary": "Tərz, yer, zaman, tezlik zərfləri və hər birinin sabit mövqeyi.",
+          "hasContent": false
+        },
+        {
+          "id": 47,
+          "chapterId": 6,
+          "slug": "comparative-sifetler",
+          "code": "6.4",
+          "title": "Comparative Adjectives",
+          "titleAz": "Müqayisə dərəcəsi (comparative)",
+          "summary": "-er/more formaları və orfoqrafiya qaydaları.",
+          "hasContent": false
+        },
+        {
+          "id": 48,
+          "chapterId": 6,
+          "slug": "superlative-sifetler",
+          "code": "6.5",
+          "title": "Superlative Adjectives",
+          "titleAz": "Üstünlük dərəcəsi (superlative)",
+          "summary": "-est/most formaları və məcburi \"the\" qaydası.",
+          "hasContent": false
+        },
+        {
+          "id": 49,
+          "chapterId": 6,
+          "slug": "muqayise-strukturlari",
+          "code": "6.6",
+          "title": "Comparative Structures: as...as, less, far + comparative",
+          "titleAz": "Müqayisə strukturları",
+          "summary": "Bərabərlik, aşağı dərəcə və gücləndirilmiş müqayisə formaları.",
+          "hasContent": false
+        },
+        {
+          "id": 50,
+          "chapterId": 6,
+          "slug": "gradable-qeyri-gradable-guclendiriciler",
+          "code": "6.7",
+          "title": "Gradable/Non-gradable Adjectives & Intensifiers",
+          "titleAz": "Dərəcələnən/dərəcələnməyən sifətlər və gücləndiricilər",
+          "summary": "very/absolutely kimi gücləndiricilərin sifətin növünə görə seçimi.",
+          "hasContent": false
+        },
+        {
+          "id": 51,
+          "chapterId": 6,
+          "slug": "istirakci-sifetler-ing-ed",
+          "code": "6.8",
+          "title": "Participial Adjectives: -ing vs -ed",
+          "titleAz": "İştirakçı sifətlər: -ing və -ed",
+          "summary": "boring/bored kimi cütlər — səbəb (-ing) və hiss (-ed) fərqi.",
+          "hasContent": false
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "8 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": false
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": false
+      }
     }
   ]
 }

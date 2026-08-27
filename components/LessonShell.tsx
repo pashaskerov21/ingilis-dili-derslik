@@ -80,6 +80,21 @@ function tableTarget(
 }
 
 /**
+ * Fəslin ən son dayanacağı: istinad cədvəli varsa odur, yoxdursa nümunə bankı.
+ * Fəsillərarası keçidlər (bir fəslin sonundan digərinin başına) bu hədəfə
+ * söykənir ki, cədvəli olan/olmayan fəsillər eyni cür işləsin.
+ */
+function chapterLastTarget(chapter: Chapter): NavTarget | undefined {
+  if (chapter.irregularVerbsTable) {
+    return tableTarget(chapter.slug, chapter.irregularVerbsTable);
+  }
+
+  return chapter.exampleBank
+    ? bankTarget(chapter.slug, chapter.exampleBank)
+    : undefined;
+}
+
+/**
  * Hər statik dərs səhifəsinin çərçivəsi: breadkramb, başlıq, tema düyməsi və
  * fəsil daxilində əvvəlki/növbəti keçidlər. Məzmun JSON-dan deyil, çağıran
  * page.tsx faylından `children` kimi gəlir.
@@ -157,18 +172,17 @@ function SectionShell({
   const section = chapter.sections[index];
   const review = chapter.chapterReview;
 
-  // Fəslin ilk bölməsindəysə "əvvəlki" fəsli tərk edir: əvvəlki fəslin
-  // nümunə bankı bu fəsildən əvvəlki son dayanacaqdır. Birinci fəsildə belə
-  // bir hədəf olmadığı üçün düymə gizli qalır.
+  // Fəslin ilk bölməsindəysə "əvvəlki" fəsli tərk edir və əvvəlki fəslin son
+  // dayanacağına qayıdır (cədvəl varsa cədvələ, yoxsa nümunə bankına).
+  // Birinci fəsildə belə bir hədəf olmadığı üçün düymə gizli qalır.
   const previousChapter =
     index === 0 ? getPreviousChapter(chapter.slug) : undefined;
-  const previousBank = previousChapter?.exampleBank;
 
   const previous =
     index > 0
       ? sectionTarget(chapter.slug, chapter.sections[index - 1])
-      : previousChapter && previousBank
-        ? bankTarget(previousChapter.slug, previousBank)
+      : previousChapter
+        ? chapterLastTarget(previousChapter)
         : undefined;
 
   // Sonuncu bölmədən sonra növbəti dayanacaq fəsil xülasəsidir.
@@ -330,9 +344,15 @@ function TableShell({
   // "Əvvəlki" fəslin nümunə bankına qayıdır.
   const previous = bank ? bankTarget(chapter.slug, bank) : undefined;
 
-  // TODO: Fəsil 5 hazır olanda "növbəti" onun ilk bölməsinə bağlanacaq —
-  // hazırda cədvəl son dayanacaqdır, ona görə düymə gizli qalır.
-  const next = undefined;
+  // Cədvəl fəslin son dayanacağıdır, ona görə "növbəti" növbəti fəslin ilk
+  // bölməsinə keçir. Sonuncu fəsildə belə bir hədəf yoxdur, düymə gizlənir.
+  const nextChapter = getNextChapter(chapter.slug);
+  const nextFirstSection = nextChapter?.sections[0];
+
+  const next =
+    nextChapter && nextFirstSection
+      ? sectionTarget(nextChapter.slug, nextFirstSection)
+      : undefined;
 
   return (
     <main>
