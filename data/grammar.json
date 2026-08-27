@@ -578,7 +578,7 @@
           "title": "Order of Adjectives",
           "titleAz": "Sifətlərin sırası",
           "summary": "Bir neçə sifət eyni isimdən əvvəl gələndə tabe olduğu sabit sıra.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 45,
@@ -588,7 +588,7 @@
           "title": "Adverb Formation",
           "titleAz": "Zərf düzəltmə",
           "summary": "Sifətdən -ly ilə zərf düzəltmə qaydaları və qeyri-müntəzəm formalar.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 46,
@@ -598,7 +598,7 @@
           "title": "Types & Position of Adverbs",
           "titleAz": "Zərflərin növləri və cümlədəki yeri",
           "summary": "Tərz, yer, zaman, tezlik zərfləri və hər birinin sabit mövqeyi.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 47,
@@ -608,7 +608,7 @@
           "title": "Comparative Adjectives",
           "titleAz": "Müqayisə dərəcəsi (comparative)",
           "summary": "-er/more formaları və orfoqrafiya qaydaları.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 48,
@@ -618,7 +618,7 @@
           "title": "Superlative Adjectives",
           "titleAz": "Üstünlük dərəcəsi (superlative)",
           "summary": "-est/most formaları və məcburi \"the\" qaydası.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 49,
@@ -628,7 +628,7 @@
           "title": "Comparative Structures: as...as, less, far + comparative",
           "titleAz": "Müqayisə strukturları",
           "summary": "Bərabərlik, aşağı dərəcə və gücləndirilmiş müqayisə formaları.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 50,
@@ -638,7 +638,7 @@
           "title": "Gradable/Non-gradable Adjectives & Intensifiers",
           "titleAz": "Dərəcələnən/dərəcələnməyən sifətlər və gücləndiricilər",
           "summary": "very/absolutely kimi gücləndiricilərin sifətin növünə görə seçimi.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 51,
@@ -648,7 +648,7 @@
           "title": "Participial Adjectives: -ing vs -ed",
           "titleAz": "İştirakçı sifətlər: -ing və -ed",
           "summary": "boring/bored kimi cütlər — səbəb (-ing) və hiss (-ed) fərqi.",
-          "hasContent": false
+          "hasContent": true
         }
       ],
       "chapterReview": {
@@ -656,13 +656,483 @@
         "title": "Chapter Summary",
         "titleAz": "Fəsil Xülasəsi",
         "description": "8 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       },
       "exampleBank": {
         "slug": "numuneler",
         "title": "Example Bank",
         "titleAz": "Nümunələr",
         "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
+      }
+    },
+    {
+      "id": 7,
+      "slug": "sozonleri-ve-frazal-feller",
+      "code": "07",
+      "title": "Prepositions & Phrasal Verbs",
+      "titleAz": "Sözönləri və Frazal fellər",
+      "description": "Yer, zaman, istiqamət sözönləri və frazal fellərin struktur qaydaları.",
+      "sections": [
+        {
+          "id": 52,
+          "chapterId": 7,
+          "slug": "yer-sozonleri",
+          "code": "7.1",
+          "title": "Prepositions of Place",
+          "titleAz": "Yer sözönləri",
+          "summary": "in/on/at və digər yer sözönlərinin dəqiq işlənmə qaydaları.",
+          "hasContent": true
+        },
+        {
+          "id": 53,
+          "chapterId": 7,
+          "slug": "zaman-sozonleri",
+          "code": "7.2",
+          "title": "Prepositions of Time",
+          "titleAz": "Zaman sözönləri",
+          "summary": "in/on/at zaman ifadələrində və bunların incə istisnaları.",
+          "hasContent": true
+        },
+        {
+          "id": 54,
+          "chapterId": 7,
+          "slug": "istiqamet-herekt-sozonleri",
+          "code": "7.3",
+          "title": "Prepositions of Movement & Direction",
+          "titleAz": "İstiqamət və hərəkət sözönləri",
+          "summary": "to/into/onto/through/across kimi hərəkət bildirən sözönləri.",
+          "hasContent": true
+        },
+        {
+          "id": 55,
+          "chapterId": 7,
+          "slug": "fellerle-sabit-sozonleri",
+          "code": "7.4",
+          "title": "Dependent Prepositions (Verb + Preposition)",
+          "titleAz": "Fellə sabit gələn sözönləri",
+          "summary": "depend on, listen to, wait for kimi əzbər tələb edən sabit birləşmələr.",
+          "hasContent": true
+        },
+        {
+          "id": 56,
+          "chapterId": 7,
+          "slug": "frazal-fel-esaslari",
+          "code": "7.5",
+          "title": "Phrasal Verbs: Basics & Meaning",
+          "titleAz": "Frazal fellərin əsasları",
+          "summary": "Frazal felin nə olduğu, hərfi və məcazi məna fərqi.",
+          "hasContent": true
+        },
+        {
+          "id": 57,
+          "chapterId": 7,
+          "slug": "ayrila-bilen-frazal-feller",
+          "code": "7.6",
+          "title": "Separable Phrasal Verbs",
+          "titleAz": "Ayrıla bilən frazal fellər",
+          "summary": "turn on/off kimi fellərdə obyektin yerləşə biləcəyi mövqelər.",
+          "hasContent": true
+        },
+        {
+          "id": 58,
+          "chapterId": 7,
+          "slug": "ayrilmaz-frazal-feller",
+          "code": "7.7",
+          "title": "Inseparable Phrasal Verbs",
+          "titleAz": "Ayrılmayan frazal fellər",
+          "summary": "look after, run into kimi obyektin yerini dəyişə bilmədiyi fellər.",
+          "hasContent": true
+        },
+        {
+          "id": 59,
+          "chapterId": 7,
+          "slug": "kecissiz-uc-hisseli-frazal-feller",
+          "code": "7.8",
+          "title": "Intransitive & Three-Part Phrasal Verbs",
+          "titleAz": "Keçişsiz və üç hissəli frazal fellər",
+          "summary": "Obyektsiz işlənən fellər və look forward to kimi üç hissəli birləşmələr.",
+          "hasContent": true
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "8 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": true
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
+      }
+    },
+    {
+      "id": 8,
+      "slug": "sual-formalari",
+      "code": "08",
+      "title": "Question Forms",
+      "titleAz": "Sual formaları",
+      "description": "Birbaşa, dolayı suallar, question tags və subyekt/obyekt sualları arasındakı fərq.",
+      "sections": [
+        {
+          "id": 60,
+          "chapterId": 8,
+          "slug": "beli-xeyr-sual-recap",
+          "code": "8.1",
+          "title": "Yes/No Questions — Full Review",
+          "titleAz": "Bəli/Xeyr sualları — tam təkrar",
+          "summary": "İnversiya qaydasının bütün zamanlarda tam icmalı.",
+          "hasContent": true
+        },
+        {
+          "id": 61,
+          "chapterId": 8,
+          "slug": "wh-sual-sozleri",
+          "code": "8.2",
+          "title": "Wh-Question Words",
+          "titleAz": "Wh-sual sözləri",
+          "summary": "What, where, when, why, how və onların dərinləşdirilmiş işlənməsi.",
+          "hasContent": true
+        },
+        {
+          "id": 62,
+          "chapterId": 8,
+          "slug": "subyekt-obyekt-suallari",
+          "code": "8.3",
+          "title": "Subject vs Object Questions",
+          "titleAz": "Subyekt və obyekt sualları",
+          "summary": "3.1.5-dəki istisnanın tam qaydası — söz sırasının dəyişmədiyi hallar.",
+          "hasContent": true
+        },
+        {
+          "id": 63,
+          "chapterId": 8,
+          "slug": "dolayi-suallar",
+          "code": "8.4",
+          "title": "Indirect Questions",
+          "titleAz": "Dolayı suallar",
+          "summary": "\"Could you tell me...\" kimi nəzakətli, gizli söz sırası olan suallar.",
+          "hasContent": true
+        },
+        {
+          "id": 64,
+          "chapterId": 8,
+          "slug": "question-tags",
+          "code": "8.5",
+          "title": "Question Tags",
+          "titleAz": "Sual əlavələri (Question Tags)",
+          "summary": "\"..., isn't it?\" kimi təsdiqləyici kiçik suallar və intonasiya qaydaları.",
+          "hasContent": true
+        },
+        {
+          "id": 65,
+          "chapterId": 8,
+          "slug": "menfi-suallar-derinlesme",
+          "code": "8.6",
+          "title": "Negative Questions — In Depth",
+          "titleAz": "Mənfi suallar — dərinləşmə",
+          "summary": "Təəccüb, tənqid və gözlənti bildirən mənfi sualların funksiyaları.",
+          "hasContent": true
+        },
+        {
+          "id": 66,
+          "chapterId": 8,
+          "slug": "echo-alternative-suallar",
+          "code": "8.7",
+          "title": "Echo Questions & Alternative Questions",
+          "titleAz": "Echo sualları və alternativ suallar",
+          "summary": "\"You did WHAT?\" tipli təkrar sualları və \"or\" ilə seçim sualları.",
+          "hasContent": true
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "7 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": true
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "7 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
+      }
+    },
+    {
+      "id": 9,
+      "slug": "murekkeb-cumle-qurma",
+      "code": "09",
+      "title": "Clauses & Linking",
+      "titleAz": "Mürəkkəb cümlə qurma",
+      "description": "Bağlayıcılar, təyin budaq cümlələri, şərt cümlələri və dolayı nitq.",
+      "sections": [
+        {
+          "id": 67,
+          "chapterId": 9,
+          "slug": "koordinativ-baglayicilar",
+          "code": "9.1",
+          "title": "Coordinating Conjunctions",
+          "titleAz": "Koordinativ bağlayıcılar",
+          "summary": "FANBOYS (for, and, nor, but, or, yet, so) və vergül qaydası.",
+          "hasContent": false
+        },
+        {
+          "id": 68,
+          "chapterId": 9,
+          "slug": "subordinativ-baglayicilar",
+          "code": "9.2",
+          "title": "Subordinating Conjunctions",
+          "titleAz": "Subordinativ bağlayıcılar",
+          "summary": "Zaman, səbəb, ziddiyyət, məqsəd bildirən bağlayıcılar.",
+          "hasContent": false
+        },
+        {
+          "id": 69,
+          "chapterId": 9,
+          "slug": "teyin-cumleleri-defining",
+          "code": "9.3",
+          "title": "Defining Relative Clauses",
+          "titleAz": "Təyin budaq cümlələri (defining)",
+          "summary": "who/which/that ilə ismi məhdudlaşdıran, vacib budaq cümlələr.",
+          "hasContent": false
+        },
+        {
+          "id": 70,
+          "chapterId": 9,
+          "slug": "teyin-cumleleri-non-defining",
+          "code": "9.4",
+          "title": "Non-Defining Relative Clauses",
+          "titleAz": "Təyin budaq cümlələri (non-defining)",
+          "summary": "Vergüllə ayrılan, əlavə (vacib olmayan) məlumat verən budaq cümlələr.",
+          "hasContent": false
+        },
+        {
+          "id": 71,
+          "chapterId": 9,
+          "slug": "teyin-cumleleri-xetalar-qisaltma",
+          "code": "9.5",
+          "title": "Relative Clauses: Errors & Reduction",
+          "titleAz": "Təyin cümlələri: səhvlər və qısaltma",
+          "summary": "Tipik səhvlər və iştirakçı forması ilə qısaldılmış təyin cümlələri.",
+          "hasContent": false
+        },
+        {
+          "id": 72,
+          "chapterId": 9,
+          "slug": "zero-first-conditional",
+          "code": "9.6",
+          "title": "Zero & First Conditional",
+          "titleAz": "Sıfır və Birinci Şərt Cümləsi",
+          "summary": "Ümumi həqiqətlər və real gələcək şərtlər.",
+          "hasContent": false
+        },
+        {
+          "id": 73,
+          "chapterId": 9,
+          "slug": "second-conditional",
+          "code": "9.7",
+          "title": "Second Conditional",
+          "titleAz": "İkinci Şərt Cümləsi",
+          "summary": "Hipotetik, indiki/gələcək qeyri-real vəziyyətlər.",
+          "hasContent": false
+        },
+        {
+          "id": 74,
+          "chapterId": 9,
+          "slug": "third-mixed-conditional",
+          "code": "9.8",
+          "title": "Third & Mixed Conditionals",
+          "titleAz": "Üçüncü və Qarışıq Şərt Cümlələri",
+          "summary": "Keçmişə aid gerçəkləşməmiş şərtlər və zaman qarışığı formalar.",
+          "hasContent": false
+        },
+        {
+          "id": 75,
+          "chapterId": 9,
+          "slug": "dolayi-nitq-tesdiq",
+          "code": "9.9",
+          "title": "Reported Speech: Statements",
+          "titleAz": "Dolayı nitq: bəyanatlar",
+          "summary": "Zaman geriyə sürüşməsi, əvəzlik və zaman ifadəsi dəyişiklikləri.",
+          "hasContent": false
+        },
+        {
+          "id": 76,
+          "chapterId": 9,
+          "slug": "dolayi-nitq-sual-emr",
+          "code": "9.10",
+          "title": "Reported Speech: Questions & Commands",
+          "titleAz": "Dolayı nitq: suallar və əmrlər",
+          "summary": "Dolayı sual (if/whether) və dolayı əmr (to + infinitiv) strukturları.",
+          "hasContent": false
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "10 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": false
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "10 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": false
+      }
+    },
+    {
+      "id": 10,
+      "slug": "qabaqcil-struktur-formalari",
+      "code": "10",
+      "title": "Advanced Structures",
+      "titleAz": "Qabaqcıl struktur formaları",
+      "description": "Passiv növ, gerund/infinitiv seçimi və wish/if only strukturları.",
+      "sections": [
+        {
+          "id": 77,
+          "chapterId": 10,
+          "slug": "passiv-noev-esaslari",
+          "code": "10.1",
+          "title": "Passive Voice: Basics",
+          "titleAz": "Passiv növ: əsaslar",
+          "summary": "Formalaşma, bütün zamanlarda passiv, aktiv/passiv seçimi.",
+          "hasContent": false
+        },
+        {
+          "id": 78,
+          "chapterId": 10,
+          "slug": "passiv-noev-qabaqcil",
+          "code": "10.2",
+          "title": "Passive Voice: Advanced",
+          "titleAz": "Passiv növ: qabaqcıl",
+          "summary": "By-agent, get-passive, iki obyektli fellərin passivi.",
+          "hasContent": false
+        },
+        {
+          "id": 79,
+          "chapterId": 10,
+          "slug": "gerund",
+          "code": "10.3",
+          "title": "Gerunds",
+          "titleAz": "Gerund (-ing forması)",
+          "summary": "İsim funksiyalı -ing forması — subyekt, obyekt, sözönündən sonra.",
+          "hasContent": false
+        },
+        {
+          "id": 80,
+          "chapterId": 10,
+          "slug": "infinitiv",
+          "code": "10.4",
+          "title": "Infinitives",
+          "titleAz": "İnfinitiv (to + fel)",
+          "summary": "to ilə və to-suz infinitiv formaları və işlənmə halları.",
+          "hasContent": false
+        },
+        {
+          "id": 81,
+          "chapterId": 10,
+          "slug": "gerund-vs-infinitiv",
+          "code": "10.5",
+          "title": "Gerund vs Infinitive",
+          "titleAz": "Gerund və İnfinitiv arasında seçim",
+          "summary": "Hansı fellər hansını tələb edir, məna dəyişən hallar (stop, remember, try).",
+          "hasContent": false
+        },
+        {
+          "id": 82,
+          "chapterId": 10,
+          "slug": "wish-if-only",
+          "code": "10.6",
+          "title": "Wish / If Only",
+          "titleAz": "Wish / If only",
+          "summary": "İndiki, keçmiş peşmançılıq və gələcək arzuların ifadəsi.",
+          "hasContent": false
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "6 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": false
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "6 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": false
+      }
+    },
+    {
+      "id": 11,
+      "slug": "mexanika",
+      "code": "11",
+      "title": "Punctuation & Mechanics",
+      "titleAz": "Mexanika",
+      "description": "Böyük hərflər, apostrof, vergül və digər durğu işarələri.",
+      "sections": [
+        {
+          "id": 83,
+          "chapterId": 11,
+          "slug": "boyuk-herfler",
+          "code": "11.1",
+          "title": "Capitalization",
+          "titleAz": "Böyük hərflərin işlənməsi",
+          "summary": "Xüsusi isimlər, cümlə əvvəli və digər böyük hərf qaydaları.",
+          "hasContent": false
+        },
+        {
+          "id": 84,
+          "chapterId": 11,
+          "slug": "apostrof",
+          "code": "11.2",
+          "title": "Apostrophes",
+          "titleAz": "Apostrof",
+          "summary": "Mülkiyyət və qısaltmalarda apostrofun tam mexanika qaydaları.",
+          "hasContent": false
+        },
+        {
+          "id": 85,
+          "chapterId": 11,
+          "slug": "vergul",
+          "code": "11.3",
+          "title": "Commas",
+          "titleAz": "Vergül qaydaları",
+          "summary": "Sadalama, budaq cümlə, koordinativ bağlayıcı ilə vergül işlənməsi.",
+          "hasContent": false
+        },
+        {
+          "id": 86,
+          "chapterId": 11,
+          "slug": "diger-durgu-isareleri",
+          "code": "11.4",
+          "title": "Other Punctuation",
+          "titleAz": "Digər durğu işarələri",
+          "summary": "Nöqtəli vergül, iki nöqtə, dırnaq işarələri, defis.",
+          "hasContent": false
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "4 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": false
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "4 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
         "hasContent": false
       }
     }
