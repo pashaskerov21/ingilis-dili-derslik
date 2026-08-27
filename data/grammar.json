@@ -115,7 +115,7 @@
           "title": "Indefinite Article: a / an",
           "titleAz": "Qeyri-müəyyən artikl: a / an",
           "summary": "İlk dəfə qeyd olunan, qeyri-konkret tək isimlərlə işlənmə.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 9,
@@ -125,7 +125,7 @@
           "title": "Definite Article: the",
           "titleAz": "Müəyyən artikl: the",
           "summary": "Artıq bilinən, konkret isimlərlə işlənmə.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 10,
@@ -135,7 +135,7 @@
           "title": "Zero Article",
           "titleAz": "Artiklsiz işlənmə",
           "summary": "Artikl heç işlənməyən hallar — ümumi mənalar, xüsusi isimlər.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 11,
@@ -145,7 +145,7 @@
           "title": "Possessive Case ('s)",
           "titleAz": "Mülkiyyət halı ('s)",
           "summary": "Sahiblik bildirən 's şəkilçisi və of-birləşməsi ilə fərqi.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 12,
@@ -155,7 +155,7 @@
           "title": "Quantifiers I — some / any / much / many / a few / a little",
           "titleAz": "Kəmiyyət göstəriciləri I",
           "summary": "Sayıla bilən/bilməyən isimlərlə işlənən əsas kəmiyyət göstəriciləri.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 13,
@@ -165,7 +165,7 @@
           "title": "Quantifiers II — every / each / all / most / no / none",
           "titleAz": "Kəmiyyət göstəriciləri II",
           "summary": "Tam və qismən əhatə bildirən kəmiyyət göstəriciləri.",
-          "hasContent": false
+          "hasContent": true
         }
       ],
       "chapterReview": {
