@@ -8,6 +8,7 @@ import type {
   ChapterReview,
   ExampleBank,
   GrammarData,
+  IrregularVerbsTable,
   Section,
 } from '@/lib/types';
 
@@ -61,6 +62,17 @@ export function getExampleBank(chapterSlug: string): ExampleBank | undefined {
   return getChapterBySlug(chapterSlug)?.exampleBank;
 }
 
+/**
+ * Fəslin qeyri-müntəzəm fellər cədvəli səhifəsinin məlumatı.
+ * Bu sahə yalnız bəzi fəsillərdə var — olmadıqda (və ya fəsil tapılmadıqda)
+ * xəta atmır, sadəcə undefined qaytarır.
+ */
+export function getIrregularVerbsTable(
+  chapterSlug: string
+): IrregularVerbsTable | undefined {
+  return getChapterBySlug(chapterSlug)?.irregularVerbsTable;
+}
+
 /** Statik dərs səhifələri üçün hazır <title>/description dəsti. */
 export function buildSectionMetadata(
   chapterSlug: string,
@@ -92,6 +104,15 @@ export function buildSectionMetadata(
     return {
       title: `${bank.titleAz} — Qrammatika`,
       description: bank.description,
+    };
+  }
+
+  const table = getIrregularVerbsTable(chapterSlug);
+
+  if (table?.slug === sectionSlug) {
+    return {
+      title: `${table.titleAz} — Qrammatika`,
+      description: table.description,
     };
   }
 

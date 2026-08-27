@@ -47,6 +47,23 @@ export interface ExampleBank {
   hasContent: boolean;
 }
 
+/**
+ * Fəslə xas əlavə istinad cədvəli — `sections` massivindən kənardadır və
+ * yalnız bəzi fəsillərdə olur (məs. Fəsil 4-ün qeyri-müntəzəm fellər cədvəli).
+ */
+export interface IrregularVerbsTable {
+  /** URL parçası: /grammar/[chapterSlug]/[slug] */
+  slug: string;
+  /** İngiliscə başlıq. */
+  title: string;
+  /** Azərbaycanca başlıq — interfeysdə əsas göstərilən. */
+  titleAz: string;
+  /** Bir cümləlik izah. */
+  description: string;
+  /** Cədvəlin məzmunu yazılıbmı. */
+  hasContent: boolean;
+}
+
 /** Qrammatika kurikulumunun bir fəsli. */
 export interface Chapter {
   id: number;
@@ -62,6 +79,11 @@ export interface Chapter {
   chapterReview: ChapterReview;
   /** Bölmələrə aid əlavə nümunələri toplayan səhifə. */
   exampleBank: ExampleBank;
+  /**
+   * Qeyri-müntəzəm fellər cədvəli — yalnız bu cədvələ ehtiyacı olan fəsildə
+   * (hazırda Fəsil 4) mövcuddur, ona görə optionaldır.
+   */
+  irregularVerbsTable?: IrregularVerbsTable;
 }
 
 export interface GrammarMeta {

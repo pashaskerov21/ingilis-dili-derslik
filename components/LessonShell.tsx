@@ -11,6 +11,7 @@ import type {
   Chapter,
   ChapterReview,
   ExampleBank,
+  IrregularVerbsTable,
   Section,
 } from '@/lib/types';
 
@@ -19,8 +20,9 @@ interface LessonShellProps {
   chapterSlug: string;
   /**
    * data/grammar.json-dakı Section.slug — və ya fəslin `chapterReview.slug`-u
-   * (məs. "xulase"), yaxud `exampleBank.slug`-u (məs. "numuneler"), çünki bu
-   * iki səhifə `sections` massivində deyil.
+   * (məs. "xulase"), `exampleBank.slug`-u (məs. "numuneler"), yaxud varsa
+   * `irregularVerbsTable.slug`-u (məs. "qeyri-muntezem-feller"), çünki bu
+   * səhifələr `sections` massivində deyil.
    */
   sectionSlug: string;
   /** Dərsin əsl məzmunu. */
@@ -31,6 +33,8 @@ interface LessonShellProps {
 const REVIEW_MARK = '✦';
 /** Nümunə bankı səhifəsinin işarəsi. */
 const BANK_MARK = '◆';
+/** Qeyri-müntəzəm fellər cədvəlinin işarəsi. */
+const TABLE_MARK = '▣';
 
 /** Naviqasiya kartının göstərdiyi hədəf — bölmə, xülasə və ya nümunə bankı. */
 interface NavTarget {
@@ -64,14 +68,26 @@ function bankTarget(chapterSlug: string, bank: ExampleBank): NavTarget {
   };
 }
 
+function tableTarget(
+  chapterSlug: string,
+  table: IrregularVerbsTable
+): NavTarget {
+  return {
+    href: `/grammar/${chapterSlug}/${table.slug}`,
+    code: TABLE_MARK,
+    titleAz: table.titleAz,
+  };
+}
+
 /**
  * Hər statik dərs səhifəsinin çərçivəsi: breadkramb, başlıq, tema düyməsi və
  * fəsil daxilində əvvəlki/növbəti keçidlər. Məzmun JSON-dan deyil, çağıran
  * page.tsx faylından `children` kimi gəlir.
  *
  * Eyni çərçivə fəslin əlavə səhifələri üçün də işləyir: slug əvvəlcə
- * `sections` massivində axtarılır, tapılmasa `chapterReview`, ondan sonra
- * `exampleBank` yoxlanılır.
+ * `sections` massivində axtarılır, tapılmasa `chapterReview`, sonra
+ * `exampleBank`, ən sonda isə (yalnız bəzi fəsillərdə olan)
+ * `irregularVerbsTable` yoxlanılır.
  */
 export default function LessonShell({
   chapterSlug,
@@ -85,9 +101,15 @@ export default function LessonShell({
   const isReview = !isSection && chapter?.chapterReview.slug === sectionSlug;
   const isBank =
     !isSection && !isReview && chapter?.exampleBank.slug === sectionSlug;
+  // Bu sahə yalnız bəzi fəsillərdə var — olmadıqda şərt sadəcə false qalır.
+  const isTable =
+    !isSection &&
+    !isReview &&
+    !isBank &&
+    chapter?.irregularVerbsTable?.slug === sectionSlug;
 
   // Yanlış slug yazılıbsa səhifə səssizcə boş görünməsin.
-  if (!chapter || (!isSection && !isReview && !isBank)) {
+  if (!chapter || (!isSection && !isReview && !isBank && !isTable)) {
     notFound();
   }
 
@@ -104,6 +126,14 @@ export default function LessonShell({
       <BankShell chapter={chapter} bank={chapter.exampleBank}>
         {children}
       </BankShell>
+    );
+  }
+
+  if (isTable && chapter.irregularVerbsTable) {
+    return (
+      <TableShell chapter={chapter} table={chapter.irregularVerbsTable}>
+        {children}
+      </TableShell>
     );
   }
 
@@ -244,13 +274,16 @@ function BankShell({
       ? sectionTarget(chapter.slug, lastSection)
       : undefined;
 
-  // Nümunə bankı fəslin son dayanacağıdır — "növbəti" növbəti fəslin ilk
-  // bölməsinə keçir. Sonuncu fəsildə belə bir hədəf yoxdur, düymə gizlənir.
+  // Fəsildə qeyri-müntəzəm fellər cədvəli varsa, nümunə bankından sonrakı
+  // dayanacaq odur; yoxdursa "növbəti" növbəti fəslin ilk bölməsinə keçir.
+  // Sonuncu fəsildə belə bir hədəf yoxdur, düymə gizlənir.
+  const table = chapter.irregularVerbsTable;
   const nextChapter = getNextChapter(chapter.slug);
   const nextFirstSection = nextChapter?.sections[0];
 
-  const next =
-    nextChapter && nextFirstSection
+  const next = table
+    ? tableTarget(chapter.slug, table)
+    : nextChapter && nextFirstSection
       ? sectionTarget(nextChapter.slug, nextFirstSection)
       : undefined;
 
@@ -273,6 +306,53 @@ function BankShell({
           {bank.titleAz}
         </h1>
         <p className="mt-2 font-mono text-xs text-muted">{bank.title}</p>
+      </header>
+
+      <article className="mt-10">{children}</article>
+
+      <LessonNav previous={previous} next={next} />
+    </main>
+  );
+}
+
+/** Fəslin qeyri-müntəzəm fellər cədvəli səhifəsi. */
+function TableShell({
+  chapter,
+  table,
+  children,
+}: {
+  chapter: Chapter;
+  table: IrregularVerbsTable;
+  children: ReactNode;
+}) {
+  const bank = chapter.exampleBank;
+
+  // "Əvvəlki" fəslin nümunə bankına qayıdır.
+  const previous = bank ? bankTarget(chapter.slug, bank) : undefined;
+
+  // TODO: Fəsil 5 hazır olanda "növbəti" onun ilk bölməsinə bağlanacaq —
+  // hazırda cədvəl son dayanacaqdır, ona görə düymə gizli qalır.
+  const next = undefined;
+
+  return (
+    <main>
+      <Header
+        items={[
+          { label: 'Qrammatika', href: '/grammar' },
+          { label: chapter.titleAz, href: `/grammar/${chapter.slug}` },
+          { label: table.titleAz },
+        ]}
+        back={{ href: `/grammar/${chapter.slug}`, label: chapter.titleAz }}
+      />
+
+      <header className="border-b border-line pb-6 transition-colors duration-300">
+        <p className="font-mono text-xs uppercase tracking-wide text-accent">
+          <span aria-hidden="true">{TABLE_MARK}</span> İstinad cədvəli
+        </p>
+        <h1 className="mt-2 font-display text-2xl sm:text-3xl">
+          {table.titleAz}
+        </h1>
+        <p className="mt-2 font-mono text-xs text-muted">{table.title}</p>
       </header>
 
       <article className="mt-10">{children}</article>

@@ -106,6 +106,17 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
           description={chapter.exampleBank.description}
           hasContent={chapter.exampleBank.hasContent}
         />
+        {/* Yalnız bu cədvəli olan fəsillərdə (hazırda Fəsil 4) görünür. */}
+        {chapter.irregularVerbsTable ? (
+          <HighlightCard
+            href={`/grammar/${chapter.slug}/${chapter.irregularVerbsTable.slug}`}
+            mark="▣"
+            label="Reference"
+            titleAz={chapter.irregularVerbsTable.titleAz}
+            description={chapter.irregularVerbsTable.description}
+            hasContent={chapter.irregularVerbsTable.hasContent}
+          />
+        ) : null}
       </div>
     </main>
   );

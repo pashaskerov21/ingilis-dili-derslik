@@ -286,6 +286,157 @@
         "description": "8 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
         "hasContent": true
       }
+    },
+    {
+      "id": 4,
+      "slug": "feller-ve-zamanlar",
+      "code": "04",
+      "title": "Verbs & Tenses",
+      "titleAz": "Fellər və Zamanlar",
+      "description": "İngilis dilinin bütün zaman sistemi — Present, Past, Future formaları və onların incəlikləri.",
+      "sections": [
+        {
+          "id": 22,
+          "chapterId": 4,
+          "slug": "present-simple",
+          "code": "4.1",
+          "title": "Present Simple",
+          "titleAz": "Present Simple",
+          "summary": "Adət, ümumi həqiqət, cədvəl üzrə hadisələr.",
+          "hasContent": true
+        },
+        {
+          "id": 23,
+          "chapterId": 4,
+          "slug": "present-continuous",
+          "code": "4.2",
+          "title": "Present Continuous",
+          "titleAz": "Present Continuous",
+          "summary": "Danışıq anında davam edən hərəkət, gələcək plan kimi işlənməsi.",
+          "hasContent": true
+        },
+        {
+          "id": 24,
+          "chapterId": 4,
+          "slug": "stative-feller",
+          "code": "4.3",
+          "title": "Stative Verbs",
+          "titleAz": "Davamlı formaya keçməyən fellər",
+          "summary": "Continuous formada işlənməyən fellər (know, want, believe...).",
+          "hasContent": true
+        },
+        {
+          "id": 25,
+          "chapterId": 4,
+          "slug": "present-perfect",
+          "code": "4.4",
+          "title": "Present Perfect",
+          "titleAz": "Present Perfect",
+          "summary": "Keçmişlə indini bağlayan zaman — nəticə, təcrübə, davam edən müddət.",
+          "hasContent": true
+        },
+        {
+          "id": 26,
+          "chapterId": 4,
+          "slug": "present-perfect-continuous",
+          "code": "4.5",
+          "title": "Present Perfect Continuous",
+          "titleAz": "Present Perfect Continuous",
+          "summary": "Keçmişdən indiyə davam edən, hələ bitməmiş hərəkət.",
+          "hasContent": true
+        },
+        {
+          "id": 27,
+          "chapterId": 4,
+          "slug": "past-simple",
+          "code": "4.6",
+          "title": "Past Simple",
+          "titleAz": "Past Simple",
+          "summary": "Bitmiş, konkret vaxtı bilinən keçmiş hərəkət.",
+          "hasContent": true
+        },
+        {
+          "id": 28,
+          "chapterId": 4,
+          "slug": "past-continuous",
+          "code": "4.7",
+          "title": "Past Continuous",
+          "titleAz": "Past Continuous",
+          "summary": "Keçmişdə müəyyən anda davam edən hərəkət, kəsilən hərəkət.",
+          "hasContent": true
+        },
+        {
+          "id": 29,
+          "chapterId": 4,
+          "slug": "past-perfect",
+          "code": "4.8",
+          "title": "Past Perfect",
+          "titleAz": "Past Perfect",
+          "summary": "Keçmişdəki başqa hərəkətdən əvvəl baş vermiş hərəkət.",
+          "hasContent": true
+        },
+        {
+          "id": 30,
+          "chapterId": 4,
+          "slug": "past-perfect-continuous",
+          "code": "4.9",
+          "title": "Past Perfect Continuous",
+          "titleAz": "Past Perfect Continuous",
+          "summary": "Keçmişdəki bir andan əvvələ qədər davam edən hərəkət.",
+          "hasContent": true
+        },
+        {
+          "id": 31,
+          "chapterId": 4,
+          "slug": "will-going-to",
+          "code": "4.10",
+          "title": "Future: will vs going to",
+          "titleAz": "Gələcək zaman: will və going to",
+          "summary": "Spontan qərar, proqnoz, plan və niyyət arasındakı fərq.",
+          "hasContent": true
+        },
+        {
+          "id": 32,
+          "chapterId": 4,
+          "slug": "future-continuous-perfect",
+          "code": "4.11",
+          "title": "Future Continuous & Future Perfect",
+          "titleAz": "Future Continuous və Future Perfect",
+          "summary": "Gələcəkdə müəyyən anda davam edən və ya artıq bitmiş olacaq hərəkət.",
+          "hasContent": true
+        },
+        {
+          "id": 33,
+          "chapterId": 4,
+          "slug": "subject-verb-uzlasma",
+          "code": "4.12",
+          "title": "Subject-Verb Agreement",
+          "titleAz": "Fel-subyekt uzlaşması",
+          "summary": "Bütün zamanlarda tətbiq olunan uzlaşma qaydaları və çətin hallar.",
+          "hasContent": true
+        }
+      ],
+      "chapterReview": {
+        "slug": "xulase",
+        "title": "Chapter Summary",
+        "titleAz": "Fəsil Xülasəsi",
+        "description": "12 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
+        "hasContent": true
+      },
+      "exampleBank": {
+        "slug": "numuneler",
+        "title": "Example Bank",
+        "titleAz": "Nümunələr",
+        "description": "12 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
+        "hasContent": true
+      },
+      "irregularVerbsTable": {
+        "slug": "qeyri-muntezem-feller",
+        "title": "Irregular Verbs Table",
+        "titleAz": "Qeyri-müntəzəm Fellər Cədvəli",
+        "description": "150-yə yaxın ən çox işlənən qeyri-müntəzəm fel, üç forma və tərcümə ilə — əzbər üçün sürətli istinad.",
+        "hasContent": true
+      }
     }
   ]
 }
