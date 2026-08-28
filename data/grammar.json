@@ -880,7 +880,7 @@
           "title": "Coordinating Conjunctions",
           "titleAz": "Koordinativ bağlayıcılar",
           "summary": "FANBOYS (for, and, nor, but, or, yet, so) və vergül qaydası.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 68,
@@ -890,7 +890,7 @@
           "title": "Subordinating Conjunctions",
           "titleAz": "Subordinativ bağlayıcılar",
           "summary": "Zaman, səbəb, ziddiyyət, məqsəd bildirən bağlayıcılar.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 69,
@@ -900,7 +900,7 @@
           "title": "Defining Relative Clauses",
           "titleAz": "Təyin budaq cümlələri (defining)",
           "summary": "who/which/that ilə ismi məhdudlaşdıran, vacib budaq cümlələr.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 70,
@@ -910,7 +910,7 @@
           "title": "Non-Defining Relative Clauses",
           "titleAz": "Təyin budaq cümlələri (non-defining)",
           "summary": "Vergüllə ayrılan, əlavə (vacib olmayan) məlumat verən budaq cümlələr.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 71,
@@ -920,7 +920,7 @@
           "title": "Relative Clauses: Errors & Reduction",
           "titleAz": "Təyin cümlələri: səhvlər və qısaltma",
           "summary": "Tipik səhvlər və iştirakçı forması ilə qısaldılmış təyin cümlələri.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 72,
@@ -930,7 +930,7 @@
           "title": "Zero & First Conditional",
           "titleAz": "Sıfır və Birinci Şərt Cümləsi",
           "summary": "Ümumi həqiqətlər və real gələcək şərtlər.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 73,
@@ -940,7 +940,7 @@
           "title": "Second Conditional",
           "titleAz": "İkinci Şərt Cümləsi",
           "summary": "Hipotetik, indiki/gələcək qeyri-real vəziyyətlər.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 74,
@@ -950,7 +950,7 @@
           "title": "Third & Mixed Conditionals",
           "titleAz": "Üçüncü və Qarışıq Şərt Cümlələri",
           "summary": "Keçmişə aid gerçəkləşməmiş şərtlər və zaman qarışığı formalar.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 75,
@@ -960,7 +960,7 @@
           "title": "Reported Speech: Statements",
           "titleAz": "Dolayı nitq: bəyanatlar",
           "summary": "Zaman geriyə sürüşməsi, əvəzlik və zaman ifadəsi dəyişiklikləri.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 76,
@@ -970,7 +970,7 @@
           "title": "Reported Speech: Questions & Commands",
           "titleAz": "Dolayı nitq: suallar və əmrlər",
           "summary": "Dolayı sual (if/whether) və dolayı əmr (to + infinitiv) strukturları.",
-          "hasContent": false
+          "hasContent": true
         }
       ],
       "chapterReview": {
@@ -978,14 +978,14 @@
         "title": "Chapter Summary",
         "titleAz": "Fəsil Xülasəsi",
         "description": "10 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       },
       "exampleBank": {
         "slug": "numuneler",
         "title": "Example Bank",
         "titleAz": "Nümunələr",
         "description": "10 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       }
     },
     {
