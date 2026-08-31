@@ -1004,7 +1004,7 @@
           "title": "Passive Voice: Basics",
           "titleAz": "Passiv növ: əsaslar",
           "summary": "Formalaşma, bütün zamanlarda passiv, aktiv/passiv seçimi.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 78,
@@ -1014,7 +1014,7 @@
           "title": "Passive Voice: Advanced",
           "titleAz": "Passiv növ: qabaqcıl",
           "summary": "By-agent, get-passive, iki obyektli fellərin passivi.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 79,
@@ -1024,7 +1024,7 @@
           "title": "Gerunds",
           "titleAz": "Gerund (-ing forması)",
           "summary": "İsim funksiyalı -ing forması — subyekt, obyekt, sözönündən sonra.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 80,
@@ -1034,7 +1034,7 @@
           "title": "Infinitives",
           "titleAz": "İnfinitiv (to + fel)",
           "summary": "to ilə və to-suz infinitiv formaları və işlənmə halları.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 81,
@@ -1044,7 +1044,7 @@
           "title": "Gerund vs Infinitive",
           "titleAz": "Gerund və İnfinitiv arasında seçim",
           "summary": "Hansı fellər hansını tələb edir, məna dəyişən hallar (stop, remember, try).",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 82,
@@ -1054,7 +1054,7 @@
           "title": "Wish / If Only",
           "titleAz": "Wish / If only",
           "summary": "İndiki, keçmiş peşmançılıq və gələcək arzuların ifadəsi.",
-          "hasContent": false
+          "hasContent": true
         }
       ],
       "chapterReview": {
@@ -1062,14 +1062,14 @@
         "title": "Chapter Summary",
         "titleAz": "Fəsil Xülasəsi",
         "description": "6 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       },
       "exampleBank": {
         "slug": "numuneler",
         "title": "Example Bank",
         "titleAz": "Nümunələr",
         "description": "6 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       }
     },
     {
@@ -1088,7 +1088,7 @@
           "title": "Capitalization",
           "titleAz": "Böyük hərflərin işlənməsi",
           "summary": "Xüsusi isimlər, cümlə əvvəli və digər böyük hərf qaydaları.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 84,
@@ -1098,7 +1098,7 @@
           "title": "Apostrophes",
           "titleAz": "Apostrof",
           "summary": "Mülkiyyət və qısaltmalarda apostrofun tam mexanika qaydaları.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 85,
@@ -1108,7 +1108,7 @@
           "title": "Commas",
           "titleAz": "Vergül qaydaları",
           "summary": "Sadalama, budaq cümlə, koordinativ bağlayıcı ilə vergül işlənməsi.",
-          "hasContent": false
+          "hasContent": true
         },
         {
           "id": 86,
@@ -1118,7 +1118,7 @@
           "title": "Other Punctuation",
           "titleAz": "Digər durğu işarələri",
           "summary": "Nöqtəli vergül, iki nöqtə, dırnaq işarələri, defis.",
-          "hasContent": false
+          "hasContent": true
         }
       ],
       "chapterReview": {
@@ -1126,14 +1126,14 @@
         "title": "Chapter Summary",
         "titleAz": "Fəsil Xülasəsi",
         "description": "4 bölmənin bütün qaydaları bir səhifədə — sürətli təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       },
       "exampleBank": {
         "slug": "numuneler",
         "title": "Example Bank",
         "titleAz": "Nümunələr",
         "description": "4 bölmənin hər birinə aid əlavə, zəngin nümunələr — oxuyaraq təkrar üçün.",
-        "hasContent": false
+        "hasContent": true
       }
     }
   ]
