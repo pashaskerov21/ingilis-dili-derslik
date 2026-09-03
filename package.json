@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/generate-precache-list.mjs && next build",
+    "generate-precache": "node scripts/generate-precache-list.mjs",
     "preview": "npx serve@latest out",
     "typecheck": "tsc --noEmit",
     "icons": "node scripts/generate-icons.mjs"

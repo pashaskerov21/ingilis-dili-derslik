@@ -19,6 +19,7 @@ const modules: ModuleCard[] = [
     code: '02',
     title: 'Lüğət',
     description: 'A1–C2 səviyyələri üzrə söz ehtiyatı.',
+    href: '/vocabulary',
   },
   {
     code: '03',

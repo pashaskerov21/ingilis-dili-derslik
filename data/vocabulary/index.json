@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "schemaVersion": 1,
+    "module": "vocabulary",
+    "note": "Hər kateqoriya öz JSON faylında saxlanılır. Səviyyə ayrıca fayl deyil, hər sözün daxilində 'level' sahəsidir."
+  },
+  "categories": [
+    {
+      "slug": "aile-ve-insanlar",
+      "titleAz": "Ailə və insanlar",
+      "titleEn": "Family & People",
+      "file": "aile-ve-insanlar.json"
+    }
+  ]
+}

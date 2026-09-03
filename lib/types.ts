@@ -191,3 +191,52 @@ export interface Lesson {
   titleEn: string;
   blocks: LessonBlock[];
 }
+
+/* ------------------------------------------------------------------ */
+/* Lüğət modulu — data/vocabulary/*.json                               */
+/* ------------------------------------------------------------------ */
+
+export type VocabLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
+
+export type PartOfSpeech = 'noun' | 'verb' | 'adjective' | 'adverb' | 'phrase';
+
+/** Bir söz — data/vocabulary/[kateqoriya].json-dakı `words` massivinin elementi. */
+export interface VocabWord {
+  id: string;
+  word: string;
+  level: VocabLevel;
+  partOfSpeech: PartOfSpeech;
+  translation: string;
+}
+
+/** data/vocabulary/[kateqoriya].json faylının kök obyekti. */
+export interface VocabCategoryWords {
+  category: string;
+  words: VocabWord[];
+}
+
+/** data/vocabulary/index.json-dakı bir kateqoriya girişi. */
+export interface VocabCategory {
+  slug: string;
+  titleAz: string;
+  titleEn: string;
+  /** data/vocabulary/ qovluğundakı JSON faylının adı. */
+  file: string;
+}
+
+export interface VocabMeta {
+  schemaVersion: number;
+  module: string;
+}
+
+/** data/vocabulary/index.json faylının kök obyekti. */
+export interface VocabIndex {
+  meta: VocabMeta;
+  categories: VocabCategory[];
+}
+
+/** Ümumi axtarış üçün: söz + hansı kateqoriyadan gəldiyi. */
+export interface VocabSearchEntry extends VocabWord {
+  categorySlug: string;
+  categoryTitleAz: string;
+}

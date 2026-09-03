@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next';
 import { Fraunces, Inter, JetBrains_Mono } from 'next/font/google';
 import { ScrollToTop } from '@/components/ScrollToTop';
+import { ServiceWorkerRegister } from '@/components/service-worker-register';
 import { ThemeProvider } from '@/components/ThemeProvider';
 import './globals.css';
 
@@ -70,6 +71,7 @@ export default function RootLayout({
     >
       <body className="min-h-dvh bg-background text-foreground transition-colors duration-300">
         <ThemeProvider>
+          <ServiceWorkerRegister />
           {/* Səhifə keçidində scroll-u yuxarı qaytarır. */}
           <ScrollToTop />
           {/* Bütün səhifələr üçün ortaq oxunaqlı sütun eni. */}
