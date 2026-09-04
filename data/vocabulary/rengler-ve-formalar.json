@@ -1,0 +1,822 @@
+{
+  "category": "rengler-ve-formalar",
+  "words": [
+    {
+      "id": "col-001",
+      "word": "red",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "qırmızı"
+    },
+    {
+      "id": "col-002",
+      "word": "blue",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "mavi"
+    },
+    {
+      "id": "col-003",
+      "word": "yellow",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "sarı"
+    },
+    {
+      "id": "col-004",
+      "word": "green",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "yaşıl"
+    },
+    {
+      "id": "col-005",
+      "word": "orange",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "narıncı"
+    },
+    {
+      "id": "col-006",
+      "word": "purple",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "bənövşəyi"
+    },
+    {
+      "id": "col-007",
+      "word": "pink",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "çəhrayı"
+    },
+    {
+      "id": "col-008",
+      "word": "black",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "qara"
+    },
+    {
+      "id": "col-009",
+      "word": "white",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "ağ"
+    },
+    {
+      "id": "col-010",
+      "word": "brown",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "qəhvəyi"
+    },
+    {
+      "id": "col-011",
+      "word": "grey",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "boz"
+    },
+    {
+      "id": "col-012",
+      "word": "colour",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "rəng"
+    },
+    {
+      "id": "col-013",
+      "word": "circle",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dairə"
+    },
+    {
+      "id": "col-014",
+      "word": "square",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kvadrat"
+    },
+    {
+      "id": "col-015",
+      "word": "triangle",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "üçbucaq"
+    },
+    {
+      "id": "col-016",
+      "word": "rectangle",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "düzbucaqlı"
+    },
+    {
+      "id": "col-017",
+      "word": "star",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ulduz (forma)"
+    },
+    {
+      "id": "col-018",
+      "word": "heart",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ürək (forma)"
+    },
+    {
+      "id": "col-019",
+      "word": "shape",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "forma"
+    },
+    {
+      "id": "col-020",
+      "word": "big",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "böyük"
+    },
+    {
+      "id": "col-021",
+      "word": "small",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "kiçik"
+    },
+    {
+      "id": "col-022",
+      "word": "round",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "dəyirmi"
+    },
+
+    {
+      "id": "col-023",
+      "word": "gold",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qızılı"
+    },
+    {
+      "id": "col-024",
+      "word": "silver",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "gümüşü"
+    },
+    {
+      "id": "col-025",
+      "word": "colourful",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "rəngarəng"
+    },
+    {
+      "id": "col-026",
+      "word": "bright",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "parlaq"
+    },
+    {
+      "id": "col-027",
+      "word": "dark",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "tünd"
+    },
+    {
+      "id": "col-028",
+      "word": "light",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "açıq (rəng)"
+    },
+    {
+      "id": "col-029",
+      "word": "navy",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "tünd göy"
+    },
+    {
+      "id": "col-030",
+      "word": "oval",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oval"
+    },
+    {
+      "id": "col-031",
+      "word": "diamond",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "romb"
+    },
+    {
+      "id": "col-032",
+      "word": "line",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xətt"
+    },
+    {
+      "id": "col-033",
+      "word": "dot",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nöqtə"
+    },
+    {
+      "id": "col-034",
+      "word": "corner",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "künc"
+    },
+    {
+      "id": "col-035",
+      "word": "side",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tərəf, üz"
+    },
+    {
+      "id": "col-036",
+      "word": "flat",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "düz, hamar"
+    },
+    {
+      "id": "col-037",
+      "word": "paint",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "rəngləmək (boya ilə)"
+    },
+    {
+      "id": "col-038",
+      "word": "draw",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "çəkmək (rəsm)"
+    },
+    {
+      "id": "col-039",
+      "word": "mix",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "qarışdırmaq"
+    },
+    {
+      "id": "col-040",
+      "word": "match",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "uyğun gəlmək"
+    },
+    {
+      "id": "col-041",
+      "word": "striped",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "zolaqlı"
+    },
+    {
+      "id": "col-042",
+      "word": "spotted",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "xallı, ləkəli"
+    },
+
+    {
+      "id": "col-043",
+      "word": "turquoise",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "firuzəyi"
+    },
+    {
+      "id": "col-044",
+      "word": "beige",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "bej"
+    },
+    {
+      "id": "col-045",
+      "word": "maroon",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "tünd qırmızı-qəhvəyi"
+    },
+    {
+      "id": "col-046",
+      "word": "khaki",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "xaki"
+    },
+    {
+      "id": "col-047",
+      "word": "olive",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "zeytun rəngi"
+    },
+    {
+      "id": "col-048",
+      "word": "cream",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "krem rəngi"
+    },
+    {
+      "id": "col-049",
+      "word": "violet",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "bənövşəyi (tünd)"
+    },
+    {
+      "id": "col-050",
+      "word": "indigo",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "indiqo"
+    },
+    {
+      "id": "col-051",
+      "word": "scarlet",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "al qırmızı"
+    },
+    {
+      "id": "col-052",
+      "word": "lavender",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "lavanda rəngi"
+    },
+    {
+      "id": "col-053",
+      "word": "bronze",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "tuncu"
+    },
+    {
+      "id": "col-054",
+      "word": "pastel",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "pastel"
+    },
+    {
+      "id": "col-055",
+      "word": "colourless",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rəngsiz"
+    },
+    {
+      "id": "col-056",
+      "word": "pale",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "solğun"
+    },
+    {
+      "id": "col-057",
+      "word": "vivid",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "canlı, parlaq"
+    },
+    {
+      "id": "col-058",
+      "word": "dull",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "solğun, matlaşmış"
+    },
+    {
+      "id": "col-059",
+      "word": "checked",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "xanalı"
+    },
+    {
+      "id": "col-060",
+      "word": "patterned",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "naxışlı"
+    },
+    {
+      "id": "col-061",
+      "word": "plain",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "sadə (naxışsız)"
+    },
+    {
+      "id": "col-062",
+      "word": "multicoloured",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "çoxrəngli"
+    },
+    {
+      "id": "col-063",
+      "word": "shiny",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "parıltılı"
+    },
+    {
+      "id": "col-064",
+      "word": "matte",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "mat"
+    },
+    {
+      "id": "col-065",
+      "word": "dye",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "boyamaq (parça/saç)"
+    },
+    {
+      "id": "col-066",
+      "word": "fade",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "solmaq"
+    },
+    {
+      "id": "col-067",
+      "word": "shine",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "parıldamaq"
+    },
+    {
+      "id": "col-068",
+      "word": "pentagon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "beşbucaqlı"
+    },
+    {
+      "id": "col-069",
+      "word": "hexagon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "altıbucaqlı"
+    },
+    {
+      "id": "col-070",
+      "word": "octagon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səkkizbucaqlı"
+    },
+    {
+      "id": "col-071",
+      "word": "cube",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kub"
+    },
+    {
+      "id": "col-072",
+      "word": "sphere",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kürə"
+    },
+    {
+      "id": "col-073",
+      "word": "cylinder",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "silindr"
+    },
+    {
+      "id": "col-074",
+      "word": "cone",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "konus"
+    },
+    {
+      "id": "col-075",
+      "word": "pyramid",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "piramida"
+    },
+    {
+      "id": "col-076",
+      "word": "curve",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əyri xətt"
+    },
+    {
+      "id": "col-077",
+      "word": "angle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bucaq"
+    },
+    {
+      "id": "col-078",
+      "word": "edge",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kənar, tin"
+    },
+    {
+      "id": "col-079",
+      "word": "straight",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "düz (xətt)"
+    },
+    {
+      "id": "col-080",
+      "word": "curved",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "əyri"
+    },
+    {
+      "id": "col-081",
+      "word": "pointed",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "sivri"
+    },
+    {
+      "id": "col-082",
+      "word": "symmetrical",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "simmetrik"
+    },
+
+    {
+      "id": "col-083",
+      "word": "crimson",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "al-qırmızı (tünd)"
+    },
+    {
+      "id": "col-084",
+      "word": "burgundy",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "burqund rəngi"
+    },
+    {
+      "id": "col-085",
+      "word": "magenta",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "magenta"
+    },
+    {
+      "id": "col-086",
+      "word": "teal",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "tünd firuzəyi"
+    },
+    {
+      "id": "col-087",
+      "word": "coral",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "mərcan rəngi"
+    },
+    {
+      "id": "col-088",
+      "word": "ivory",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "fil sümüyü rəngi"
+    },
+    {
+      "id": "col-089",
+      "word": "charcoal",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "kömür rəngi (tünd boz)"
+    },
+    {
+      "id": "col-090",
+      "word": "mustard",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "xardal rəngi"
+    },
+    {
+      "id": "col-091",
+      "word": "mauve",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "bənövşəyi-çəhrayı"
+    },
+    {
+      "id": "col-092",
+      "word": "amber",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "kəhrəba rəngi"
+    },
+    {
+      "id": "col-093",
+      "word": "plum",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "gavalı rəngi"
+    },
+    {
+      "id": "col-094",
+      "word": "salmon",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "qızılbalıq rəngi"
+    },
+    {
+      "id": "col-095",
+      "word": "emerald",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "zümrüd rəngi"
+    },
+    {
+      "id": "col-096",
+      "word": "two-tone",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "iki rəngli"
+    },
+    {
+      "id": "col-097",
+      "word": "faded",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "solmuş"
+    },
+    {
+      "id": "col-098",
+      "word": "reflect",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "əks etdirmək"
+    },
+    {
+      "id": "col-099",
+      "word": "contrast",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "ziddiyyət təşkil etmək"
+    },
+    {
+      "id": "col-100",
+      "word": "coordinate",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "uzlaşdırmaq (rəng/geyim)"
+    },
+    {
+      "id": "col-101",
+      "word": "blend",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "qarışıb uyğunlaşmaq"
+    },
+    {
+      "id": "col-102",
+      "word": "parallelogram",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "paralelokram"
+    },
+    {
+      "id": "col-103",
+      "word": "trapezoid",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "trapesiya"
+    },
+    {
+      "id": "col-104",
+      "word": "ellipse",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ellips"
+    },
+    {
+      "id": "col-105",
+      "word": "prism",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "prizma"
+    },
+    {
+      "id": "col-106",
+      "word": "polygon",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "çoxbucaqlı"
+    },
+    {
+      "id": "col-107",
+      "word": "concave",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "qabarıq içəri (konkav)"
+    },
+    {
+      "id": "col-108",
+      "word": "convex",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "qabarıq (konveks)"
+    },
+    {
+      "id": "col-109",
+      "word": "geometric",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "həndəsi"
+    },
+    {
+      "id": "col-110",
+      "word": "three-dimensional",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "üçölçülü"
+    },
+
+    {
+      "id": "col-111",
+      "word": "cerulean",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "səma mavisi (ədəbi)"
+    },
+    {
+      "id": "col-112",
+      "word": "chartreuse",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "sarımtıl-yaşıl"
+    },
+    {
+      "id": "col-113",
+      "word": "monochrome",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "monoxrom (tək rəngli)"
+    },
+    {
+      "id": "col-114",
+      "word": "iridescent",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "əlvan parıltılı"
+    },
+
+    {
+      "id": "col-115",
+      "word": "hexagonal",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "altıbucaqlı formalı"
+    },
+    {
+      "id": "col-116",
+      "word": "asymmetrical",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "qeyri-simmetrik"
+    }
+  ]
+}

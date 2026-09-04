@@ -1,0 +1,598 @@
+{
+  "category": "hava",
+  "words": [
+    {
+      "id": "wea-001",
+      "word": "weather",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hava (iqlim)"
+    },
+    {
+      "id": "wea-002",
+      "word": "sun",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "günəş"
+    },
+    {
+      "id": "wea-003",
+      "word": "rain",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yağış"
+    },
+    {
+      "id": "wea-004",
+      "word": "snow",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qar"
+    },
+    {
+      "id": "wea-005",
+      "word": "wind",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "külək"
+    },
+    {
+      "id": "wea-006",
+      "word": "cloud",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bulud"
+    },
+    {
+      "id": "wea-007",
+      "word": "sunny",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "günəşli"
+    },
+    {
+      "id": "wea-008",
+      "word": "rainy",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "yağışlı"
+    },
+    {
+      "id": "wea-009",
+      "word": "cloudy",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "buludlu"
+    },
+    {
+      "id": "wea-010",
+      "word": "windy",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "küləkli"
+    },
+    {
+      "id": "wea-011",
+      "word": "snowy",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "qarlı"
+    },
+    {
+      "id": "wea-012",
+      "word": "hot",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "isti"
+    },
+    {
+      "id": "wea-013",
+      "word": "cold",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "soyuq"
+    },
+    {
+      "id": "wea-014",
+      "word": "warm",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "isti (yumşaq)"
+    },
+    {
+      "id": "wea-015",
+      "word": "sky",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "səma"
+    },
+    {
+      "id": "wea-016",
+      "word": "ice",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "buz"
+    },
+
+    {
+      "id": "wea-017",
+      "word": "cool",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "sərin"
+    },
+    {
+      "id": "wea-018",
+      "word": "storm",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fırtına"
+    },
+    {
+      "id": "wea-019",
+      "word": "stormy",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "fırtınalı"
+    },
+    {
+      "id": "wea-020",
+      "word": "fog",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "duman"
+    },
+    {
+      "id": "wea-021",
+      "word": "foggy",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "dumanlı"
+    },
+    {
+      "id": "wea-022",
+      "word": "temperature",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "temperatur"
+    },
+    {
+      "id": "wea-023",
+      "word": "degree",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dərəcə"
+    },
+    {
+      "id": "wea-024",
+      "word": "forecast",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hava proqnozu"
+    },
+    {
+      "id": "wea-025",
+      "word": "climate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "iqlim"
+    },
+    {
+      "id": "wea-026",
+      "word": "thunder",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ildırım gurultusu"
+    },
+    {
+      "id": "wea-027",
+      "word": "lightning",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şimşək"
+    },
+    {
+      "id": "wea-028",
+      "word": "rainbow",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "göy qurşağı"
+    },
+    {
+      "id": "wea-029",
+      "word": "shower",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qısamüddətli yağış"
+    },
+    {
+      "id": "wea-030",
+      "word": "clear",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "aydın (səma)"
+    },
+    {
+      "id": "wea-031",
+      "word": "wet",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "yaş, islaq"
+    },
+    {
+      "id": "wea-032",
+      "word": "dry",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "quru"
+    },
+    {
+      "id": "wea-033",
+      "word": "freezing",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "dondurucu soyuq"
+    },
+    {
+      "id": "wea-034",
+      "word": "boiling",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qaynar dərəcədə isti"
+    },
+    {
+      "id": "wea-035",
+      "word": "breeze",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yüngül külək"
+    },
+    {
+      "id": "wea-036",
+      "word": "shine",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "işıq saçmaq (günəş)"
+    },
+    {
+      "id": "wea-037",
+      "word": "blow",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "əsmək (külək)"
+    },
+    {
+      "id": "wea-038",
+      "word": "freeze",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "donmaq"
+    },
+    {
+      "id": "wea-039",
+      "word": "season",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mövsüm"
+    },
+    {
+      "id": "wea-040",
+      "word": "humid",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "rütubətli"
+    },
+
+    {
+      "id": "wea-041",
+      "word": "drizzle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çisələmə"
+    },
+    {
+      "id": "wea-042",
+      "word": "hail",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dolu"
+    },
+    {
+      "id": "wea-043",
+      "word": "sleet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sulu qar"
+    },
+    {
+      "id": "wea-044",
+      "word": "thunderstorm",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ildırımlı fırtına"
+    },
+    {
+      "id": "wea-045",
+      "word": "downpour",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "leysan yağış"
+    },
+    {
+      "id": "wea-046",
+      "word": "mist",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yüngül duman"
+    },
+    {
+      "id": "wea-047",
+      "word": "humidity",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rütubət"
+    },
+    {
+      "id": "wea-048",
+      "word": "frost",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şaxta, don"
+    },
+    {
+      "id": "wea-049",
+      "word": "dew",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şeh"
+    },
+    {
+      "id": "wea-050",
+      "word": "overcast",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "tam buludlu"
+    },
+    {
+      "id": "wea-051",
+      "word": "chilly",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "sərinvari soyuq"
+    },
+    {
+      "id": "wea-052",
+      "word": "mild",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "mülayim (hava)"
+    },
+    {
+      "id": "wea-053",
+      "word": "gust",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "külək vuruşu"
+    },
+    {
+      "id": "wea-054",
+      "word": "gale",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "güclü fırtına küləyi"
+    },
+    {
+      "id": "wea-055",
+      "word": "hurricane",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qasırğa"
+    },
+    {
+      "id": "wea-056",
+      "word": "tornado",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tornado"
+    },
+    {
+      "id": "wea-057",
+      "word": "blizzard",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qar fırtınası"
+    },
+    {
+      "id": "wea-058",
+      "word": "drought",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "quraqlıq"
+    },
+    {
+      "id": "wea-059",
+      "word": "flood",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "daşqın"
+    },
+    {
+      "id": "wea-060",
+      "word": "heatwave",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "isti dalğası"
+    },
+    {
+      "id": "wea-061",
+      "word": "avalanche",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qar uçqunu"
+    },
+    {
+      "id": "wea-062",
+      "word": "melt",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əriмək (qar/buz)"
+    },
+    {
+      "id": "wea-063",
+      "word": "pour",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "leysan kimi yağmaq"
+    },
+    {
+      "id": "wea-064",
+      "word": "sunrise",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gün doğuşu"
+    },
+    {
+      "id": "wea-065",
+      "word": "sunset",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gün batımı"
+    },
+    {
+      "id": "wea-066",
+      "word": "wind chill",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "külək soyuqluğu effekti"
+    },
+    {
+      "id": "wea-067",
+      "word": "thaw",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əriyib yumşalmaq (buz/qar)"
+    },
+
+    {
+      "id": "wea-068",
+      "word": "monsoon",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "musson"
+    },
+    {
+      "id": "wea-069",
+      "word": "cyclone",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "siklon"
+    },
+    {
+      "id": "wea-070",
+      "word": "typhoon",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tayfun"
+    },
+    {
+      "id": "wea-071",
+      "word": "precipitation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yağıntı (elmi termin)"
+    },
+    {
+      "id": "wea-072",
+      "word": "atmospheric pressure",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "atmosfer təzyiqi"
+    },
+    {
+      "id": "wea-073",
+      "word": "black ice",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "görünməyən sürüşkən buz"
+    },
+    {
+      "id": "wea-074",
+      "word": "sub-zero",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "sıfırdan aşağı"
+    },
+    {
+      "id": "wea-075",
+      "word": "torrential",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "leysan (güclü)"
+    },
+    {
+      "id": "wea-076",
+      "word": "climate change",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "iqlim dəyişikliyi"
+    },
+    {
+      "id": "wea-077",
+      "word": "global warming",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qlobal istiləşmə"
+    },
+    {
+      "id": "wea-078",
+      "word": "greenhouse effect",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "istixana effekti"
+    },
+    {
+      "id": "wea-079",
+      "word": "drizzly",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "çisəkli"
+    },
+    {
+      "id": "wea-080",
+      "word": "blustery",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "güclü, dəyişkən küləkli"
+    },
+
+    {
+      "id": "wea-081",
+      "word": "squall",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "qısamüddətli güclü fırtına"
+    },
+    {
+      "id": "wea-082",
+      "word": "flash flood",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "qəfil daşqın"
+    },
+    {
+      "id": "wea-083",
+      "word": "equinox",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "bərabərgündüzlük"
+    },
+
+    {
+      "id": "wea-084",
+      "word": "meteorological",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "meteoroloji"
+    }
+  ]
+}

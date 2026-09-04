@@ -16,12 +16,22 @@ export function gameScopeToHighScoreScope(
   return scope.type === 'overall' ? 'overall' : { category: scope.slug };
 }
 
-function normalizeAnswer(text: string): string {
-  return text.trim().toLowerCase();
+/**
+ * Xam tərcümə mətnini qəbul edilən cavablar massivinə çevirir.
+ * "/" alternativ formaları, mötərizə isə əlavə izahı bildirir (nəzərə alınmır).
+ * Məs: "xala / bibi (qeyri-rəsmi)" → ["xala", "bibi"]
+ */
+export function parseAcceptedAnswers(rawTranslation: string): string[] {
+  const parts = rawTranslation.split('/').map((p) => p.trim());
+  const cleaned = parts.map((p) => p.replace(/\s*\([^)]*\)\s*/g, '').trim());
+  const normalized = cleaned.filter(Boolean).map((c) => c.toLowerCase());
+  return Array.from(new Set(normalized));
 }
 
-export function checkAnswer(userInput: string, correctAnswer: string): boolean {
-  return normalizeAnswer(userInput) === normalizeAnswer(correctAnswer);
+export function checkAnswer(userInput: string, rawCorrectAnswer: string): boolean {
+  const accepted = parseAcceptedAnswers(rawCorrectAnswer);
+  const normalizedInput = userInput.trim().toLowerCase();
+  return accepted.includes(normalizedInput);
 }
 
 /** İstiqamətə görə göstərilən sual sözü. */
@@ -32,6 +42,55 @@ export function getPrompt(word: GameWord, direction: GameDirection): string {
 /** İstiqamətə görə gözlənilən düzgün cavab. */
 export function getCorrectAnswer(word: GameWord, direction: GameDirection): string {
   return direction === 'en-az' ? word.translation : word.word;
+}
+
+/**
+ * "Ümumi" rejim üçün hovuz hazırlayarkən eyni ingilis sözünü (fərqli
+ * kateqoriyalarda fərqli mənalarla) BİR girişə birləşdirir — söz oyunda
+ * yalnız bir dəfə görünür, amma bütün kateqoriyalardakı tərcümələri "/"
+ * ilə ayrılmış vahid tərcümə mətnində saxlanılır. `checkAnswer` artıq "/"
+ * ilə ayrılmış variantların hər birini ayrıca qəbul edilən cavab kimi
+ * emal etdiyi üçün əlavə dəyişiklik tələb olunmur. Kateqoriya-daxili
+ * rejimə toxunmur (yalnız "overall" hovuzuna tətbiq olunur).
+ */
+export function mergeDuplicateWordsForOverallMode(words: GameWord[]): GameWord[] {
+  const order: string[] = [];
+  const groups = new Map<string, GameWord[]>();
+
+  for (const word of words) {
+    const key = word.word.trim().toLowerCase();
+    if (!groups.has(key)) {
+      order.push(key);
+      groups.set(key, []);
+    }
+    groups.get(key)!.push(word);
+  }
+
+  return order.map((key) => {
+    const group = groups.get(key)!;
+    if (group.length === 1) return group[0];
+
+    const seenTranslations = new Set<string>();
+    const translationParts: string[] = [];
+
+    for (const entry of group) {
+      for (const part of entry.translation.split('/').map((p) => p.trim())) {
+        if (!part) continue;
+        const normalized = part
+          .replace(/\s*\([^)]*\)\s*/g, '')
+          .trim()
+          .toLowerCase();
+        if (!normalized || seenTranslations.has(normalized)) continue;
+        seenTranslations.add(normalized);
+        translationParts.push(part);
+      }
+    }
+
+    return {
+      ...group[0],
+      translation: translationParts.join(' / '),
+    };
+  });
 }
 
 /** Fisher-Yates qarışdırma — orijinal massivi dəyişmir. */

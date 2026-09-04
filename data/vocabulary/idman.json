@@ -1,0 +1,604 @@
+{
+  "category": "idman",
+  "words": [
+    {
+      "id": "spo-001",
+      "word": "football",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "futbol"
+    },
+    {
+      "id": "spo-002",
+      "word": "basketball",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "basketbol"
+    },
+    {
+      "id": "spo-003",
+      "word": "tennis",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tennis"
+    },
+    {
+      "id": "spo-004",
+      "word": "volleyball",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "voleybol"
+    },
+    {
+      "id": "spo-005",
+      "word": "ball",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "top"
+    },
+    {
+      "id": "spo-006",
+      "word": "team",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "komanda"
+    },
+    {
+      "id": "spo-007",
+      "word": "player",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "oyunçu"
+    },
+    {
+      "id": "spo-008",
+      "word": "win",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qazanmaq"
+    },
+    {
+      "id": "spo-009",
+      "word": "lose",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "uduzmaq"
+    },
+    {
+      "id": "spo-010",
+      "word": "score",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qol vurmaq, xal qazanmaq"
+    },
+    {
+      "id": "spo-011",
+      "word": "kick",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "təpik vurmaq"
+    },
+    {
+      "id": "spo-012",
+      "word": "swim",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "üzmək"
+    },
+    {
+      "id": "spo-013",
+      "word": "run",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qaçmaq"
+    },
+    {
+      "id": "spo-014",
+      "word": "boxing",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "boks"
+    },
+    {
+      "id": "spo-015",
+      "word": "goal",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qol, darvaza"
+    },
+
+    {
+      "id": "spo-016",
+      "word": "baseball",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "beysbol"
+    },
+    {
+      "id": "spo-017",
+      "word": "golf",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qolf"
+    },
+    {
+      "id": "spo-018",
+      "word": "rugby",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "regbi"
+    },
+    {
+      "id": "spo-019",
+      "word": "cricket",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kriket"
+    },
+    {
+      "id": "spo-020",
+      "word": "racket",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "raketka"
+    },
+    {
+      "id": "spo-021",
+      "word": "net",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tor"
+    },
+    {
+      "id": "spo-022",
+      "word": "coach",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məşqçi"
+    },
+    {
+      "id": "spo-023",
+      "word": "referee",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hakim (idman)"
+    },
+    {
+      "id": "spo-024",
+      "word": "match",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "matç, oyun"
+    },
+    {
+      "id": "spo-025",
+      "word": "competition",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yarış"
+    },
+    {
+      "id": "spo-026",
+      "word": "champion",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çempion"
+    },
+    {
+      "id": "spo-027",
+      "word": "athlete",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "idmançı"
+    },
+    {
+      "id": "spo-028",
+      "word": "medal",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "medal"
+    },
+    {
+      "id": "spo-029",
+      "word": "stadium",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "stadion"
+    },
+    {
+      "id": "spo-030",
+      "word": "fan",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "azarkeş"
+    },
+    {
+      "id": "spo-031",
+      "word": "pass",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "ötürmək (top)"
+    },
+    {
+      "id": "spo-032",
+      "word": "hit",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "vurmaq"
+    },
+    {
+      "id": "spo-033",
+      "word": "throw",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "atmaq"
+    },
+    {
+      "id": "spo-034",
+      "word": "train",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "məşq etmək"
+    },
+    {
+      "id": "spo-035",
+      "word": "gymnastics",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gimnastika"
+    },
+    {
+      "id": "spo-036",
+      "word": "skiing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xizəkçilik"
+    },
+    {
+      "id": "spo-037",
+      "word": "skating",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "konkiçilik"
+    },
+    {
+      "id": "spo-038",
+      "word": "athletics",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "atletika"
+    },
+    {
+      "id": "spo-039",
+      "word": "trainer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təlimçi (idman)"
+    },
+    {
+      "id": "spo-040",
+      "word": "field",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "meydança (açıq)"
+    },
+    {
+      "id": "spo-041",
+      "word": "court",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "meydança (qapalı)"
+    },
+
+    {
+      "id": "spo-042",
+      "word": "opponent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rəqib"
+    },
+    {
+      "id": "spo-043",
+      "word": "captain",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kapitan (komanda)"
+    },
+    {
+      "id": "spo-044",
+      "word": "tournament",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "turnir"
+    },
+    {
+      "id": "spo-045",
+      "word": "championship",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çempionat"
+    },
+    {
+      "id": "spo-046",
+      "word": "league",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "liqa"
+    },
+    {
+      "id": "spo-047",
+      "word": "season",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mövsüm (idman)"
+    },
+    {
+      "id": "spo-048",
+      "word": "trophy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kubok"
+    },
+    {
+      "id": "spo-049",
+      "word": "record",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rekord"
+    },
+    {
+      "id": "spo-050",
+      "word": "penalty",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "penalti, cəza zərbəsi"
+    },
+    {
+      "id": "spo-051",
+      "word": "serve",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "podacha etmək (tennis/voleybol)"
+    },
+    {
+      "id": "spo-052",
+      "word": "dribble",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "topu idarə edərək aparmaq"
+    },
+    {
+      "id": "spo-053",
+      "word": "tackle",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "topu almağa cəhd etmək"
+    },
+    {
+      "id": "spo-054",
+      "word": "defeat",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "məğlub etmək"
+    },
+    {
+      "id": "spo-055",
+      "word": "victory",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qələbə"
+    },
+    {
+      "id": "spo-056",
+      "word": "draw",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "heç-heçə"
+    },
+    {
+      "id": "spo-057",
+      "word": "spectator",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tamaşaçı"
+    },
+    {
+      "id": "spo-058",
+      "word": "competitor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iştirakçı (yarışda)"
+    },
+    {
+      "id": "spo-059",
+      "word": "professional",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "peşəkar"
+    },
+    {
+      "id": "spo-060",
+      "word": "wrestling",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "güləş"
+    },
+    {
+      "id": "spo-061",
+      "word": "martial arts",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "döyüş sənəti"
+    },
+    {
+      "id": "spo-062",
+      "word": "karate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "karate"
+    },
+    {
+      "id": "spo-063",
+      "word": "judo",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cudo"
+    },
+    {
+      "id": "spo-064",
+      "word": "helmet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dəbilqə (idman)"
+    },
+    {
+      "id": "spo-065",
+      "word": "shin guard",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "baldır qoruyucusu"
+    },
+    {
+      "id": "spo-066",
+      "word": "whistle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fit (hakim)"
+    },
+    {
+      "id": "spo-067",
+      "word": "goalkeeper",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qapıçı"
+    },
+    {
+      "id": "spo-068",
+      "word": "substitute",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ehtiyat oyunçu"
+    },
+    {
+      "id": "spo-069",
+      "word": "warm-up",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "isinmə (məşq öncəsi)"
+    },
+    {
+      "id": "spo-070",
+      "word": "fitness",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fiziki forma"
+    },
+    {
+      "id": "spo-071",
+      "word": "dumbbell",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qantel"
+    },
+    {
+      "id": "spo-072",
+      "word": "treadmill",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qaçış zolağı"
+    },
+    {
+      "id": "spo-073",
+      "word": "workout",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məşq (fiziki)"
+    },
+    {
+      "id": "spo-074",
+      "word": "teamwork",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "komanda işi"
+    },
+    {
+      "id": "spo-075",
+      "word": "beat",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "yenmək (rəqibi)"
+    },
+    {
+      "id": "spo-076",
+      "word": "wicket",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vikit (kriketdə)"
+    },
+    {
+      "id": "spo-077",
+      "word": "squad",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "heyət, komanda tərkibi"
+    },
+
+    {
+      "id": "spo-078",
+      "word": "veteran",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təcrübəli idmançı"
+    },
+    {
+      "id": "spo-079",
+      "word": "rookie",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yeni başlayan oyunçu"
+    },
+    {
+      "id": "spo-080",
+      "word": "roster",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "rəsmi oyunçu siyahısı"
+    },
+    {
+      "id": "spo-081",
+      "word": "resistance training",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "müqavimət məşqi"
+    },
+    {
+      "id": "spo-082",
+      "word": "bodybuilding",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bodibildinq"
+    },
+    {
+      "id": "spo-083",
+      "word": "recovery",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bərpa (məşqdən sonra)"
+    },
+    {
+      "id": "spo-084",
+      "word": "underdog",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "zəif hesab edilən komanda"
+    },
+
+    {
+      "id": "spo-085",
+      "word": "fixture",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "planlaşdırılmış oyun"
+    }
+  ]
+}

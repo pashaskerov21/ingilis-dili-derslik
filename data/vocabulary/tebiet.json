@@ -1,0 +1,556 @@
+{
+  "category": "tebiet",
+  "words": [
+    {
+      "id": "nat-001",
+      "word": "nature",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "təbiət"
+    },
+    {
+      "id": "nat-002",
+      "word": "tree",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ağac"
+    },
+    {
+      "id": "nat-003",
+      "word": "flower",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çiçək"
+    },
+    {
+      "id": "nat-004",
+      "word": "grass",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ot"
+    },
+    {
+      "id": "nat-005",
+      "word": "plant",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bitki"
+    },
+    {
+      "id": "nat-006",
+      "word": "earth",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yer kürəsi, torpaq"
+    },
+    {
+      "id": "nat-007",
+      "word": "moon",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ay (səmada)"
+    },
+    {
+      "id": "nat-008",
+      "word": "star",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ulduz"
+    },
+    {
+      "id": "nat-009",
+      "word": "clean",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "təmiz"
+    },
+    {
+      "id": "nat-010",
+      "word": "dirty",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "çirkli"
+    },
+    {
+      "id": "nat-011",
+      "word": "air",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hava (nəfəs)"
+    },
+    {
+      "id": "nat-012",
+      "word": "recycle",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "təkrar emal etmək"
+    },
+    {
+      "id": "nat-013",
+      "word": "bottle",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şüşə (qab)"
+    },
+    {
+      "id": "nat-014",
+      "word": "green",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "yaşıl (ekoloji mənada da)"
+    },
+
+    {
+      "id": "nat-015",
+      "word": "branch",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "budaq"
+    },
+    {
+      "id": "nat-016",
+      "word": "trunk",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ağac gövdəsi"
+    },
+    {
+      "id": "nat-017",
+      "word": "bark",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ağac qabığı"
+    },
+    {
+      "id": "nat-018",
+      "word": "petal",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ləçək"
+    },
+    {
+      "id": "nat-019",
+      "word": "bush",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kol"
+    },
+    {
+      "id": "nat-020",
+      "word": "soil",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "torpaq (bitki üçün)"
+    },
+    {
+      "id": "nat-021",
+      "word": "sand",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qum"
+    },
+    {
+      "id": "nat-022",
+      "word": "rock",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qaya, daş"
+    },
+    {
+      "id": "nat-023",
+      "word": "pond",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gölməçə"
+    },
+    {
+      "id": "nat-024",
+      "word": "wave",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dalğa"
+    },
+    {
+      "id": "nat-025",
+      "word": "environment",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ətraf mühit"
+    },
+    {
+      "id": "nat-026",
+      "word": "pollution",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çirklənmə"
+    },
+    {
+      "id": "nat-027",
+      "word": "wildlife",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "vəhşi təbiət"
+    },
+    {
+      "id": "nat-028",
+      "word": "nest",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yuva"
+    },
+    {
+      "id": "nat-029",
+      "word": "landscape",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mənzərə (təbiət)"
+    },
+    {
+      "id": "nat-030",
+      "word": "jungle",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cəngəllik"
+    },
+    {
+      "id": "nat-031",
+      "word": "meadow",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çəmənlik"
+    },
+
+    {
+      "id": "nat-032",
+      "word": "oak",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "palıd ağacı"
+    },
+    {
+      "id": "nat-033",
+      "word": "pine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şam ağacı"
+    },
+    {
+      "id": "nat-034",
+      "word": "palm tree",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "palma ağacı"
+    },
+    {
+      "id": "nat-035",
+      "word": "cactus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kaktus"
+    },
+    {
+      "id": "nat-036",
+      "word": "moss",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mamır"
+    },
+    {
+      "id": "nat-037",
+      "word": "fern",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qıjı bitkisi"
+    },
+    {
+      "id": "nat-038",
+      "word": "sapling",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cavan ağac"
+    },
+    {
+      "id": "nat-039",
+      "word": "evergreen",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "həmişəyaşıl"
+    },
+    {
+      "id": "nat-040",
+      "word": "deciduous",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "yarpaqtökən"
+    },
+    {
+      "id": "nat-041",
+      "word": "prairie",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "prеriya (otlaq)"
+    },
+    {
+      "id": "nat-042",
+      "word": "canyon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kanyon"
+    },
+    {
+      "id": "nat-043",
+      "word": "glacier",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "buzlaq"
+    },
+    {
+      "id": "nat-044",
+      "word": "cave",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mağara"
+    },
+    {
+      "id": "nat-045",
+      "word": "volcano",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vulkan"
+    },
+    {
+      "id": "nat-046",
+      "word": "eruption",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "püskürmə"
+    },
+    {
+      "id": "nat-047",
+      "word": "earthquake",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "zəlzələ"
+    },
+    {
+      "id": "nat-048",
+      "word": "landslide",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "torpaq sürüşməsi"
+    },
+    {
+      "id": "nat-049",
+      "word": "erosion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "eroziya"
+    },
+    {
+      "id": "nat-050",
+      "word": "wilderness",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "insan əli dəyməmiş təbiət"
+    },
+    {
+      "id": "nat-051",
+      "word": "reef",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mərcan riфi"
+    },
+    {
+      "id": "nat-052",
+      "word": "recycling",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təkrar emal prosesi"
+    },
+    {
+      "id": "nat-053",
+      "word": "renewable",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "bərpaolunan"
+    },
+    {
+      "id": "nat-054",
+      "word": "energy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "enerji"
+    },
+    {
+      "id": "nat-055",
+      "word": "waste",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tullantı"
+    },
+    {
+      "id": "nat-056",
+      "word": "bloom",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "çiçəkləmək"
+    },
+    {
+      "id": "nat-057",
+      "word": "wither",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "solmaq (bitki)"
+    },
+    {
+      "id": "nat-058",
+      "word": "flow",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "axmaq (su)"
+    },
+
+    {
+      "id": "nat-059",
+      "word": "ecosystem",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ekosistem"
+    },
+    {
+      "id": "nat-060",
+      "word": "habitat",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yaşayış mühiti"
+    },
+    {
+      "id": "nat-061",
+      "word": "biodiversity",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bioloji müxtəliflik"
+    },
+    {
+      "id": "nat-062",
+      "word": "flora",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "flora (bitki aləmi)"
+    },
+    {
+      "id": "nat-063",
+      "word": "fauna",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "fauna (heyvanat aləmi)"
+    },
+    {
+      "id": "nat-064",
+      "word": "biome",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "biom"
+    },
+    {
+      "id": "nat-065",
+      "word": "deforestation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "meşələrin qırılması"
+    },
+    {
+      "id": "nat-066",
+      "word": "conservation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təbiəti qoruma"
+    },
+    {
+      "id": "nat-067",
+      "word": "sustainability",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "dayanıqlıq (ekoloji)"
+    },
+    {
+      "id": "nat-068",
+      "word": "carbon footprint",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "karbon izi"
+    },
+    {
+      "id": "nat-069",
+      "word": "greenhouse gas",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "istixana qazı"
+    },
+    {
+      "id": "nat-070",
+      "word": "fossil fuel",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "fosil yanacaq"
+    },
+    {
+      "id": "nat-071",
+      "word": "canopy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "meşə tağı (yuxarı təbəqə)"
+    },
+    {
+      "id": "nat-072",
+      "word": "pollination",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tozlanma"
+    },
+    {
+      "id": "nat-073",
+      "word": "geology",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "geologiya"
+    },
+    {
+      "id": "nat-074",
+      "word": "compost",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kompost"
+    },
+
+    {
+      "id": "nat-075",
+      "word": "arboreal",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "ağaclara aid"
+    },
+    {
+      "id": "nat-076",
+      "word": "biosphere",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "biosfer"
+    },
+    {
+      "id": "nat-077",
+      "word": "sediment",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "çöküntü"
+    },
+
+    {
+      "id": "nat-078",
+      "word": "photosynthesis",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "fotosintez"
+    }
+  ]
+}

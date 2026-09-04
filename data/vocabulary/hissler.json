@@ -1,0 +1,598 @@
+{
+  "category": "hissler",
+  "words": [
+    {
+      "id": "fee-001",
+      "word": "happy",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "xoşbəxt, sevincli"
+    },
+    {
+      "id": "fee-002",
+      "word": "sad",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "kədərli"
+    },
+    {
+      "id": "fee-003",
+      "word": "angry",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "əsəbi, hirsli"
+    },
+    {
+      "id": "fee-004",
+      "word": "tired",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "yorğun"
+    },
+    {
+      "id": "fee-005",
+      "word": "scared",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "qorxmuş"
+    },
+    {
+      "id": "fee-006",
+      "word": "surprised",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "təəccüblənmiş"
+    },
+    {
+      "id": "fee-007",
+      "word": "excited",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "həyəcanlı (müsbət)"
+    },
+    {
+      "id": "fee-008",
+      "word": "bored",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "darıxmış"
+    },
+    {
+      "id": "fee-009",
+      "word": "feel",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "hiss etmək"
+    },
+    {
+      "id": "fee-010",
+      "word": "love",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "sevmək"
+    },
+    {
+      "id": "fee-011",
+      "word": "like",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "xoşlamaq"
+    },
+    {
+      "id": "fee-012",
+      "word": "hate",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "nifrət etmək"
+    },
+    {
+      "id": "fee-013",
+      "word": "cry",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "ağlamaq"
+    },
+    {
+      "id": "fee-014",
+      "word": "laugh",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "gülmək"
+    },
+    {
+      "id": "fee-015",
+      "word": "smile",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "təbəssüm etmək"
+    },
+
+    {
+      "id": "fee-016",
+      "word": "worried",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "narahat"
+    },
+    {
+      "id": "fee-017",
+      "word": "nervous",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "əsəbiləşmiş, gərgin"
+    },
+    {
+      "id": "fee-018",
+      "word": "confused",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "çaşqın"
+    },
+    {
+      "id": "fee-019",
+      "word": "proud",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qürurlu"
+    },
+    {
+      "id": "fee-020",
+      "word": "embarrassed",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "utanmış, xəcalətli"
+    },
+    {
+      "id": "fee-021",
+      "word": "jealous",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qısqanc"
+    },
+    {
+      "id": "fee-022",
+      "word": "lonely",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "tənha"
+    },
+    {
+      "id": "fee-023",
+      "word": "shy",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "utancaq"
+    },
+    {
+      "id": "fee-024",
+      "word": "worry",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "narahat olmaq"
+    },
+    {
+      "id": "fee-025",
+      "word": "enjoy",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "zövq almaq"
+    },
+    {
+      "id": "fee-026",
+      "word": "fear",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qorxu"
+    },
+    {
+      "id": "fee-027",
+      "word": "mood",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əhval-ruhiyyə"
+    },
+    {
+      "id": "fee-028",
+      "word": "calm",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "sakit"
+    },
+    {
+      "id": "fee-029",
+      "word": "hope",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ümid"
+    },
+    {
+      "id": "fee-030",
+      "word": "anger",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hirs"
+    },
+    {
+      "id": "fee-031",
+      "word": "afraid",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qorxan"
+    },
+    {
+      "id": "fee-032",
+      "word": "upset",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "üzgün, incimiş"
+    },
+    {
+      "id": "fee-033",
+      "word": "pleased",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "razı, məmnun"
+    },
+    {
+      "id": "fee-034",
+      "word": "disappointed",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "məyus"
+    },
+    {
+      "id": "fee-035",
+      "word": "relaxed",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "rahat, gərginsiz"
+    },
+
+    {
+      "id": "fee-036",
+      "word": "confident",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "özünə əminvçi"
+    },
+    {
+      "id": "fee-037",
+      "word": "frustrated",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "əsəbiləşdirici hisslərlə dolu"
+    },
+    {
+      "id": "fee-038",
+      "word": "anxious",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "narahat, təşvişli"
+    },
+    {
+      "id": "fee-039",
+      "word": "guilty",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "təqsirkar hiss edən"
+    },
+    {
+      "id": "fee-040",
+      "word": "ashamed",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "utanan (dərin)"
+    },
+    {
+      "id": "fee-041",
+      "word": "grateful",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "minnətdar"
+    },
+    {
+      "id": "fee-042",
+      "word": "satisfied",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "razı qalmış"
+    },
+    {
+      "id": "fee-043",
+      "word": "content",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "razı, qane olmuş"
+    },
+    {
+      "id": "fee-044",
+      "word": "relieved",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rahatlamış"
+    },
+    {
+      "id": "fee-045",
+      "word": "joyful",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "sevincli"
+    },
+    {
+      "id": "fee-046",
+      "word": "miserable",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "bədbəxt, çox pis əhvalda"
+    },
+    {
+      "id": "fee-047",
+      "word": "grumpy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "deyingən, əsəbi"
+    },
+    {
+      "id": "fee-048",
+      "word": "irritated",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qıcıqlanmış"
+    },
+    {
+      "id": "fee-049",
+      "word": "impatient",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "səbirsiz"
+    },
+    {
+      "id": "fee-050",
+      "word": "patient",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "səbirli"
+    },
+    {
+      "id": "fee-051",
+      "word": "curious",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "maraqlanan"
+    },
+    {
+      "id": "fee-052",
+      "word": "envious",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "paxıl"
+    },
+    {
+      "id": "fee-053",
+      "word": "hopeful",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "ümidli"
+    },
+    {
+      "id": "fee-054",
+      "word": "hopeless",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "ümidsiz"
+    },
+    {
+      "id": "fee-055",
+      "word": "homesick",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "vətən həsrətli"
+    },
+    {
+      "id": "fee-056",
+      "word": "emotion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "emosiya"
+    },
+    {
+      "id": "fee-057",
+      "word": "sympathy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rəğbət, həmdərdlik"
+    },
+    {
+      "id": "fee-058",
+      "word": "frown",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qaşlarını çatmaq"
+    },
+    {
+      "id": "fee-059",
+      "word": "tears",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "göz yaşı"
+    },
+    {
+      "id": "fee-060",
+      "word": "laughter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gülüş"
+    },
+    {
+      "id": "fee-061",
+      "word": "blush",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qızarmaq (utancdan)"
+    },
+    {
+      "id": "fee-062",
+      "word": "sigh",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ah çəkmək"
+    },
+    {
+      "id": "fee-063",
+      "word": "regret",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "peşmançılıq"
+    },
+    {
+      "id": "fee-064",
+      "word": "grief",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dərin kədər (itki)"
+    },
+    {
+      "id": "fee-065",
+      "word": "attitude",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "münasibət (davranış)"
+    },
+
+    {
+      "id": "fee-066",
+      "word": "furious",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "qəzəbli (çox güclü)"
+    },
+    {
+      "id": "fee-067",
+      "word": "terrified",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "dəhşətə gəlmiş"
+    },
+    {
+      "id": "fee-068",
+      "word": "ecstatic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "vəcdə gəlmiş"
+    },
+    {
+      "id": "fee-069",
+      "word": "devastated",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "dərin sarsıntı keçirmiş"
+    },
+    {
+      "id": "fee-070",
+      "word": "thrilled",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "çox həyəcanlı (sevindirici)"
+    },
+    {
+      "id": "fee-071",
+      "word": "overwhelmed",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "əzilmiş hisslə dolmuş"
+    },
+    {
+      "id": "fee-072",
+      "word": "resentful",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "kin saxlayan"
+    },
+    {
+      "id": "fee-073",
+      "word": "insecure",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "özünə əmin olmayan"
+    },
+    {
+      "id": "fee-074",
+      "word": "vulnerable",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "həssas, zədələnə bilən"
+    },
+    {
+      "id": "fee-075",
+      "word": "empathy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "empatiya"
+    },
+    {
+      "id": "fee-076",
+      "word": "compassion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "mərhəmət"
+    },
+    {
+      "id": "fee-077",
+      "word": "despair",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ümidsizlik (dərin)"
+    },
+    {
+      "id": "fee-078",
+      "word": "nostalgia",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nostalgiya"
+    },
+    {
+      "id": "fee-079",
+      "word": "temper",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əsəbi xasiyyət"
+    },
+    {
+      "id": "fee-080",
+      "word": "gloomy",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "qaraüz, məyus"
+    },
+
+    {
+      "id": "fee-081",
+      "word": "melancholy",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "melanxoliya"
+    },
+    {
+      "id": "fee-082",
+      "word": "apprehensive",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "narahat gözləyən"
+    },
+    {
+      "id": "fee-083",
+      "word": "euphoric",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "eyforiyalı"
+    },
+
+    {
+      "id": "fee-084",
+      "word": "trepidation",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "titrək qorxu, ürək çırpıntısı"
+    }
+  ]
+}

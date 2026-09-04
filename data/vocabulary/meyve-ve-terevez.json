@@ -1,0 +1,583 @@
+{
+  "category": "meyve-ve-terevez",
+  "words": [
+    {
+      "id": "frv-001",
+      "word": "apple",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "alma"
+    },
+    {
+      "id": "frv-002",
+      "word": "banana",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "banan"
+    },
+    {
+      "id": "frv-003",
+      "word": "orange",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "portağal"
+    },
+    {
+      "id": "frv-004",
+      "word": "grape",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "üzüm"
+    },
+    {
+      "id": "frv-005",
+      "word": "lemon",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "limon"
+    },
+    {
+      "id": "frv-006",
+      "word": "pear",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "armud"
+    },
+    {
+      "id": "frv-007",
+      "word": "watermelon",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qarpız"
+    },
+    {
+      "id": "frv-008",
+      "word": "pineapple",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ananas"
+    },
+    {
+      "id": "frv-009",
+      "word": "strawberry",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çiyələk"
+    },
+    {
+      "id": "frv-010",
+      "word": "carrot",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yerkökü"
+    },
+    {
+      "id": "frv-011",
+      "word": "potato",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kartof"
+    },
+    {
+      "id": "frv-012",
+      "word": "onion",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "soğan"
+    },
+    {
+      "id": "frv-013",
+      "word": "tomato",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pomidor"
+    },
+    {
+      "id": "frv-014",
+      "word": "cucumber",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xiyar"
+    },
+    {
+      "id": "frv-015",
+      "word": "cabbage",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kələm"
+    },
+    {
+      "id": "frv-016",
+      "word": "pea",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "noxud (yaşıl)"
+    },
+    {
+      "id": "frv-017",
+      "word": "bean",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "lobya"
+    },
+    {
+      "id": "frv-018",
+      "word": "fruit",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "meyvə"
+    },
+    {
+      "id": "frv-019",
+      "word": "vegetable",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tərəvəz"
+    },
+
+    {
+      "id": "frv-020",
+      "word": "peach",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şaftalı"
+    },
+    {
+      "id": "frv-021",
+      "word": "cherry",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gilas"
+    },
+    {
+      "id": "frv-022",
+      "word": "melon",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qovun"
+    },
+    {
+      "id": "frv-023",
+      "word": "mango",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "manqo"
+    },
+    {
+      "id": "frv-024",
+      "word": "kiwi",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kivi"
+    },
+    {
+      "id": "frv-025",
+      "word": "plum",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gavalı"
+    },
+    {
+      "id": "frv-026",
+      "word": "lime",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yaşıl limon"
+    },
+    {
+      "id": "frv-027",
+      "word": "coconut",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hindistan cevizi"
+    },
+    {
+      "id": "frv-028",
+      "word": "raspberry",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "moruq"
+    },
+    {
+      "id": "frv-029",
+      "word": "lettuce",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kahı"
+    },
+    {
+      "id": "frv-030",
+      "word": "pepper",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bibər"
+    },
+    {
+      "id": "frv-031",
+      "word": "garlic",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sarımsaq"
+    },
+    {
+      "id": "frv-032",
+      "word": "mushroom",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "göbələk"
+    },
+    {
+      "id": "frv-033",
+      "word": "corn",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qarğıdalı"
+    },
+    {
+      "id": "frv-034",
+      "word": "nut",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qoz-fındıq"
+    },
+    {
+      "id": "frv-035",
+      "word": "seed",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "toxum, çəyirdək"
+    },
+    {
+      "id": "frv-036",
+      "word": "fresh",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "təzə"
+    },
+    {
+      "id": "frv-037",
+      "word": "sweet",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "şirin"
+    },
+    {
+      "id": "frv-038",
+      "word": "sour",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "turş"
+    },
+    {
+      "id": "frv-039",
+      "word": "peel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qabıq (meyvə)"
+    },
+    {
+      "id": "frv-040",
+      "word": "leaf",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yarpaq"
+    },
+
+    {
+      "id": "frv-041",
+      "word": "apricot",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ərik"
+    },
+    {
+      "id": "frv-042",
+      "word": "fig",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əncir"
+    },
+    {
+      "id": "frv-043",
+      "word": "pomegranate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "nar"
+    },
+    {
+      "id": "frv-044",
+      "word": "avocado",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "avokado"
+    },
+    {
+      "id": "frv-045",
+      "word": "blueberry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "moruq (mavi)"
+    },
+    {
+      "id": "frv-046",
+      "word": "blackberry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "böyürtkən"
+    },
+    {
+      "id": "frv-047",
+      "word": "broccoli",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "brokoli"
+    },
+    {
+      "id": "frv-048",
+      "word": "cauliflower",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gül kələm"
+    },
+    {
+      "id": "frv-049",
+      "word": "spinach",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ispanaq"
+    },
+    {
+      "id": "frv-050",
+      "word": "pumpkin",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "balqabaq"
+    },
+    {
+      "id": "frv-051",
+      "word": "aubergine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "badımcan"
+    },
+    {
+      "id": "frv-052",
+      "word": "courgette",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kabaçok"
+    },
+    {
+      "id": "frv-053",
+      "word": "celery",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kərəviz"
+    },
+    {
+      "id": "frv-054",
+      "word": "radish",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "turp"
+    },
+    {
+      "id": "frv-055",
+      "word": "beetroot",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çuğundur"
+    },
+    {
+      "id": "frv-056",
+      "word": "asparagus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qulançar"
+    },
+    {
+      "id": "frv-057",
+      "word": "almond",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "badam"
+    },
+    {
+      "id": "frv-058",
+      "word": "walnut",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qoz"
+    },
+    {
+      "id": "frv-059",
+      "word": "peanut",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yerfındığı"
+    },
+    {
+      "id": "frv-060",
+      "word": "hazelnut",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fındıq"
+    },
+    {
+      "id": "frv-061",
+      "word": "herb",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ətirli ot"
+    },
+    {
+      "id": "frv-062",
+      "word": "mint",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "nanə"
+    },
+    {
+      "id": "frv-063",
+      "word": "basil",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "reyhan"
+    },
+    {
+      "id": "frv-064",
+      "word": "parsley",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cəfəri"
+    },
+    {
+      "id": "frv-065",
+      "word": "dill",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şüyüd"
+    },
+    {
+      "id": "frv-066",
+      "word": "coriander",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "keşniş"
+    },
+    {
+      "id": "frv-067",
+      "word": "ripe",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "yetişmiş"
+    },
+    {
+      "id": "frv-068",
+      "word": "rotten",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "çürük"
+    },
+    {
+      "id": "frv-069",
+      "word": "juicy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "şirəli"
+    },
+    {
+      "id": "frv-070",
+      "word": "core",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "meyvənin nüvəsi"
+    },
+    {
+      "id": "frv-071",
+      "word": "stem",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gövdə, sap"
+    },
+    {
+      "id": "frv-072",
+      "word": "root",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kök"
+    },
+
+    {
+      "id": "frv-073",
+      "word": "unripe",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "yetişməmiş"
+    },
+    {
+      "id": "frv-074",
+      "word": "seedless",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "çəyirdəksiz"
+    },
+    {
+      "id": "frv-075",
+      "word": "organic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "üzvi (kimyəvisiz)"
+    },
+    {
+      "id": "frv-076",
+      "word": "pit",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "çəyirdək (böyük, məs. şaftalı)"
+    },
+    {
+      "id": "frv-077",
+      "word": "produce",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təsərrüfat məhsulu"
+    },
+    {
+      "id": "frv-078",
+      "word": "crop",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "məhsul (əkin)"
+    },
+    {
+      "id": "frv-079",
+      "word": "harvest",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "məhsul yığımı"
+    },
+    {
+      "id": "frv-080",
+      "word": "orchard",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bağ (meyvə)"
+    },
+
+    {
+      "id": "frv-081",
+      "word": "greengrocer",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "tərəvəzçi (dükan sahibi)"
+    },
+    {
+      "id": "frv-082",
+      "word": "pesticide",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "pestisid"
+    }
+  ]
+}

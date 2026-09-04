@@ -1,0 +1,394 @@
+{
+  "category": "proqramlasdirma",
+  "words": [
+    {
+      "id": "prg-001",
+      "word": "software",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "proqram təminatı"
+    },
+    {
+      "id": "prg-002",
+      "word": "program",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "proqram"
+    },
+    {
+      "id": "prg-003",
+      "word": "file",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "fayl"
+    },
+    {
+      "id": "prg-004",
+      "word": "folder",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qovluq"
+    },
+    {
+      "id": "prg-005",
+      "word": "save",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "saxlamaq (fayl)"
+    },
+    {
+      "id": "prg-006",
+      "word": "open",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "açmaq (fayl/proqram)"
+    },
+    {
+      "id": "prg-007",
+      "word": "delete",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "silmək"
+    },
+    {
+      "id": "prg-008",
+      "word": "error",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xəta"
+    },
+
+    {
+      "id": "prg-009",
+      "word": "code",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kod"
+    },
+    {
+      "id": "prg-010",
+      "word": "bug",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xəta (proqramda)"
+    },
+    {
+      "id": "prg-011",
+      "word": "update",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yeniləmə"
+    },
+    {
+      "id": "prg-012",
+      "word": "install",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "quraşdırmaq (proqram)"
+    },
+    {
+      "id": "prg-013",
+      "word": "uninstall",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "silmək (proqramı)"
+    },
+    {
+      "id": "prg-014",
+      "word": "system",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sistem"
+    },
+    {
+      "id": "prg-015",
+      "word": "operating system",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əməliyyat sistemi"
+    },
+    {
+      "id": "prg-016",
+      "word": "click",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "klikləmək"
+    },
+    {
+      "id": "prg-017",
+      "word": "type",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yazmaq (klaviaturada)"
+    },
+    {
+      "id": "prg-018",
+      "word": "data",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "verilənlər, data"
+    },
+
+    {
+      "id": "prg-019",
+      "word": "programmer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "proqramçı"
+    },
+    {
+      "id": "prg-020",
+      "word": "developer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "işləyib hazırlayan (developer)"
+    },
+    {
+      "id": "prg-021",
+      "word": "programming language",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "proqramlaşdırma dili"
+    },
+    {
+      "id": "prg-022",
+      "word": "function",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "funksiya"
+    },
+    {
+      "id": "prg-023",
+      "word": "variable",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dəyişən"
+    },
+    {
+      "id": "prg-024",
+      "word": "debug",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "xətanı düzəltmək (debug etmək)"
+    },
+    {
+      "id": "prg-025",
+      "word": "debugging",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xəta düzəltmə prosesi"
+    },
+    {
+      "id": "prg-026",
+      "word": "algorithm",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "alqoritm"
+    },
+    {
+      "id": "prg-027",
+      "word": "database",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "verilənlər bazası"
+    },
+    {
+      "id": "prg-028",
+      "word": "server",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "server"
+    },
+    {
+      "id": "prg-029",
+      "word": "cloud",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bulud (cloud) saxlama"
+    },
+    {
+      "id": "prg-030",
+      "word": "app development",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tətbiq hazırlanması"
+    },
+    {
+      "id": "prg-031",
+      "word": "command",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əmr (proqramlaşdırma)"
+    },
+    {
+      "id": "prg-032",
+      "word": "input",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "giriş məlumatı"
+    },
+    {
+      "id": "prg-033",
+      "word": "output",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çıxış məlumatı"
+    },
+    {
+      "id": "prg-034",
+      "word": "loop",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dövr (loop)"
+    },
+    {
+      "id": "prg-035",
+      "word": "test",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "test etmək (kodu)"
+    },
+    {
+      "id": "prg-036",
+      "word": "version",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "versiya"
+    },
+    {
+      "id": "prg-037",
+      "word": "backup",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ehtiyat nüsxə"
+    },
+    {
+      "id": "prg-038",
+      "word": "network",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şəbəkə"
+    },
+
+    {
+      "id": "prg-039",
+      "word": "function call",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "funksiyanın çağırılması"
+    },
+    {
+      "id": "prg-040",
+      "word": "declaration",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "elan (dəyişən/funksiya)"
+    },
+    {
+      "id": "prg-041",
+      "word": "iteration",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təkrarlanma (dövrdə)"
+    },
+    {
+      "id": "prg-042",
+      "word": "conditional statement",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "şərti ifadə (if-then)"
+    },
+    {
+      "id": "prg-043",
+      "word": "constant",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sabit (dəyişməz qiymət)"
+    },
+    {
+      "id": "prg-044",
+      "word": "framework",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "çərçivə (framework)"
+    },
+    {
+      "id": "prg-045",
+      "word": "front end",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ön hissə (interfeys)"
+    },
+    {
+      "id": "prg-046",
+      "word": "back end",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "arxa hissə (server məntiqi)"
+    },
+    {
+      "id": "prg-047",
+      "word": "API",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tətbiq proqramlaşdırma interfeysi"
+    },
+    {
+      "id": "prg-048",
+      "word": "boolean",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "boolean (doğru/yalan dəyər)"
+    },
+    {
+      "id": "prg-049",
+      "word": "compiler",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kompilyator"
+    },
+    {
+      "id": "prg-050",
+      "word": "syntax",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sintaksis"
+    },
+    {
+      "id": "prg-051",
+      "word": "script",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "skript"
+    },
+    {
+      "id": "prg-052",
+      "word": "repository",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "anbar (kod, repozitoriya)"
+    },
+    {
+      "id": "prg-053",
+      "word": "deployment",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "istifadəyə vermə (deployment)"
+    },
+
+    {
+      "id": "prg-054",
+      "word": "data structure",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "verilənlər strukturu"
+    },
+    {
+      "id": "prg-055",
+      "word": "full stack",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "tam stack (ön+arxa hissə)"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "category": "xidmetler",
+  "words": [
+    {
+      "id": "srv-001",
+      "word": "post office",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "poçt şöbəsi"
+    },
+    {
+      "id": "srv-002",
+      "word": "letter",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "məktub"
+    },
+    {
+      "id": "srv-003",
+      "word": "stamp",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "marka"
+    },
+    {
+      "id": "srv-004",
+      "word": "parcel",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bağlama, посылка"
+    },
+    {
+      "id": "srv-005",
+      "word": "envelope",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "zərf"
+    },
+    {
+      "id": "srv-006",
+      "word": "library",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kitabxana"
+    },
+    {
+      "id": "srv-007",
+      "word": "police station",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "polis idarəsi"
+    },
+    {
+      "id": "srv-008",
+      "word": "fire station",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yanğınsöndürmə stansiyası"
+    },
+    {
+      "id": "srv-009",
+      "word": "hospital",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xəstəxana"
+    },
+    {
+      "id": "srv-010",
+      "word": "service",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xidmət"
+    },
+
+    {
+      "id": "srv-011",
+      "word": "post",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "poçtla göndərmək"
+    },
+    {
+      "id": "srv-012",
+      "word": "deliver",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "çatdırmaq"
+    },
+    {
+      "id": "srv-013",
+      "word": "mail",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "poçt (Amerikan)"
+    },
+    {
+      "id": "srv-014",
+      "word": "courier",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kuryer"
+    },
+    {
+      "id": "srv-015",
+      "word": "hairdresser's",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bərbərxana"
+    },
+    {
+      "id": "srv-016",
+      "word": "laundry",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "camaşırxana"
+    },
+    {
+      "id": "srv-017",
+      "word": "dry cleaner's",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kimyəvi təmizləmə"
+    },
+    {
+      "id": "srv-018",
+      "word": "garage",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təmir emalatxanası"
+    },
+    {
+      "id": "srv-019",
+      "word": "repair",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "təmir etmək"
+    },
+    {
+      "id": "srv-020",
+      "word": "fix",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "düzəltmək"
+    },
+    {
+      "id": "srv-021",
+      "word": "customer service",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "müştəri xidməti"
+    },
+    {
+      "id": "srv-022",
+      "word": "complaint",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şikayət"
+    },
+    {
+      "id": "srv-023",
+      "word": "complain",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "şikayət etmək"
+    },
+    {
+      "id": "srv-024",
+      "word": "form",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "forma, blank"
+    },
+    {
+      "id": "srv-025",
+      "word": "application",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ərizə"
+    },
+    {
+      "id": "srv-026",
+      "word": "town hall",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bələdiyyə binası"
+    },
+    {
+      "id": "srv-027",
+      "word": "embassy",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səfirlik"
+    },
+
+    {
+      "id": "srv-028",
+      "word": "provide",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təmin etmək"
+    },
+    {
+      "id": "srv-029",
+      "word": "request",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sorğu, xahiş"
+    },
+    {
+      "id": "srv-030",
+      "word": "install",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "quraşdırmaq"
+    },
+    {
+      "id": "srv-031",
+      "word": "maintain",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "saxlamaq, qulluq etmək"
+    },
+    {
+      "id": "srv-032",
+      "word": "maintenance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "texniki qulluq"
+    },
+    {
+      "id": "srv-033",
+      "word": "locksmith",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kilid ustası"
+    },
+    {
+      "id": "srv-034",
+      "word": "notary",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "notarius"
+    },
+    {
+      "id": "srv-035",
+      "word": "translator",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tərcüməçi"
+    },
+    {
+      "id": "srv-036",
+      "word": "interpreter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sinxron tərcüməçi"
+    },
+    {
+      "id": "srv-037",
+      "word": "helpline",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yardım xətti"
+    },
+    {
+      "id": "srv-038",
+      "word": "customer support",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "müştəri dəstəyi"
+    },
+    {
+      "id": "srv-039",
+      "word": "ambulance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcili yardım maşını"
+    },
+    {
+      "id": "srv-040",
+      "word": "emergency room",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcili yardım şöbəsi"
+    },
+    {
+      "id": "srv-041",
+      "word": "registered mail",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qeydiyyatlı poçt"
+    },
+    {
+      "id": "srv-042",
+      "word": "postcode",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "poçt indeksi"
+    },
+    {
+      "id": "srv-043",
+      "word": "stationery",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kargüzarlıq ləvazimatı"
+    },
+    {
+      "id": "srv-044",
+      "word": "recreation center",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "istirahət mərkəzi"
+    },
+    {
+      "id": "srv-045",
+      "word": "civil service",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dövlət xidməti"
+    },
+
+    {
+      "id": "srv-046",
+      "word": "bureaucracy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bürokratiya"
+    },
+    {
+      "id": "srv-047",
+      "word": "outsource",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "kənar podratçıya vermək"
+    },
+    {
+      "id": "srv-048",
+      "word": "subscription",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "abunə"
+    },
+
+    {
+      "id": "srv-049",
+      "word": "jurisdiction",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "yurisdiksiya"
+    }
+  ]
+}

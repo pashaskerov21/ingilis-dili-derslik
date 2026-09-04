@@ -1,0 +1,380 @@
+{
+  "category": "korporativ-muhit",
+  "words": [
+    {
+      "id": "cor-001",
+      "word": "meeting",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "iclas"
+    },
+    {
+      "id": "cor-002",
+      "word": "task",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tapşırıq"
+    },
+    {
+      "id": "cor-003",
+      "word": "team",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "komanda"
+    },
+    {
+      "id": "cor-004",
+      "word": "email",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "elektron məktub"
+    },
+    {
+      "id": "cor-005",
+      "word": "report",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hesabat"
+    },
+    {
+      "id": "cor-006",
+      "word": "plan",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "plan"
+    },
+
+    {
+      "id": "cor-007",
+      "word": "agenda",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gündəlik (iclas)"
+    },
+    {
+      "id": "cor-008",
+      "word": "presentation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təqdimat"
+    },
+    {
+      "id": "cor-009",
+      "word": "deadline",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "son tarix"
+    },
+    {
+      "id": "cor-010",
+      "word": "project",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "layihə"
+    },
+    {
+      "id": "cor-011",
+      "word": "schedule",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cədvəl"
+    },
+    {
+      "id": "cor-012",
+      "word": "feedback",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "rəy, geri bildirim"
+    },
+    {
+      "id": "cor-013",
+      "word": "memo",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qeyd, xatirə"
+    },
+    {
+      "id": "cor-014",
+      "word": "conference call",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "konfrans zəngi"
+    },
+    {
+      "id": "cor-015",
+      "word": "workload",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "iş yükü"
+    },
+    {
+      "id": "cor-016",
+      "word": "priority",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "prioritet"
+    },
+    {
+      "id": "cor-017",
+      "word": "follow-up",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "izləmə (davametmə)"
+    },
+    {
+      "id": "cor-018",
+      "word": "networking",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əlaqə qurma (biznes)"
+    },
+
+    {
+      "id": "cor-019",
+      "word": "minutes",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iclas protokolu"
+    },
+    {
+      "id": "cor-020",
+      "word": "deliverable",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təhvil veriləcək nəticə"
+    },
+    {
+      "id": "cor-021",
+      "word": "timeline",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vaxt cədvəli (layihə)"
+    },
+    {
+      "id": "cor-022",
+      "word": "collaboration",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əməkdaşlıq"
+    },
+    {
+      "id": "cor-023",
+      "word": "stakeholder",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "maraqlı tərəf"
+    },
+    {
+      "id": "cor-024",
+      "word": "consensus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ümumi razılıq"
+    },
+    {
+      "id": "cor-025",
+      "word": "benchmark",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "müqayisə standartı"
+    },
+    {
+      "id": "cor-026",
+      "word": "brainstorm",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "beyin fırtınası etmək"
+    },
+    {
+      "id": "cor-027",
+      "word": "proposal",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təklif (rəsmi)"
+    },
+    {
+      "id": "cor-028",
+      "word": "strategy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "strategiya"
+    },
+    {
+      "id": "cor-029",
+      "word": "objective",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "hədəf"
+    },
+    {
+      "id": "cor-030",
+      "word": "performance review",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "performans qiymətləndirməsi"
+    },
+    {
+      "id": "cor-031",
+      "word": "onboarding",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "işə uyğunlaşdırma prosesi"
+    },
+    {
+      "id": "cor-032",
+      "word": "training",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təlim"
+    },
+    {
+      "id": "cor-033",
+      "word": "multitask",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "çoxlu tapşırığı eyni vaxtda görmək"
+    },
+    {
+      "id": "cor-034",
+      "word": "prioritize",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "prioritetləşdirmək"
+    },
+    {
+      "id": "cor-035",
+      "word": "workflow",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iş axını"
+    },
+    {
+      "id": "cor-036",
+      "word": "cubicle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kabinet (kiçik, ofis)"
+    },
+    {
+      "id": "cor-037",
+      "word": "open-plan office",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "açıq planlaşdırılmış ofis"
+    },
+    {
+      "id": "cor-038",
+      "word": "conference room",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "konfrans otağı"
+    },
+    {
+      "id": "cor-039",
+      "word": "photocopier",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "surətçıxaran"
+    },
+    {
+      "id": "cor-040",
+      "word": "negotiation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "danışıqlar (biznes)"
+    },
+    {
+      "id": "cor-041",
+      "word": "agreement",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "razılaşma"
+    },
+    {
+      "id": "cor-042",
+      "word": "deal",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "saziş, sövdələşmə"
+    },
+    {
+      "id": "cor-043",
+      "word": "team building",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "komanda quruculuğu"
+    },
+
+    {
+      "id": "cor-044",
+      "word": "KPI",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əsas performans göstəricisi"
+    },
+    {
+      "id": "cor-045",
+      "word": "ROI",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "investisiyanın geri qaytarılması"
+    },
+    {
+      "id": "cor-046",
+      "word": "synergy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sinergiya"
+    },
+    {
+      "id": "cor-047",
+      "word": "touch base",
+      "level": "B2",
+      "partOfSpeech": "phrase",
+      "translation": "qısaca əlaqə saxlamaq"
+    },
+    {
+      "id": "cor-048",
+      "word": "circle back",
+      "level": "B2",
+      "partOfSpeech": "phrase",
+      "translation": "mövzuya sonra qayıtmaq"
+    },
+    {
+      "id": "cor-049",
+      "word": "on the same page",
+      "level": "B2",
+      "partOfSpeech": "phrase",
+      "translation": "eyni fikirdə/anlaşmada olmaq"
+    },
+    {
+      "id": "cor-050",
+      "word": "micromanage",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "hər detala həddindən artıq nəzarət etmək"
+    },
+    {
+      "id": "cor-051",
+      "word": "backburner",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təxirə salınmış (kənara qoyulmuş) məsələ"
+    },
+
+    {
+      "id": "cor-052",
+      "word": "due diligence",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "hərtərəfli araşdırma (biznes)"
+    },
+    {
+      "id": "cor-053",
+      "word": "scalability",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "genişlənə bilmə qabiliyyəti"
+    }
+  ]
+}

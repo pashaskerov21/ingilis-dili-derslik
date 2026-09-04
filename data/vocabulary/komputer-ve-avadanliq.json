@@ -1,0 +1,344 @@
+{
+  "category": "komputer-ve-avadanliq",
+  "words": [
+    {
+      "id": "hrd-001",
+      "word": "computer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "komputer"
+    },
+    {
+      "id": "hrd-002",
+      "word": "laptop",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "noutbuk"
+    },
+    {
+      "id": "hrd-003",
+      "word": "keyboard",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "klaviatura"
+    },
+    {
+      "id": "hrd-004",
+      "word": "mouse",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "siçan (komputer)"
+    },
+    {
+      "id": "hrd-005",
+      "word": "screen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ekran"
+    },
+    {
+      "id": "hrd-006",
+      "word": "printer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "printer"
+    },
+    {
+      "id": "hrd-007",
+      "word": "phone",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "telefon"
+    },
+    {
+      "id": "hrd-008",
+      "word": "tablet",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "planşet"
+    },
+    {
+      "id": "hrd-009",
+      "word": "charger",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şarj cihazı"
+    },
+    {
+      "id": "hrd-010",
+      "word": "battery",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "batareya"
+    },
+
+    {
+      "id": "hrd-011",
+      "word": "monitor",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "monitor"
+    },
+    {
+      "id": "hrd-012",
+      "word": "headphones",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qulaqlıq"
+    },
+    {
+      "id": "hrd-013",
+      "word": "speaker",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dinamik"
+    },
+    {
+      "id": "hrd-014",
+      "word": "microphone",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mikrofon"
+    },
+    {
+      "id": "hrd-015",
+      "word": "webcam",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "veb-kamera"
+    },
+    {
+      "id": "hrd-016",
+      "word": "scanner",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "skaner"
+    },
+    {
+      "id": "hrd-017",
+      "word": "USB",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "USB"
+    },
+    {
+      "id": "hrd-018",
+      "word": "cable",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kabel"
+    },
+    {
+      "id": "hrd-019",
+      "word": "flash drive",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "flash yaddaş"
+    },
+    {
+      "id": "hrd-020",
+      "word": "hard drive",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sərt disk"
+    },
+    {
+      "id": "hrd-021",
+      "word": "memory",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yaddaş"
+    },
+    {
+      "id": "hrd-022",
+      "word": "button",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "düymə"
+    },
+    {
+      "id": "hrd-023",
+      "word": "screenshot",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ekran görüntüsü"
+    },
+    {
+      "id": "hrd-024",
+      "word": "device",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cihaz"
+    },
+
+    {
+      "id": "hrd-025",
+      "word": "CPU",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mərkəzi prosessor"
+    },
+    {
+      "id": "hrd-026",
+      "word": "RAM",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "operativ yaddaş"
+    },
+    {
+      "id": "hrd-027",
+      "word": "motherboard",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ana plata"
+    },
+    {
+      "id": "hrd-028",
+      "word": "graphics card",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "video kart"
+    },
+    {
+      "id": "hrd-029",
+      "word": "sound card",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səs kartı"
+    },
+    {
+      "id": "hrd-030",
+      "word": "network card",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şəbəkə kartı"
+    },
+    {
+      "id": "hrd-031",
+      "word": "power supply",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "enerji bloku"
+    },
+    {
+      "id": "hrd-032",
+      "word": "cooling fan",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "soyutma ventilyatoru"
+    },
+    {
+      "id": "hrd-033",
+      "word": "hardware",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "aparat təminatı"
+    },
+    {
+      "id": "hrd-034",
+      "word": "SSD",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürətli sərt disk"
+    },
+    {
+      "id": "hrd-035",
+      "word": "USB port",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "USB portu"
+    },
+    {
+      "id": "hrd-036",
+      "word": "HDMI port",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "HDMI portu"
+    },
+    {
+      "id": "hrd-037",
+      "word": "Ethernet port",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "Ethernet portu"
+    },
+    {
+      "id": "hrd-038",
+      "word": "audio jack",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "audio giriş"
+    },
+    {
+      "id": "hrd-039",
+      "word": "power cable",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "enerji kabeli"
+    },
+    {
+      "id": "hrd-040",
+      "word": "case",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "komputer korpusu"
+    },
+    {
+      "id": "hrd-041",
+      "word": "touchpad",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sensor lövhə"
+    },
+    {
+      "id": "hrd-042",
+      "word": "external hard disk",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xarici sərt disk"
+    },
+    {
+      "id": "hrd-043",
+      "word": "wifi adapter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "wifi adapteri"
+    },
+    {
+      "id": "hrd-044",
+      "word": "resolution",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ekran keyfiyyəti (piksel sayı)"
+    },
+    {
+      "id": "hrd-045",
+      "word": "pixel",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "piksel"
+    },
+
+    {
+      "id": "hrd-046",
+      "word": "processor",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "prosessor"
+    },
+    {
+      "id": "hrd-047",
+      "word": "peripheral",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əlavə cihaz (periferiya)"
+    },
+    {
+      "id": "hrd-048",
+      "word": "firmware",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qurğu proqramı (firmware)"
+    }
+  ]
+}

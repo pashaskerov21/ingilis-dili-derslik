@@ -16,6 +16,7 @@ export const metadata: Metadata = {
 export default function VocabularyPage() {
   const categories = getAllCategories();
   const searchIndex = getSearchIndex();
+  const totalWordCount = searchIndex.length;
 
   return (
     <main>
@@ -26,7 +27,8 @@ export default function VocabularyPage() {
       <header>
         <h1 className="font-display text-3xl sm:text-4xl">Lüğət</h1>
         <p className="mt-3 font-body text-muted">
-          Kateqoriyalar üzrə söz ehtiyatı — A1-dən C2-yə qədər.
+          Kateqoriyalar üzrə söz ehtiyatı — A1-dən C2-yə qədər. Cəmi{' '}
+          {totalWordCount} söz.
         </p>
       </header>
 

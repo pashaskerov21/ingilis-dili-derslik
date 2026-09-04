@@ -1,0 +1,408 @@
+{
+  "category": "ickiler",
+  "words": [
+    {
+      "id": "drk-001",
+      "word": "water",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "su"
+    },
+    {
+      "id": "drk-002",
+      "word": "tea",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çay"
+    },
+    {
+      "id": "drk-003",
+      "word": "coffee",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qəhvə"
+    },
+    {
+      "id": "drk-004",
+      "word": "juice",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şirə"
+    },
+    {
+      "id": "drk-005",
+      "word": "wine",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şərab"
+    },
+    {
+      "id": "drk-006",
+      "word": "drink",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "içmək"
+    },
+    {
+      "id": "drk-007",
+      "word": "cup",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "fincan"
+    },
+    {
+      "id": "drk-008",
+      "word": "glass",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "stəkan"
+    },
+    {
+      "id": "drk-009",
+      "word": "bottle",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şüşə (qab)"
+    },
+
+    {
+      "id": "drk-010",
+      "word": "lemonade",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "limonad"
+    },
+    {
+      "id": "drk-011",
+      "word": "milkshake",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "milkşeyk"
+    },
+    {
+      "id": "drk-012",
+      "word": "smoothie",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "smuzi"
+    },
+    {
+      "id": "drk-013",
+      "word": "soda",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qazlı su/içki"
+    },
+    {
+      "id": "drk-014",
+      "word": "beer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pivə"
+    },
+    {
+      "id": "drk-015",
+      "word": "can",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "banka (metal qab)"
+    },
+    {
+      "id": "drk-016",
+      "word": "mug",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "böyük fincan"
+    },
+    {
+      "id": "drk-017",
+      "word": "straw",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "içmə borucuğu"
+    },
+    {
+      "id": "drk-018",
+      "word": "ice",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "buz"
+    },
+    {
+      "id": "drk-019",
+      "word": "pour",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "tökmək (maye)"
+    },
+    {
+      "id": "drk-020",
+      "word": "thirsty",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "susamış"
+    },
+    {
+      "id": "drk-021",
+      "word": "mineral water",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mineral su"
+    },
+    {
+      "id": "drk-022",
+      "word": "hot chocolate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "isti şokolad"
+    },
+
+    {
+      "id": "drk-023",
+      "word": "champagne",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şampan"
+    },
+    {
+      "id": "drk-024",
+      "word": "whisky",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "viski"
+    },
+    {
+      "id": "drk-025",
+      "word": "vodka",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "araq"
+    },
+    {
+      "id": "drk-026",
+      "word": "rum",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rom"
+    },
+    {
+      "id": "drk-027",
+      "word": "gin",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cin"
+    },
+    {
+      "id": "drk-028",
+      "word": "cider",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sidr"
+    },
+    {
+      "id": "drk-029",
+      "word": "cocktail",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kokteyl"
+    },
+    {
+      "id": "drk-030",
+      "word": "espresso",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "espresso"
+    },
+    {
+      "id": "drk-031",
+      "word": "latte",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "latte"
+    },
+    {
+      "id": "drk-032",
+      "word": "cappuccino",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kapuçino"
+    },
+    {
+      "id": "drk-033",
+      "word": "herbal tea",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bitki çayı"
+    },
+    {
+      "id": "drk-034",
+      "word": "energy drink",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "enerji içkisi"
+    },
+    {
+      "id": "drk-035",
+      "word": "sparkling",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qazlı, köpüklü"
+    },
+    {
+      "id": "drk-036",
+      "word": "still",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qazsız (su)"
+    },
+    {
+      "id": "drk-037",
+      "word": "fizzy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "köpüklü, qazlı"
+    },
+    {
+      "id": "drk-038",
+      "word": "refreshing",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "sərinləşdirici"
+    },
+    {
+      "id": "drk-039",
+      "word": "strong",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "güclü (çay/qəhvə)"
+    },
+    {
+      "id": "drk-040",
+      "word": "weak",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "zəif (çay/qəhvə)"
+    },
+    {
+      "id": "drk-041",
+      "word": "sip",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qurtum-qurtum içmək"
+    },
+    {
+      "id": "drk-042",
+      "word": "gulp",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "birdəfəlik udmaq"
+    },
+    {
+      "id": "drk-043",
+      "word": "brew",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "dəmləmək"
+    },
+    {
+      "id": "drk-044",
+      "word": "squeeze",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sıxmaq (şirə üçün)"
+    },
+    {
+      "id": "drk-045",
+      "word": "jug",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dolça"
+    },
+    {
+      "id": "drk-046",
+      "word": "kettle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çaydan"
+    },
+    {
+      "id": "drk-047",
+      "word": "thermos",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "termos"
+    },
+    {
+      "id": "drk-048",
+      "word": "bartender",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "barmen"
+    },
+
+    {
+      "id": "drk-049",
+      "word": "beverage",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "içki (rəsmi termin)"
+    },
+    {
+      "id": "drk-050",
+      "word": "nonalcoholic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "alkoqolsuz"
+    },
+    {
+      "id": "drk-051",
+      "word": "alcohol",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "alkoqol"
+    },
+    {
+      "id": "drk-052",
+      "word": "spirits",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sərt içkilər"
+    },
+    {
+      "id": "drk-053",
+      "word": "mocktail",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "alkoqolsuz kokteyl"
+    },
+    {
+      "id": "drk-054",
+      "word": "caffeine",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kofein"
+    },
+    {
+      "id": "drk-055",
+      "word": "hydration",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "susuzluğun aradan qaldırılması"
+    },
+    {
+      "id": "drk-056",
+      "word": "refreshment",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sərinləşdirici içki/qəlyanaltı"
+    },
+
+    {
+      "id": "drk-057",
+      "word": "intoxication",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "sərxoşluq (tibbi termin)"
+    }
+  ]
+}

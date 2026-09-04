@@ -1,0 +1,597 @@
+{
+  "category": "neqliyyat",
+  "words": [
+    {
+      "id": "trn-001",
+      "word": "car",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "avtomobil"
+    },
+    {
+      "id": "trn-002",
+      "word": "bus",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "avtobus"
+    },
+    {
+      "id": "trn-003",
+      "word": "train",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qatar"
+    },
+    {
+      "id": "trn-004",
+      "word": "plane",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "təyyarə"
+    },
+    {
+      "id": "trn-005",
+      "word": "bike",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "velosiped"
+    },
+    {
+      "id": "trn-006",
+      "word": "taxi",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "taksi"
+    },
+    {
+      "id": "trn-007",
+      "word": "boat",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qayıq"
+    },
+    {
+      "id": "trn-008",
+      "word": "ship",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "gəmi"
+    },
+    {
+      "id": "trn-009",
+      "word": "motorbike",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "motosiklet"
+    },
+    {
+      "id": "trn-010",
+      "word": "drive",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "sürmək (maşın)"
+    },
+    {
+      "id": "trn-011",
+      "word": "ride",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "minmək (velosiped/at)"
+    },
+    {
+      "id": "trn-012",
+      "word": "fly",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "uçmaq"
+    },
+    {
+      "id": "trn-013",
+      "word": "ticket",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bilet"
+    },
+    {
+      "id": "trn-014",
+      "word": "road",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yol"
+    },
+    {
+      "id": "trn-015",
+      "word": "traffic light",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "işıqfor"
+    },
+
+    {
+      "id": "trn-016",
+      "word": "travel",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "səyahət etmək"
+    },
+    {
+      "id": "trn-017",
+      "word": "catch",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yetişmək (nəqliyyata)"
+    },
+    {
+      "id": "trn-018",
+      "word": "get on",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "minmək (avtobus/qatar)"
+    },
+    {
+      "id": "trn-019",
+      "word": "get off",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "düşmək (avtobus/qatar)"
+    },
+    {
+      "id": "trn-020",
+      "word": "arrive",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "çatmaq, gəlmək"
+    },
+    {
+      "id": "trn-021",
+      "word": "traffic",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "trafik"
+    },
+    {
+      "id": "trn-022",
+      "word": "traffic jam",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tıxac"
+    },
+    {
+      "id": "trn-023",
+      "word": "passenger",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sərnişin"
+    },
+    {
+      "id": "trn-024",
+      "word": "journey",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səyahət, yol"
+    },
+    {
+      "id": "trn-025",
+      "word": "trip",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səfər"
+    },
+    {
+      "id": "trn-026",
+      "word": "bus stop",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "avtobus dayanacağı"
+    },
+    {
+      "id": "trn-027",
+      "word": "platform",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "peron"
+    },
+    {
+      "id": "trn-028",
+      "word": "port",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "liman"
+    },
+    {
+      "id": "trn-029",
+      "word": "subway",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "metro (yeraltı)"
+    },
+    {
+      "id": "trn-030",
+      "word": "tram",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tramvay"
+    },
+    {
+      "id": "trn-031",
+      "word": "ferry",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bərə"
+    },
+    {
+      "id": "trn-032",
+      "word": "truck",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yük maşını"
+    },
+    {
+      "id": "trn-033",
+      "word": "van",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "furqon"
+    },
+    {
+      "id": "trn-034",
+      "word": "wheel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təkər"
+    },
+    {
+      "id": "trn-035",
+      "word": "engine",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mühərrik"
+    },
+    {
+      "id": "trn-036",
+      "word": "seatbelt",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təhlükəsizlik kəməri"
+    },
+    {
+      "id": "trn-037",
+      "word": "luggage",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "baqaj"
+    },
+    {
+      "id": "trn-038",
+      "word": "public transport",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ictimai nəqliyyat"
+    },
+    {
+      "id": "trn-039",
+      "word": "fare",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yol haqqı"
+    },
+
+    {
+      "id": "trn-040",
+      "word": "motorway",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "magistral yol"
+    },
+    {
+      "id": "trn-041",
+      "word": "lane",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yol zolağı"
+    },
+    {
+      "id": "trn-042",
+      "word": "speed limit",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürət həddi"
+    },
+    {
+      "id": "trn-043",
+      "word": "speed camera",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürət kamerası"
+    },
+    {
+      "id": "trn-044",
+      "word": "road accident",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yol qəzası"
+    },
+    {
+      "id": "trn-045",
+      "word": "coach",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "uzun məsafə avtobusu"
+    },
+    {
+      "id": "trn-046",
+      "word": "lorry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yük maşını (Britaniya)"
+    },
+    {
+      "id": "trn-047",
+      "word": "vehicle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "nəqliyyat vasitəsi"
+    },
+    {
+      "id": "trn-048",
+      "word": "brake",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əyləc"
+    },
+    {
+      "id": "trn-049",
+      "word": "steering wheel",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sükan"
+    },
+    {
+      "id": "trn-050",
+      "word": "headlight",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "faralar"
+    },
+    {
+      "id": "trn-051",
+      "word": "conductor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kondüktor"
+    },
+    {
+      "id": "trn-052",
+      "word": "flight attendant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bortprovodnik"
+    },
+    {
+      "id": "trn-053",
+      "word": "ticket inspector",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bilet yoxlayıcısı"
+    },
+    {
+      "id": "trn-054",
+      "word": "boarding pass",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "minik talonu"
+    },
+    {
+      "id": "trn-055",
+      "word": "check-in",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qeydiyyat (hava limanı)"
+    },
+    {
+      "id": "trn-056",
+      "word": "baggage claim",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "baqaj alma sahəsi"
+    },
+    {
+      "id": "trn-057",
+      "word": "runway",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "uçuş-enmə zolağı"
+    },
+    {
+      "id": "trn-058",
+      "word": "gate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çıxış qapısı (aeroport)"
+    },
+    {
+      "id": "trn-059",
+      "word": "delay",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gecikmə (səyahət)"
+    },
+    {
+      "id": "trn-060",
+      "word": "cancellation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ləğv edilmə"
+    },
+    {
+      "id": "trn-061",
+      "word": "rush hour",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ən sıx trafik saatları"
+    },
+    {
+      "id": "trn-062",
+      "word": "overcrowding",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "həddindən artıq izdiham"
+    },
+    {
+      "id": "trn-063",
+      "word": "board",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "minik etmək (rəsmi)"
+    },
+    {
+      "id": "trn-064",
+      "word": "depart",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "yola düşmək (rəsmi)"
+    },
+    {
+      "id": "trn-065",
+      "word": "destination",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təyinat yeri"
+    },
+    {
+      "id": "trn-066",
+      "word": "pedestrian",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "piyada"
+    },
+    {
+      "id": "trn-067",
+      "word": "cyclist",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "velosipedçi"
+    },
+    {
+      "id": "trn-068",
+      "word": "zebra crossing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "piyada keçidi"
+    },
+    {
+      "id": "trn-069",
+      "word": "one-way",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "bir istiqamətli (yol)"
+    },
+    {
+      "id": "trn-070",
+      "word": "yacht",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yaxta"
+    },
+    {
+      "id": "trn-071",
+      "word": "limousine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "limuzin"
+    },
+    {
+      "id": "trn-072",
+      "word": "helicopter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "helikopter"
+    },
+    {
+      "id": "trn-073",
+      "word": "cable car",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kanat yolu"
+    },
+    {
+      "id": "trn-074",
+      "word": "aircraft",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "uçuş aparatı"
+    },
+    {
+      "id": "trn-075",
+      "word": "harbour",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "liman (təbii)"
+    },
+    {
+      "id": "trn-076",
+      "word": "tunnel",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tunel"
+    },
+
+    {
+      "id": "trn-077",
+      "word": "commute",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "işə/evə gediş-gəliş etmək"
+    },
+    {
+      "id": "trn-078",
+      "word": "congestion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sıxlıq, tıxac (rəsmi)"
+    },
+    {
+      "id": "trn-079",
+      "word": "transportation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nəqliyyat sistemi"
+    },
+    {
+      "id": "trn-080",
+      "word": "infrastructure",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "infrastruktur"
+    },
+    {
+      "id": "trn-081",
+      "word": "cargo",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yük (daşıma)"
+    },
+    {
+      "id": "trn-082",
+      "word": "fare evasion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bilet almadan səyahət"
+    },
+    {
+      "id": "trn-083",
+      "word": "route diversion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "marşrut dəyişikliyi"
+    },
+
+    {
+      "id": "trn-084",
+      "word": "logistics",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "logistika"
+    }
+  ]
+}

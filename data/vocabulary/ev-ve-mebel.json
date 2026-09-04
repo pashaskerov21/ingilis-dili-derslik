@@ -1,0 +1,695 @@
+{
+  "category": "ev-ve-mebel",
+  "words": [
+    {
+      "id": "hom-001",
+      "word": "house",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ev"
+    },
+    {
+      "id": "hom-002",
+      "word": "flat",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mənzil"
+    },
+    {
+      "id": "hom-003",
+      "word": "room",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "otaq"
+    },
+    {
+      "id": "hom-004",
+      "word": "bedroom",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yataq otağı"
+    },
+    {
+      "id": "hom-005",
+      "word": "living room",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qonaq otağı, salon"
+    },
+    {
+      "id": "hom-006",
+      "word": "bathroom",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hamam otağı"
+    },
+    {
+      "id": "hom-007",
+      "word": "garden",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bağ, həyət"
+    },
+    {
+      "id": "hom-008",
+      "word": "table",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "masa"
+    },
+    {
+      "id": "hom-009",
+      "word": "chair",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "stul"
+    },
+    {
+      "id": "hom-010",
+      "word": "bed",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çarpayı"
+    },
+    {
+      "id": "hom-011",
+      "word": "sofa",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "divan"
+    },
+    {
+      "id": "hom-012",
+      "word": "door",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qapı"
+    },
+    {
+      "id": "hom-013",
+      "word": "window",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pəncərə"
+    },
+    {
+      "id": "hom-014",
+      "word": "wall",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "divar"
+    },
+    {
+      "id": "hom-015",
+      "word": "floor",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "döşəmə, mərtəbə"
+    },
+    {
+      "id": "hom-016",
+      "word": "roof",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dam"
+    },
+    {
+      "id": "hom-017",
+      "word": "key",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "açar"
+    },
+    {
+      "id": "hom-018",
+      "word": "clean",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "təmizləmək"
+    },
+    {
+      "id": "hom-019",
+      "word": "TV",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "televizor"
+    },
+    {
+      "id": "hom-020",
+      "word": "lamp",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "lampa"
+    },
+    {
+      "id": "hom-021",
+      "word": "mirror",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "güzgü"
+    },
+    {
+      "id": "hom-022",
+      "word": "wardrobe",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "paltar şkafı"
+    },
+
+    {
+      "id": "hom-023",
+      "word": "dining room",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yemək otağı"
+    },
+    {
+      "id": "hom-024",
+      "word": "hallway",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dəhliz"
+    },
+    {
+      "id": "hom-025",
+      "word": "garage",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qaraj"
+    },
+    {
+      "id": "hom-026",
+      "word": "balcony",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "balkon"
+    },
+    {
+      "id": "hom-027",
+      "word": "basement",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "zirzəmi"
+    },
+    {
+      "id": "hom-028",
+      "word": "attic",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çardaq"
+    },
+    {
+      "id": "hom-029",
+      "word": "desk",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "iş masası"
+    },
+    {
+      "id": "hom-030",
+      "word": "bookshelf",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kitab rəfi"
+    },
+    {
+      "id": "hom-031",
+      "word": "drawer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "siyirmə"
+    },
+    {
+      "id": "hom-032",
+      "word": "armchair",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kreslo"
+    },
+    {
+      "id": "hom-033",
+      "word": "pillow",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yastıq"
+    },
+    {
+      "id": "hom-034",
+      "word": "blanket",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yorğan-döşək örtüyü"
+    },
+    {
+      "id": "hom-035",
+      "word": "sheet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mələfə"
+    },
+    {
+      "id": "hom-036",
+      "word": "mattress",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "döşək"
+    },
+    {
+      "id": "hom-037",
+      "word": "bath",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "vanna"
+    },
+    {
+      "id": "hom-038",
+      "word": "shower",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "duş"
+    },
+    {
+      "id": "hom-039",
+      "word": "toilet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tualet"
+    },
+    {
+      "id": "hom-040",
+      "word": "towel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dəsmal"
+    },
+    {
+      "id": "hom-041",
+      "word": "curtain",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pərdə"
+    },
+    {
+      "id": "hom-042",
+      "word": "carpet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xalça"
+    },
+    {
+      "id": "hom-043",
+      "word": "stairs",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pilləkən"
+    },
+    {
+      "id": "hom-044",
+      "word": "ceiling",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tavan"
+    },
+    {
+      "id": "hom-045",
+      "word": "fence",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hasar"
+    },
+    {
+      "id": "hom-046",
+      "word": "gate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "darvaza"
+    },
+    {
+      "id": "hom-047",
+      "word": "apartment",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mənzil (Amerikan)"
+    },
+    {
+      "id": "hom-048",
+      "word": "washing machine",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "paltaryuyan maşın"
+    },
+    {
+      "id": "hom-049",
+      "word": "vacuum cleaner",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tozsoran"
+    },
+    {
+      "id": "hom-050",
+      "word": "iron",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ütü"
+    },
+    {
+      "id": "hom-051",
+      "word": "move in",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "köçmək (evə)"
+    },
+    {
+      "id": "hom-052",
+      "word": "rent",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "kirayə götürmək/vermək"
+    },
+    {
+      "id": "hom-053",
+      "word": "tidy up",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "səliqəyə salmaq"
+    },
+    {
+      "id": "hom-054",
+      "word": "address",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ünvan"
+    },
+    {
+      "id": "hom-055",
+      "word": "neighbourhood",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məhəllə"
+    },
+    {
+      "id": "hom-056",
+      "word": "doorbell",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qapı zəngi"
+    },
+    {
+      "id": "hom-057",
+      "word": "lock",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kilid"
+    },
+
+    {
+      "id": "hom-058",
+      "word": "nightstand",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "başucu şkafı"
+    },
+    {
+      "id": "hom-059",
+      "word": "cabinet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kabinet, şkaf"
+    },
+    {
+      "id": "hom-060",
+      "word": "rug",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kiçik xalça"
+    },
+    {
+      "id": "hom-061",
+      "word": "fireplace",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kamin"
+    },
+    {
+      "id": "hom-062",
+      "word": "cushion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yumşaq balış"
+    },
+    {
+      "id": "hom-063",
+      "word": "chimney",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "baca"
+    },
+    {
+      "id": "hom-064",
+      "word": "corridor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "koridor"
+    },
+    {
+      "id": "hom-065",
+      "word": "study",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iş otağı, kabinet"
+    },
+    {
+      "id": "hom-066",
+      "word": "cottage",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kiçik kənd evi"
+    },
+    {
+      "id": "hom-067",
+      "word": "villa",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "villa"
+    },
+    {
+      "id": "hom-068",
+      "word": "bungalow",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bir mərtəbəli ev"
+    },
+    {
+      "id": "hom-069",
+      "word": "mansion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mülk, malikanə"
+    },
+    {
+      "id": "hom-070",
+      "word": "block of flats",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çoxmərtəbəli bina"
+    },
+    {
+      "id": "hom-071",
+      "word": "heater",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "isidici"
+    },
+    {
+      "id": "hom-072",
+      "word": "air conditioner",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kondisioner"
+    },
+    {
+      "id": "hom-073",
+      "word": "spacious",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "geniş (məkan)"
+    },
+    {
+      "id": "hom-074",
+      "word": "cosy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rahat, isti (atmosfer)"
+    },
+    {
+      "id": "hom-075",
+      "word": "tidy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "səliqəli"
+    },
+    {
+      "id": "hom-076",
+      "word": "messy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "səliqəsiz"
+    },
+    {
+      "id": "hom-077",
+      "word": "furnished",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "mebelli"
+    },
+    {
+      "id": "hom-078",
+      "word": "comfortable",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rahat"
+    },
+    {
+      "id": "hom-079",
+      "word": "decorate",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "bəzəmək"
+    },
+    {
+      "id": "hom-080",
+      "word": "furnish",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "mebellə təchiz etmək"
+    },
+    {
+      "id": "hom-081",
+      "word": "move out",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "köçüb getmək"
+    },
+    {
+      "id": "hom-082",
+      "word": "electricity",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "elektrik"
+    },
+    {
+      "id": "hom-083",
+      "word": "gas",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qaz"
+    },
+    {
+      "id": "hom-084",
+      "word": "heating",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "isitmə sistemi"
+    },
+    {
+      "id": "hom-085",
+      "word": "bill",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kommunal hesab"
+    },
+    {
+      "id": "hom-086",
+      "word": "landlord",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ev sahibi (kirayə verən)"
+    },
+    {
+      "id": "hom-087",
+      "word": "tenant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kirayənişin"
+    },
+    {
+      "id": "hom-088",
+      "word": "suburb",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şəhər kənarı"
+    },
+    {
+      "id": "hom-089",
+      "word": "letterbox",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "poçt qutusu"
+    },
+    {
+      "id": "hom-090",
+      "word": "tap",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kran"
+    },
+
+    {
+      "id": "hom-091",
+      "word": "cramped",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "sıxılmış, dar"
+    },
+    {
+      "id": "hom-092",
+      "word": "mortgage",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ipoteka"
+    },
+    {
+      "id": "hom-093",
+      "word": "plumbing",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "santexnika sistemi"
+    },
+    {
+      "id": "hom-094",
+      "word": "renovate",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "təmir etmək (əsaslı)"
+    },
+    {
+      "id": "hom-095",
+      "word": "semi-detached",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "yarımayrı (ev tipi)"
+    },
+    {
+      "id": "hom-096",
+      "word": "detached",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "tam ayrı (ev tipi)"
+    },
+
+    {
+      "id": "hom-097",
+      "word": "dwelling",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "məskən (rəsmi)"
+    },
+    {
+      "id": "hom-098",
+      "word": "residence",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "iqamətgah"
+    }
+  ]
+}

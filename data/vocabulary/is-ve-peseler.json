@@ -1,0 +1,695 @@
+{
+  "category": "is-ve-peseler",
+  "words": [
+    {
+      "id": "job-001",
+      "word": "job",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "iş, vəzifə"
+    },
+    {
+      "id": "job-002",
+      "word": "work",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "işləmək"
+    },
+    {
+      "id": "job-003",
+      "word": "doctor",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "həkim"
+    },
+    {
+      "id": "job-004",
+      "word": "teacher",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "müəllim"
+    },
+    {
+      "id": "job-005",
+      "word": "engineer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mühəndis"
+    },
+    {
+      "id": "job-006",
+      "word": "nurse",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tibb bacısı"
+    },
+    {
+      "id": "job-007",
+      "word": "police officer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "polis əməkdaşı"
+    },
+    {
+      "id": "job-008",
+      "word": "driver",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sürücü"
+    },
+    {
+      "id": "job-009",
+      "word": "chef",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "aşpaz"
+    },
+    {
+      "id": "job-010",
+      "word": "farmer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "fermer"
+    },
+    {
+      "id": "job-011",
+      "word": "waiter",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ofisiant"
+    },
+    {
+      "id": "job-012",
+      "word": "office",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ofis"
+    },
+    {
+      "id": "job-013",
+      "word": "company",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şirkət"
+    },
+    {
+      "id": "job-014",
+      "word": "boss",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "rəis"
+    },
+    {
+      "id": "job-015",
+      "word": "salary",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "maaş"
+    },
+    {
+      "id": "job-016",
+      "word": "pilot",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pilot"
+    },
+    {
+      "id": "job-017",
+      "word": "dentist",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "diş həkimi"
+    },
+    {
+      "id": "job-018",
+      "word": "artist",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "rəssam"
+    },
+    {
+      "id": "job-019",
+      "word": "singer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "müğənni"
+    },
+    {
+      "id": "job-020",
+      "word": "scientist",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "alim"
+    },
+
+    {
+      "id": "job-021",
+      "word": "lawyer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "vəkil"
+    },
+    {
+      "id": "job-022",
+      "word": "accountant",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mühasib"
+    },
+    {
+      "id": "job-023",
+      "word": "electrician",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "elektrik ustası"
+    },
+    {
+      "id": "job-024",
+      "word": "plumber",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "santexnik"
+    },
+    {
+      "id": "job-025",
+      "word": "mechanic",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mexanik"
+    },
+    {
+      "id": "job-026",
+      "word": "hairdresser",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bərbər, saç ustası"
+    },
+    {
+      "id": "job-027",
+      "word": "secretary",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "katib"
+    },
+    {
+      "id": "job-028",
+      "word": "manager",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "menecer"
+    },
+    {
+      "id": "job-029",
+      "word": "actor",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "aktyor"
+    },
+    {
+      "id": "job-030",
+      "word": "journalist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "jurnalist"
+    },
+    {
+      "id": "job-031",
+      "word": "shop assistant",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "satıcı"
+    },
+    {
+      "id": "job-032",
+      "word": "receptionist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qeydiyyatçı"
+    },
+    {
+      "id": "job-033",
+      "word": "career",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "karyera"
+    },
+    {
+      "id": "job-034",
+      "word": "interview",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "müsahibə (iş üçün)"
+    },
+    {
+      "id": "job-035",
+      "word": "CV",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tərcümeyi-hal (iş üçün)"
+    },
+    {
+      "id": "job-036",
+      "word": "meeting",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "iclas, görüş"
+    },
+    {
+      "id": "job-037",
+      "word": "colleague",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "həmkar"
+    },
+    {
+      "id": "job-038",
+      "word": "department",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şöbə"
+    },
+    {
+      "id": "job-039",
+      "word": "apply",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "müraciət etmək (işə)"
+    },
+    {
+      "id": "job-040",
+      "word": "hire",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "işə götürmək"
+    },
+    {
+      "id": "job-041",
+      "word": "retire",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "təqaüdə çıxmaq"
+    },
+    {
+      "id": "job-042",
+      "word": "employee",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "işçi"
+    },
+    {
+      "id": "job-043",
+      "word": "employer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "işəgötürən"
+    },
+    {
+      "id": "job-044",
+      "word": "task",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tapşırıq (iş)"
+    },
+    {
+      "id": "job-045",
+      "word": "team",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "komanda"
+    },
+    {
+      "id": "job-046",
+      "word": "busy",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "məşğul"
+    },
+    {
+      "id": "job-047",
+      "word": "factory",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "zavod"
+    },
+    {
+      "id": "job-048",
+      "word": "shopkeeper",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mağaza sahibi"
+    },
+
+    {
+      "id": "job-049",
+      "word": "resign",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "istefa vermək"
+    },
+    {
+      "id": "job-050",
+      "word": "fire",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "işdən çıxarmaq"
+    },
+    {
+      "id": "job-051",
+      "word": "promote",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "vəzifəsini artırmaq"
+    },
+    {
+      "id": "job-052",
+      "word": "employ",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "işə cəlb etmək"
+    },
+    {
+      "id": "job-053",
+      "word": "manage",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "idarə etmək"
+    },
+    {
+      "id": "job-054",
+      "word": "negotiate",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "danışıq aparmaq"
+    },
+    {
+      "id": "job-055",
+      "word": "collaborate",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əməkdaşlıq etmək"
+    },
+    {
+      "id": "job-056",
+      "word": "full-time",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "tam ştat"
+    },
+    {
+      "id": "job-057",
+      "word": "part-time",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "yarım ştat"
+    },
+    {
+      "id": "job-058",
+      "word": "freelance",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "sərbəst iş (freelance)"
+    },
+    {
+      "id": "job-059",
+      "word": "remote",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "uzaqdan (iş)"
+    },
+    {
+      "id": "job-060",
+      "word": "overtime",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əlavə iş vaxtı"
+    },
+    {
+      "id": "job-061",
+      "word": "shift",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "növbə"
+    },
+    {
+      "id": "job-062",
+      "word": "CEO",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "İcraçı Direktor"
+    },
+    {
+      "id": "job-063",
+      "word": "director",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "direktor"
+    },
+    {
+      "id": "job-064",
+      "word": "supervisor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "nəzarətçi"
+    },
+    {
+      "id": "job-065",
+      "word": "intern",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcrübəçi"
+    },
+    {
+      "id": "job-066",
+      "word": "wage",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əmək haqqı (saatlıq)"
+    },
+    {
+      "id": "job-067",
+      "word": "bonus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bonus"
+    },
+    {
+      "id": "job-068",
+      "word": "pension",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "pensiya"
+    },
+    {
+      "id": "job-069",
+      "word": "insurance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sığorta"
+    },
+    {
+      "id": "job-070",
+      "word": "leave",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "icazə (iş, məzuniyyət)"
+    },
+    {
+      "id": "job-071",
+      "word": "business",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "biznes"
+    },
+    {
+      "id": "job-072",
+      "word": "industry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sənaye sahəsi"
+    },
+    {
+      "id": "job-073",
+      "word": "profit",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mənfəət"
+    },
+    {
+      "id": "job-074",
+      "word": "budget",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "büdcə"
+    },
+    {
+      "id": "job-075",
+      "word": "client",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "müştəri (biznes)"
+    },
+    {
+      "id": "job-076",
+      "word": "invoice",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "faktura"
+    },
+    {
+      "id": "job-077",
+      "word": "skill",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bacarıq"
+    },
+    {
+      "id": "job-078",
+      "word": "experience",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcrübə"
+    },
+    {
+      "id": "job-079",
+      "word": "responsibility",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məsuliyyət"
+    },
+    {
+      "id": "job-080",
+      "word": "cover letter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "müşayiət məktubu"
+    },
+    {
+      "id": "job-081",
+      "word": "reference",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "istinad (iş üçün)"
+    },
+    {
+      "id": "job-082",
+      "word": "civil servant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dövlət qulluqçusu"
+    },
+    {
+      "id": "job-083",
+      "word": "electrician's helper",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "elektrik köməkçisi"
+    },
+
+    {
+      "id": "job-084",
+      "word": "psychologist",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "psixoloq"
+    },
+    {
+      "id": "job-085",
+      "word": "security guard",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təhlükəsizlik mühafizəçisi"
+    },
+    {
+      "id": "job-086",
+      "word": "real estate agent",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "daşınmaz əmlak agenti"
+    },
+    {
+      "id": "job-087",
+      "word": "stylist",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "stilist"
+    },
+    {
+      "id": "job-088",
+      "word": "recruitment",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "işə qəbul prosesi"
+    },
+    {
+      "id": "job-089",
+      "word": "candidate",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "namizəd (iş üçün)"
+    },
+    {
+      "id": "job-090",
+      "word": "workforce",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "işçi qüvvəsi"
+    },
+    {
+      "id": "job-091",
+      "word": "shareholder",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "səhmdar"
+    },
+    {
+      "id": "job-092",
+      "word": "revenue",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "gəlir (şirkət)"
+    },
+    {
+      "id": "job-093",
+      "word": "stakeholder",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "maraqlı tərəf"
+    },
+
+    {
+      "id": "job-094",
+      "word": "optometrist",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "göz həkimi (optik)"
+    },
+    {
+      "id": "job-095",
+      "word": "physiotherapist",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "fizioterapevt"
+    },
+    {
+      "id": "job-096",
+      "word": "psychiatrist",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "psixiatr"
+    },
+    {
+      "id": "job-097",
+      "word": "entrepreneur",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "sahibkar"
+    },
+    {
+      "id": "job-098",
+      "word": "consultant",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "konsultant"
+    }
+  ]
+}

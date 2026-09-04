@@ -1,0 +1,702 @@
+{
+  "category": "mektab-ve-tehsil",
+  "words": [
+    {
+      "id": "sch-001",
+      "word": "school",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "məktəb"
+    },
+    {
+      "id": "sch-002",
+      "word": "teacher",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "müəllim"
+    },
+    {
+      "id": "sch-003",
+      "word": "student",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tələbə"
+    },
+    {
+      "id": "sch-004",
+      "word": "class",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sinif"
+    },
+    {
+      "id": "sch-005",
+      "word": "classroom",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sinif otağı"
+    },
+    {
+      "id": "sch-006",
+      "word": "lesson",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dərs"
+    },
+    {
+      "id": "sch-007",
+      "word": "book",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kitab"
+    },
+    {
+      "id": "sch-008",
+      "word": "pen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qələm (dolma)"
+    },
+    {
+      "id": "sch-009",
+      "word": "pencil",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "karandaş"
+    },
+    {
+      "id": "sch-010",
+      "word": "desk",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "partA"
+    },
+    {
+      "id": "sch-011",
+      "word": "bag",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çanta (məktəb)"
+    },
+    {
+      "id": "sch-012",
+      "word": "ruler",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xətkeş"
+    },
+    {
+      "id": "sch-013",
+      "word": "eraser",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pozan"
+    },
+    {
+      "id": "sch-014",
+      "word": "study",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oxumaq (təhsil almaq)"
+    },
+    {
+      "id": "sch-015",
+      "word": "learn",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "öyrənmək"
+    },
+    {
+      "id": "sch-016",
+      "word": "teach",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "öyrətmək"
+    },
+    {
+      "id": "sch-017",
+      "word": "homework",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ev tapşırığı"
+    },
+    {
+      "id": "sch-018",
+      "word": "test",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "test"
+    },
+    {
+      "id": "sch-019",
+      "word": "maths",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "riyaziyyat"
+    },
+    {
+      "id": "sch-020",
+      "word": "English",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ingilis dili (fənn)"
+    },
+
+    {
+      "id": "sch-021",
+      "word": "science",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təbiət elmləri"
+    },
+    {
+      "id": "sch-022",
+      "word": "history",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tarix"
+    },
+    {
+      "id": "sch-023",
+      "word": "geography",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "coğrafiya"
+    },
+    {
+      "id": "sch-024",
+      "word": "art",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təsviri incəsənət"
+    },
+    {
+      "id": "sch-025",
+      "word": "music",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "musiqi (fənn)"
+    },
+    {
+      "id": "sch-026",
+      "word": "PE",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bədən tərbiyəsi"
+    },
+    {
+      "id": "sch-027",
+      "word": "biology",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "biologiya"
+    },
+    {
+      "id": "sch-028",
+      "word": "chemistry",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kimya"
+    },
+    {
+      "id": "sch-029",
+      "word": "physics",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fizika"
+    },
+    {
+      "id": "sch-030",
+      "word": "notebook",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dəftər"
+    },
+    {
+      "id": "sch-031",
+      "word": "exam",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "imtahan"
+    },
+    {
+      "id": "sch-032",
+      "word": "mark",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qiymət (rəqəm)"
+    },
+    {
+      "id": "sch-033",
+      "word": "timetable",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dərs cədvəli"
+    },
+    {
+      "id": "sch-034",
+      "word": "whiteboard",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ağ lövhə"
+    },
+    {
+      "id": "sch-035",
+      "word": "library",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kitabxana"
+    },
+    {
+      "id": "sch-036",
+      "word": "gym",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "idman zalı"
+    },
+    {
+      "id": "sch-037",
+      "word": "playground",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oyun meydançası"
+    },
+    {
+      "id": "sch-038",
+      "word": "canteen",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yeməkxana (məktəb)"
+    },
+    {
+      "id": "sch-039",
+      "word": "classmate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sinif yoldaşı"
+    },
+    {
+      "id": "sch-040",
+      "word": "pupil",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şagird"
+    },
+    {
+      "id": "sch-041",
+      "word": "primary school",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ibtidai məktəb"
+    },
+    {
+      "id": "sch-042",
+      "word": "secondary school",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "orta məktəb"
+    },
+    {
+      "id": "sch-043",
+      "word": "university",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "universitet"
+    },
+    {
+      "id": "sch-044",
+      "word": "kindergarten",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "uşaq bağçası"
+    },
+    {
+      "id": "sch-045",
+      "word": "pass",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "keçmək (imtahan)"
+    },
+    {
+      "id": "sch-046",
+      "word": "fail",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "kəsilmək (imtahandan)"
+    },
+    {
+      "id": "sch-047",
+      "word": "graduate",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "məzun olmaq"
+    },
+    {
+      "id": "sch-048",
+      "word": "attend",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "iştirak etmək (dərsdə)"
+    },
+    {
+      "id": "sch-049",
+      "word": "break",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fasilə (dərs arası)"
+    },
+    {
+      "id": "sch-050",
+      "word": "uniform",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məktəb forması"
+    },
+    {
+      "id": "sch-051",
+      "word": "hardworking",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "çalışqan"
+    },
+    {
+      "id": "sch-052",
+      "word": "lazy",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "tənbəl"
+    },
+    {
+      "id": "sch-053",
+      "word": "clever",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "ağıllı, bacarıqlı"
+    },
+
+    {
+      "id": "sch-054",
+      "word": "college",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kollec"
+    },
+    {
+      "id": "sch-055",
+      "word": "high school",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yuxarı orta məktəb"
+    },
+    {
+      "id": "sch-056",
+      "word": "headteacher",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məktəb direktoru"
+    },
+    {
+      "id": "sch-057",
+      "word": "professor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "professor"
+    },
+    {
+      "id": "sch-058",
+      "word": "tutor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "repetitor, tutor"
+    },
+    {
+      "id": "sch-059",
+      "word": "revise",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təkrar etmək (imtahana)"
+    },
+    {
+      "id": "sch-060",
+      "word": "enrol",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qeydiyyatdan keçmək (təhsil)"
+    },
+    {
+      "id": "sch-061",
+      "word": "skip class",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "dərsi buraxmaq"
+    },
+    {
+      "id": "sch-062",
+      "word": "cheat",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "köçürmək (imtahanda)"
+    },
+    {
+      "id": "sch-063",
+      "word": "degree",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ali təhsil dərəcəsi"
+    },
+    {
+      "id": "sch-064",
+      "word": "diploma",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diplom"
+    },
+    {
+      "id": "sch-065",
+      "word": "certificate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sertifikat"
+    },
+    {
+      "id": "sch-066",
+      "word": "bachelor's degree",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bakalavr dərəcəsi"
+    },
+    {
+      "id": "sch-067",
+      "word": "master's degree",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "magistr dərəcəsi"
+    },
+    {
+      "id": "sch-068",
+      "word": "scholarship",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təqaüd"
+    },
+    {
+      "id": "sch-069",
+      "word": "qualification",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ixtisas, kvalifikasiya"
+    },
+    {
+      "id": "sch-070",
+      "word": "assignment",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tapşırıq (akademik)"
+    },
+    {
+      "id": "sch-071",
+      "word": "essay",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "inşa"
+    },
+    {
+      "id": "sch-072",
+      "word": "curriculum",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tədris planı"
+    },
+    {
+      "id": "sch-073",
+      "word": "syllabus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "proqram (fənn üzrə)"
+    },
+    {
+      "id": "sch-074",
+      "word": "coursework",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kurs işi"
+    },
+    {
+      "id": "sch-075",
+      "word": "term",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tədris dövrü"
+    },
+    {
+      "id": "sch-076",
+      "word": "education",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təhsil"
+    },
+    {
+      "id": "sch-077",
+      "word": "knowledge",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bilik"
+    },
+    {
+      "id": "sch-078",
+      "word": "lecture",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mühazirə"
+    },
+    {
+      "id": "sch-079",
+      "word": "seminar",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "seminar"
+    },
+    {
+      "id": "sch-080",
+      "word": "workshop",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "seminar-təlim"
+    },
+    {
+      "id": "sch-081",
+      "word": "presentation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təqdimat"
+    },
+    {
+      "id": "sch-082",
+      "word": "campus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kampus"
+    },
+    {
+      "id": "sch-083",
+      "word": "accommodation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yaşayış (tələbə)"
+    },
+    {
+      "id": "sch-084",
+      "word": "intelligent",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "zəkalı"
+    },
+    {
+      "id": "sch-085",
+      "word": "diligent",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "səylə çalışan"
+    },
+    {
+      "id": "sch-086",
+      "word": "report card",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qiymət cədvəli"
+    },
+    {
+      "id": "sch-087",
+      "word": "field trip",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ekskursiya (təhsil)"
+    },
+    {
+      "id": "sch-088",
+      "word": "project",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "layihə (akademik)"
+    },
+    {
+      "id": "sch-089",
+      "word": "quiz",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kiçik sınaq (yoxlama)"
+    },
+    {
+      "id": "sch-090",
+      "word": "grade",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sinif (Amerikan) / qiymət"
+    },
+
+    {
+      "id": "sch-091",
+      "word": "thesis",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "dissertasiya (magistr)"
+    },
+    {
+      "id": "sch-092",
+      "word": "dissertation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "dissertasiya (doktorluq)"
+    },
+    {
+      "id": "sch-093",
+      "word": "PhD",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "elmlər doktoru dərəcəsi"
+    },
+    {
+      "id": "sch-094",
+      "word": "faculty",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "fakültə"
+    },
+    {
+      "id": "sch-095",
+      "word": "postgraduate",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "aspiranturaya aid"
+    },
+    {
+      "id": "sch-096",
+      "word": "undergraduate",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "bakalavriata aid"
+    },
+    {
+      "id": "sch-097",
+      "word": "academic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "akademik"
+    },
+
+    {
+      "id": "sch-098",
+      "word": "pedagogy",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "pedaqogika"
+    },
+    {
+      "id": "sch-099",
+      "word": "plagiarism",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "plagiat"
+    }
+  ]
+}

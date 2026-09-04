@@ -1,0 +1,863 @@
+{
+  "category": "heyvanlar",
+  "words": [
+    {
+      "id": "ani-001",
+      "word": "dog",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "it"
+    },
+    {
+      "id": "ani-002",
+      "word": "cat",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pişik"
+    },
+    {
+      "id": "ani-003",
+      "word": "bird",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "quş"
+    },
+    {
+      "id": "ani-004",
+      "word": "fish",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "balıq"
+    },
+    {
+      "id": "ani-005",
+      "word": "horse",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "at"
+    },
+    {
+      "id": "ani-006",
+      "word": "cow",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "inək"
+    },
+    {
+      "id": "ani-007",
+      "word": "pig",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "donuz"
+    },
+    {
+      "id": "ani-008",
+      "word": "sheep",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qoyun"
+    },
+    {
+      "id": "ani-009",
+      "word": "chicken",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "toyuq"
+    },
+    {
+      "id": "ani-010",
+      "word": "lion",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "aslan"
+    },
+    {
+      "id": "ani-011",
+      "word": "tiger",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pələng"
+    },
+    {
+      "id": "ani-012",
+      "word": "elephant",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "fil"
+    },
+    {
+      "id": "ani-013",
+      "word": "monkey",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "meymun"
+    },
+    {
+      "id": "ani-014",
+      "word": "bear",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ayı"
+    },
+    {
+      "id": "ani-015",
+      "word": "rabbit",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dovşan"
+    },
+    {
+      "id": "ani-016",
+      "word": "mouse",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "siçan"
+    },
+    {
+      "id": "ani-017",
+      "word": "duck",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ördək"
+    },
+    {
+      "id": "ani-018",
+      "word": "snake",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ilan"
+    },
+    {
+      "id": "ani-019",
+      "word": "animal",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "heyvan"
+    },
+    {
+      "id": "ani-020",
+      "word": "pet",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ev heyvanı"
+    },
+
+    {
+      "id": "ani-021",
+      "word": "goat",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "keçi"
+    },
+    {
+      "id": "ani-022",
+      "word": "donkey",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "eşşək"
+    },
+    {
+      "id": "ani-023",
+      "word": "hen",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "toyuq (dişi)"
+    },
+    {
+      "id": "ani-024",
+      "word": "rooster",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xoruz"
+    },
+    {
+      "id": "ani-025",
+      "word": "wolf",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "canavar"
+    },
+    {
+      "id": "ani-026",
+      "word": "fox",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tülkü"
+    },
+    {
+      "id": "ani-027",
+      "word": "deer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "maral"
+    },
+    {
+      "id": "ani-028",
+      "word": "squirrel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dələ"
+    },
+    {
+      "id": "ani-029",
+      "word": "frog",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qurbağa"
+    },
+    {
+      "id": "ani-030",
+      "word": "turtle",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tısbağa"
+    },
+    {
+      "id": "ani-031",
+      "word": "crocodile",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "timsah"
+    },
+    {
+      "id": "ani-032",
+      "word": "giraffe",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "jiraf"
+    },
+    {
+      "id": "ani-033",
+      "word": "zebra",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "zebra"
+    },
+    {
+      "id": "ani-034",
+      "word": "kangaroo",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kenquru"
+    },
+    {
+      "id": "ani-035",
+      "word": "camel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dəvə"
+    },
+    {
+      "id": "ani-036",
+      "word": "eagle",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qartal"
+    },
+    {
+      "id": "ani-037",
+      "word": "owl",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bayquş"
+    },
+    {
+      "id": "ani-038",
+      "word": "parrot",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tutuquşu"
+    },
+    {
+      "id": "ani-039",
+      "word": "penguin",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pinqvin"
+    },
+    {
+      "id": "ani-040",
+      "word": "dolphin",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "delfin"
+    },
+    {
+      "id": "ani-041",
+      "word": "shark",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "köpək balığı"
+    },
+    {
+      "id": "ani-042",
+      "word": "whale",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "balina"
+    },
+    {
+      "id": "ani-043",
+      "word": "crab",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xərçəng"
+    },
+    {
+      "id": "ani-044",
+      "word": "insect",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "həşərat"
+    },
+    {
+      "id": "ani-045",
+      "word": "bee",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "arı"
+    },
+    {
+      "id": "ani-046",
+      "word": "butterfly",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kəpənək"
+    },
+    {
+      "id": "ani-047",
+      "word": "spider",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hörümçək"
+    },
+    {
+      "id": "ani-048",
+      "word": "ant",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qarışqa"
+    },
+    {
+      "id": "ani-049",
+      "word": "mosquito",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ağcaqanad"
+    },
+    {
+      "id": "ani-050",
+      "word": "fly",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "milçək"
+    },
+    {
+      "id": "ani-051",
+      "word": "wild",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "vəhşi"
+    },
+    {
+      "id": "ani-052",
+      "word": "hamster",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "хomyak"
+    },
+    {
+      "id": "ani-053",
+      "word": "goldfish",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qızılbalıq"
+    },
+    {
+      "id": "ani-054",
+      "word": "puppy",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "küçük (it balası)"
+    },
+    {
+      "id": "ani-055",
+      "word": "kitten",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pişik balası"
+    },
+
+    {
+      "id": "ani-056",
+      "word": "gorilla",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qorilla"
+    },
+    {
+      "id": "ani-057",
+      "word": "chimpanzee",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şimpanze"
+    },
+    {
+      "id": "ani-058",
+      "word": "rhinoceros",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kərgədan"
+    },
+    {
+      "id": "ani-059",
+      "word": "hippopotamus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "begemot"
+    },
+    {
+      "id": "ani-060",
+      "word": "leopard",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bəbir"
+    },
+    {
+      "id": "ani-061",
+      "word": "cheetah",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gepard"
+    },
+    {
+      "id": "ani-062",
+      "word": "hyena",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kaftar"
+    },
+    {
+      "id": "ani-063",
+      "word": "buffalo",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "camış"
+    },
+    {
+      "id": "ani-064",
+      "word": "gazelle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ceyran"
+    },
+    {
+      "id": "ani-065",
+      "word": "koala",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "koala"
+    },
+    {
+      "id": "ani-066",
+      "word": "llama",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "lama"
+    },
+    {
+      "id": "ani-067",
+      "word": "alpaca",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "alpaka"
+    },
+    {
+      "id": "ani-068",
+      "word": "bison",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bizon"
+    },
+    {
+      "id": "ani-069",
+      "word": "mule",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qatır"
+    },
+    {
+      "id": "ani-070",
+      "word": "ox",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "öküz"
+    },
+    {
+      "id": "ani-071",
+      "word": "falcon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şahin"
+    },
+    {
+      "id": "ani-072",
+      "word": "hawk",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qırğı"
+    },
+    {
+      "id": "ani-073",
+      "word": "swan",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qu quşu"
+    },
+    {
+      "id": "ani-074",
+      "word": "goose",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qaz"
+    },
+    {
+      "id": "ani-075",
+      "word": "pigeon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "göyərçin"
+    },
+    {
+      "id": "ani-076",
+      "word": "crow",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qarğa"
+    },
+    {
+      "id": "ani-077",
+      "word": "sparrow",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sərçə"
+    },
+    {
+      "id": "ani-078",
+      "word": "seagull",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qağayı"
+    },
+    {
+      "id": "ani-079",
+      "word": "flamingo",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "flaminqo"
+    },
+    {
+      "id": "ani-080",
+      "word": "octopus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səkkizqolluq"
+    },
+    {
+      "id": "ani-081",
+      "word": "squid",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kalmar"
+    },
+    {
+      "id": "ani-082",
+      "word": "jellyfish",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "meduza"
+    },
+    {
+      "id": "ani-083",
+      "word": "seal",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "suitisi"
+    },
+    {
+      "id": "ani-084",
+      "word": "walrus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "morj"
+    },
+    {
+      "id": "ani-085",
+      "word": "starfish",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dəniz ulduzu"
+    },
+    {
+      "id": "ani-086",
+      "word": "lobster",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "omar"
+    },
+    {
+      "id": "ani-087",
+      "word": "shrimp",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "krevet"
+    },
+    {
+      "id": "ani-088",
+      "word": "worm",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qurd"
+    },
+    {
+      "id": "ani-089",
+      "word": "lizard",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kərtənkələ"
+    },
+    {
+      "id": "ani-090",
+      "word": "reptile",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürünən"
+    },
+    {
+      "id": "ani-091",
+      "word": "mammal",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məməli"
+    },
+    {
+      "id": "ani-092",
+      "word": "amphibian",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "suda-quruda yaşayan"
+    },
+    {
+      "id": "ani-093",
+      "word": "calf",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "buzov"
+    },
+    {
+      "id": "ani-094",
+      "word": "lamb",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "quzu"
+    },
+    {
+      "id": "ani-095",
+      "word": "piglet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "donuz balası"
+    },
+    {
+      "id": "ani-096",
+      "word": "foal",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "day (at balası)"
+    },
+    {
+      "id": "ani-097",
+      "word": "chick",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cücə"
+    },
+    {
+      "id": "ani-098",
+      "word": "cub",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yırtıcı heyvan balası"
+    },
+    {
+      "id": "ani-099",
+      "word": "herd",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürü (böyük heyvan)"
+    },
+    {
+      "id": "ani-100",
+      "word": "flock",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürü (quş/qoyun)"
+    },
+    {
+      "id": "ani-101",
+      "word": "pack",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürü (canavar)"
+    },
+    {
+      "id": "ani-102",
+      "word": "bark",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "hürmək"
+    },
+    {
+      "id": "ani-103",
+      "word": "meow",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "miyoldamaq"
+    },
+    {
+      "id": "ani-104",
+      "word": "roar",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "nərə çəkmək"
+    },
+    {
+      "id": "ani-105",
+      "word": "growl",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "mırıldamaq (təhdid)"
+    },
+    {
+      "id": "ani-106",
+      "word": "hunt",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ovlamaq"
+    },
+    {
+      "id": "ani-107",
+      "word": "feather",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "lələk"
+    },
+    {
+      "id": "ani-108",
+      "word": "fur",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xəz"
+    },
+    {
+      "id": "ani-109",
+      "word": "tail",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "quyruq"
+    },
+    {
+      "id": "ani-110",
+      "word": "paw",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "pəncə"
+    },
+    {
+      "id": "ani-111",
+      "word": "beak",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dimdik"
+    },
+    {
+      "id": "ani-112",
+      "word": "wing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qanad"
+    },
+    {
+      "id": "ani-113",
+      "word": "endangered",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "nəsli kəsilməkdə olan"
+    },
+
+    {
+      "id": "ani-114",
+      "word": "predator",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yırtıcı heyvan"
+    },
+    {
+      "id": "ani-115",
+      "word": "prey",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ov (heyvan)"
+    },
+    {
+      "id": "ani-116",
+      "word": "habitat",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yaşayış mühiti"
+    },
+    {
+      "id": "ani-117",
+      "word": "species",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "növ (bioloji)"
+    },
+    {
+      "id": "ani-118",
+      "word": "extinct",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "nəsli kəsilmiş"
+    },
+    {
+      "id": "ani-119",
+      "word": "carnivore",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ətyeyən"
+    },
+    {
+      "id": "ani-120",
+      "word": "herbivore",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "otyeyən"
+    },
+    {
+      "id": "ani-121",
+      "word": "camouflage",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kamuflyaj"
+    },
+
+    {
+      "id": "ani-122",
+      "word": "invertebrate",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "onurğasız heyvan"
+    }
+  ]
+}

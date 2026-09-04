@@ -1,0 +1,358 @@
+{
+  "category": "alis-veris",
+  "words": [
+    {
+      "id": "shp-001",
+      "word": "shop",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mağaza"
+    },
+    {
+      "id": "shp-002",
+      "word": "buy",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "almaq"
+    },
+    {
+      "id": "shp-003",
+      "word": "sell",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "satmaq"
+    },
+    {
+      "id": "shp-004",
+      "word": "price",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qiymət"
+    },
+    {
+      "id": "shp-005",
+      "word": "pay",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "ödəmək"
+    },
+    {
+      "id": "shp-006",
+      "word": "cheap",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "ucuz"
+    },
+    {
+      "id": "shp-007",
+      "word": "expensive",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "baha"
+    },
+    {
+      "id": "shp-008",
+      "word": "sale",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "endirim kampaniyası"
+    },
+    {
+      "id": "shp-009",
+      "word": "supermarket",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "supermarket"
+    },
+    {
+      "id": "shp-010",
+      "word": "customer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "müştəri"
+    },
+    {
+      "id": "shp-011",
+      "word": "shopping",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "alış-veriş"
+    },
+    {
+      "id": "shp-012",
+      "word": "shopping bag",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "alış-veriş çantası"
+    },
+
+    {
+      "id": "shp-013",
+      "word": "mall",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ticarət mərkəzi"
+    },
+    {
+      "id": "shp-014",
+      "word": "department store",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "univermaq"
+    },
+    {
+      "id": "shp-015",
+      "word": "butcher",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qəssab"
+    },
+    {
+      "id": "shp-016",
+      "word": "grocery store",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bağçılıq/ərzaq mağazası"
+    },
+    {
+      "id": "shp-017",
+      "word": "cashier",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kassir"
+    },
+    {
+      "id": "shp-018",
+      "word": "receipt",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çek (alış-veriş)"
+    },
+    {
+      "id": "shp-019",
+      "word": "discount",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "endirim"
+    },
+    {
+      "id": "shp-020",
+      "word": "shopping cart",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "alış-veriş arabası"
+    },
+    {
+      "id": "shp-021",
+      "word": "shopping basket",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "alış-veriş səbəti"
+    },
+    {
+      "id": "shp-022",
+      "word": "queue",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "növbə"
+    },
+    {
+      "id": "shp-023",
+      "word": "checkout",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kassa (ödəniş yeri)"
+    },
+    {
+      "id": "shp-024",
+      "word": "barcode",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "barkod"
+    },
+    {
+      "id": "shp-025",
+      "word": "try on",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "geyinib yoxlamaq"
+    },
+    {
+      "id": "shp-026",
+      "word": "return",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "geri qaytarmaq (əşya)"
+    },
+    {
+      "id": "shp-027",
+      "word": "exchange",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "mübadilə etmək"
+    },
+    {
+      "id": "shp-028",
+      "word": "refund",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pulun geri qaytarılması"
+    },
+    {
+      "id": "shp-029",
+      "word": "coupon",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kupon"
+    },
+    {
+      "id": "shp-030",
+      "word": "order",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "sifariş etmək"
+    },
+    {
+      "id": "shp-031",
+      "word": "delivery",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çatdırılma"
+    },
+    {
+      "id": "shp-032",
+      "word": "size",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ölçü (alış-veriş)"
+    },
+
+    {
+      "id": "shp-033",
+      "word": "vendor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "satıcı (küçə)"
+    },
+    {
+      "id": "shp-034",
+      "word": "stall",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "satış köşkü"
+    },
+    {
+      "id": "shp-035",
+      "word": "food court",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yemək bölməsi (mərkəzdə)"
+    },
+    {
+      "id": "shp-036",
+      "word": "out of stock",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "stokda yoxdur"
+    },
+    {
+      "id": "shp-037",
+      "word": "impulse buy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "planlaşdırılmamış alış"
+    },
+    {
+      "id": "shp-038",
+      "word": "bargain",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sərfəli alış"
+    },
+    {
+      "id": "shp-039",
+      "word": "haggle",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qiymət üstündə danışıq aparmaq"
+    },
+    {
+      "id": "shp-040",
+      "word": "afford",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "pul çatdırmaq (almağa)"
+    },
+    {
+      "id": "shp-041",
+      "word": "affordable",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "əlçatan (qiymətə görə)"
+    },
+    {
+      "id": "shp-042",
+      "word": "inexpensive",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "baha olmayan"
+    },
+    {
+      "id": "shp-043",
+      "word": "overcharge",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "artıq qiymət almaq"
+    },
+    {
+      "id": "shp-044",
+      "word": "duplicate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təkrar (məhsul)"
+    },
+    {
+      "id": "shp-045",
+      "word": "retail",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "pərakəndə (satış)"
+    },
+    {
+      "id": "shp-046",
+      "word": "wholesale",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "topdan (satış)"
+    },
+    {
+      "id": "shp-047",
+      "word": "warranty",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "zəmanət"
+    },
+
+    {
+      "id": "shp-048",
+      "word": "consumer",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "istehlakçı"
+    },
+    {
+      "id": "shp-049",
+      "word": "purchase",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "alış (rəsmi termin)"
+    },
+    {
+      "id": "shp-050",
+      "word": "merchandise",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əmtəə, mal"
+    }
+  ]
+}

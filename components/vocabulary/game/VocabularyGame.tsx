@@ -8,6 +8,7 @@ import { GameOverScreen } from '@/components/vocabulary/game/GameOverScreen';
 import { GamePlayScreen } from '@/components/vocabulary/game/GamePlayScreen';
 import { GameScopeStep } from '@/components/vocabulary/game/GameScopeStep';
 import type { VocabCategory } from '@/lib/types';
+import { mergeDuplicateWordsForOverallMode } from '@/lib/vocabulary-game';
 import type { GameDirection, GameScope, GameWord } from '@/lib/vocabulary-game';
 
 type Step = 'scope' | 'direction' | 'playing' | 'gameover';
@@ -65,7 +66,7 @@ export function VocabularyGame({ categories }: VocabularyGameProps) {
   const poolWords = useMemo(() => {
     if (!words) return null;
     return scope.type === 'overall'
-      ? words
+      ? mergeDuplicateWordsForOverallMode(words)
       : words.filter((word) => word.categorySlug === scope.slug);
   }, [words, scope]);
 

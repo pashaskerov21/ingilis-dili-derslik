@@ -1,0 +1,373 @@
+{
+  "category": "pul-ve-maliyye",
+  "words": [
+    {
+      "id": "mon-001",
+      "word": "money",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pul"
+    },
+    {
+      "id": "mon-002",
+      "word": "coin",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sikkə"
+    },
+    {
+      "id": "mon-003",
+      "word": "cash",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "nağd pul"
+    },
+    {
+      "id": "mon-004",
+      "word": "spend",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "xərcləmək"
+    },
+    {
+      "id": "mon-005",
+      "word": "save",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qənaət etmək"
+    },
+    {
+      "id": "mon-006",
+      "word": "cost",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "başa gəlmək (qiymətcə)"
+    },
+    {
+      "id": "mon-007",
+      "word": "dollar",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dollar"
+    },
+    {
+      "id": "mon-008",
+      "word": "euro",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "avro"
+    },
+    {
+      "id": "mon-009",
+      "word": "bill",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "əskinas (Amerikan)"
+    },
+    {
+      "id": "mon-010",
+      "word": "wallet",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pul kisəsi"
+    },
+
+    {
+      "id": "mon-011",
+      "word": "account",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hesab (bank)"
+    },
+    {
+      "id": "mon-012",
+      "word": "ATM",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bankomat"
+    },
+    {
+      "id": "mon-013",
+      "word": "card",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kart"
+    },
+    {
+      "id": "mon-014",
+      "word": "credit card",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kredit kartı"
+    },
+    {
+      "id": "mon-015",
+      "word": "debit card",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "debet kartı"
+    },
+    {
+      "id": "mon-016",
+      "word": "withdraw",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "pul çıxarmaq (bankdan)"
+    },
+    {
+      "id": "mon-017",
+      "word": "deposit",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "pul qoymaq (banka)"
+    },
+    {
+      "id": "mon-018",
+      "word": "pound",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "funt sterlinq"
+    },
+    {
+      "id": "mon-019",
+      "word": "currency",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "valyuta"
+    },
+    {
+      "id": "mon-020",
+      "word": "exchange rate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məzənnə"
+    },
+    {
+      "id": "mon-021",
+      "word": "PIN",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "PIN kod"
+    },
+    {
+      "id": "mon-022",
+      "word": "balance",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hesab qalığı"
+    },
+    {
+      "id": "mon-023",
+      "word": "change",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qalıq pul (xırda)"
+    },
+    {
+      "id": "mon-024",
+      "word": "borrow",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "borc almaq"
+    },
+    {
+      "id": "mon-025",
+      "word": "lend",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "borc vermək"
+    },
+    {
+      "id": "mon-026",
+      "word": "expense",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xərc"
+    },
+    {
+      "id": "mon-027",
+      "word": "income",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gəlir (şəxsi)"
+    },
+
+    {
+      "id": "mon-028",
+      "word": "loan",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kredit, borc"
+    },
+    {
+      "id": "mon-029",
+      "word": "debt",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "borc"
+    },
+    {
+      "id": "mon-030",
+      "word": "interest",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "faiz (bank)"
+    },
+    {
+      "id": "mon-031",
+      "word": "transfer",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "köçürmə etmək (pul)"
+    },
+    {
+      "id": "mon-032",
+      "word": "owe",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "borclu olmaq"
+    },
+    {
+      "id": "mon-033",
+      "word": "invest",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "investisiya etmək"
+    },
+    {
+      "id": "mon-034",
+      "word": "investment",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "investisiya"
+    },
+    {
+      "id": "mon-035",
+      "word": "tax",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vergi"
+    },
+    {
+      "id": "mon-036",
+      "word": "budget",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "büdcə"
+    },
+    {
+      "id": "mon-037",
+      "word": "bank statement",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bank çıxarışı"
+    },
+    {
+      "id": "mon-038",
+      "word": "savings account",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əmanət hesabı"
+    },
+    {
+      "id": "mon-039",
+      "word": "grant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qrant"
+    },
+    {
+      "id": "mon-040",
+      "word": "financial",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "maliyyə (sifət)"
+    },
+    {
+      "id": "mon-041",
+      "word": "accountant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mühasib"
+    },
+    {
+      "id": "mon-042",
+      "word": "banker",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bankir"
+    },
+
+    {
+      "id": "mon-043",
+      "word": "mortgage",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ipoteka"
+    },
+    {
+      "id": "mon-044",
+      "word": "inflation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "inflyasiya"
+    },
+    {
+      "id": "mon-045",
+      "word": "stock market",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "fond birjası"
+    },
+    {
+      "id": "mon-046",
+      "word": "shares",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "səhmlər"
+    },
+    {
+      "id": "mon-047",
+      "word": "dividend",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "dividend"
+    },
+    {
+      "id": "mon-048",
+      "word": "profit",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "mənfəət"
+    },
+    {
+      "id": "mon-049",
+      "word": "loss",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "zərər (maliyyə)"
+    },
+    {
+      "id": "mon-050",
+      "word": "bankruptcy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "iflas"
+    },
+    {
+      "id": "mon-051",
+      "word": "economy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "iqtisadiyyat"
+    },
+
+    {
+      "id": "mon-052",
+      "word": "collapse",
+      "level": "C1",
+      "partOfSpeech": "verb",
+      "translation": "çökmək (iqtisadi)"
+    }
+  ]
+}

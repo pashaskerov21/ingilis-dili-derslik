@@ -1,8 +1,10 @@
 // Lüğət məlumatına sorğu qatı.
 // DİQQƏT: yalnız server komponentlərində istifadə olunur — bütün JSON
 // client bundle-ına düşməsin deyə heç bir client faylından import etmə.
+import fs from 'node:fs';
+import path from 'node:path';
 import vocabularyIndex from '@/data/vocabulary/index.json';
-import aileVeInsanlar from '@/data/vocabulary/aile-ve-insanlar.json';
+
 import type {
   VocabCategory,
   VocabCategoryWords,
@@ -14,20 +16,35 @@ import type {
 
 const index = vocabularyIndex as VocabIndex;
 
+const VOCAB_DATA_DIR = path.join(process.cwd(), 'data', 'vocabulary');
+
 /**
- * Hər kateqoriyanın JSON faylı burada əl ilə qeydə alınır — statik export
- * dinamik (dəyişən yollu) import-u dəstəkləmədiyi üçün. Yeni kateqoriya əlavə
- * edəndə: faylı yuxarıda import et və slug açarı ilə bu map-ə əlavə et.
+ * Kateqoriya sözlərini diskdən oxuyur. Build vaxtı (output: 'export') işlədiyi
+ * üçün faylları statik import etmək əvəzinə birbaşa fs ilə oxuyuruq — beləcə
+ * `data/vocabulary/` içinə yeni JSON əlavə edib index.json-a qeyd etmək
+ * kifayətdir, heç bir kodu əl ilə yeniləmək lazım deyil. Fayl hələ yoxdursa
+ * (məs. index.json-a əvvəlcədən qeyd olunub, amma JSON hələ yazılmayıb) undefined qaytarır.
  */
-const categoryWordsBySlug: Record<string, VocabCategoryWords> = {
-  'aile-ve-insanlar': aileVeInsanlar as VocabCategoryWords,
-};
+function loadCategoryWords(file: string): VocabCategoryWords | undefined {
+  const filePath = path.join(VOCAB_DATA_DIR, file);
+  if (!fs.existsSync(filePath)) return undefined;
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as VocabCategoryWords;
+}
+
+const categoryWordsBySlug: Record<string, VocabCategoryWords> = {};
+for (const category of index.categories) {
+  const words = loadCategoryWords(category.file);
+  if (words) categoryWordsBySlug[category.slug] = words;
+}
 
 const LEVEL_ORDER: VocabLevel[] = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
-/** Bütün kateqoriyalar, index.json-dakı sıra ilə. */
+/**
+ * Bütün kateqoriyalar, index.json-dakı sıra ilə — yalnız JSON faylı
+ * `data/vocabulary/` içində həqiqətən mövcud olanlar göstərilir.
+ */
 export function getAllCategories(): VocabCategory[] {
-  return index.categories;
+  return index.categories.filter((category) => category.slug in categoryWordsBySlug);
 }
 
 /** Slug ilə tək kateqoriya; tapılmasa undefined. */

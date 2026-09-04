@@ -1,0 +1,443 @@
+{
+  "category": "musiqi-ve-aletler",
+  "words": [
+    {
+      "id": "mus-001",
+      "word": "music",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "musiqi"
+    },
+    {
+      "id": "mus-002",
+      "word": "song",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mahnı"
+    },
+    {
+      "id": "mus-003",
+      "word": "guitar",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "gitara"
+    },
+    {
+      "id": "mus-004",
+      "word": "piano",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "piano"
+    },
+    {
+      "id": "mus-005",
+      "word": "drum",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "təbil"
+    },
+    {
+      "id": "mus-006",
+      "word": "violin",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "skripka"
+    },
+    {
+      "id": "mus-007",
+      "word": "singer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "müğənni"
+    },
+    {
+      "id": "mus-008",
+      "word": "band",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "musiqi qrupu"
+    },
+    {
+      "id": "mus-009",
+      "word": "concert",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "konsert"
+    },
+    {
+      "id": "mus-010",
+      "word": "dance",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "rəqs etmək"
+    },
+
+    {
+      "id": "mus-011",
+      "word": "flute",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fleyta"
+    },
+    {
+      "id": "mus-012",
+      "word": "trumpet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "truba"
+    },
+    {
+      "id": "mus-013",
+      "word": "saxophone",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "saksafon"
+    },
+    {
+      "id": "mus-014",
+      "word": "keyboard",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "klaviatura (musiqi aləti)"
+    },
+    {
+      "id": "mus-015",
+      "word": "musician",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "musiqiçi"
+    },
+    {
+      "id": "mus-016",
+      "word": "album",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "albom"
+    },
+    {
+      "id": "mus-017",
+      "word": "lyrics",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mahnı sözləri"
+    },
+    {
+      "id": "mus-018",
+      "word": "melody",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "melodiya"
+    },
+    {
+      "id": "mus-019",
+      "word": "rhythm",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ritm"
+    },
+    {
+      "id": "mus-020",
+      "word": "chorus",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nəqarət"
+    },
+    {
+      "id": "mus-021",
+      "word": "verse",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bənd (mahnıda)"
+    },
+    {
+      "id": "mus-022",
+      "word": "pop",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pop musiqi"
+    },
+    {
+      "id": "mus-023",
+      "word": "rock",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "rok musiqi"
+    },
+    {
+      "id": "mus-024",
+      "word": "jazz",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "caz"
+    },
+    {
+      "id": "mus-025",
+      "word": "instrument",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "musiqi aləti"
+    },
+    {
+      "id": "mus-026",
+      "word": "compose",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "bəstələmək"
+    },
+    {
+      "id": "mus-027",
+      "word": "record",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "səsyazı etmək"
+    },
+    {
+      "id": "mus-028",
+      "word": "tune",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "melodiya, hava"
+    },
+
+    {
+      "id": "mus-029",
+      "word": "cello",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "violonçel"
+    },
+    {
+      "id": "mus-030",
+      "word": "harp",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "arfa"
+    },
+    {
+      "id": "mus-031",
+      "word": "clarinet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "klarnet"
+    },
+    {
+      "id": "mus-032",
+      "word": "trombone",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "trombon"
+    },
+    {
+      "id": "mus-033",
+      "word": "organ",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "orqan"
+    },
+    {
+      "id": "mus-034",
+      "word": "composer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bəstəkar"
+    },
+    {
+      "id": "mus-035",
+      "word": "conductor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dirijor"
+    },
+    {
+      "id": "mus-036",
+      "word": "orchestra",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "orkestr"
+    },
+    {
+      "id": "mus-037",
+      "word": "DJ",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "DJ"
+    },
+    {
+      "id": "mus-038",
+      "word": "beat",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ritm zərbi"
+    },
+    {
+      "id": "mus-039",
+      "word": "tempo",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tempo (sürət)"
+    },
+    {
+      "id": "mus-040",
+      "word": "harmony",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "harmoniya"
+    },
+    {
+      "id": "mus-041",
+      "word": "solo",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "solo ifa"
+    },
+    {
+      "id": "mus-042",
+      "word": "acoustic",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "akustik (gücləndirilməmiş)"
+    },
+    {
+      "id": "mus-043",
+      "word": "classical",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "klassik musiqi"
+    },
+    {
+      "id": "mus-044",
+      "word": "hip hop",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "hip-hop"
+    },
+    {
+      "id": "mus-045",
+      "word": "folk",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "folk musiqi"
+    },
+    {
+      "id": "mus-046",
+      "word": "electronic",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "elektron musiqi"
+    },
+    {
+      "id": "mus-047",
+      "word": "blues",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "blüz"
+    },
+    {
+      "id": "mus-048",
+      "word": "country",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kantri musiqi"
+    },
+    {
+      "id": "mus-049",
+      "word": "reggae",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "regi"
+    },
+    {
+      "id": "mus-050",
+      "word": "amplifier",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gücləndirici"
+    },
+    {
+      "id": "mus-051",
+      "word": "drumstick",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təbil çubuğu"
+    },
+    {
+      "id": "mus-052",
+      "word": "bass guitar",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bas gitara"
+    },
+    {
+      "id": "mus-053",
+      "word": "grand piano",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "royal (böyük piano)"
+    },
+    {
+      "id": "mus-054",
+      "word": "perform",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ifa etmək (canlı)"
+    },
+    {
+      "id": "mus-055",
+      "word": "tune",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "köklənmə etmək (alət)"
+    },
+
+    {
+      "id": "mus-056",
+      "word": "synthesizer",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sintezator"
+    },
+    {
+      "id": "mus-057",
+      "word": "improvisation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "improvizasiya"
+    },
+    {
+      "id": "mus-058",
+      "word": "symphony",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "simfoniya"
+    },
+    {
+      "id": "mus-059",
+      "word": "dynamics",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "dinamika (səs gücü)"
+    },
+    {
+      "id": "mus-060",
+      "word": "percussion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "zərb alətləri"
+    },
+
+    {
+      "id": "mus-061",
+      "word": "timbre",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "tembr (səs rəngi)"
+    },
+    {
+      "id": "mus-062",
+      "word": "syncopation",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "sinkopasiya"
+    }
+  ]
+}

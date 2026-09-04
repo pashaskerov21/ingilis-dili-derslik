@@ -42,7 +42,7 @@ export function GameOverScreen({
 
       {isNewRecord ? (
         <p className="mt-2 font-mono text-xs uppercase tracking-wide text-accent">
-          Yeni rekord! 🎉
+          Yeni rekord!
         </p>
       ) : null}
 

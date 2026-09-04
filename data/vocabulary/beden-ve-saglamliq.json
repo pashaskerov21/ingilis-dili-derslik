@@ -1,0 +1,864 @@
+{
+  "category": "beden-ve-saglamliq",
+  "words": [
+    {
+      "id": "bod-001",
+      "word": "head",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "baş"
+    },
+    {
+      "id": "bod-002",
+      "word": "hair",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "saç"
+    },
+    {
+      "id": "bod-003",
+      "word": "face",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "üz"
+    },
+    {
+      "id": "bod-004",
+      "word": "eye",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "göz"
+    },
+    {
+      "id": "bod-005",
+      "word": "ear",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qulaq"
+    },
+    {
+      "id": "bod-006",
+      "word": "nose",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "burun"
+    },
+    {
+      "id": "bod-007",
+      "word": "mouth",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ağız"
+    },
+    {
+      "id": "bod-008",
+      "word": "tooth",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "diş"
+    },
+    {
+      "id": "bod-009",
+      "word": "neck",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "boyun"
+    },
+    {
+      "id": "bod-010",
+      "word": "shoulder",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çiyin"
+    },
+    {
+      "id": "bod-011",
+      "word": "arm",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qol"
+    },
+    {
+      "id": "bod-012",
+      "word": "hand",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "əl"
+    },
+    {
+      "id": "bod-013",
+      "word": "finger",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "barmaq"
+    },
+    {
+      "id": "bod-014",
+      "word": "leg",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ayaq (bud-baldır)"
+    },
+    {
+      "id": "bod-015",
+      "word": "foot",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ayaq (pəncə)"
+    },
+    {
+      "id": "bod-016",
+      "word": "back",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kürək, arxa"
+    },
+    {
+      "id": "bod-017",
+      "word": "stomach",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qarın, mədə"
+    },
+    {
+      "id": "bod-018",
+      "word": "body",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bədən"
+    },
+    {
+      "id": "bod-019",
+      "word": "healthy",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "sağlam"
+    },
+    {
+      "id": "bod-020",
+      "word": "ill",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "xəstə"
+    },
+    {
+      "id": "bod-021",
+      "word": "sick",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "xəstə, ürəyi bulanan"
+    },
+    {
+      "id": "bod-022",
+      "word": "tired",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "yorğun"
+    },
+    {
+      "id": "bod-023",
+      "word": "cold",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "soyuqdəymə"
+    },
+    {
+      "id": "bod-024",
+      "word": "pain",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ağrı"
+    },
+    {
+      "id": "bod-025",
+      "word": "doctor",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "həkim"
+    },
+    {
+      "id": "bod-026",
+      "word": "nurse",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tibb bacısı"
+    },
+    {
+      "id": "bod-027",
+      "word": "hospital",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xəstəxana"
+    },
+    {
+      "id": "bod-028",
+      "word": "medicine",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dərman"
+    },
+    {
+      "id": "bod-029",
+      "word": "hurt",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "ağrımaq, incitmək"
+    },
+    {
+      "id": "bod-030",
+      "word": "feel",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "hiss etmək"
+    },
+
+    {
+      "id": "bod-031",
+      "word": "knee",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "diz"
+    },
+    {
+      "id": "bod-032",
+      "word": "elbow",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dirsək"
+    },
+    {
+      "id": "bod-033",
+      "word": "ankle",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "topuq"
+    },
+    {
+      "id": "bod-034",
+      "word": "wrist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bilək"
+    },
+    {
+      "id": "bod-035",
+      "word": "chest",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sinə"
+    },
+    {
+      "id": "bod-036",
+      "word": "chin",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çənə"
+    },
+    {
+      "id": "bod-037",
+      "word": "cheek",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yanaq"
+    },
+    {
+      "id": "bod-038",
+      "word": "lip",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dodaq"
+    },
+    {
+      "id": "bod-039",
+      "word": "tongue",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dil (bədən üzvü)"
+    },
+    {
+      "id": "bod-040",
+      "word": "throat",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "boğaz"
+    },
+    {
+      "id": "bod-041",
+      "word": "toe",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ayaq barmağı"
+    },
+    {
+      "id": "bod-042",
+      "word": "thumb",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "baş barmaq"
+    },
+    {
+      "id": "bod-043",
+      "word": "nail",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dırnaq"
+    },
+    {
+      "id": "bod-044",
+      "word": "skin",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dəri"
+    },
+    {
+      "id": "bod-045",
+      "word": "bone",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sümük"
+    },
+    {
+      "id": "bod-046",
+      "word": "heart",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ürək (orqan)"
+    },
+    {
+      "id": "bod-047",
+      "word": "blood",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qan"
+    },
+    {
+      "id": "bod-048",
+      "word": "fever",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yüksək hərarət"
+    },
+    {
+      "id": "bod-049",
+      "word": "headache",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "baş ağrısı"
+    },
+    {
+      "id": "bod-050",
+      "word": "stomachache",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qarın ağrısı"
+    },
+    {
+      "id": "bod-051",
+      "word": "toothache",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "diş ağrısı"
+    },
+    {
+      "id": "bod-052",
+      "word": "cough",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "öskürmək"
+    },
+    {
+      "id": "bod-053",
+      "word": "sneeze",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "asqırmaq"
+    },
+    {
+      "id": "bod-054",
+      "word": "dentist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "diş həkimi"
+    },
+    {
+      "id": "bod-055",
+      "word": "pharmacy",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "aptek"
+    },
+    {
+      "id": "bod-056",
+      "word": "pill",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "həb"
+    },
+    {
+      "id": "bod-057",
+      "word": "injection",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "iynə (tibbi)"
+    },
+    {
+      "id": "bod-058",
+      "word": "bandage",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sarğı"
+    },
+    {
+      "id": "bod-059",
+      "word": "rest",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "istirahət etmək"
+    },
+    {
+      "id": "bod-060",
+      "word": "breathe",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "nəfəs almaq"
+    },
+    {
+      "id": "bod-061",
+      "word": "exercise",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "idman etmək"
+    },
+    {
+      "id": "bod-062",
+      "word": "checkup",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "müayinə"
+    },
+    {
+      "id": "bod-063",
+      "word": "temperature",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hərarət"
+    },
+
+    {
+      "id": "bod-064",
+      "word": "spine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "onurğa"
+    },
+    {
+      "id": "bod-065",
+      "word": "waist",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bel"
+    },
+    {
+      "id": "bod-066",
+      "word": "hip",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "omba"
+    },
+    {
+      "id": "bod-067",
+      "word": "eyebrow",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qaş"
+    },
+    {
+      "id": "bod-068",
+      "word": "eyelash",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kirpik"
+    },
+    {
+      "id": "bod-069",
+      "word": "forehead",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "alın"
+    },
+    {
+      "id": "bod-070",
+      "word": "muscle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əzələ"
+    },
+    {
+      "id": "bod-071",
+      "word": "brain",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "beyin"
+    },
+    {
+      "id": "bod-072",
+      "word": "lung",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ağ ciyər"
+    },
+    {
+      "id": "bod-073",
+      "word": "liver",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qara ciyər"
+    },
+    {
+      "id": "bod-074",
+      "word": "kidney",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "böyrək"
+    },
+    {
+      "id": "bod-075",
+      "word": "allergy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "allergiya"
+    },
+    {
+      "id": "bod-076",
+      "word": "rash",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səpki"
+    },
+    {
+      "id": "bod-077",
+      "word": "infection",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "infeksiya"
+    },
+    {
+      "id": "bod-078",
+      "word": "injury",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "zədə"
+    },
+    {
+      "id": "bod-079",
+      "word": "wound",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yara"
+    },
+    {
+      "id": "bod-080",
+      "word": "bruise",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "göyərmə"
+    },
+    {
+      "id": "bod-081",
+      "word": "sprain",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "burxulmaq"
+    },
+    {
+      "id": "bod-082",
+      "word": "fracture",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sınıq"
+    },
+    {
+      "id": "bod-083",
+      "word": "symptom",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "simptom"
+    },
+    {
+      "id": "bod-084",
+      "word": "diagnosis",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diaqnoz"
+    },
+    {
+      "id": "bod-085",
+      "word": "treatment",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "müalicə"
+    },
+    {
+      "id": "bod-086",
+      "word": "surgery",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cərrahiyyə"
+    },
+    {
+      "id": "bod-087",
+      "word": "operation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əməliyyat"
+    },
+    {
+      "id": "bod-088",
+      "word": "disease",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xəstəlik (tibbi termin)"
+    },
+    {
+      "id": "bod-089",
+      "word": "virus",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "virus"
+    },
+    {
+      "id": "bod-090",
+      "word": "recover",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sağalmaq"
+    },
+    {
+      "id": "bod-091",
+      "word": "suffer",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əziyyət çəkmək"
+    },
+    {
+      "id": "bod-092",
+      "word": "prescription",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "resept"
+    },
+    {
+      "id": "bod-093",
+      "word": "clinic",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "klinika"
+    },
+    {
+      "id": "bod-094",
+      "word": "ambulance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcili yardım maşını"
+    },
+    {
+      "id": "bod-095",
+      "word": "emergency",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcili hal"
+    },
+    {
+      "id": "bod-096",
+      "word": "stress",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "stress"
+    },
+    {
+      "id": "bod-097",
+      "word": "diet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "pəhriz, qida rejimi"
+    },
+    {
+      "id": "bod-098",
+      "word": "fitness",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fiziki forma"
+    },
+    {
+      "id": "bod-099",
+      "word": "sweat",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "tərləmək"
+    },
+    {
+      "id": "bod-100",
+      "word": "swallow",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "udmaq"
+    },
+
+    {
+      "id": "bod-101",
+      "word": "anxiety",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "narahatlıq, təşviş"
+    },
+    {
+      "id": "bod-102",
+      "word": "depression",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "depressiya"
+    },
+    {
+      "id": "bod-103",
+      "word": "mental health",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ruhi sağlamlıq"
+    },
+    {
+      "id": "bod-104",
+      "word": "therapy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "terapiya"
+    },
+    {
+      "id": "bod-105",
+      "word": "wellbeing",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "rifah, yaxşı hal"
+    },
+    {
+      "id": "bod-106",
+      "word": "immune system",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "immun sistemi"
+    },
+    {
+      "id": "bod-107",
+      "word": "vaccine",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "peyvənd"
+    },
+    {
+      "id": "bod-108",
+      "word": "nutrition",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qidalanma"
+    },
+    {
+      "id": "bod-109",
+      "word": "diabetes",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "diabet"
+    },
+    {
+      "id": "bod-110",
+      "word": "disability",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əlillik"
+    },
+    {
+      "id": "bod-111",
+      "word": "contract",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "xəstəliyə yoluxmaq (rəsmi)"
+    },
+    {
+      "id": "bod-112",
+      "word": "prescribe",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "dərman yazmaq (həkim)"
+    },
+    {
+      "id": "bod-113",
+      "word": "diagnose",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "diaqnoz qoymaq"
+    },
+    {
+      "id": "bod-114",
+      "word": "prevent",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "qarşısını almaq"
+    },
+    {
+      "id": "bod-115",
+      "word": "digest",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "həzm etmək"
+    },
+
+    {
+      "id": "bod-116",
+      "word": "chronic",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "xroniki"
+    },
+    {
+      "id": "bod-117",
+      "word": "contagious",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "yoluxucu"
+    },
+    {
+      "id": "bod-118",
+      "word": "terminally ill",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "sağalmaz dərəcədə xəstə"
+    },
+    {
+      "id": "bod-119",
+      "word": "remedy",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "dərman, çarə"
+    },
+    {
+      "id": "bod-120",
+      "word": "epidemic",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "epidemiya"
+    },
+
+    {
+      "id": "bod-121",
+      "word": "physiological",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "fizioloji"
+    },
+    {
+      "id": "bod-122",
+      "word": "malaise",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "naxoşluq hissi (ədəbi)"
+    }
+  ]
+}

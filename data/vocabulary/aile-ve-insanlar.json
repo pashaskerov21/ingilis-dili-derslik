@@ -1,156 +1,1032 @@
 {
   "category": "aile-ve-insanlar",
   "words": [
-    { "id": "fam-001", "word": "mother", "level": "A1", "partOfSpeech": "noun", "translation": "ana" },
-    { "id": "fam-002", "word": "father", "level": "A1", "partOfSpeech": "noun", "translation": "ata" },
-    { "id": "fam-003", "word": "parent", "level": "A1", "partOfSpeech": "noun", "translation": "valideyn" },
-    { "id": "fam-004", "word": "parents", "level": "A1", "partOfSpeech": "noun", "translation": "valideynlər" },
-    { "id": "fam-005", "word": "brother", "level": "A1", "partOfSpeech": "noun", "translation": "qardaş" },
-    { "id": "fam-006", "word": "sister", "level": "A1", "partOfSpeech": "noun", "translation": "bacı" },
-    { "id": "fam-007", "word": "son", "level": "A1", "partOfSpeech": "noun", "translation": "oğul" },
-    { "id": "fam-008", "word": "daughter", "level": "A1", "partOfSpeech": "noun", "translation": "qız (övlad)" },
-    { "id": "fam-009", "word": "child", "level": "A1", "partOfSpeech": "noun", "translation": "uşaq" },
-    { "id": "fam-010", "word": "children", "level": "A1", "partOfSpeech": "noun", "translation": "uşaqlar" },
-    { "id": "fam-011", "word": "baby", "level": "A1", "partOfSpeech": "noun", "translation": "körpə" },
-    { "id": "fam-012", "word": "family", "level": "A1", "partOfSpeech": "noun", "translation": "ailə" },
-    { "id": "fam-013", "word": "grandmother", "level": "A1", "partOfSpeech": "noun", "translation": "nənə" },
-    { "id": "fam-014", "word": "grandfather", "level": "A1", "partOfSpeech": "noun", "translation": "baba" },
-    { "id": "fam-015", "word": "grandparents", "level": "A1", "partOfSpeech": "noun", "translation": "baba-nənə" },
-    { "id": "fam-016", "word": "aunt", "level": "A1", "partOfSpeech": "noun", "translation": "xala / bibi" },
-    { "id": "fam-017", "word": "uncle", "level": "A1", "partOfSpeech": "noun", "translation": "dayı / əmi" },
-    { "id": "fam-018", "word": "cousin", "level": "A1", "partOfSpeech": "noun", "translation": "əmiuşağı / xalauşağı" },
-    { "id": "fam-019", "word": "husband", "level": "A1", "partOfSpeech": "noun", "translation": "ər" },
-    { "id": "fam-020", "word": "wife", "level": "A1", "partOfSpeech": "noun", "translation": "arvad" },
-    { "id": "fam-021", "word": "friend", "level": "A1", "partOfSpeech": "noun", "translation": "dost" },
-    { "id": "fam-022", "word": "boy", "level": "A1", "partOfSpeech": "noun", "translation": "oğlan" },
-    { "id": "fam-023", "word": "girl", "level": "A1", "partOfSpeech": "noun", "translation": "qız" },
-    { "id": "fam-024", "word": "man", "level": "A1", "partOfSpeech": "noun", "translation": "kişi" },
-    { "id": "fam-025", "word": "woman", "level": "A1", "partOfSpeech": "noun", "translation": "qadın" },
-    { "id": "fam-026", "word": "person", "level": "A1", "partOfSpeech": "noun", "translation": "şəxs, insan" },
-    { "id": "fam-027", "word": "people", "level": "A1", "partOfSpeech": "noun", "translation": "insanlar" },
-    { "id": "fam-028", "word": "name", "level": "A1", "partOfSpeech": "noun", "translation": "ad" },
-    { "id": "fam-029", "word": "mom", "level": "A1", "partOfSpeech": "noun", "translation": "ana (qeyri-rəsmi)" },
-    { "id": "fam-030", "word": "dad", "level": "A1", "partOfSpeech": "noun", "translation": "ata (qeyri-rəsmi)" },
-    { "id": "fam-031", "word": "grandma", "level": "A1", "partOfSpeech": "noun", "translation": "nənə (qeyri-rəsmi)" },
-    { "id": "fam-032", "word": "grandpa", "level": "A1", "partOfSpeech": "noun", "translation": "baba (qeyri-rəsmi)" },
-    { "id": "fam-033", "word": "kid", "level": "A1", "partOfSpeech": "noun", "translation": "uşaq (qeyri-rəsmi)" },
-    { "id": "fam-034", "word": "adult", "level": "A1", "partOfSpeech": "noun", "translation": "yetkin" },
-    { "id": "fam-035", "word": "human", "level": "A1", "partOfSpeech": "noun", "translation": "insan" },
-    { "id": "fam-036", "word": "mommy", "level": "A1", "partOfSpeech": "noun", "translation": "anacan" },
-    { "id": "fam-037", "word": "daddy", "level": "A1", "partOfSpeech": "noun", "translation": "atacan" },
-    { "id": "fam-038", "word": "granny", "level": "A1", "partOfSpeech": "noun", "translation": "nənəcan" },
-    { "id": "fam-039", "word": "grandad", "level": "A1", "partOfSpeech": "noun", "translation": "babacan" },
-    { "id": "fam-040", "word": "bro", "level": "A1", "partOfSpeech": "noun", "translation": "qardaş (qeyri-rəsmi)" },
-    { "id": "fam-041", "word": "sis", "level": "A1", "partOfSpeech": "noun", "translation": "bacı (qeyri-rəsmi)" },
+    {
+      "id": "fam-001",
+      "word": "mother",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ana"
+    },
+    {
+      "id": "fam-002",
+      "word": "father",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ata"
+    },
+    {
+      "id": "fam-003",
+      "word": "parent",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "valideyn"
+    },
+    {
+      "id": "fam-004",
+      "word": "parents",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "valideynlər"
+    },
+    {
+      "id": "fam-005",
+      "word": "brother",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qardaş"
+    },
+    {
+      "id": "fam-006",
+      "word": "sister",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bacı"
+    },
+    {
+      "id": "fam-007",
+      "word": "son",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "oğul"
+    },
+    {
+      "id": "fam-008",
+      "word": "daughter",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qız (övlad)"
+    },
+    {
+      "id": "fam-009",
+      "word": "child",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "uşaq"
+    },
+    {
+      "id": "fam-010",
+      "word": "children",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "uşaqlar"
+    },
+    {
+      "id": "fam-011",
+      "word": "baby",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "körpə"
+    },
+    {
+      "id": "fam-012",
+      "word": "family",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ailə"
+    },
+    {
+      "id": "fam-013",
+      "word": "grandmother",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "nənə"
+    },
+    {
+      "id": "fam-014",
+      "word": "grandfather",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "baba"
+    },
+    {
+      "id": "fam-015",
+      "word": "grandparents",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "baba-nənə"
+    },
+    {
+      "id": "fam-016",
+      "word": "aunt",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xala / bibi"
+    },
+    {
+      "id": "fam-017",
+      "word": "uncle",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dayı / əmi"
+    },
+    {
+      "id": "fam-018",
+      "word": "cousin",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "əmiuşağı / xalauşağı"
+    },
+    {
+      "id": "fam-019",
+      "word": "husband",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ər"
+    },
+    {
+      "id": "fam-020",
+      "word": "wife",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "arvad"
+    },
+    {
+      "id": "fam-021",
+      "word": "friend",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dost"
+    },
+    {
+      "id": "fam-022",
+      "word": "boy",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "oğlan"
+    },
+    {
+      "id": "fam-023",
+      "word": "girl",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qız"
+    },
+    {
+      "id": "fam-024",
+      "word": "man",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kişi"
+    },
+    {
+      "id": "fam-025",
+      "word": "woman",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qadın"
+    },
+    {
+      "id": "fam-026",
+      "word": "person",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şəxs, insan"
+    },
+    {
+      "id": "fam-027",
+      "word": "people",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "insanlar"
+    },
+    {
+      "id": "fam-028",
+      "word": "name",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ad"
+    },
+    {
+      "id": "fam-029",
+      "word": "mom",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ana (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-030",
+      "word": "dad",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ata (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-031",
+      "word": "grandma",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "nənə (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-032",
+      "word": "grandpa",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "baba (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-033",
+      "word": "kid",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "uşaq (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-034",
+      "word": "adult",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yetkin"
+    },
+    {
+      "id": "fam-035",
+      "word": "human",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "insan"
+    },
+    {
+      "id": "fam-036",
+      "word": "mommy",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "anacan"
+    },
+    {
+      "id": "fam-037",
+      "word": "daddy",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "atacan"
+    },
+    {
+      "id": "fam-038",
+      "word": "granny",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "nənəcan"
+    },
+    {
+      "id": "fam-039",
+      "word": "grandad",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "babacan"
+    },
+    {
+      "id": "fam-040",
+      "word": "bro",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qardaş (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-041",
+      "word": "sis",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bacı (qeyri-rəsmi)"
+    },
 
-    { "id": "fam-042", "word": "grandson", "level": "A2", "partOfSpeech": "noun", "translation": "nəvə (oğlan)" },
-    { "id": "fam-043", "word": "granddaughter", "level": "A2", "partOfSpeech": "noun", "translation": "nəvə (qız)" },
-    { "id": "fam-044", "word": "nephew", "level": "A2", "partOfSpeech": "noun", "translation": "qardaşoğlu / bacıoğlu" },
-    { "id": "fam-045", "word": "niece", "level": "A2", "partOfSpeech": "noun", "translation": "qardaşqızı / bacıqızı" },
-    { "id": "fam-046", "word": "relative", "level": "A2", "partOfSpeech": "noun", "translation": "qohum" },
-    { "id": "fam-047", "word": "relatives", "level": "A2", "partOfSpeech": "noun", "translation": "qohumlar" },
-    { "id": "fam-048", "word": "spouse", "level": "A2", "partOfSpeech": "noun", "translation": "həyat yoldaşı" },
-    { "id": "fam-049", "word": "married", "level": "A2", "partOfSpeech": "adjective", "translation": "evli" },
-    { "id": "fam-050", "word": "single", "level": "A2", "partOfSpeech": "adjective", "translation": "subay" },
-    { "id": "fam-051", "word": "divorced", "level": "A2", "partOfSpeech": "adjective", "translation": "boşanmış" },
-    { "id": "fam-052", "word": "widow", "level": "A2", "partOfSpeech": "noun", "translation": "dul qadın" },
-    { "id": "fam-053", "word": "widower", "level": "A2", "partOfSpeech": "noun", "translation": "dul kişi" },
-    { "id": "fam-054", "word": "engaged", "level": "A2", "partOfSpeech": "adjective", "translation": "nişanlı" },
-    { "id": "fam-055", "word": "fiancé", "level": "A2", "partOfSpeech": "noun", "translation": "nişanlı (kişi)" },
-    { "id": "fam-056", "word": "fiancée", "level": "A2", "partOfSpeech": "noun", "translation": "nişanlı (qadın)" },
-    { "id": "fam-057", "word": "boyfriend", "level": "A2", "partOfSpeech": "noun", "translation": "oğlan dost" },
-    { "id": "fam-058", "word": "girlfriend", "level": "A2", "partOfSpeech": "noun", "translation": "qız dost" },
-    { "id": "fam-059", "word": "partner", "level": "A2", "partOfSpeech": "noun", "translation": "partnyor" },
-    { "id": "fam-060", "word": "couple", "level": "A2", "partOfSpeech": "noun", "translation": "cütlük" },
-    { "id": "fam-061", "word": "neighbour", "level": "A2", "partOfSpeech": "noun", "translation": "qonşu" },
-    { "id": "fam-062", "word": "colleague", "level": "A2", "partOfSpeech": "noun", "translation": "həmkar" },
-    { "id": "fam-063", "word": "classmate", "level": "A2", "partOfSpeech": "noun", "translation": "sinif yoldaşı" },
-    { "id": "fam-064", "word": "roommate", "level": "A2", "partOfSpeech": "noun", "translation": "otaq yoldaşı" },
-    { "id": "fam-065", "word": "stranger", "level": "A2", "partOfSpeech": "noun", "translation": "yad adam" },
-    { "id": "fam-066", "word": "teenager", "level": "A2", "partOfSpeech": "noun", "translation": "yeniyetmə" },
-    { "id": "fam-067", "word": "toddler", "level": "A2", "partOfSpeech": "noun", "translation": "körpə uşaq (yeni yeriyən)" },
-    { "id": "fam-068", "word": "guy", "level": "A2", "partOfSpeech": "noun", "translation": "oğlan (qeyri-rəsmi)" },
-    { "id": "fam-069", "word": "lady", "level": "A2", "partOfSpeech": "noun", "translation": "xanım" },
-    { "id": "fam-070", "word": "gentleman", "level": "A2", "partOfSpeech": "noun", "translation": "cənab" },
-    { "id": "fam-071", "word": "twin", "level": "A2", "partOfSpeech": "noun", "translation": "əkiz" },
-    { "id": "fam-072", "word": "only child", "level": "A2", "partOfSpeech": "noun", "translation": "tək övlad" },
-    { "id": "fam-073", "word": "oldest", "level": "A2", "partOfSpeech": "adjective", "translation": "ən böyük" },
-    { "id": "fam-074", "word": "youngest", "level": "A2", "partOfSpeech": "adjective", "translation": "ən kiçik" },
-    { "id": "fam-075", "word": "elder", "level": "A2", "partOfSpeech": "adjective", "translation": "böyük (yaşca)" },
-    { "id": "fam-076", "word": "younger", "level": "A2", "partOfSpeech": "adjective", "translation": "kiçik (yaşca)" },
-    { "id": "fam-077", "word": "sibling", "level": "A2", "partOfSpeech": "noun", "translation": "bacı-qardaş" },
-    { "id": "fam-078", "word": "siblings", "level": "A2", "partOfSpeech": "noun", "translation": "bacı-qardaşlar" },
-    { "id": "fam-079", "word": "newborn", "level": "A2", "partOfSpeech": "noun", "translation": "yenidoğulmuş körpə" },
-    { "id": "fam-080", "word": "elderly", "level": "A2", "partOfSpeech": "adjective", "translation": "yaşlı" },
-    { "id": "fam-081", "word": "human being", "level": "A2", "partOfSpeech": "noun", "translation": "insan (ümumi)" },
+    {
+      "id": "fam-042",
+      "word": "grandson",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nəvə (oğlan)"
+    },
+    {
+      "id": "fam-043",
+      "word": "granddaughter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nəvə (qız)"
+    },
+    {
+      "id": "fam-044",
+      "word": "nephew",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qardaşoğlu / bacıoğlu"
+    },
+    {
+      "id": "fam-045",
+      "word": "niece",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qardaşqızı / bacıqızı"
+    },
+    {
+      "id": "fam-046",
+      "word": "relative",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qohum"
+    },
+    {
+      "id": "fam-047",
+      "word": "relatives",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qohumlar"
+    },
+    {
+      "id": "fam-048",
+      "word": "spouse",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "həyat yoldaşı"
+    },
+    {
+      "id": "fam-049",
+      "word": "married",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "evli"
+    },
+    {
+      "id": "fam-050",
+      "word": "single",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "subay"
+    },
+    {
+      "id": "fam-051",
+      "word": "divorced",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "boşanmış"
+    },
+    {
+      "id": "fam-052",
+      "word": "widow",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dul qadın"
+    },
+    {
+      "id": "fam-053",
+      "word": "widower",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dul kişi"
+    },
+    {
+      "id": "fam-054",
+      "word": "engaged",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "nişanlı"
+    },
+    {
+      "id": "fam-055",
+      "word": "fiancé",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nişanlı (kişi)"
+    },
+    {
+      "id": "fam-056",
+      "word": "fiancée",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nişanlı (qadın)"
+    },
+    {
+      "id": "fam-057",
+      "word": "boyfriend",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oğlan dost"
+    },
+    {
+      "id": "fam-058",
+      "word": "girlfriend",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qız dost"
+    },
+    {
+      "id": "fam-059",
+      "word": "partner",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "partnyor"
+    },
+    {
+      "id": "fam-060",
+      "word": "couple",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cütlük"
+    },
+    {
+      "id": "fam-061",
+      "word": "neighbour",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qonşu"
+    },
+    {
+      "id": "fam-062",
+      "word": "colleague",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "həmkar"
+    },
+    {
+      "id": "fam-063",
+      "word": "classmate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sinif yoldaşı"
+    },
+    {
+      "id": "fam-064",
+      "word": "roommate",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "otaq yoldaşı"
+    },
+    {
+      "id": "fam-065",
+      "word": "stranger",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yad adam"
+    },
+    {
+      "id": "fam-066",
+      "word": "teenager",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yeniyetmə"
+    },
+    {
+      "id": "fam-067",
+      "word": "toddler",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "körpə uşaq (yeni yeriyən)"
+    },
+    {
+      "id": "fam-068",
+      "word": "guy",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oğlan (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-069",
+      "word": "lady",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xanım"
+    },
+    {
+      "id": "fam-070",
+      "word": "gentleman",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cənab"
+    },
+    {
+      "id": "fam-071",
+      "word": "twin",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əkiz"
+    },
+    {
+      "id": "fam-072",
+      "word": "only child",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tək övlad"
+    },
+    {
+      "id": "fam-073",
+      "word": "oldest",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "ən böyük"
+    },
+    {
+      "id": "fam-074",
+      "word": "youngest",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "ən kiçik"
+    },
+    {
+      "id": "fam-075",
+      "word": "elder",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "böyük (yaşca)"
+    },
+    {
+      "id": "fam-076",
+      "word": "younger",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "kiçik (yaşca)"
+    },
+    {
+      "id": "fam-077",
+      "word": "sibling",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bacı-qardaş"
+    },
+    {
+      "id": "fam-078",
+      "word": "siblings",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bacı-qardaşlar"
+    },
+    {
+      "id": "fam-079",
+      "word": "newborn",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yenidoğulmuş körpə"
+    },
+    {
+      "id": "fam-080",
+      "word": "elderly",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "yaşlı"
+    },
+    {
+      "id": "fam-081",
+      "word": "human being",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "insan (ümumi)"
+    },
 
-    { "id": "fam-082", "word": "mother-in-law", "level": "B1", "partOfSpeech": "noun", "translation": "qayınana" },
-    { "id": "fam-083", "word": "father-in-law", "level": "B1", "partOfSpeech": "noun", "translation": "qayınata" },
-    { "id": "fam-084", "word": "sister-in-law", "level": "B1", "partOfSpeech": "noun", "translation": "baldız / elti" },
-    { "id": "fam-085", "word": "brother-in-law", "level": "B1", "partOfSpeech": "noun", "translation": "qayın / bacanaq" },
-    { "id": "fam-086", "word": "son-in-law", "level": "B1", "partOfSpeech": "noun", "translation": "kürəkən" },
-    { "id": "fam-087", "word": "daughter-in-law", "level": "B1", "partOfSpeech": "noun", "translation": "gəlin" },
-    { "id": "fam-088", "word": "stepfather", "level": "B1", "partOfSpeech": "noun", "translation": "ögey ata" },
-    { "id": "fam-089", "word": "stepmother", "level": "B1", "partOfSpeech": "noun", "translation": "ögey ana" },
-    { "id": "fam-090", "word": "stepson", "level": "B1", "partOfSpeech": "noun", "translation": "ögey oğul" },
-    { "id": "fam-091", "word": "stepdaughter", "level": "B1", "partOfSpeech": "noun", "translation": "ögey qız" },
-    { "id": "fam-092", "word": "stepbrother", "level": "B1", "partOfSpeech": "noun", "translation": "ögey qardaş" },
-    { "id": "fam-093", "word": "stepsister", "level": "B1", "partOfSpeech": "noun", "translation": "ögey bacı" },
-    { "id": "fam-094", "word": "half-brother", "level": "B1", "partOfSpeech": "noun", "translation": "ögey qardaş (bir valideyndən)" },
-    { "id": "fam-095", "word": "half-sister", "level": "B1", "partOfSpeech": "noun", "translation": "ögey bacı (bir valideyndən)" },
-    { "id": "fam-096", "word": "stepparent", "level": "B1", "partOfSpeech": "noun", "translation": "ögey valideyn" },
-    { "id": "fam-097", "word": "stepchild", "level": "B1", "partOfSpeech": "noun", "translation": "ögey övlad" },
-    { "id": "fam-098", "word": "generation", "level": "B1", "partOfSpeech": "noun", "translation": "nəsil" },
-    { "id": "fam-099", "word": "ex-husband", "level": "B1", "partOfSpeech": "noun", "translation": "keçmiş ər" },
-    { "id": "fam-100", "word": "ex-wife", "level": "B1", "partOfSpeech": "noun", "translation": "keçmiş arvad" },
-    { "id": "fam-101", "word": "triplet", "level": "B1", "partOfSpeech": "noun", "translation": "üçəm" },
-    { "id": "fam-102", "word": "middle child", "level": "B1", "partOfSpeech": "noun", "translation": "ortancıl övlad" },
-    { "id": "fam-103", "word": "adopted", "level": "B1", "partOfSpeech": "adjective", "translation": "övladlığa götürülmüş" },
-    { "id": "fam-104", "word": "adoptive parent", "level": "B1", "partOfSpeech": "noun", "translation": "övladlığa götürən valideyn" },
-    { "id": "fam-105", "word": "foster parent", "level": "B1", "partOfSpeech": "noun", "translation": "qəyyum valideyn" },
-    { "id": "fam-106", "word": "foster child", "level": "B1", "partOfSpeech": "noun", "translation": "qəyyumluqda olan uşaq" },
-    { "id": "fam-107", "word": "guardian", "level": "B1", "partOfSpeech": "noun", "translation": "qəyyum" },
-    { "id": "fam-108", "word": "orphan", "level": "B1", "partOfSpeech": "noun", "translation": "yetim" },
-    { "id": "fam-109", "word": "acquaintance", "level": "B1", "partOfSpeech": "noun", "translation": "tanış" },
-    { "id": "fam-110", "word": "best friend", "level": "B1", "partOfSpeech": "noun", "translation": "ən yaxın dost" },
-    { "id": "fam-111", "word": "folks", "level": "B1", "partOfSpeech": "noun", "translation": "valideynlər / ailə (qeyri-rəsmi)" },
-    { "id": "fam-112", "word": "in-laws", "level": "B1", "partOfSpeech": "noun", "translation": "qayın qohumları (ümumi)" },
-    { "id": "fam-113", "word": "infant", "level": "B1", "partOfSpeech": "noun", "translation": "körpə (rəsmi)" },
-    { "id": "fam-114", "word": "senior citizen", "level": "B1", "partOfSpeech": "noun", "translation": "ahıl vətəndaş" },
+    {
+      "id": "fam-082",
+      "word": "mother-in-law",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qayınana"
+    },
+    {
+      "id": "fam-083",
+      "word": "father-in-law",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qayınata"
+    },
+    {
+      "id": "fam-084",
+      "word": "sister-in-law",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "baldız / elti"
+    },
+    {
+      "id": "fam-085",
+      "word": "brother-in-law",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qayın / bacanaq"
+    },
+    {
+      "id": "fam-086",
+      "word": "son-in-law",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kürəkən"
+    },
+    {
+      "id": "fam-087",
+      "word": "daughter-in-law",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gəlin"
+    },
+    {
+      "id": "fam-088",
+      "word": "stepfather",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey ata"
+    },
+    {
+      "id": "fam-089",
+      "word": "stepmother",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey ana"
+    },
+    {
+      "id": "fam-090",
+      "word": "stepson",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey oğul"
+    },
+    {
+      "id": "fam-091",
+      "word": "stepdaughter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey qız"
+    },
+    {
+      "id": "fam-092",
+      "word": "stepbrother",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey qardaş"
+    },
+    {
+      "id": "fam-093",
+      "word": "stepsister",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey bacı"
+    },
+    {
+      "id": "fam-094",
+      "word": "half-brother",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey qardaş (bir valideyndən)"
+    },
+    {
+      "id": "fam-095",
+      "word": "half-sister",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey bacı (bir valideyndən)"
+    },
+    {
+      "id": "fam-096",
+      "word": "stepparent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey valideyn"
+    },
+    {
+      "id": "fam-097",
+      "word": "stepchild",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ögey övlad"
+    },
+    {
+      "id": "fam-098",
+      "word": "generation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "nəsil"
+    },
+    {
+      "id": "fam-099",
+      "word": "ex-husband",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "keçmiş ər"
+    },
+    {
+      "id": "fam-100",
+      "word": "ex-wife",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "keçmiş arvad"
+    },
+    {
+      "id": "fam-101",
+      "word": "triplet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "üçəm"
+    },
+    {
+      "id": "fam-102",
+      "word": "middle child",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ortancıl övlad"
+    },
+    {
+      "id": "fam-103",
+      "word": "adopted",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "övladlığa götürülmüş"
+    },
+    {
+      "id": "fam-104",
+      "word": "adoptive parent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "övladlığa götürən valideyn"
+    },
+    {
+      "id": "fam-105",
+      "word": "foster parent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qəyyum valideyn"
+    },
+    {
+      "id": "fam-106",
+      "word": "foster child",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qəyyumluqda olan uşaq"
+    },
+    {
+      "id": "fam-107",
+      "word": "guardian",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qəyyum"
+    },
+    {
+      "id": "fam-108",
+      "word": "orphan",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yetim"
+    },
+    {
+      "id": "fam-109",
+      "word": "acquaintance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tanış"
+    },
+    {
+      "id": "fam-110",
+      "word": "best friend",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ən yaxın dost"
+    },
+    {
+      "id": "fam-111",
+      "word": "folks",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "valideynlər / ailə (qeyri-rəsmi)"
+    },
+    {
+      "id": "fam-112",
+      "word": "in-laws",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qayın qohumları (ümumi)"
+    },
+    {
+      "id": "fam-113",
+      "word": "infant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "körpə (rəsmi)"
+    },
+    {
+      "id": "fam-114",
+      "word": "senior citizen",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ahıl vətəndaş"
+    },
 
-    { "id": "fam-115", "word": "great-grandmother", "level": "B2", "partOfSpeech": "noun", "translation": "baba-nənənin anası" },
-    { "id": "fam-116", "word": "great-grandfather", "level": "B2", "partOfSpeech": "noun", "translation": "baba-nənənin atası" },
-    { "id": "fam-117", "word": "great-grandson", "level": "B2", "partOfSpeech": "noun", "translation": "nəvənin oğlu" },
-    { "id": "fam-118", "word": "great-granddaughter", "level": "B2", "partOfSpeech": "noun", "translation": "nəvənin qızı" },
-    { "id": "fam-119", "word": "great-aunt", "level": "B2", "partOfSpeech": "noun", "translation": "baba/nənənin bacısı" },
-    { "id": "fam-120", "word": "great-uncle", "level": "B2", "partOfSpeech": "noun", "translation": "baba/nənənin qardaşı" },
-    { "id": "fam-121", "word": "great-nephew", "level": "B2", "partOfSpeech": "noun", "translation": "nəvə qardaşoğlu" },
-    { "id": "fam-122", "word": "great-niece", "level": "B2", "partOfSpeech": "noun", "translation": "nəvə qardaşqızı" },
-    { "id": "fam-123", "word": "parents-in-law", "level": "B2", "partOfSpeech": "noun", "translation": "qayınvalideynlər" },
-    { "id": "fam-124", "word": "immediate family", "level": "B2", "partOfSpeech": "noun", "translation": "yaxın ailə" },
-    { "id": "fam-125", "word": "extended family", "level": "B2", "partOfSpeech": "noun", "translation": "geniş ailə" },
-    { "id": "fam-126", "word": "nuclear family", "level": "B2", "partOfSpeech": "noun", "translation": "nüvə ailəsi" },
-    { "id": "fam-127", "word": "blended family", "level": "B2", "partOfSpeech": "noun", "translation": "qarışıq ailə" },
-    { "id": "fam-128", "word": "single parent", "level": "B2", "partOfSpeech": "noun", "translation": "tək valideyn" },
-    { "id": "fam-129", "word": "biological parent", "level": "B2", "partOfSpeech": "noun", "translation": "bioloji valideyn" },
-    { "id": "fam-130", "word": "blood relative", "level": "B2", "partOfSpeech": "noun", "translation": "qan qohumu" },
-    { "id": "fam-131", "word": "individual", "level": "B2", "partOfSpeech": "noun", "translation": "fərd" },
-    { "id": "fam-132", "word": "household", "level": "B2", "partOfSpeech": "noun", "translation": "ev təsərrüfatı" },
-    { "id": "fam-133", "word": "community", "level": "B2", "partOfSpeech": "noun", "translation": "icma" },
-    { "id": "fam-134", "word": "crowd", "level": "B2", "partOfSpeech": "noun", "translation": "izdiham" },
+    {
+      "id": "fam-115",
+      "word": "great-grandmother",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "baba-nənənin anası"
+    },
+    {
+      "id": "fam-116",
+      "word": "great-grandfather",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "baba-nənənin atası"
+    },
+    {
+      "id": "fam-117",
+      "word": "great-grandson",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nəvənin oğlu"
+    },
+    {
+      "id": "fam-118",
+      "word": "great-granddaughter",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nəvənin qızı"
+    },
+    {
+      "id": "fam-119",
+      "word": "great-aunt",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "baba/nənənin bacısı"
+    },
+    {
+      "id": "fam-120",
+      "word": "great-uncle",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "baba/nənənin qardaşı"
+    },
+    {
+      "id": "fam-121",
+      "word": "great-nephew",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nəvə qardaşoğlu"
+    },
+    {
+      "id": "fam-122",
+      "word": "great-niece",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nəvə qardaşqızı"
+    },
+    {
+      "id": "fam-123",
+      "word": "parents-in-law",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qayınvalideynlər"
+    },
+    {
+      "id": "fam-124",
+      "word": "immediate family",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yaxın ailə"
+    },
+    {
+      "id": "fam-125",
+      "word": "extended family",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "geniş ailə"
+    },
+    {
+      "id": "fam-126",
+      "word": "nuclear family",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "nüvə ailəsi"
+    },
+    {
+      "id": "fam-127",
+      "word": "blended family",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qarışıq ailə"
+    },
+    {
+      "id": "fam-128",
+      "word": "single parent",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tək valideyn"
+    },
+    {
+      "id": "fam-129",
+      "word": "biological parent",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bioloji valideyn"
+    },
+    {
+      "id": "fam-130",
+      "word": "blood relative",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qan qohumu"
+    },
+    {
+      "id": "fam-131",
+      "word": "individual",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "fərd"
+    },
+    {
+      "id": "fam-132",
+      "word": "household",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ev təsərrüfatı"
+    },
+    {
+      "id": "fam-133",
+      "word": "community",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "icma"
+    },
+    {
+      "id": "fam-134",
+      "word": "crowd",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "izdiham"
+    },
 
-    { "id": "fam-135", "word": "ancestor", "level": "C1", "partOfSpeech": "noun", "translation": "əcdad" },
-    { "id": "fam-136", "word": "descendant", "level": "C1", "partOfSpeech": "noun", "translation": "nəsil davamçısı" },
-    { "id": "fam-137", "word": "kin", "level": "C1", "partOfSpeech": "noun", "translation": "qohum-əqrəba" },
-    { "id": "fam-138", "word": "next of kin", "level": "C1", "partOfSpeech": "noun", "translation": "ən yaxın qohum" },
-    { "id": "fam-139", "word": "lineage", "level": "C1", "partOfSpeech": "noun", "translation": "nəsil xətti" },
-    { "id": "fam-140", "word": "clan", "level": "C1", "partOfSpeech": "noun", "translation": "tayfa, nəsil" },
-    { "id": "fam-141", "word": "matriarch", "level": "C1", "partOfSpeech": "noun", "translation": "ailənin qadın başçısı" },
-    { "id": "fam-142", "word": "patriarch", "level": "C1", "partOfSpeech": "noun", "translation": "ailənin kişi başçısı" },
+    {
+      "id": "fam-135",
+      "word": "ancestor",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "əcdad"
+    },
+    {
+      "id": "fam-136",
+      "word": "descendant",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "nəsil davamçısı"
+    },
+    {
+      "id": "fam-137",
+      "word": "kin",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "qohum-əqrəba"
+    },
+    {
+      "id": "fam-138",
+      "word": "next of kin",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "ən yaxın qohum"
+    },
+    {
+      "id": "fam-139",
+      "word": "lineage",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "nəsil xətti"
+    },
+    {
+      "id": "fam-140",
+      "word": "clan",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "tayfa, nəsil"
+    },
+    {
+      "id": "fam-141",
+      "word": "matriarch",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "ailənin qadın başçısı"
+    },
+    {
+      "id": "fam-142",
+      "word": "patriarch",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "ailənin kişi başçısı"
+    },
 
-    { "id": "fam-143", "word": "progeny", "level": "C2", "partOfSpeech": "noun", "translation": "nəsil, övladlar" },
-    { "id": "fam-144", "word": "sibling rivalry", "level": "C2", "partOfSpeech": "noun", "translation": "bacı-qardaş rəqabəti" },
-    { "id": "fam-145", "word": "estranged", "level": "C2", "partOfSpeech": "adjective", "translation": "küsülü, aralanmış" },
-    { "id": "fam-146", "word": "consanguinity", "level": "C2", "partOfSpeech": "noun", "translation": "qan qohumluğu (rəsmi/hüquqi termin)" }
+    {
+      "id": "fam-143",
+      "word": "progeny",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "nəsil, övladlar"
+    },
+    {
+      "id": "fam-144",
+      "word": "sibling rivalry",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "bacı-qardaş rəqabəti"
+    },
+    {
+      "id": "fam-145",
+      "word": "estranged",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "küsülü, aralanmış"
+    },
+    {
+      "id": "fam-146",
+      "word": "consanguinity",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "qan qohumluğu (rəsmi/hüquqi termin)"
+    }
   ]
 }

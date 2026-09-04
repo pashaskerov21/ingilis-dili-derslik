@@ -1,0 +1,436 @@
+{
+  "category": "bisirme-ve-metbex",
+  "words": [
+    {
+      "id": "cok-001",
+      "word": "cook",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "bişirmək"
+    },
+    {
+      "id": "cok-002",
+      "word": "kitchen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mətbəx"
+    },
+    {
+      "id": "cok-003",
+      "word": "plate",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "boşqab"
+    },
+    {
+      "id": "cok-004",
+      "word": "bowl",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kasa"
+    },
+    {
+      "id": "cok-005",
+      "word": "fork",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çəngəl"
+    },
+    {
+      "id": "cok-006",
+      "word": "knife",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bıçaq"
+    },
+    {
+      "id": "cok-007",
+      "word": "spoon",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qaşıq"
+    },
+    {
+      "id": "cok-008",
+      "word": "oven",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sobа (bişirmə)"
+    },
+    {
+      "id": "cok-009",
+      "word": "eat",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "yemək"
+    },
+    {
+      "id": "cok-010",
+      "word": "boil",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qaynatmaq"
+    },
+
+    {
+      "id": "cok-011",
+      "word": "cooker",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "plita"
+    },
+    {
+      "id": "cok-012",
+      "word": "fridge",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "soyuducu"
+    },
+    {
+      "id": "cok-013",
+      "word": "dishwasher",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qabyuyan maşın"
+    },
+    {
+      "id": "cok-014",
+      "word": "pan",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tava"
+    },
+    {
+      "id": "cok-015",
+      "word": "pot",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qazan"
+    },
+    {
+      "id": "cok-016",
+      "word": "bake",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "sobada bişirmək"
+    },
+    {
+      "id": "cok-017",
+      "word": "fry",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "qızartmaq"
+    },
+    {
+      "id": "cok-018",
+      "word": "heat",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "qızdırmaq"
+    },
+    {
+      "id": "cok-019",
+      "word": "prepare",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "hazırlamaq"
+    },
+    {
+      "id": "cok-020",
+      "word": "serve",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "süfrəyə vermək"
+    },
+    {
+      "id": "cok-021",
+      "word": "taste",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "dadına baxmaq"
+    },
+    {
+      "id": "cok-022",
+      "word": "sink",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "lavabo (mətbəx)"
+    },
+    {
+      "id": "cok-023",
+      "word": "cupboard",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şkaf (mətbəx)"
+    },
+    {
+      "id": "cok-024",
+      "word": "shelf",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "rəf"
+    },
+    {
+      "id": "cok-025",
+      "word": "cutting board",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kəsmə taxtası"
+    },
+    {
+      "id": "cok-026",
+      "word": "microwave",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mikrodalğalı soba"
+    },
+    {
+      "id": "cok-027",
+      "word": "freezer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dondurucu"
+    },
+    {
+      "id": "cok-028",
+      "word": "toaster",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tosterr"
+    },
+    {
+      "id": "cok-029",
+      "word": "tray",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "poднос"
+    },
+
+    {
+      "id": "cok-030",
+      "word": "chop",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "doğramaq"
+    },
+    {
+      "id": "cok-031",
+      "word": "slice",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "dilimləmək"
+    },
+    {
+      "id": "cok-032",
+      "word": "peel",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qabığını soymaq"
+    },
+    {
+      "id": "cok-033",
+      "word": "stir",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qarışdırmaq (qaşıqla)"
+    },
+    {
+      "id": "cok-034",
+      "word": "grate",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sürtgəcdən keçirmək"
+    },
+    {
+      "id": "cok-035",
+      "word": "mash",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əzmək (püre kimi)"
+    },
+    {
+      "id": "cok-036",
+      "word": "whisk",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "çalxalamaq"
+    },
+    {
+      "id": "cok-037",
+      "word": "melt",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əritmək"
+    },
+    {
+      "id": "cok-038",
+      "word": "roast",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qızartmaq (sobada, ət)"
+    },
+    {
+      "id": "cok-039",
+      "word": "grill",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qrilə çəkmək"
+    },
+    {
+      "id": "cok-040",
+      "word": "steam",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "buğda bişirmək"
+    },
+    {
+      "id": "cok-041",
+      "word": "season",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ədviyyat əlavə etmək"
+    },
+    {
+      "id": "cok-042",
+      "word": "spatula",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "spatula"
+    },
+    {
+      "id": "cok-043",
+      "word": "grater",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sürtgəc"
+    },
+    {
+      "id": "cok-044",
+      "word": "sieve",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ələk"
+    },
+    {
+      "id": "cok-045",
+      "word": "rolling pin",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "oxlov"
+    },
+    {
+      "id": "cok-046",
+      "word": "ladle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "çömçə"
+    },
+    {
+      "id": "cok-047",
+      "word": "tongs",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "maşa"
+    },
+    {
+      "id": "cok-048",
+      "word": "peeler",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qabıqsoyan"
+    },
+    {
+      "id": "cok-049",
+      "word": "can opener",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "konserv açan"
+    },
+    {
+      "id": "cok-050",
+      "word": "colander",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "süzgəc"
+    },
+    {
+      "id": "cok-051",
+      "word": "blender",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "blender"
+    },
+    {
+      "id": "cok-052",
+      "word": "apron",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "önlük"
+    },
+    {
+      "id": "cok-053",
+      "word": "leftover",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "artıq qalan yemək"
+    },
+    {
+      "id": "cok-054",
+      "word": "preparation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "hazırlıq"
+    },
+
+    {
+      "id": "cok-055",
+      "word": "dice",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "kub şəklində doğramaq"
+    },
+    {
+      "id": "cok-056",
+      "word": "sauté",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "yüngül qızartmaq (az yağda)"
+    },
+    {
+      "id": "cok-057",
+      "word": "simmer",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "asta odda bişirmək"
+    },
+    {
+      "id": "cok-058",
+      "word": "braise",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "qızardıb sonra bişirmək"
+    },
+    {
+      "id": "cok-059",
+      "word": "blanch",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "qısa müddət qaynar suya salmaq"
+    },
+    {
+      "id": "cok-060",
+      "word": "garnish",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "bəzəmək (yeməyi)"
+    },
+
+    {
+      "id": "cok-061",
+      "word": "caramelize",
+      "level": "C1",
+      "partOfSpeech": "verb",
+      "translation": "karamelləşdirmək"
+    }
+  ]
+}

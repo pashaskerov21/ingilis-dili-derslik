@@ -1,0 +1,450 @@
+{
+  "category": "cemiyyet-ve-hokumet",
+  "words": [
+    {
+      "id": "gov-001",
+      "word": "government",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hökumət"
+    },
+    {
+      "id": "gov-002",
+      "word": "president",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "prezident"
+    },
+    {
+      "id": "gov-003",
+      "word": "country",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ölkə"
+    },
+    {
+      "id": "gov-004",
+      "word": "city",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şəhər"
+    },
+    {
+      "id": "gov-005",
+      "word": "law",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qanun"
+    },
+    {
+      "id": "gov-006",
+      "word": "vote",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "səs vermək"
+    },
+    {
+      "id": "gov-007",
+      "word": "society",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cəmiyyət"
+    },
+
+    {
+      "id": "gov-008",
+      "word": "minister",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "nazir"
+    },
+    {
+      "id": "gov-009",
+      "word": "parliament",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "parlament"
+    },
+    {
+      "id": "gov-010",
+      "word": "prime minister",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "baş nazir"
+    },
+    {
+      "id": "gov-011",
+      "word": "king",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kral"
+    },
+    {
+      "id": "gov-012",
+      "word": "queen",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kraliça"
+    },
+    {
+      "id": "gov-013",
+      "word": "politics",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "siyasət"
+    },
+    {
+      "id": "gov-014",
+      "word": "politician",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "siyasətçi"
+    },
+    {
+      "id": "gov-015",
+      "word": "election",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "seçki"
+    },
+    {
+      "id": "gov-016",
+      "word": "democracy",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "demokratiya"
+    },
+    {
+      "id": "gov-017",
+      "word": "citizen",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "vətəndaş"
+    },
+    {
+      "id": "gov-018",
+      "word": "nation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "millət"
+    },
+    {
+      "id": "gov-019",
+      "word": "population",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əhali"
+    },
+    {
+      "id": "gov-020",
+      "word": "culture",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mədəniyyət"
+    },
+    {
+      "id": "gov-021",
+      "word": "right",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hüquq"
+    },
+    {
+      "id": "gov-022",
+      "word": "freedom",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "azadlıq"
+    },
+    {
+      "id": "gov-023",
+      "word": "mayor",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şəhər başçısı"
+    },
+    {
+      "id": "gov-024",
+      "word": "elect",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "seçmək (səsverməklə)"
+    },
+
+    {
+      "id": "gov-025",
+      "word": "border",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sərhəd"
+    },
+    {
+      "id": "gov-026",
+      "word": "council",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şura"
+    },
+    {
+      "id": "gov-027",
+      "word": "party",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "siyasi partiya"
+    },
+    {
+      "id": "gov-028",
+      "word": "legislation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qanunvericilik"
+    },
+    {
+      "id": "gov-029",
+      "word": "policy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "siyasət (kurs)"
+    },
+    {
+      "id": "gov-030",
+      "word": "diplomacy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diplomatiya"
+    },
+    {
+      "id": "gov-031",
+      "word": "diplomat",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diplomat"
+    },
+    {
+      "id": "gov-032",
+      "word": "ambassador",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səfir"
+    },
+    {
+      "id": "gov-033",
+      "word": "candidate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "namizəd (seçkidə)"
+    },
+    {
+      "id": "gov-034",
+      "word": "campaign",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kampaniya"
+    },
+    {
+      "id": "gov-035",
+      "word": "constitution",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "konstitusiya"
+    },
+    {
+      "id": "gov-036",
+      "word": "equality",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bərabərlik"
+    },
+    {
+      "id": "gov-037",
+      "word": "human rights",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "insan hüquqları"
+    },
+    {
+      "id": "gov-038",
+      "word": "republic",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "respublika"
+    },
+    {
+      "id": "gov-039",
+      "word": "monarchy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "monarxiya"
+    },
+    {
+      "id": "gov-040",
+      "word": "dictatorship",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diktatura"
+    },
+    {
+      "id": "gov-041",
+      "word": "activist",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fəal (aktivist)"
+    },
+    {
+      "id": "gov-042",
+      "word": "protest",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "etiraz"
+    },
+    {
+      "id": "gov-043",
+      "word": "debate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "debat"
+    },
+    {
+      "id": "gov-044",
+      "word": "referendum",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "referendum"
+    },
+    {
+      "id": "gov-045",
+      "word": "govern",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "idarə etmək (hökumət)"
+    },
+    {
+      "id": "gov-046",
+      "word": "administration",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "administrasiya"
+    },
+    {
+      "id": "gov-047",
+      "word": "senator",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "senator"
+    },
+    {
+      "id": "gov-048",
+      "word": "coalition",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "koalisiya"
+    },
+
+    {
+      "id": "gov-049",
+      "word": "electorate",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "seçicilər kütləsi"
+    },
+    {
+      "id": "gov-050",
+      "word": "constituency",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "seçki dairəsi"
+    },
+    {
+      "id": "gov-051",
+      "word": "veto",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "veto hüququ"
+    },
+    {
+      "id": "gov-052",
+      "word": "impeach",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "istefaya çağırmaq (məhkəmə yolu ilə)"
+    },
+    {
+      "id": "gov-053",
+      "word": "lobbying",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "lobbiçilik"
+    },
+    {
+      "id": "gov-054",
+      "word": "mandate",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "səlahiyyət (seçkidən sonra)"
+    },
+    {
+      "id": "gov-055",
+      "word": "populism",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "populizm"
+    },
+    {
+      "id": "gov-056",
+      "word": "liberalism",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "liberalizm"
+    },
+    {
+      "id": "gov-057",
+      "word": "socialism",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sosializm"
+    },
+    {
+      "id": "gov-058",
+      "word": "communism",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kommunizm"
+    },
+    {
+      "id": "gov-059",
+      "word": "extremism",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ekstremizm"
+    },
+    {
+      "id": "gov-060",
+      "word": "bureaucracy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bürokratiya"
+    },
+    {
+      "id": "gov-061",
+      "word": "constitutional",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "konstitusiyaya uyğun"
+    },
+
+    {
+      "id": "gov-062",
+      "word": "coup d'état",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "dövlət çevrilişi"
+    },
+    {
+      "id": "gov-063",
+      "word": "sovereignty",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "suverenlik"
+    }
+  ]
+}

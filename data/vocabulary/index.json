@@ -10,6 +10,222 @@
       "titleAz": "Ailə və insanlar",
       "titleEn": "Family & People",
       "file": "aile-ve-insanlar.json"
+    },
+    {
+      "slug": "reqemler-ve-vaxt",
+      "titleAz": "Rəqəmlər və vaxt",
+      "titleEn": "Numbers & Time",
+      "file": "reqemler-ve-vaxt.json"
+    },
+    {
+      "slug": "rengler-ve-formalar",
+      "titleAz": "Rənglər və formalar",
+      "titleEn": "Colours & Shapes",
+      "file": "rengler-ve-formalar.json"
+    },
+    {
+      "slug": "beden-ve-saglamliq",
+      "titleAz": "Bədən və sağlamlıq",
+      "titleEn": "Body & Health",
+      "file": "beden-ve-saglamliq.json"
+    },
+    {
+      "slug": "meyve-ve-terevez",
+      "titleAz": "Meyvə və tərəvəz",
+      "titleEn": "Fruits & Vegetables",
+      "file": "meyve-ve-terevez.json"
+    },
+    {
+      "slug": "yemekler-ve-qidalar",
+      "titleAz": "Yeməklər və qidalar",
+      "titleEn": "Meals & Food",
+      "file": "yemekler-ve-qidalar.json"
+    },
+    {
+      "slug": "ickiler",
+      "titleAz": "İçkilər",
+      "titleEn": "Drinks",
+      "file": "ickiler.json"
+    },
+    {
+      "slug": "bisirme-ve-metbex",
+      "titleAz": "Bişirmə və mətbəx",
+      "titleEn": "Cooking & Kitchen",
+      "file": "bisirme-ve-metbex.json"
+    },
+    {
+      "slug": "ev-ve-mebel",
+      "titleAz": "Ev və mebel",
+      "titleEn": "Home & Furniture",
+      "file": "ev-ve-mebel.json"
+    },
+    {
+      "slug": "geyim",
+      "titleAz": "Geyim",
+      "titleEn": "Clothing",
+      "file": "geyim.json"
+    },
+    {
+      "slug": "hava",
+      "titleAz": "Hava",
+      "titleEn": "Weather",
+      "file": "hava.json"
+    },
+    {
+      "slug": "yer-ve-istiqamet",
+      "titleAz": "Yer və istiqamət",
+      "titleEn": "Places & Directions",
+      "file": "yer-ve-istiqamet.json"
+    },
+    {
+      "slug": "mektab-ve-tehsil",
+      "titleAz": "Məktəb və təhsil",
+      "titleEn": "School & Education",
+      "file": "mektab-ve-tehsil.json"
+    },
+    {
+      "slug": "is-ve-peseler",
+      "titleAz": "İş və peşələr",
+      "titleEn": "Work & Professions",
+      "file": "is-ve-peseler.json"
+    },
+    {
+      "slug": "neqliyyat",
+      "titleAz": "Nəqliyyat",
+      "titleEn": "Transport",
+      "file": "neqliyyat.json"
+    },
+    {
+      "slug": "hissler",
+      "titleAz": "Hisslər",
+      "titleEn": "Feelings & Emotions",
+      "file": "hissler.json"
+    },
+    {
+      "slug": "heyvanlar",
+      "titleAz": "Heyvanlar",
+      "titleEn": "Animals",
+      "file": "heyvanlar.json"
+    },
+    {
+      "slug": "gundelik-hereketler",
+      "titleAz": "Gündəlik hərəkətlər",
+      "titleEn": "Daily Actions",
+      "file": "gundelik-hereketler.json"
+    },
+    {
+      "slug": "alis-veris",
+      "titleAz": "Alış-veriş",
+      "titleEn": "Shopping",
+      "file": "alis-veris.json"
+    },
+    {
+      "slug": "pul-ve-maliyye",
+      "titleAz": "Pul və maliyyə",
+      "titleEn": "Money & Finance",
+      "file": "pul-ve-maliyye.json"
+    },
+    {
+      "slug": "hobbi-ve-istirahet",
+      "titleAz": "Hobbi və istirahət",
+      "titleEn": "Hobbies & Leisure",
+      "file": "hobbi-ve-istirahet.json"
+    },
+    {
+      "slug": "aciq-hava-fealiyyetleri",
+      "titleAz": "Açıq hava fəaliyyətləri",
+      "titleEn": "Outdoor Activities",
+      "file": "aciq-hava-fealiyyetleri.json"
+    },
+    {
+      "slug": "idman",
+      "titleAz": "İdman",
+      "titleEn": "Sports",
+      "file": "idman.json"
+    },
+    {
+      "slug": "xidmetler",
+      "titleAz": "Xidmətlər",
+      "titleEn": "Services",
+      "file": "xidmetler.json"
+    },
+    {
+      "slug": "tebiet",
+      "titleAz": "Təbiət",
+      "titleEn": "Nature",
+      "file": "tebiet.json"
+    },
+    {
+      "slug": "seyahet-ve-turizm",
+      "titleAz": "Səyahət və turizm",
+      "titleEn": "Travel & Tourism",
+      "file": "seyahet-ve-turizm.json"
+    },
+    {
+      "slug": "komputer-ve-avadanliq",
+      "titleAz": "Komputer və avadanlıq",
+      "titleEn": "Computer & Hardware",
+      "file": "komputer-ve-avadanliq.json"
+    },
+    {
+      "slug": "internet-ve-rabite",
+      "titleAz": "İnternet və rabitə",
+      "titleEn": "Internet & Communication",
+      "file": "internet-ve-rabite.json"
+    },
+    {
+      "slug": "proqramlasdirma",
+      "titleAz": "Proqram təminatı və proqramlaşdırma",
+      "titleEn": "Software & Programming",
+      "file": "proqramlasdirma.json"
+    },
+    {
+      "slug": "korporativ-muhit",
+      "titleAz": "Korporativ mühit",
+      "titleEn": "Corporate & Office Life",
+      "file": "korporativ-muhit.json"
+    },
+    {
+      "slug": "dil",
+      "titleAz": "Dil",
+      "titleEn": "Language",
+      "file": "dil.json"
+    },
+    {
+      "slug": "media",
+      "titleAz": "Kütləvi informasiya vasitələri",
+      "titleEn": "Media",
+      "file": "media.json"
+    },
+    {
+      "slug": "kino-ve-teatr",
+      "titleAz": "Kino və teatr",
+      "titleEn": "Film & Theatre",
+      "file": "kino-ve-teatr.json"
+    },
+    {
+      "slug": "tesviri-incesenet-ve-edebiyyat",
+      "titleAz": "Təsviri incəsənət və ədəbiyyat",
+      "titleEn": "Visual Arts & Literature",
+      "file": "tesviri-incesenet-ve-edebiyyat.json"
+    },
+    {
+      "slug": "musiqi-ve-aletler",
+      "titleAz": "Musiqi və alətlər",
+      "titleEn": "Music & Instruments",
+      "file": "musiqi-ve-aletler.json"
+    },
+    {
+      "slug": "cemiyyet-ve-hokumet",
+      "titleAz": "Cəmiyyət və hökumət",
+      "titleEn": "Society & Government",
+      "file": "cemiyyet-ve-hokumet.json"
+    },
+    {
+      "slug": "cinayet-ve-huquq",
+      "titleAz": "Cinayət və hüquq",
+      "titleEn": "Crime & Law",
+      "file": "cinayet-ve-huquq.json"
     }
   ]
 }

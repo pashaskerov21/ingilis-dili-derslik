@@ -1,0 +1,702 @@
+{
+  "category": "gundelik-hereketler",
+  "words": [
+    {
+      "id": "act-001",
+      "word": "wake up",
+      "level": "A1",
+      "partOfSpeech": "phrase",
+      "translation": "oyanmaq"
+    },
+    {
+      "id": "act-002",
+      "word": "get up",
+      "level": "A1",
+      "partOfSpeech": "phrase",
+      "translation": "yataqdan qalxmaq"
+    },
+    {
+      "id": "act-003",
+      "word": "sleep",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "yatmaq"
+    },
+    {
+      "id": "act-004",
+      "word": "walk",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "piyada getmək"
+    },
+    {
+      "id": "act-005",
+      "word": "run",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qaçmaq"
+    },
+    {
+      "id": "act-006",
+      "word": "sit",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oturmaq"
+    },
+    {
+      "id": "act-007",
+      "word": "stand",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "dayanmaq (ayaq üstə)"
+    },
+    {
+      "id": "act-008",
+      "word": "eat",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "yemək"
+    },
+    {
+      "id": "act-009",
+      "word": "drink",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "içmək"
+    },
+    {
+      "id": "act-010",
+      "word": "read",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oxumaq"
+    },
+    {
+      "id": "act-011",
+      "word": "write",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "yazmaq"
+    },
+    {
+      "id": "act-012",
+      "word": "listen",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qulaq asmaq"
+    },
+    {
+      "id": "act-013",
+      "word": "watch",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "izləmək"
+    },
+    {
+      "id": "act-014",
+      "word": "speak",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "danışmaq"
+    },
+    {
+      "id": "act-015",
+      "word": "see",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "görmək"
+    },
+    {
+      "id": "act-016",
+      "word": "hear",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "eşitmək"
+    },
+    {
+      "id": "act-017",
+      "word": "look",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "baxmaq"
+    },
+    {
+      "id": "act-018",
+      "word": "play",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oynamaq"
+    },
+    {
+      "id": "act-019",
+      "word": "help",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "kömək etmək"
+    },
+    {
+      "id": "act-020",
+      "word": "give",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "vermək"
+    },
+    {
+      "id": "act-021",
+      "word": "take",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "götürmək"
+    },
+    {
+      "id": "act-022",
+      "word": "make",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "düzəltmək, etmək"
+    },
+    {
+      "id": "act-023",
+      "word": "go",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "getmək"
+    },
+    {
+      "id": "act-024",
+      "word": "come",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "gəlmək"
+    },
+    {
+      "id": "act-025",
+      "word": "live",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "yaşamaq"
+    },
+
+    {
+      "id": "act-026",
+      "word": "get dressed",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "geyinmək"
+    },
+    {
+      "id": "act-027",
+      "word": "brush teeth",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "dişləri fırçalamaq"
+    },
+    {
+      "id": "act-028",
+      "word": "wash",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yumaq"
+    },
+    {
+      "id": "act-029",
+      "word": "jump",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "tullanmaq"
+    },
+    {
+      "id": "act-030",
+      "word": "climb",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "dırmaşmaq"
+    },
+    {
+      "id": "act-031",
+      "word": "dance",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "rəqs etmək"
+    },
+    {
+      "id": "act-032",
+      "word": "sing",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "oxumaq (mahnı)"
+    },
+    {
+      "id": "act-033",
+      "word": "call",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "zəng etmək"
+    },
+    {
+      "id": "act-034",
+      "word": "text",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "SMS yazmaq"
+    },
+    {
+      "id": "act-035",
+      "word": "ask",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "soruşmaq"
+    },
+    {
+      "id": "act-036",
+      "word": "answer",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "cavab vermək"
+    },
+    {
+      "id": "act-037",
+      "word": "think",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "düşünmək"
+    },
+    {
+      "id": "act-038",
+      "word": "know",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "bilmək"
+    },
+    {
+      "id": "act-039",
+      "word": "understand",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "başa düşmək"
+    },
+    {
+      "id": "act-040",
+      "word": "remember",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "xatırlamaq"
+    },
+    {
+      "id": "act-041",
+      "word": "forget",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "unutmaq"
+    },
+    {
+      "id": "act-042",
+      "word": "decide",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "qərar vermək"
+    },
+    {
+      "id": "act-043",
+      "word": "meet",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "görüşmək"
+    },
+    {
+      "id": "act-044",
+      "word": "visit",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "ziyarət etmək"
+    },
+    {
+      "id": "act-045",
+      "word": "invite",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "dəvət etmək"
+    },
+    {
+      "id": "act-046",
+      "word": "thank",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "təşəkkür etmək"
+    },
+    {
+      "id": "act-047",
+      "word": "hold",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "tutmaq"
+    },
+    {
+      "id": "act-048",
+      "word": "carry",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "daşımaq"
+    },
+    {
+      "id": "act-049",
+      "word": "push",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "itələmək"
+    },
+    {
+      "id": "act-050",
+      "word": "pull",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "çəkmək"
+    },
+    {
+      "id": "act-051",
+      "word": "throw",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "atmaq"
+    },
+    {
+      "id": "act-052",
+      "word": "catch",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "tutmaq (havadan)"
+    },
+    {
+      "id": "act-053",
+      "word": "drop",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "salmaq, düşürmək"
+    },
+    {
+      "id": "act-054",
+      "word": "pick up",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "yerdən götürmək"
+    },
+    {
+      "id": "act-055",
+      "word": "smell",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "iyləmək"
+    },
+    {
+      "id": "act-056",
+      "word": "touch",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "toxunmaq"
+    },
+    {
+      "id": "act-057",
+      "word": "grow",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "böyümək"
+    },
+    {
+      "id": "act-058",
+      "word": "start",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "başlamaq"
+    },
+    {
+      "id": "act-059",
+      "word": "finish",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "bitirmək"
+    },
+    {
+      "id": "act-060",
+      "word": "continue",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "davam etmək"
+    },
+    {
+      "id": "act-061",
+      "word": "share",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "bölüşmək"
+    },
+    {
+      "id": "act-062",
+      "word": "borrow",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "borc almaq"
+    },
+    {
+      "id": "act-063",
+      "word": "lend",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "borc vermək"
+    },
+    {
+      "id": "act-064",
+      "word": "explain",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "izah etmək"
+    },
+    {
+      "id": "act-065",
+      "word": "notice",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "diqqət yetirmək, sezmək"
+    },
+
+    {
+      "id": "act-066",
+      "word": "crawl",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sürünmək"
+    },
+    {
+      "id": "act-067",
+      "word": "hop",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sıçramaq (bir ayaqla)"
+    },
+    {
+      "id": "act-068",
+      "word": "dive",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "suya baş vurmaq"
+    },
+    {
+      "id": "act-069",
+      "word": "greet",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "salamlamaq"
+    },
+    {
+      "id": "act-070",
+      "word": "introduce",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təqdim etmək (tanış etmək)"
+    },
+    {
+      "id": "act-071",
+      "word": "apologize",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "üzr istəmək"
+    },
+    {
+      "id": "act-072",
+      "word": "discuss",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "müzakirə etmək"
+    },
+    {
+      "id": "act-073",
+      "word": "argue",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "mübahisə etmək"
+    },
+    {
+      "id": "act-074",
+      "word": "believe",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "inanmaq"
+    },
+    {
+      "id": "act-075",
+      "word": "imagine",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təsəvvür etmək"
+    },
+    {
+      "id": "act-076",
+      "word": "guess",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təxmin etmək"
+    },
+    {
+      "id": "act-077",
+      "word": "lift",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qaldırmaq"
+    },
+    {
+      "id": "act-078",
+      "word": "put down",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "yerə qoymaq"
+    },
+    {
+      "id": "act-079",
+      "word": "die",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ölmək"
+    },
+    {
+      "id": "act-080",
+      "word": "become",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "olmaq (dönüşmək)"
+    },
+    {
+      "id": "act-081",
+      "word": "change",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "dəyişmək"
+    },
+    {
+      "id": "act-082",
+      "word": "begin",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "başlamaq (rəsmi)"
+    },
+    {
+      "id": "act-083",
+      "word": "end",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "bitmək"
+    },
+    {
+      "id": "act-084",
+      "word": "achieve",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "nail olmaq"
+    },
+    {
+      "id": "act-085",
+      "word": "succeed",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "uğur qazanmaq"
+    },
+    {
+      "id": "act-086",
+      "word": "struggle",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "çətinliklə mübarizə aparmaq"
+    },
+    {
+      "id": "act-087",
+      "word": "cope",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "öhdəsindən gəlmək"
+    },
+    {
+      "id": "act-088",
+      "word": "avoid",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qaçınmaq"
+    },
+    {
+      "id": "act-089",
+      "word": "allow",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "icazə vermək"
+    },
+    {
+      "id": "act-090",
+      "word": "forbid",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qadağan etmək"
+    },
+    {
+      "id": "act-091",
+      "word": "do the dishes",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "qab yumaq"
+    },
+    {
+      "id": "act-092",
+      "word": "make the bed",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "çarpayını səliqəyə salmaq"
+    },
+    {
+      "id": "act-093",
+      "word": "do laundry",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "paltar yumaq (növbə)"
+    },
+    {
+      "id": "act-094",
+      "word": "water",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "suvarmaq"
+    },
+
+    {
+      "id": "act-095",
+      "word": "accomplish",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "başa çatdırmaq (məqsədə)"
+    },
+    {
+      "id": "act-096",
+      "word": "prevent",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "qarşısını almaq"
+    },
+    {
+      "id": "act-097",
+      "word": "permit",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "icazə vermək (rəsmi)"
+    },
+    {
+      "id": "act-098",
+      "word": "perceive",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "qavramaq, dərk etmək"
+    },
+
+    {
+      "id": "act-099",
+      "word": "contemplate",
+      "level": "C1",
+      "partOfSpeech": "verb",
+      "translation": "dərindən düşünmək"
+    }
+  ]
+}
