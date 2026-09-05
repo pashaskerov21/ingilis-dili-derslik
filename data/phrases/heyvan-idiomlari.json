@@ -1,0 +1,709 @@
+{
+    "category": "heyvan-idiomlari",
+    "phrases": [
+        {
+            "id": "phr-482",
+            "phrase": "raining cats and dogs",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "leysan yağış yağmaq",
+            "example": {
+                "en": "Take an umbrella — it's raining cats and dogs.",
+                "az": "Çətir götür — leysan yağış yağır."
+            }
+        },
+        {
+            "id": "phr-483",
+            "phrase": "go to the dogs",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "keyfiyyəti/vəziyyəti pisləşmək",
+            "example": {
+                "en": "This neighborhood has really gone to the dogs.",
+                "az": "Bu məhəllə həqiqətən pisləşib."
+            }
+        },
+        {
+            "id": "phr-484",
+            "phrase": "in the doghouse",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiminsə qəzəbinə düşmüş, cəzalanmış vəziyyətdə",
+            "example": {
+                "en": "He's in the doghouse after forgetting their anniversary.",
+                "az": "İldönümlərini unutduğu üçün o, indi tənbeh altındadır."
+            }
+        },
+        {
+            "id": "phr-485",
+            "phrase": "dog-eat-dog world",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "amansız rəqabət mühiti",
+            "example": {
+                "en": "The business world can be a dog-eat-dog world.",
+                "az": "Biznes dünyası amansız rəqabət mühiti ola bilər."
+            }
+        },
+        {
+            "id": "phr-486",
+            "phrase": "dog-tired",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "son dərəcə yorğun",
+            "example": {
+                "en": "After working all day, I'm dog-tired.",
+                "az": "Bütün gün işlədikdən sonra son dərəcə yorğunam."
+            }
+        },
+        {
+            "id": "phr-487",
+            "phrase": "top dog",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ən nüfuzlu/güclü şəxs",
+            "example": {
+                "en": "He's the top dog in the office.",
+                "az": "O, ofisdə ən nüfuzlu şəxsdir."
+            }
+        },
+        {
+            "id": "phr-488",
+            "phrase": "work like a dog",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox ağır işləmək",
+            "example": {
+                "en": "She worked like a dog to finish the project on time.",
+                "az": "O, layihəni vaxtında bitirmək üçün çox ağır işlədi."
+            }
+        },
+        {
+            "id": "phr-489",
+            "phrase": "barking up the wrong tree",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "səhv istiqamətdə axtarış/ittiham etmək",
+            "example": {
+                "en": "If you think I broke it, you're barking up the wrong tree.",
+                "az": "Əgər onu mənim sındırdığımı düşünürsənsə, səhv adamı ittiham edirsən."
+            }
+        },
+        {
+            "id": "phr-490",
+            "phrase": "a dog's life",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin, xoşagəlməz həyat",
+            "example": {
+                "en": "Working three jobs is a dog's life.",
+                "az": "Üç işdə işləmək çox çətin həyatdır."
+            }
+        },
+        {
+            "id": "phr-491",
+            "phrase": "cat got your tongue",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "niyə susursan, danış (sual)",
+            "example": {
+                "en": "Why so quiet? Cat got your tongue?",
+                "az": "Niyə bu qədər susursan? Dilini pişik aparıb?"
+            }
+        },
+        {
+            "id": "phr-492",
+            "phrase": "curiosity killed the cat",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "həddindən artıq maraq problemə səbəb ola bilər",
+            "example": {
+                "en": "Stop asking so many questions — curiosity killed the cat.",
+                "az": "Bu qədər sual verməyi kəs — həddindən artıq maraq bəla gətirir."
+            }
+        },
+        {
+            "id": "phr-493",
+            "phrase": "cat nap",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qısa yuxu",
+            "example": {
+                "en": "I took a cat nap during my lunch break.",
+                "az": "Nahar fasiləsində qısa yuxuya getdim."
+            }
+        },
+        {
+            "id": "phr-494",
+            "phrase": "when the cat's away, the mice will play",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "nəzarətçi olmayanda insanlar sərbəst davranır",
+            "example": {
+                "en": "The boss went on vacation, and when the cat's away, the mice will play.",
+                "az": "Rəis məzuniyyətə getdi, pişik yoxdursa siçanlar oynayır."
+            }
+        },
+        {
+            "id": "phr-495",
+            "phrase": "look what the cat dragged in",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gözlənilməz/xoşagəlməz gəlişə zarafatla reaksiya",
+            "example": {
+                "en": "Well, look what the cat dragged in!",
+                "az": "Bax gör pişik nə gətirib!"
+            }
+        },
+        {
+            "id": "phr-496",
+            "phrase": "eagle eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hər detalı görən diqqətli baxış",
+            "example": {
+                "en": "The teacher goes over the tests with an eagle eye.",
+                "az": "Müəllim testləri diqqətlə, heç bir detalı qaçırmadan yoxlayır."
+            }
+        },
+        {
+            "id": "phr-497",
+            "phrase": "bird's-eye view",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yuxarıdan görünüş, ümumi mənzərə",
+            "example": {
+                "en": "The drone gave us a bird's-eye view of the city.",
+                "az": "Dron bizə şəhərin quşbaxışı görünüşünü verdi."
+            }
+        },
+        {
+            "id": "phr-498",
+            "phrase": "the early bird catches the worm",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ilk hərəkət edən üstünlük qazanır",
+            "example": {
+                "en": "I woke up early — the early bird catches the worm.",
+                "az": "Erkən oyandım — kim tez tərpənsə, uduzmur."
+            }
+        },
+        {
+            "id": "phr-499",
+            "phrase": "kill two birds with one stone",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir hərəkətlə iki işi görmək",
+            "example": {
+                "en": "By cycling to work, he kills two birds with one stone.",
+                "az": "İşə velosipedlə gedərək o, bir güllə iki quş vurur."
+            }
+        },
+        {
+            "id": "phr-500",
+            "phrase": "birdbrain",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "axmaq insan",
+            "example": {
+                "en": "Don't be such a birdbrain — think it through.",
+                "az": "Bu qədər axmaq olma — yaxşı düşün."
+            }
+        },
+        {
+            "id": "phr-501",
+            "phrase": "a little bird told me",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "mənbəyini açıqlamadan məlumat aldığını demək",
+            "example": {
+                "en": "A little bird told me you got the promotion.",
+                "az": "Mənə bir quş xəbər gətirdi ki, vəzifən artıb."
+            }
+        },
+        {
+            "id": "phr-502",
+            "phrase": "free as a bird",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tam sərbəst, məsuliyyətsiz",
+            "example": {
+                "en": "After finishing exams, she felt free as a bird.",
+                "az": "İmtahanları bitirdikdən sonra o, quş kimi sərbəst hiss etdi."
+            }
+        },
+        {
+            "id": "phr-503",
+            "phrase": "sitting duck",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "asanlıqla hədəf ola biləcək müdafiəsiz insan/şey",
+            "example": {
+                "en": "Their outdated security made them a sitting duck for hackers.",
+                "az": "Köhnəlmiş təhlükəsizlik sistemi onları hakerlər üçün asan hədəf etdi."
+            }
+        },
+        {
+            "id": "phr-504",
+            "phrase": "get your ducks in a row",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "işləri qaydaya salmaq, hazırlıq görmək",
+            "example": {
+                "en": "Make sure you have your ducks in a row before the presentation.",
+                "az": "Təqdimatdan əvvəl hər şeyin qaydasında olduğuna əmin ol."
+            }
+        },
+        {
+            "id": "phr-505",
+            "phrase": "like water off a duck's back",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "tənqid/hücumun heç təsir etməməsi",
+            "example": {
+                "en": "Criticism just rolls off him like water off a duck's back.",
+                "az": "Tənqid ona heç təsir etmir, sanki ördəyin belindən su axır."
+            }
+        },
+        {
+            "id": "phr-506",
+            "phrase": "lame duck",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "səlahiyyəti/gücü zəifləmiş şəxs (adətən siyasi)",
+            "example": {
+                "en": "In his final months, the president was seen as a lame duck.",
+                "az": "Son aylarında prezident artıq gücsüz sayılırdı."
+            }
+        },
+        {
+            "id": "phr-507",
+            "phrase": "dark horse",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gözlənilmədən uğur qazanan insan",
+            "example": {
+                "en": "She was a dark horse in the competition and won.",
+                "az": "O, yarışda gözlənilməz uğur qazanan idi."
+            }
+        },
+        {
+            "id": "phr-508",
+            "phrase": "hold your horses",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tələsmə, gözlə",
+            "example": {
+                "en": "Hold your horses — the show hasn't started yet.",
+                "az": "Tələsmə — şou hələ başlamayıb."
+            }
+        },
+        {
+            "id": "phr-509",
+            "phrase": "get off your high horse",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təkəbbürdən əl çəkmək",
+            "example": {
+                "en": "It's time you got off your high horse and admitted you're wrong.",
+                "az": "Vaxtdır ki, təkəbbürdən əl çəkib səhv etdiyini qəbul edəsən."
+            }
+        },
+        {
+            "id": "phr-510",
+            "phrase": "horsing around",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "oyunbazlıq etmək, dəcəllik",
+            "example": {
+                "en": "Stop horsing around and finish your homework.",
+                "az": "Dəcəllik etməyi burax və ev tapşırığını bitir."
+            }
+        },
+        {
+            "id": "phr-511",
+            "phrase": "beat a dead horse",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "artıq mənasız/bitmiş bir mövzunu davam etdirmək",
+            "example": {
+                "en": "We've discussed this already — let's not beat a dead horse.",
+                "az": "Bunu artıq müzakirə etmişik — boş yerə davam etməyək."
+            }
+        },
+        {
+            "id": "phr-512",
+            "phrase": "put the cart before the horse",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "işləri səhv ardıcıllıqla görmək",
+            "example": {
+                "en": "Planning the party before confirming the date is putting the cart before the horse.",
+                "az": "Tarixi təsdiqləmədən məclisi planlaşdırmaq işi tərsinə görməkdir."
+            }
+        },
+        {
+            "id": "phr-513",
+            "phrase": "fish out of water",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "özgə, yad mühitdə narahat hiss etmək",
+            "example": {
+                "en": "He felt like a fish out of water at the formal dinner.",
+                "az": "Rəsmi şam yeməyində o, özünü yad hiss etdi."
+            }
+        },
+        {
+            "id": "phr-514",
+            "phrase": "shooting fish in a barrel",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox asan iş",
+            "example": {
+                "en": "Fixing this bug is like shooting fish in a barrel for her.",
+                "az": "Bu xətanı düzəltmək onun üçün çox asandır."
+            }
+        },
+        {
+            "id": "phr-515",
+            "phrase": "bigger fish to fry",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "daha vacib işlərin olması",
+            "example": {
+                "en": "I can't stay for this — I have bigger fish to fry.",
+                "az": "Bunun üçün qala bilmərəm — daha vacib işlərim var."
+            }
+        },
+        {
+            "id": "phr-516",
+            "phrase": "something's fishy",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "şübhəli bir şey olduğunu hiss etmək",
+            "example": {
+                "en": "Something's fishy about this deal.",
+                "az": "Bu sövdələşmədə şübhəli bir şey var."
+            }
+        },
+        {
+            "id": "phr-517",
+            "phrase": "a big fish in a small pond",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kiçik mühitdə nüfuzlu, böyük mühitdə adi insan",
+            "example": {
+                "en": "He was a big fish in a small pond at his old company.",
+                "az": "Köhnə şirkətində o, kiçik mühitdə böyük nüfuza malik idi."
+            }
+        },
+        {
+            "id": "phr-518",
+            "phrase": "cry wolf",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yalandan təhlükə/problem barədə xəbərdarlıq etmək",
+            "example": {
+                "en": "If you keep crying wolf, no one will believe you.",
+                "az": "Davamlı yalandan həyəcan qaldırsan, heç kim sənə inanmayacaq."
+            }
+        },
+        {
+            "id": "phr-519",
+            "phrase": "wolf down",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yeməyi tələsik, acgözlüklə yemək",
+            "example": {
+                "en": "He wolfed down his lunch before the meeting.",
+                "az": "O, iclasdan əvvəl naharını tələsik yedi."
+            }
+        },
+        {
+            "id": "phr-520",
+            "phrase": "a wolf in sheep's clothing",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "zərərli niyyətini gizlədən, zahirən mehriban insan",
+            "example": {
+                "en": "Be careful — he's a wolf in sheep's clothing.",
+                "az": "Ehtiyatlı ol — o, zahirən mehriban, daxilən zərərli insandır."
+            }
+        },
+        {
+            "id": "phr-521",
+            "phrase": "don't count your chickens before they hatch",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nəticə bəlli olmazdan əvvəl uğuru fərz etmə",
+            "example": {
+                "en": "You haven't won yet, so don't count your chickens before they hatch.",
+                "az": "Hələ qazanmamısan, ona görə vaxtından əvvəl sevinmə."
+            }
+        },
+        {
+            "id": "phr-522",
+            "phrase": "chicken",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "qorxaq insan",
+            "example": {
+                "en": "Don't be a chicken — just try it!",
+                "az": "Qorxaq olma — sadəcə sına!"
+            }
+        },
+        {
+            "id": "phr-523",
+            "phrase": "no spring chicken",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "artıq gənc olmayan",
+            "example": {
+                "en": "I'm no spring chicken, but I can still run a mile.",
+                "az": "Artıq gənc deyiləm, amma yenə də bir mil qaça bilirəm."
+            }
+        },
+        {
+            "id": "phr-524",
+            "phrase": "go the whole hog",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "bir işi tam, hərtərəfli görmək",
+            "example": {
+                "en": "If we're redecorating, let's go the whole hog.",
+                "az": "Əgər təmir edəcəyiksə, gəl hər şeyi tam edək."
+            }
+        },
+        {
+            "id": "phr-525",
+            "phrase": "when pigs fly",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əsla baş verməyəcək bir şey",
+            "example": {
+                "en": "He'll apologize when pigs fly.",
+                "az": "O, üzr istəyəcək — yəni əsla."
+            }
+        },
+        {
+            "id": "phr-526",
+            "phrase": "bull in a china shop",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kobud, diqqətsiz hərəkət edən insan (həssas vəziyyətdə)",
+            "example": {
+                "en": "He was like a bull in a china shop at the antique store.",
+                "az": "O, antikvar mağazasında sanki dəyirmi çini dükanında öküz kimi idi."
+            }
+        },
+        {
+            "id": "phr-527",
+            "phrase": "monkey business",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "şübhəli, dələduzluq xarakterli davranış",
+            "example": {
+                "en": "Stop the monkey business and get back to work.",
+                "az": "Şübhəli davranışı burax və işə qayıt."
+            }
+        },
+        {
+            "id": "phr-528",
+            "phrase": "busy as a bee",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox işlək, fəal",
+            "example": {
+                "en": "He's been as busy as a bee finishing his project.",
+                "az": "O, layihəsini bitirmək üçün çox işlək olub."
+            }
+        },
+        {
+            "id": "phr-529",
+            "phrase": "a bee in your bonnet",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "bir fikirdən əl çəkə bilməmək, ona hədsiz fokuslanmaq",
+            "example": {
+                "en": "She's had a bee in her bonnet about starting her own business.",
+                "az": "O, öz biznesini qurmaq fikrindən əl çəkə bilmir."
+            }
+        },
+        {
+            "id": "phr-530",
+            "phrase": "ants in your pants",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "narahat, sakit dura bilməyən (həyəcan/səbirsizlik)",
+            "example": {
+                "en": "The kids have ants in their pants before the trip.",
+                "az": "Uşaqlar səyahətdən əvvəl yerlərində dura bilmirlər."
+            }
+        },
+        {
+            "id": "phr-531",
+            "phrase": "elephant in the room",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hamının bildiyi, amma danışmaqdan qaçdığı problem",
+            "example": {
+                "en": "Let's address the elephant in the room — the budget cuts.",
+                "az": "Hamının bildiyi, amma susduğu məsələyə toxunaq — büdcə kəsintiləri."
+            }
+        },
+        {
+            "id": "phr-532",
+            "phrase": "white elephant",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "faydasız, amma saxlanması baha başa gələn şey",
+            "example": {
+                "en": "The old factory became a white elephant for the city.",
+                "az": "Köhnə zavod şəhər üçün faydasız yükə çevrildi."
+            }
+        },
+        {
+            "id": "phr-533",
+            "phrase": "memory like an elephant",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əla yaddaş",
+            "example": {
+                "en": "She remembers everyone's birthday — she has a memory like an elephant.",
+                "az": "O, hamının ad gününü xatırlayır — yaddaşı fil kimidir."
+            }
+        },
+        {
+            "id": "phr-534",
+            "phrase": "guinea pig",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sınaq subyekti",
+            "example": {
+                "en": "I'll be reviewing your work as a guinea pig for the new system.",
+                "az": "Yeni sistem üçün sınaq subyekti kimi işini yoxlayacam."
+            }
+        },
+        {
+            "id": "phr-535",
+            "phrase": "black sheep",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ailə/qrupdan fərqlənən, uyğunsuz üzv",
+            "example": {
+                "en": "He's always been the black sheep of the family.",
+                "az": "O, həmişə ailənin qara qoyunu (fərqlisi) olub."
+            }
+        },
+        {
+            "id": "phr-536",
+            "phrase": "wild goose chase",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "faydasız, nəticəsiz axtarış",
+            "example": {
+                "en": "Looking for that old book was a wild goose chase.",
+                "az": "O köhnə kitabı axtarmaq faydasız cəhd oldu."
+            }
+        },
+        {
+            "id": "phr-537",
+            "phrase": "fly on the wall",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "görünmədən müşahidə edən şəxs",
+            "example": {
+                "en": "I'd love to be a fly on the wall during that meeting.",
+                "az": "O iclası görünmədən izləmək istərdim."
+            }
+        },
+        {
+            "id": "phr-538",
+            "phrase": "a leopard can't change its spots",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "insanın əsl xarakteri dəyişmir",
+            "example": {
+                "en": "He promised to change, but a leopard can't change its spots.",
+                "az": "O, dəyişəcəyinə söz verdi, amma insan öz təbiətini dəyişmir."
+            }
+        },
+        {
+            "id": "phr-539",
+            "phrase": "the lion's share",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ən böyük pay",
+            "example": {
+                "en": "He took the lion's share of the credit for the project.",
+                "az": "O, layihənin uğurunda ən böyük payı öz üzərinə götürdü."
+            }
+        },
+        {
+            "id": "phr-540",
+            "phrase": "deer in the headlights",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "şokdan/qorxudan donub qalmaq",
+            "example": {
+                "en": "He was like a deer in the headlights when asked that question.",
+                "az": "O sualla qarşılaşanda sanki donub qaldı."
+            }
+        },
+        {
+            "id": "phr-541",
+            "phrase": "make a mountain out of a molehill",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiçik problemi şişirtmək",
+            "example": {
+                "en": "You're making a mountain out of a molehill — it's just a minor setback.",
+                "az": "Sən kiçik problemi şişirdirsən — bu, sadəcə kiçik bir gecikmədir."
+            }
+        },
+        {
+            "id": "phr-542",
+            "phrase": "snake in the grass",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "gizli, etibar edilməyən, təhlükəli insan",
+            "example": {
+                "en": "Watch out for him — he's a snake in the grass.",
+                "az": "Ondan ehtiyatlı ol — o, gizli təhlükəli insandır."
+            }
+        },
+        {
+            "id": "phr-543",
+            "phrase": "smell a rat",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "şübhə etmək, nəyisə hiss etmək (mənfi)",
+            "example": {
+                "en": "I smell a rat — something isn't right here.",
+                "az": "Şübhələnirəm — burda bir şey düz deyil."
+            }
+        },
+        {
+            "id": "phr-544",
+            "phrase": "kangaroo court",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "ədalətsiz, saxta məhkəmə prosesi",
+            "example": {
+                "en": "The trial was widely seen as a kangaroo court.",
+                "az": "Məhkəmə prosesi geniş şəkildə ədalətsiz sayıldı."
+            }
+        },
+        {
+            "id": "phr-545",
+            "phrase": "copycat",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "başqasını təqlid edən insan",
+            "example": {
+                "en": "Stop being a copycat and come up with your own idea.",
+                "az": "Təqlidçi olmağı burax və öz fikrini təklif et."
+            }
+        }
+    ]
+}

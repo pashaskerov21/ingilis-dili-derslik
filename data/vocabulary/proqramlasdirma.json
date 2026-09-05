@@ -57,7 +57,6 @@
       "partOfSpeech": "noun",
       "translation": "xəta"
     },
-
     {
       "id": "prg-009",
       "word": "code",
@@ -128,7 +127,6 @@
       "partOfSpeech": "noun",
       "translation": "verilənlər, data"
     },
-
     {
       "id": "prg-019",
       "word": "programmer",
@@ -269,7 +267,6 @@
       "partOfSpeech": "noun",
       "translation": "şəbəkə"
     },
-
     {
       "id": "prg-039",
       "word": "function call",
@@ -375,7 +372,6 @@
       "partOfSpeech": "noun",
       "translation": "istifadəyə vermə (deployment)"
     },
-
     {
       "id": "prg-054",
       "word": "data structure",
@@ -389,6 +385,48 @@
       "level": "C1",
       "partOfSpeech": "noun",
       "translation": "tam stack (ön+arxa hissə)"
+    },
+    {
+      "id": "prg-056",
+      "word": "array",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "massiv"
+    },
+    {
+      "id": "prg-057",
+      "word": "object",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "obyekt (proqramlaşdırma)"
+    },
+    {
+      "id": "prg-058",
+      "word": "class",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sinif (OOP)"
+    },
+    {
+      "id": "prg-059",
+      "word": "inheritance",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "varislik (OOP)"
+    },
+    {
+      "id": "prg-060",
+      "word": "recursion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "rekursiya"
+    },
+    {
+      "id": "prg-061",
+      "word": "version control",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "versiya nəzarəti"
     }
   ]
 }

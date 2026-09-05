@@ -211,7 +211,6 @@
       "partOfSpeech": "verb",
       "translation": "hiss etmək"
     },
-
     {
       "id": "bod-031",
       "word": "knee",
@@ -443,7 +442,6 @@
       "partOfSpeech": "noun",
       "translation": "hərarət"
     },
-
     {
       "id": "bod-064",
       "word": "spine",
@@ -703,7 +701,6 @@
       "partOfSpeech": "verb",
       "translation": "udmaq"
     },
-
     {
       "id": "bod-101",
       "word": "anxiety",
@@ -809,7 +806,6 @@
       "partOfSpeech": "verb",
       "translation": "həzm etmək"
     },
-
     {
       "id": "bod-116",
       "word": "chronic",
@@ -845,7 +841,6 @@
       "partOfSpeech": "noun",
       "translation": "epidemiya"
     },
-
     {
       "id": "bod-121",
       "word": "physiological",
@@ -859,6 +854,111 @@
       "level": "C2",
       "partOfSpeech": "noun",
       "translation": "naxoşluq hissi (ədəbi)"
+    },
+    {
+      "id": "bod-123",
+      "word": "glasses",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "eynək"
+    },
+    {
+      "id": "bod-124",
+      "word": "contact lens",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kontakt linza"
+    },
+    {
+      "id": "bod-125",
+      "word": "hearing aid",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "eşitmə aparatı"
+    },
+    {
+      "id": "bod-126",
+      "word": "wheelchair",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əlil arabası"
+    },
+    {
+      "id": "bod-127",
+      "word": "deaf",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "kar"
+    },
+    {
+      "id": "bod-128",
+      "word": "blind",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "kor"
+    },
+    {
+      "id": "bod-129",
+      "word": "midwife",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mama (doğuş üzrə)"
+    },
+    {
+      "id": "bod-130",
+      "word": "labor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "doğuş prosesi"
+    },
+    {
+      "id": "bod-131",
+      "word": "ultrasound",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ultrasəs müayinəsi"
+    },
+    {
+      "id": "bod-132",
+      "word": "filling",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "plomb (diş)"
+    },
+    {
+      "id": "bod-133",
+      "word": "braces",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diş breketi"
+    },
+    {
+      "id": "bod-134",
+      "word": "cavity",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "diş çürüyü"
+    },
+    {
+      "id": "bod-135",
+      "word": "bladder",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sidik kisəsi"
+    },
+    {
+      "id": "bod-136",
+      "word": "intestine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bağırsaq"
+    },
+    {
+      "id": "bod-137",
+      "word": "pancreas",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "mədəaltı vəzi"
     }
   ]
 }

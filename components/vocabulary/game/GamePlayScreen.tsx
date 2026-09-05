@@ -5,6 +5,7 @@ import type { FormEvent } from 'react';
 import {
   checkAnswer,
   gameScopeToHighScoreScope,
+  getCategoryLabel,
   getCorrectAnswer,
   getPrompt,
   shuffle,
@@ -105,6 +106,10 @@ export function GamePlayScreen({
 
       <p className="mt-10 text-center font-display text-3xl sm:text-4xl">
         {getPrompt(currentWord, direction)}
+      </p>
+
+      <p className="mt-3 text-center font-mono text-xs uppercase tracking-wide text-muted">
+        {getCategoryLabel(currentWord)}
       </p>
 
       <form onSubmit={handleSubmit} className="mt-8 w-full">

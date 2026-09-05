@@ -1,0 +1,995 @@
+{
+    "category": "beden-uzvleri-idiomlari",
+    "phrases": [
+        {
+            "id": "phr-546",
+            "phrase": "hand over",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təhvil vermək, ötürmək",
+            "example": {
+                "en": "Before I leave, I have to hand over all my work.",
+                "az": "Getməzdən əvvəl bütün işimi təhvil verməliyəm."
+            }
+        },
+        {
+            "id": "phr-547",
+            "phrase": "get out of hand",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "idarəolunmaz vəziyyətə düşmək",
+            "example": {
+                "en": "You'll have to deal with this before it gets out of hand.",
+                "az": "Bu, idarəolunmaz olmazdan əvvəl həll etməlisən."
+            }
+        },
+        {
+            "id": "phr-548",
+            "phrase": "know something like the back of your hand",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyi çox yaxşı bilmək",
+            "example": {
+                "en": "He knows London like the back of his hand.",
+                "az": "O, Londonu ovcunun içi kimi tanıyır."
+            }
+        },
+        {
+            "id": "phr-549",
+            "phrase": "have your hands full",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox məşğul olmaq",
+            "example": {
+                "en": "I can't help now — my hands are full.",
+                "az": "İndi kömək edə bilmərəm — əlim çox doludur."
+            }
+        },
+        {
+            "id": "phr-550",
+            "phrase": "hands are tied",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyi etmək gücündən məhrum olmaq",
+            "example": {
+                "en": "I'd like to help, but my hands are tied.",
+                "az": "Kömək etmək istərdim, amma əlim çatmır (səlahiyyətim yoxdur)."
+            }
+        },
+        {
+            "id": "phr-551",
+            "phrase": "get your hands dirty",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin/xoşagəlməz işi bilavasitə görmək",
+            "example": {
+                "en": "The manager isn't afraid to get his hands dirty.",
+                "az": "Menecer çətin işə bilavasitə qatılmaqdan çəkinmir."
+            }
+        },
+        {
+            "id": "phr-552",
+            "phrase": "wash your hands of",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir işdən/məsuliyyətdən tamamilə əl çəkmək",
+            "example": {
+                "en": "I've washed my hands of the whole issue.",
+                "az": "Bu bütün məsələdən əl çəkmişəm."
+            }
+        },
+        {
+            "id": "phr-553",
+            "phrase": "give someone a hand",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "kiməsə kömək etmək",
+            "example": {
+                "en": "He always gives me a hand with the housework.",
+                "az": "O, həmişə ev işlərində mənə kömək edir."
+            }
+        },
+        {
+            "id": "phr-554",
+            "phrase": "an old hand at",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir işdə çox təcrübəli olmaq",
+            "example": {
+                "en": "She's an old hand at making cakes.",
+                "az": "O, tort bişirməkdə çox təcrübəlidir."
+            }
+        },
+        {
+            "id": "phr-555",
+            "phrase": "in hand",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nəzarət altında, idarə olunan",
+            "example": {
+                "en": "The report is in hand — you'll have it next week.",
+                "az": "Hesabat nəzarətdədir — növbəti həftə hazır olacaq."
+            }
+        },
+        {
+            "id": "phr-556",
+            "phrase": "keep an eye on",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "nəzarət etmək, izləmək",
+            "example": {
+                "en": "Please keep an eye on my bag.",
+                "az": "Zəhmət olmasa çantama nəzər sal."
+            }
+        },
+        {
+            "id": "phr-557",
+            "phrase": "turn a blind eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bilərəkdən görməzdən gəlmək",
+            "example": {
+                "en": "The officials turned a blind eye to the violation.",
+                "az": "Məmurlar pozuntuya görməzdən gəldilər."
+            }
+        },
+        {
+            "id": "phr-558",
+            "phrase": "eyes bigger than your stomach",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yeyə biləcəyindən çox yemək sifariş etmək",
+            "example": {
+                "en": "My eyes were bigger than my stomach — I ordered too much.",
+                "az": "Gözüm acgözlük etdi — həddindən artıq sifariş verdim."
+            }
+        },
+        {
+            "id": "phr-559",
+            "phrase": "catch someone's eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "diqqəti cəlb etmək",
+            "example": {
+                "en": "That dress caught my eye immediately.",
+                "az": "O don dərhal diqqətimi çəkdi."
+            }
+        },
+        {
+            "id": "phr-560",
+            "phrase": "a sight for sore eyes",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "görməkdən çox sevindiyin şəxs/şey",
+            "example": {
+                "en": "You're a sight for sore eyes! I thought you'd gone for good.",
+                "az": "Səni görmək nə xoşdur! Həmişəlik getdiyini düşünürdüm."
+            }
+        },
+        {
+            "id": "phr-561",
+            "phrase": "in the public eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ictimaiyyətin diqqətində olmaq",
+            "example": {
+                "en": "Politicians are always in the public eye.",
+                "az": "Siyasətçilər həmişə ictimaiyyətin diqqətindədir."
+            }
+        },
+        {
+            "id": "phr-562",
+            "phrase": "naked eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çılpaq gözlə (alətsiz)",
+            "example": {
+                "en": "You can see the star with the naked eye.",
+                "az": "Ulduzu çılpaq gözlə görmək mümkündür."
+            }
+        },
+        {
+            "id": "phr-563",
+            "phrase": "all ears",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "diqqətlə qulaq asmağa hazır",
+            "example": {
+                "en": "Tell me everything — I'm all ears.",
+                "az": "Hər şeyi de — səni diqqətlə dinləyirəm."
+            }
+        },
+        {
+            "id": "phr-564",
+            "phrase": "in one ear and out the other",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "eşidib dərhal unutmaq",
+            "example": {
+                "en": "I've told them many times, but it's in one ear and out the other.",
+                "az": "Onlara dəfələrlə demişəm, amma bir qulaqdan girib o birindən çıxır."
+            }
+        },
+        {
+            "id": "phr-565",
+            "phrase": "up to your ears",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "işlə hədsiz məşğul olmaq",
+            "example": {
+                "en": "I'm up to my ears in paperwork.",
+                "az": "Kağız işlərindən boğazımadək batmışam."
+            }
+        },
+        {
+            "id": "phr-566",
+            "phrase": "turn a deaf ear",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bilərəkdən eşitməzlikdən gəlmək",
+            "example": {
+                "en": "She turned a deaf ear to criticism.",
+                "az": "O, tənqidə qulaq asmadı."
+            }
+        },
+        {
+            "id": "phr-567",
+            "phrase": "keep your ear to the ground",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "yeniliklərdən xəbərdar olmaq üçün diqqətli olmaq",
+            "example": {
+                "en": "Keep your ear to the ground for any news about layoffs.",
+                "az": "İşdən çıxarmalar barədə xəbərlərə diqqətli ol."
+            }
+        },
+        {
+            "id": "phr-568",
+            "phrase": "use your head",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "ağılla düşünmək",
+            "example": {
+                "en": "Use your head before deciding.",
+                "az": "Qərar verməzdən əvvəl ağılla düşün."
+            }
+        },
+        {
+            "id": "phr-569",
+            "phrase": "get a big head",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təkəbbürlənmək (uğurdan sonra)",
+            "example": {
+                "en": "Don't get a big head just because you won once.",
+                "az": "Bir dəfə qazandın deyə təkəbbürlənmə."
+            }
+        },
+        {
+            "id": "phr-570",
+            "phrase": "head in the clouds",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "xəyalpərəst, realist olmayan",
+            "example": {
+                "en": "He's always daydreaming — his head is in the clouds.",
+                "az": "O, həmişə xəyala dalır — başı buludlardadır."
+            }
+        },
+        {
+            "id": "phr-571",
+            "phrase": "off the top of my head",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "dərindən düşünmədən, dərhal xatırlanan",
+            "example": {
+                "en": "I can't remember the number off the top of my head.",
+                "az": "Nömrəni birdən-birə xatırlaya bilmirəm."
+            }
+        },
+        {
+            "id": "phr-572",
+            "phrase": "keep your head",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təlaşsız, sakit qalmaq (böhran anında)",
+            "example": {
+                "en": "She kept her head during the emergency.",
+                "az": "Fövqəladə vəziyyətdə o, sakitliyini qorudu."
+            }
+        },
+        {
+            "id": "phr-573",
+            "phrase": "two heads are better than one",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "birgə düşünmək tək düşünməkdən yaxşıdır",
+            "example": {
+                "en": "Let's work on this together — two heads are better than one.",
+                "az": "Bunun üzərində birgə işləyək — iki baş bir başdan yaxşıdır."
+            }
+        },
+        {
+            "id": "phr-574",
+            "phrase": "head start",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "başqalarından öndə başlamaq üstünlüyü",
+            "example": {
+                "en": "Starting early gave her a head start.",
+                "az": "Erkən başlamaq ona üstünlük verdi."
+            }
+        },
+        {
+            "id": "phr-575",
+            "phrase": "can't get my head around it",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "başa düşməkdə çətinlik çəkmək",
+            "example": {
+                "en": "I still can't get my head around this new system.",
+                "az": "Bu yeni sistemi hələ də başa düşə bilmirəm."
+            }
+        },
+        {
+            "id": "phr-576",
+            "phrase": "heart of gold",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox mehriban, xeyirxah insan",
+            "example": {
+                "en": "She'll always help — she has a heart of gold.",
+                "az": "O, həmişə kömək edir — ürəyi qızıldandır."
+            }
+        },
+        {
+            "id": "phr-577",
+            "phrase": "break someone's heart",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "kimisə çox kədərləndirmək",
+            "example": {
+                "en": "It broke her heart when he left.",
+                "az": "O, gedəndə onun ürəyi qırıldı."
+            }
+        },
+        {
+            "id": "phr-578",
+            "phrase": "learn by heart",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "əzbərləmək",
+            "example": {
+                "en": "Rohan learned the poem by heart.",
+                "az": "Rohan şeiri əzbərlədi."
+            }
+        },
+        {
+            "id": "phr-579",
+            "phrase": "from the bottom of my heart",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "səmimi qəlbdən",
+            "example": {
+                "en": "Thank you from the bottom of my heart.",
+                "az": "Səmimi qəlbdən təşəkkür edirəm."
+            }
+        },
+        {
+            "id": "phr-580",
+            "phrase": "take heart",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "ürəkləndirmək, ruh yüksəkliyi tapmaq",
+            "example": {
+                "en": "Take heart — things will get better.",
+                "az": "Ruhdan düşmə — hər şey yaxşı olacaq."
+            }
+        },
+        {
+            "id": "phr-581",
+            "phrase": "big mouth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sirri saxlaya bilməyən, çox danışan insan",
+            "example": {
+                "en": "He has a big mouth, so don't share secrets with him.",
+                "az": "Onun ağzı böyükdür, ona sirr açma."
+            }
+        },
+        {
+            "id": "phr-582",
+            "phrase": "put your foot in your mouth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yersiz söz deyib özünü xəcalətə salmaq",
+            "example": {
+                "en": "He really put his foot in his mouth with that comment.",
+                "az": "O şərhi ilə həqiqətən özünü xəcalətə saldı."
+            }
+        },
+        {
+            "id": "phr-583",
+            "phrase": "mouth-watering",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "iştahaaçan (yemək haqqında)",
+            "example": {
+                "en": "The smell from the kitchen was mouth-watering.",
+                "az": "Mətbəxdən gələn qoxu iştahaaçıcı idi."
+            }
+        },
+        {
+            "id": "phr-584",
+            "phrase": "keep your mouth shut",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "sükut etmək, danışmamaq",
+            "example": {
+                "en": "Just keep your mouth shut about the surprise.",
+                "az": "Sürprizdən heç kimə demə."
+            }
+        },
+        {
+            "id": "phr-585",
+            "phrase": "find your feet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yeni vəziyyətə uyğunlaşmaq",
+            "example": {
+                "en": "It took her a while to find her feet in the new job.",
+                "az": "Yeni işdə uyğunlaşması bir müddət çəkdi."
+            }
+        },
+        {
+            "id": "phr-586",
+            "phrase": "put your foot down",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qəti şəkildə etiraz etmək/tələb etmək",
+            "example": {
+                "en": "The boss put his foot down about late arrivals.",
+                "az": "Rəis gecikmələr barədə qəti mövqe tutdu."
+            }
+        },
+        {
+            "id": "phr-587",
+            "phrase": "two left feet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yöndəmsiz, bacarıqsız (xüsusilə rəqsdə)",
+            "example": {
+                "en": "I used to have two left feet until I joined a dance class.",
+                "az": "Rəqs kursuna gedənə qədər yöndəmsiz idim."
+            }
+        },
+        {
+            "id": "phr-588",
+            "phrase": "itchy feet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "səyahət etmək/hərəkət etmək istəyi",
+            "example": {
+                "en": "She has itchy feet and wants to travel again.",
+                "az": "Onun səyahət eşqi var, yenidən getmək istəyir."
+            }
+        },
+        {
+            "id": "phr-589",
+            "phrase": "stand on your own feet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "müstəqil olmaq, başqasından asılı olmamaq",
+            "example": {
+                "en": "It's time you learned to stand on your own feet.",
+                "az": "Artıq öz ayaqların üstündə dayanmağı öyrənmə vaxtıdır."
+            }
+        },
+        {
+            "id": "phr-590",
+            "phrase": "jump in with both feet",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hər hansı bir işə tam həvəslə, tərəddüdsüz başlamaq",
+            "example": {
+                "en": "She jumped in with both feet on the new project.",
+                "az": "O, yeni layihəyə tam həvəslə girişdi."
+            }
+        },
+        {
+            "id": "phr-591",
+            "phrase": "break a leg",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "uğurlar (çıxış/imtahan qarşısında)",
+            "example": {
+                "en": "Don't worry about the performance — break a leg!",
+                "az": "Çıxışdan narahat olma — uğurlar!"
+            }
+        },
+        {
+            "id": "phr-592",
+            "phrase": "pull someone's leg",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə zarafatla aldatmaq",
+            "example": {
+                "en": "Relax, I'm just pulling your leg.",
+                "az": "Sakit ol, sadəcə səninlə zarafat edirəm."
+            }
+        },
+        {
+            "id": "phr-593",
+            "phrase": "on its last legs",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox köhnəlmiş, tezliklə xarab olacaq",
+            "example": {
+                "en": "This old car is on its last legs.",
+                "az": "Bu köhnə maşın artıq son günlərini yaşayır."
+            }
+        },
+        {
+            "id": "phr-594",
+            "phrase": "a leg up",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "üstünlük/köməklik təmin edən şey",
+            "example": {
+                "en": "Her connections gave her a leg up in the industry.",
+                "az": "Onun tanışlıqları sənayedə ona üstünlük verdi."
+            }
+        },
+        {
+            "id": "phr-595",
+            "phrase": "not have a leg to stand on",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "arqumenti/sübutu olmadan iddia etmək",
+            "example": {
+                "en": "Without evidence, he doesn't have a leg to stand on.",
+                "az": "Sübut olmadan onun heç bir əsası yoxdur."
+            }
+        },
+        {
+            "id": "phr-596",
+            "phrase": "up in arms",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hədsiz qəzəbli, etirazlı",
+            "example": {
+                "en": "Employees were up in arms about the new policy.",
+                "az": "İşçilər yeni siyasətə görə hədsiz qəzəbli idilər."
+            }
+        },
+        {
+            "id": "phr-597",
+            "phrase": "the long arm of the law",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "qanunun hər yerdə tutması",
+            "example": {
+                "en": "He couldn't escape the long arm of the law.",
+                "az": "O, qanunun əlindən qaça bilmədi."
+            }
+        },
+        {
+            "id": "phr-598",
+            "phrase": "twist someone's arm",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə etməyə vadar etmək (təzyiqlə)",
+            "example": {
+                "en": "She didn't want to come, but I twisted her arm.",
+                "az": "O, gəlmək istəmirdi, amma mən onu razı saldım."
+            }
+        },
+        {
+            "id": "phr-599",
+            "phrase": "get off my back",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "narahat etməyi/təzyiq göstərməyi dayandırmaq",
+            "example": {
+                "en": "Get off my back — I'll finish it soon.",
+                "az": "Məni narahat etməyi dayandır — tezliklə bitirəcəm."
+            }
+        },
+        {
+            "id": "phr-600",
+            "phrase": "back someone up",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə dəstəkləmək",
+            "example": {
+                "en": "My colleagues backed me up in the meeting.",
+                "az": "Həmkarlarım iclasda məni dəstəklədilər."
+            }
+        },
+        {
+            "id": "phr-601",
+            "phrase": "pat on the back",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təriflənmə, təqdir",
+            "example": {
+                "en": "He deserves a pat on the back for his hard work.",
+                "az": "O, çalışqanlığına görə təqdirə layiqdir."
+            }
+        },
+        {
+            "id": "phr-602",
+            "phrase": "backbone",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "cəsarət, iradə",
+            "example": {
+                "en": "It takes backbone to stand up for what you believe.",
+                "az": "İnandığın şey üçün mübarizə aparmaq üçün iradə lazımdır."
+            }
+        },
+        {
+            "id": "phr-603",
+            "phrase": "stick your nose into",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "aidiyyəti olmayan işə qarışmaq",
+            "example": {
+                "en": "Don't stick your nose into my business.",
+                "az": "Mənim işimə qarışma."
+            }
+        },
+        {
+            "id": "phr-604",
+            "phrase": "turn your nose up at",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiçik/dəyərsiz sayaraq rədd etmək",
+            "example": {
+                "en": "She turned her nose up at the offer.",
+                "az": "O, təklifi lazımsız hesab edib rədd etdi."
+            }
+        },
+        {
+            "id": "phr-605",
+            "phrase": "pay through the nose",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "həddindən artıq baha ödəmək",
+            "example": {
+                "en": "We paid through the nose for those tickets.",
+                "az": "O biletlərə həddindən artıq baha ödədik."
+            }
+        },
+        {
+            "id": "phr-606",
+            "phrase": "right under your nose",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tam yaxınında, gözdən qaçan",
+            "example": {
+                "en": "The keys were right under your nose the whole time.",
+                "az": "Açarlar bütün müddət gözünün qabağında idi."
+            }
+        },
+        {
+            "id": "phr-607",
+            "phrase": "sweet tooth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "şirniyyata həvəs",
+            "example": {
+                "en": "I bought him chocolates — he has such a sweet tooth.",
+                "az": "Ona şokolad aldım — şirniyyata çox həvəsi var."
+            }
+        },
+        {
+            "id": "phr-608",
+            "phrase": "by the skin of your teeth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox az fərqlə, çətinliklə (uğur qazanmaq)",
+            "example": {
+                "en": "We caught the flight by the skin of our teeth.",
+                "az": "Uçuşa çətinliklə, son anda çatdıq."
+            }
+        },
+        {
+            "id": "phr-609",
+            "phrase": "get your teeth into",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir işə tam həvəslə girişmək",
+            "example": {
+                "en": "I want to get my teeth into this project.",
+                "az": "Bu layihəyə tam həvəslə girişmək istəyirəm."
+            }
+        },
+        {
+            "id": "phr-610",
+            "phrase": "fight tooth and nail",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bütün gücü ilə mübarizə aparmaq",
+            "example": {
+                "en": "They fought tooth and nail to keep their jobs.",
+                "az": "Onlar işlərini saxlamaq üçün var gücləri ilə mübarizə apardılar."
+            }
+        },
+        {
+            "id": "phr-611",
+            "phrase": "long in the tooth",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "yaşlı, köhnəlmiş",
+            "example": {
+                "en": "This equipment is getting a bit long in the tooth.",
+                "az": "Bu avadanlıq artıq bir az köhnəlib."
+            }
+        },
+        {
+            "id": "phr-612",
+            "phrase": "bite your tongue",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "danışmaqdan özünü saxlamaq",
+            "example": {
+                "en": "I wanted to argue, but I bit my tongue.",
+                "az": "Mübahisə etmək istədim, amma özümü saxladım."
+            }
+        },
+        {
+            "id": "phr-613",
+            "phrase": "tongue-tied",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "danışa bilməyəcək qədər çaşqın/utancaq",
+            "example": {
+                "en": "She got tongue-tied when meeting her idol.",
+                "az": "İdolu ilə görüşəndə o, danışa bilmədi."
+            }
+        },
+        {
+            "id": "phr-614",
+            "phrase": "on the tip of my tongue",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "az qala xatırlanan, dilin ucunda olan",
+            "example": {
+                "en": "What's her name? It's on the tip of my tongue.",
+                "az": "Onun adı nə idi? Dilimin ucundadır."
+            }
+        },
+        {
+            "id": "phr-615",
+            "phrase": "chip on your shoulder",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "keçmiş haqsızlığa görə daşınan kin/hiss",
+            "example": {
+                "en": "He's had a chip on his shoulder since he was passed over for promotion.",
+                "az": "Vəzifə artımından məhrum olandan bəri onda kin qalıb."
+            }
+        },
+        {
+            "id": "phr-616",
+            "phrase": "shoulder to cry on",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "dərdini bölüşə biləcəyi dəstəkçi insan",
+            "example": {
+                "en": "Whenever I need a shoulder to cry on, she's there.",
+                "az": "Dərdimi bölüşməyə ehtiyacım olanda, o, yanımdadır."
+            }
+        },
+        {
+            "id": "phr-617",
+            "phrase": "get something off your chest",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "narahatlığını/sirrini danışaraq rahatlamaq",
+            "example": {
+                "en": "I need to get this off my chest — I made a mistake.",
+                "az": "Bunu deyib rahatlanmalıyam — səhv etmişəm."
+            }
+        },
+        {
+            "id": "phr-618",
+            "phrase": "keep something close to your chest",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "planlarını/fikirlərini gizli saxlamaq",
+            "example": {
+                "en": "He kept his business plans close to his chest.",
+                "az": "O, biznes planlarını gizli saxladı."
+            }
+        },
+        {
+            "id": "phr-619",
+            "phrase": "cross your fingers",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "uğur/şans üçün ümid etmək",
+            "example": {
+                "en": "I'm crossing my fingers for good news.",
+                "az": "Yaxşı xəbər üçün əlimi ürəyimin üstünə qoyub gözləyirəm."
+            }
+        },
+        {
+            "id": "phr-620",
+            "phrase": "point the finger",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "günahı kiməsə atmaq",
+            "example": {
+                "en": "Don't point the finger at me — I wasn't involved.",
+                "az": "Məni günahlandırma — mən qarışmamışam."
+            }
+        },
+        {
+            "id": "phr-621",
+            "phrase": "green fingers",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bağçılıqda bacarıqlı olmaq",
+            "example": {
+                "en": "She has green fingers — her garden always blooms.",
+                "az": "Onun bağçılıq bacarığı var — bağı həmişə çiçəklənir."
+            }
+        },
+        {
+            "id": "phr-622",
+            "phrase": "let your hair down",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "rahatlamaq, sərbəst əylənmək",
+            "example": {
+                "en": "It's the weekend — let your hair down!",
+                "az": "Həftəsonudur — rahatlan, əylən!"
+            }
+        },
+        {
+            "id": "phr-623",
+            "phrase": "tear your hair out",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hədsiz məyus/əsəbi olmaq",
+            "example": {
+                "en": "My kids are making me tear my hair out.",
+                "az": "Uşaqlarım məni hədsiz əsəbiləşdirir."
+            }
+        },
+        {
+            "id": "phr-624",
+            "phrase": "split hairs",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "əhəmiyyətsiz detallar üzərində mübahisə etmək",
+            "example": {
+                "en": "Let's not split hairs over minor details.",
+                "az": "Kiçik detallar üzərində boş yerə mübahisə etməyək."
+            }
+        },
+        {
+            "id": "phr-625",
+            "phrase": "elbow grease",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "ağır fiziki səy",
+            "example": {
+                "en": "Cleaning this will take some elbow grease.",
+                "az": "Bunu təmizləmək bir az ağır əməyə ehtiyac duyacaq."
+            }
+        },
+        {
+            "id": "phr-626",
+            "phrase": "elbow room",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hərəkət üçün kifayət qədər yer",
+            "example": {
+                "en": "There wasn't enough elbow room in that cramped office.",
+                "az": "O sıxılmış ofisdə kifayət qədər yer yox idi."
+            }
+        },
+        {
+            "id": "phr-627",
+            "phrase": "neck and neck",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bərabər səviyyədə rəqabət aparmaq",
+            "example": {
+                "en": "The two candidates are neck and neck in the polls.",
+                "az": "İki namizəd sorğularda bərabər səviyyədədir."
+            }
+        },
+        {
+            "id": "phr-628",
+            "phrase": "pain in the neck",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əsəbiləşdirici, narahatlıq verən şəxs/şey",
+            "example": {
+                "en": "This paperwork is such a pain in the neck.",
+                "az": "Bu kağız işi çox əsəbiləşdiricidir."
+            }
+        },
+        {
+            "id": "phr-629",
+            "phrase": "stick your neck out",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "risk götürərək fikir/hərəkət göstərmək",
+            "example": {
+                "en": "I'll stick my neck out and say this plan will work.",
+                "az": "Risk götürüb deyəcəm ki, bu plan işləyəcək."
+            }
+        },
+        {
+            "id": "phr-630",
+            "phrase": "skin deep",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "səthi, dərinliyi olmayan",
+            "example": {
+                "en": "Beauty is only skin deep.",
+                "az": "Gözəllik yalnız səthidir."
+            }
+        },
+        {
+            "id": "phr-631",
+            "phrase": "get under someone's skin",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə hədsiz əsəbiləşdirmək",
+            "example": {
+                "en": "His comments really get under my skin.",
+                "az": "Onun şərhləri məni həqiqətən əsəbiləşdirir."
+            }
+        },
+        {
+            "id": "phr-632",
+            "phrase": "thick-skinned",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tənqidə qarşı davamlı, təsirlənməyən",
+            "example": {
+                "en": "You need to be thick-skinned in this job.",
+                "az": "Bu işdə tənqidə davamlı olmaq lazımdır."
+            }
+        },
+        {
+            "id": "phr-633",
+            "phrase": "gut feeling",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "intuisiya, içgüdüsel hiss",
+            "example": {
+                "en": "I have a gut feeling this won't work.",
+                "az": "İçimdə hiss edirəm ki, bu işləməyəcək."
+            }
+        },
+        {
+            "id": "phr-634",
+            "phrase": "pick someone's brain",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimdənsə fikir/məsləhət almaq",
+            "example": {
+                "en": "Can I pick your brain about this project?",
+                "az": "Bu layihə barədə səndən məsləhət ala bilərəmmi?"
+            }
+        },
+        {
+            "id": "phr-635",
+            "phrase": "rack your brain",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyi xatırlamaq üçün çox düşünmək",
+            "example": {
+                "en": "I racked my brain but couldn't remember his name.",
+                "az": "Çox düşündüm, amma adını xatırlaya bilmədim."
+            }
+        }
+    ]
+}

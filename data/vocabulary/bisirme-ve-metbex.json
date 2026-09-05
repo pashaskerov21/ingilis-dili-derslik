@@ -71,7 +71,6 @@
       "partOfSpeech": "verb",
       "translation": "qaynatmaq"
     },
-
     {
       "id": "cok-011",
       "word": "cooker",
@@ -205,7 +204,6 @@
       "partOfSpeech": "noun",
       "translation": "poднос"
     },
-
     {
       "id": "cok-030",
       "word": "chop",
@@ -381,7 +379,6 @@
       "partOfSpeech": "noun",
       "translation": "hazırlıq"
     },
-
     {
       "id": "cok-055",
       "word": "dice",
@@ -424,13 +421,61 @@
       "partOfSpeech": "verb",
       "translation": "bəzəmək (yeməyi)"
     },
-
     {
       "id": "cok-061",
       "word": "caramelize",
       "level": "C1",
       "partOfSpeech": "verb",
       "translation": "karamelləşdirmək"
+    },
+    {
+      "id": "cok-062",
+      "word": "measuring cup",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ölçü stəkanı"
+    },
+    {
+      "id": "cok-063",
+      "word": "measuring spoon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ölçü qaşığı"
+    },
+    {
+      "id": "cok-064",
+      "word": "food processor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qida emalı aparatı"
+    },
+    {
+      "id": "cok-065",
+      "word": "mixer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mikser"
+    },
+    {
+      "id": "cok-066",
+      "word": "pressure cooker",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təzyiqli qazan"
+    },
+    {
+      "id": "cok-067",
+      "word": "tablecloth",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "süfrə örtüyü"
+    },
+    {
+      "id": "cok-068",
+      "word": "napkin",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "salfet"
     }
   ]
 }

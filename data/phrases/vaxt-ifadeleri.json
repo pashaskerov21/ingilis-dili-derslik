@@ -1,0 +1,478 @@
+{
+    "category": "vaxt-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-194",
+            "phrase": "time flies",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "vaxt tez keçir",
+            "example": {
+                "en": "Time flies when you're having fun.",
+                "az": "Əylənəndə vaxt çox tez keçir."
+            }
+        },
+        {
+            "id": "phr-195",
+            "phrase": "in the nick of time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "son anda, çox gec olmazdan əvvəl",
+            "example": {
+                "en": "The firefighters arrived in the nick of time to save the house.",
+                "az": "Yanğınsöndürənlər evi xilas etmək üçün son anda çatdılar."
+            }
+        },
+        {
+            "id": "phr-196",
+            "phrase": "against the clock",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "vaxtla yarışaraq, son tarixə tələsərək",
+            "example": {
+                "en": "The team worked against the clock to finish the report.",
+                "az": "Komanda hesabatı bitirmək üçün vaxtla yarışdı."
+            }
+        },
+        {
+            "id": "phr-197",
+            "phrase": "once in a blue moon",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox nadir hallarda",
+            "example": {
+                "en": "Mary and James only go out once in a blue moon.",
+                "az": "Mary və James çox nadir hallarda çölə çıxırlar."
+            }
+        },
+        {
+            "id": "phr-198",
+            "phrase": "kill time",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "boş vaxtı doldurmaq üçün əhəmiyyətsiz iş görmək",
+            "example": {
+                "en": "I killed time in the airport by browsing the shops.",
+                "az": "Hava limanında vaxtımı mağazalara baxaraq keçirdim."
+            }
+        },
+        {
+            "id": "phr-199",
+            "phrase": "waste time",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "vaxtı boş yerə itirmək",
+            "example": {
+                "en": "Stop wasting time and get to work.",
+                "az": "Vaxtı boş yerə itirməyi dayandır və işə başla."
+            }
+        },
+        {
+            "id": "phr-200",
+            "phrase": "take your time",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "tələsmə, istədiyin qədər vaxt sərf et",
+            "example": {
+                "en": "There's no rush — take your time.",
+                "az": "Tələsmə — istədiyin qədər vaxt sərf et."
+            }
+        },
+        {
+            "id": "phr-201",
+            "phrase": "in no time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox tez, az vaxt ərzində",
+            "example": {
+                "en": "The repair was done in no time.",
+                "az": "Təmir çox az vaxt ərzində edildi."
+            }
+        },
+        {
+            "id": "phr-202",
+            "phrase": "from time to time",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "arabir, bəzən",
+            "example": {
+                "en": "We meet for coffee from time to time.",
+                "az": "Biz arabir qəhvə içmək üçün görüşürük."
+            }
+        },
+        {
+            "id": "phr-203",
+            "phrase": "behind the times",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "müasir dövrdən geridə qalmış",
+            "example": {
+                "en": "His methods are a bit behind the times.",
+                "az": "Onun üsulları bir az köhnəlmişdir."
+            }
+        },
+        {
+            "id": "phr-204",
+            "phrase": "ahead of time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "planlaşdırılan vaxtdan əvvəl",
+            "example": {
+                "en": "We finished the project ahead of time.",
+                "az": "Layihəni planlaşdırılandan əvvəl bitirdik."
+            }
+        },
+        {
+            "id": "phr-205",
+            "phrase": "at the eleventh hour",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "son anda, vaxt bitməzdən demək olar əvvəl",
+            "example": {
+                "en": "The deal was saved at the eleventh hour.",
+                "az": "Sövdələşmə son anda xilas edildi."
+            }
+        },
+        {
+            "id": "phr-206",
+            "phrase": "time will tell",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nəticə yalnız gələcəkdə məlum olacaq",
+            "example": {
+                "en": "Will this plan work? Time will tell.",
+                "az": "Bu plan işləyəcəkmi? Vaxt göstərəcək."
+            }
+        },
+        {
+            "id": "phr-207",
+            "phrase": "for the time being",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hazırkı, müvəqqəti dövr üçün",
+            "example": {
+                "en": "You can stay with us for the time being.",
+                "az": "Hələlik bizimlə qala bilərsən."
+            }
+        },
+        {
+            "id": "phr-208",
+            "phrase": "in the long run",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "uzun müddətdə, gələcəkdə",
+            "example": {
+                "en": "It will save money in the long run.",
+                "az": "Bu, uzunmüddətli perspektivdə pula qənaət edəcək."
+            }
+        },
+        {
+            "id": "phr-209",
+            "phrase": "in due course",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "münasib vaxtda, öz vaxtında",
+            "example": {
+                "en": "You will receive the results in due course.",
+                "az": "Nəticələri öz vaxtında alacaqsan."
+            }
+        },
+        {
+            "id": "phr-210",
+            "phrase": "on the dot",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "dəqiq göstərilən vaxtda",
+            "example": {
+                "en": "The meeting starts at 9 on the dot.",
+                "az": "İclas dəqiq saat 9-da başlayır."
+            }
+        },
+        {
+            "id": "phr-211",
+            "phrase": "day in, day out",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hər gün, dəyişməz olaraq",
+            "example": {
+                "en": "He does the same routine day in, day out.",
+                "az": "O, hər gün eyni rejimi təkrarlayır."
+            }
+        },
+        {
+            "id": "phr-212",
+            "phrase": "at the drop of a hat",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "dərhal, heç bir gecikmə olmadan",
+            "example": {
+                "en": "She's ready to help at the drop of a hat.",
+                "az": "O, heç bir gecikmə olmadan kömək etməyə hazırdır."
+            }
+        },
+        {
+            "id": "phr-213",
+            "phrase": "on borrowed time",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "gözlənilmədən uzun sürən, tezliklə bitəcək vaxt",
+            "example": {
+                "en": "That old machine is running on borrowed time.",
+                "az": "O köhnə maşın artıq son günlərini yaşayır."
+            }
+        },
+        {
+            "id": "phr-214",
+            "phrase": "a stitch in time saves nine",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kiçik problemi indi həll etmək, sonra böyük problemin qarşısını alır",
+            "example": {
+                "en": "Fix the leak now — a stitch in time saves nine.",
+                "az": "Sızmanı indi düzəlt — vaxtında görülən iş sonrakı böyük zərərin qarşısını alır."
+            }
+        },
+        {
+            "id": "phr-215",
+            "phrase": "there's no time like the present",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyi indi etmək lazımdır, təxirə salma",
+            "example": {
+                "en": "If you want to start a business, there's no time like the present.",
+                "az": "Biznesə başlamaq istəyirsənsə, indidən yaxşı vaxt yoxdur."
+            }
+        },
+        {
+            "id": "phr-216",
+            "phrase": "better late than never",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "gec olsa da etmək, heç etməməkdən yaxşıdır",
+            "example": {
+                "en": "The report is late, but better late than never.",
+                "az": "Hesabat gecikib, amma gec olsa da yaxşıdır ki, gəlib."
+            }
+        },
+        {
+            "id": "phr-217",
+            "phrase": "crack of dawn",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "günün ən erkən vaxtı, sübh tezdən",
+            "example": {
+                "en": "We left at the crack of dawn to avoid traffic.",
+                "az": "Tıxacdan qaçmaq üçün sübh tezdən yola çıxdıq."
+            }
+        },
+        {
+            "id": "phr-218",
+            "phrase": "call it a day",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "işi/fəaliyyəti dayandırmaq (günün sonunda)",
+            "example": {
+                "en": "It's getting late — let's call it a day.",
+                "az": "Artıq gecikir — bu günlük bəsdir."
+            }
+        },
+        {
+            "id": "phr-219",
+            "phrase": "lose track of time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "vaxtın necə keçdiyini fərq etməmək",
+            "example": {
+                "en": "I lost track of time while reading.",
+                "az": "Oxuyarkən vaxtın necə keçdiyini fərq etmədim."
+            }
+        },
+        {
+            "id": "phr-220",
+            "phrase": "race against time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "vaxtla yarışmaq (təcili tamamlamaq üçün)",
+            "example": {
+                "en": "Doctors are in a race against time to save the patient.",
+                "az": "Həkimlər xəstəni xilas etmək üçün vaxtla yarışır."
+            }
+        },
+        {
+            "id": "phr-221",
+            "phrase": "buy time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qərar/hərəkət üçün əlavə vaxt qazanmaq (gecikdirərək)",
+            "example": {
+                "en": "To buy time, I told them I'd get back to them next week.",
+                "az": "Vaxt qazanmaq üçün onlara növbəti həftə cavab verəcəyimi dedim."
+            }
+        },
+        {
+            "id": "phr-222",
+            "phrase": "watch the clock",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "vaxtın keçməsini daim izləmək (səbirsizliklə/darıxaraq)",
+            "example": {
+                "en": "He spent the whole meeting watching the clock.",
+                "az": "O, bütün iclas boyu saata baxıb dururdu."
+            }
+        },
+        {
+            "id": "phr-223",
+            "phrase": "time is of the essence",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "vaxt çox vacibdir, tez hərəkət etmək lazımdır",
+            "example": {
+                "en": "Please respond quickly — time is of the essence.",
+                "az": "Zəhmət olmasa tez cavab ver — vaxt çox vacibdir."
+            }
+        },
+        {
+            "id": "phr-224",
+            "phrase": "pressed for time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox məşğul, vaxt azlığı çəkən",
+            "example": {
+                "en": "I'm really pressed for time, so let's make it quick.",
+                "az": "Mən çox vaxt sıxıntısı çəkirəm, ona görə tez olaq."
+            }
+        },
+        {
+            "id": "phr-225",
+            "phrase": "spare time",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "boş vaxt",
+            "example": {
+                "en": "What do you do in your spare time?",
+                "az": "Boş vaxtında nə edirsən?"
+            }
+        },
+        {
+            "id": "phr-226",
+            "phrase": "make time for",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "bir şey üçün vaxt ayırmaq",
+            "example": {
+                "en": "You should make time for exercise every day.",
+                "az": "Hər gün idman üçün vaxt ayırmalısan."
+            }
+        },
+        {
+            "id": "phr-227",
+            "phrase": "until the cows come home",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox uzun müddət",
+            "example": {
+                "en": "You could argue until the cows come home — I won't change my mind.",
+                "az": "Nə qədər desən de — fikrimi dəyişməyəcəm."
+            }
+        },
+        {
+            "id": "phr-228",
+            "phrase": "once and for all",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "son dəfə, tamamilə, təkrar olmayacaq şəkildə",
+            "example": {
+                "en": "Let's settle this issue once and for all.",
+                "az": "Bu məsələni bir dəfəlik həll edək."
+            }
+        },
+        {
+            "id": "phr-229",
+            "phrase": "back in the day",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "keçmişdə, əvvəllər",
+            "example": {
+                "en": "Back in the day, we didn't have smartphones.",
+                "az": "Əvvəllər ağıllı telefonlarımız yox idi."
+            }
+        },
+        {
+            "id": "phr-230",
+            "phrase": "on the spur of the moment",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "planlaşdırılmadan, qəflətən qərar verərək",
+            "example": {
+                "en": "They drove to the beach on the spur of the moment.",
+                "az": "Onlar qəflətən qərar verib çimərliyə maşınla getdilər."
+            }
+        },
+        {
+            "id": "phr-231",
+            "phrase": "drag your feet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qəsdən yavaş hərəkət etmək, gecikdirmək",
+            "example": {
+                "en": "The committee dragged its feet on making a decision.",
+                "az": "Komitə qərar qəbul etməkdə süründürməçilik etdi."
+            }
+        },
+        {
+            "id": "phr-232",
+            "phrase": "make up for lost time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "itirilmiş vaxtı əvəz etmək üçün daha intensiv çalışmaq",
+            "example": {
+                "en": "We worked extra hours to make up for lost time.",
+                "az": "İtirilmiş vaxtı əvəz etmək üçün əlavə saatlar işlədik."
+            }
+        },
+        {
+            "id": "phr-233",
+            "phrase": "time is on your side",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tələsməyə ehtiyac olmaması, kifayət qədər vaxtın olması",
+            "example": {
+                "en": "We don't need to decide today — time is on our side.",
+                "az": "Bu gün qərar verməyə ehtiyac yoxdur — vaxtımız kifayətdir."
+            }
+        },
+        {
+            "id": "phr-234",
+            "phrase": "time stood still",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hər şey dondu, vaxt dayandı kimi hiss olunmaq",
+            "example": {
+                "en": "During the accident, time stood still.",
+                "az": "Qəza zamanı sanki vaxt dayanmışdı."
+            }
+        },
+        {
+            "id": "phr-235",
+            "phrase": "it's about time",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nəhayət baş verdi (gecikmiş olsa da)",
+            "example": {
+                "en": "It's about time you apologized.",
+                "az": "Nəhayət üzr istədin, vaxtı da idi."
+            }
+        },
+        {
+            "id": "phr-236",
+            "phrase": "time and again",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "dəfələrlə, təkrar-təkrar",
+            "example": {
+                "en": "She made the same mistake time and again.",
+                "az": "O, eyni səhvi dəfələrlə təkrarladı."
+            }
+        }
+    ]
+}

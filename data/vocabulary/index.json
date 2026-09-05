@@ -226,6 +226,78 @@
       "titleAz": "Cinayət və hüquq",
       "titleEn": "Crime & Law",
       "file": "cinayet-ve-huquq.json"
+    },
+    {
+      "slug": "musbet-xarakter-cizgileri",
+      "titleAz": "Müsbət xarakter cizgiləri",
+      "titleEn": "Positive Character Traits",
+      "file": "musbet-xarakter-cizgileri.json"
+    },
+    {
+      "slug": "menfi-xarakter-cizgileri",
+      "titleAz": "Mənfi və neytral xarakter cizgiləri",
+      "titleEn": "Negative & Neutral Character Traits",
+      "file": "menfi-xarakter-cizgileri.json"
+    },
+    {
+      "slug": "din",
+      "titleAz": "Din",
+      "titleEn": "Religion",
+      "file": "din.json"
+    },
+    {
+      "slug": "medeniyyet-ve-bayramlar",
+      "titleAz": "Mədəniyyət və bayramlar",
+      "titleEn": "Culture & Festivals",
+      "file": "medeniyyet-ve-bayramlar.json"
+    },
+    {
+      "slug": "kosmos-ve-astronomiya",
+      "titleAz": "Kosmos və astronomiya",
+      "titleEn": "Space & Astronomy",
+      "file": "kosmos-ve-astronomiya.json"
+    },
+    {
+      "slug": "elm-ve-eksperiment",
+      "titleAz": "Elm və eksperiment",
+      "titleEn": "Science & Experiments",
+      "file": "elm-ve-eksperiment.json"
+    },
+    {
+      "slug": "olkeler-milletler-diller",
+      "titleAz": "Ölkələr, millətlər və dillər",
+      "titleEn": "Countries, Nationalities & Languages",
+      "file": "olkeler-milletler-diller.json"
+    },
+    {
+      "slug": "olcu-vahidleri",
+      "titleAz": "Ölçü vahidləri",
+      "titleEn": "Units of Measurement",
+      "file": "olcu-vahidleri.json"
+    },
+    {
+      "slug": "heyat-hadiseleri",
+      "titleAz": "Həyat hadisələri",
+      "titleEn": "Life Events",
+      "file": "heyat-hadiseleri.json"
+    },
+    {
+      "slug": "foveqelade-hallar",
+      "titleAz": "Fövqəladə hallar və təhlükəsizlik",
+      "titleEn": "Emergency & Safety",
+      "file": "foveqelade-hallar.json"
+    },
+    {
+      "slug": "kend-teserrufati",
+      "titleAz": "Kənd təsərrüfatı",
+      "titleEn": "Agriculture",
+      "file": "kend-teserrufati.json"
+    },
+    {
+      "slug": "herbi-luget",
+      "titleAz": "Hərbi lüğət",
+      "titleEn": "Military",
+      "file": "herbi-luget.json"
     }
   ]
 }

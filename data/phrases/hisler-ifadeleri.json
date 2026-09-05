@@ -1,0 +1,720 @@
+{
+    "category": "hisler-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-001",
+            "phrase": "on cloud nine",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox xoşbəxt, sevincdən uçmaq",
+            "example": {
+                "en": "She's been on cloud nine since she got accepted to the university.",
+                "az": "Universitetə qəbul olunandan bəri o, sevincdən göylərdə uçur."
+            }
+        },
+        {
+            "id": "phr-002",
+            "phrase": "over the moon",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox sevincli, hədsiz xoşbəxt",
+            "example": {
+                "en": "I'm over the moon about my new job.",
+                "az": "Yeni işimə görə hədsiz sevincliyəm."
+            }
+        },
+        {
+            "id": "phr-003",
+            "phrase": "feel down",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "kefsiz, məyus hiss etmək",
+            "example": {
+                "en": "He's been feeling down since he lost his job.",
+                "az": "İşini itirəndən bəri o, kefsizdir."
+            }
+        },
+        {
+            "id": "phr-004",
+            "phrase": "down in the dumps",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox kədərli, ruh düşkün",
+            "example": {
+                "en": "Simon has been quite down in the dumps since he broke up with his girlfriend.",
+                "az": "Simon qız yoldaşından ayrılandan bəri çox ruhdan düşüb."
+            }
+        },
+        {
+            "id": "phr-005",
+            "phrase": "feeling blue",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kədərli, kefsiz hiss etmək",
+            "example": {
+                "en": "I've been feeling blue since my best friend moved away.",
+                "az": "Ən yaxın dostum köçəndən bəri kefsizəm."
+            }
+        },
+        {
+            "id": "phr-006",
+            "phrase": "over the top",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "həddindən artıq, şişirdilmiş (reaksiya)",
+            "example": {
+                "en": "Don't you think crying over a spilled coffee is a bit over the top?",
+                "az": "Tökülmüş qəhvəyə görə ağlamaq bir az şişirdilmiş deyilmi?"
+            }
+        },
+        {
+            "id": "phr-007",
+            "phrase": "walking on air",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox xoşbəxt, sevincdən yerlə getmirmiş kimi",
+            "example": {
+                "en": "After the promotion, she was walking on air all week.",
+                "az": "Vəzifə artımından sonra o, bütün həftə sevincdən yerlə getmirdi."
+            }
+        },
+        {
+            "id": "phr-008",
+            "phrase": "in seventh heaven",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "son dərəcə xoşbəxt",
+            "example": {
+                "en": "He was in seventh heaven when his team won the championship.",
+                "az": "Komandası çempionatı qazananda o, son dərəcə xoşbəxt idi."
+            }
+        },
+        {
+            "id": "phr-009",
+            "phrase": "thrilled to bits",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox məmnun, sevincdən partlayan",
+            "example": {
+                "en": "The kids were thrilled to bits when we told them about the trip.",
+                "az": "Səyahət barədə deyəndə uşaqlar sevincdən partladılar."
+            }
+        },
+        {
+            "id": "phr-010",
+            "phrase": "hopping mad",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox qəzəbli",
+            "example": {
+                "en": "Bill is hopping mad because his wife spent his money without asking.",
+                "az": "Bill çox qəzəblidir, çünki arvadı ondan icazəsiz pulunu xərcləyib."
+            }
+        },
+        {
+            "id": "phr-011",
+            "phrase": "see red",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qəflətən çox qəzəblənmək",
+            "example": {
+                "en": "I saw red when he insulted my family.",
+                "az": "O, ailəmi təhqir edəndə mən qəflətən qəzəbləndim."
+            }
+        },
+        {
+            "id": "phr-012",
+            "phrase": "blow a fuse",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "birdən partlayıb qəzəblənmək",
+            "example": {
+                "en": "My dad blew a fuse when he saw the scratch on his car.",
+                "az": "Atam maşınında cızıq görəndə partladı."
+            }
+        },
+        {
+            "id": "phr-013",
+            "phrase": "hot under the collar",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əsəbiləşmiş, qəzəblənmiş",
+            "example": {
+                "en": "He got hot under the collar after dealing with the rude customer.",
+                "az": "Kobud müştəri ilə işləndən sonra o, əsəbiləşdi."
+            }
+        },
+        {
+            "id": "phr-014",
+            "phrase": "fit to be tied",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hədsiz dərəcədə qəzəbli",
+            "example": {
+                "en": "The teacher was fit to be tied when the students kept ignoring her.",
+                "az": "Şagirdlər onu davamlı görməzdən gələndə müəllim hədsiz qəzəbləndi."
+            }
+        },
+        {
+            "id": "phr-015",
+            "phrase": "bent out of shape",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "narahat/qəzəbli olmaq (adətən lazımsız yerə)",
+            "example": {
+                "en": "The customer was bent out of shape because of the delay.",
+                "az": "Müştəri gecikməyə görə lazımsız yerə çox narahat oldu."
+            }
+        },
+        {
+            "id": "phr-016",
+            "phrase": "butterflies in my stomach",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "həyəcandan/qorxudan mədədə hiss olunan gərginlik",
+            "example": {
+                "en": "I get butterflies in my stomach before public speaking.",
+                "az": "İctimai çıxışdan əvvəl qarnımda kəpənəklər uçuşur."
+            }
+        },
+        {
+            "id": "phr-017",
+            "phrase": "scared stiff",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hədsiz dərəcədə qorxmuş",
+            "example": {
+                "en": "She was scared stiff when she heard the strange noise at night.",
+                "az": "Gecə qəribə səs eşidəndə o, hədsiz qorxdu."
+            }
+        },
+        {
+            "id": "phr-018",
+            "phrase": "jump out of one's skin",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qəflətən çox qorxmaq",
+            "example": {
+                "en": "I nearly jumped out of my skin when the phone rang.",
+                "az": "Telefon zəng edəndə az qala ürəyim yerindən çıxırdı."
+            }
+        },
+        {
+            "id": "phr-019",
+            "phrase": "get goosebumps",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "dərini ürpərdən hiss (həyəcan, qorxu, soyuq)",
+            "example": {
+                "en": "That song always gives me goosebumps.",
+                "az": "Bu mahnı həmişə məni ürpərdir."
+            }
+        },
+        {
+            "id": "phr-020",
+            "phrase": "head over heels",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tamamilə aşiq olmaq",
+            "example": {
+                "en": "They're head over heels after just one month of dating.",
+                "az": "Onlar cəmi bir aylıq tanışlıqdan sonra bir-birinə tamamilə aşiq olublar."
+            }
+        },
+        {
+            "id": "phr-021",
+            "phrase": "have a soft spot for",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə xüsusi sevgi/rəğbət bəsləmək",
+            "example": {
+                "en": "I have a soft spot for my old teacher.",
+                "az": "Köhnə müəllimimə qarşı xüsusi rəğbətim var."
+            }
+        },
+        {
+            "id": "phr-022",
+            "phrase": "wear your heart on your sleeve",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hisslərini açıq göstərmək, gizlətməmək",
+            "example": {
+                "en": "She wears her heart on her sleeve — you always know how she feels.",
+                "az": "O, hisslərini heç vaxt gizlətmir — onun necə hiss etdiyini həmişə bilirsən."
+            }
+        },
+        {
+            "id": "phr-023",
+            "phrase": "the apple of my eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ən sevimli, ən əziz insan",
+            "example": {
+                "en": "His daughter is the apple of his eye.",
+                "az": "Onun qızı gözünün işığıdır."
+            }
+        },
+        {
+            "id": "phr-024",
+            "phrase": "bottle up",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hisslərini içində saxlamaq, göstərməmək",
+            "example": {
+                "en": "Don't bottle it up — talk about what's bothering you.",
+                "az": "İçində saxlama — səni narahat edən şeyi danış."
+            }
+        },
+        {
+            "id": "phr-025",
+            "phrase": "mixed feelings",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "qarışıq hisslər (həm müsbət, həm mənfi)",
+            "example": {
+                "en": "I had mixed feelings about moving to another city.",
+                "az": "Başqa şəhərə köçmək barədə qarışıq hisslərim var idi."
+            }
+        },
+        {
+            "id": "phr-026",
+            "phrase": "no hard feelings",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "incimə, küsmə yoxdur (mübahisədən sonra)",
+            "example": {
+                "en": "No hard feelings, man! That's life.",
+                "az": "Küsmə, dostum! Belədir həyat."
+            }
+        },
+        {
+            "id": "phr-027",
+            "phrase": "full of beans",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox enerjili, canlı, coşqun",
+            "example": {
+                "en": "The children were full of beans after the party.",
+                "az": "Uşaqlar məclisdən sonra çox coşqun idilər."
+            }
+        },
+        {
+            "id": "phr-028",
+            "phrase": "cold-hearted",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hissiz, mərhəmətsiz insan",
+            "example": {
+                "en": "He's so cold-hearted that he never even apologized.",
+                "az": "O, o qədər hissizdir ki, heç üzr də istəmədi."
+            }
+        },
+        {
+            "id": "phr-029",
+            "phrase": "beside oneself",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hisslərdən özündən çıxmış (adətən qəzəb/kədərdən)",
+            "example": {
+                "en": "She was beside herself with grief after the news.",
+                "az": "Xəbərdən sonra o, kədərdən özündən çıxmışdı."
+            }
+        },
+        {
+            "id": "phr-030",
+            "phrase": "a bitter pill to swallow",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "qəbul etmək çətin olan xoşagəlməz bir fakt",
+            "example": {
+                "en": "Losing the contract was a bitter pill to swallow for the whole team.",
+                "az": "Müqaviləni itirmək bütün komanda üçün acı bir gerçəklik idi."
+            }
+        },
+        {
+            "id": "phr-091",
+            "phrase": "tickled pink",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox məmnun, sevincli",
+            "example": {
+                "en": "She was tickled pink when she received the surprise gift.",
+                "az": "Gözlənilməz hədiyyəni alanda o, çox sevindi."
+            }
+        },
+        {
+            "id": "phr-092",
+            "phrase": "walking on cloud nine",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hədsiz xoşbəxt (on cloud nine ilə eyni, alternativ forma)",
+            "example": {
+                "en": "Ever since the wedding, they've been walking on cloud nine.",
+                "az": "Toydan bəri onlar sevincdən uçurlar."
+            }
+        },
+        {
+            "id": "phr-093",
+            "phrase": "grinning from ear to ear",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "genişcə gülümsəmək (çox sevindiyi üçün)",
+            "example": {
+                "en": "He was grinning from ear to ear after winning the award.",
+                "az": "Mükafatı qazandıqdan sonra o, qulaqdan-qulağa gülümsəyirdi."
+            }
+        },
+        {
+            "id": "phr-094",
+            "phrase": "on top of the world",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox xoşbəxt (adətən uğurdan sonra)",
+            "example": {
+                "en": "George is feeling on top of the world after selling his first painting.",
+                "az": "Corc ilk rəsm əsərini satdıqdan sonra özünü çox xoşbəxt hiss edir."
+            }
+        },
+        {
+            "id": "phr-095",
+            "phrase": "in high spirits",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "şən, yaxşı əhval-ruhiyyədə",
+            "example": {
+                "en": "The team was in high spirits after the victory.",
+                "az": "Qələbədən sonra komanda çox şən idi."
+            }
+        },
+        {
+            "id": "phr-096",
+            "phrase": "down and out",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox pis vəziyyətdə (maddi/mənəvi cəhətdən)",
+            "example": {
+                "en": "After losing his job, he felt completely down and out.",
+                "az": "İşini itirdikdən sonra o, özünü tam çıxılmaz vəziyyətdə hiss etdi."
+            }
+        },
+        {
+            "id": "phr-097",
+            "phrase": "at the end of your rope",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "səbir/dözüm hüdudunda olmaq",
+            "example": {
+                "en": "After months of stress, she was at the end of her rope.",
+                "az": "Aylarla davam edən stressdən sonra onun dözümü tükənmişdi."
+            }
+        },
+        {
+            "id": "phr-098",
+            "phrase": "cry your eyes out",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox ağlamaq",
+            "example": {
+                "en": "She cried her eyes out when she heard the sad news.",
+                "az": "Kədərli xəbəri eşidəndə o, hönkür-hönkür ağladı."
+            }
+        },
+        {
+            "id": "phr-099",
+            "phrase": "heart sink",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qəflətən kədərlənmək/məyus olmaq",
+            "example": {
+                "en": "My heart sank when I saw the exam results.",
+                "az": "İmtahan nəticələrini görəndə ürəyim sıxıldı."
+            }
+        },
+        {
+            "id": "phr-100",
+            "phrase": "at a loss",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nə edəcəyini bilməmək (çaşqınlıq/kədər)",
+            "example": {
+                "en": "I was at a loss for words after hearing the news.",
+                "az": "Xəbəri eşitdikdən sonra sözlərimi itirmişdim."
+            }
+        },
+        {
+            "id": "phr-101",
+            "phrase": "worried sick",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox narahat olmaq",
+            "example": {
+                "en": "We were worried sick when you didn't call.",
+                "az": "Zəng etmədiyin üçün biz çox narahat olduq."
+            }
+        },
+        {
+            "id": "phr-102",
+            "phrase": "on edge",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gərgin, əsəbi vəziyyətdə",
+            "example": {
+                "en": "She's been on edge all week waiting for the results.",
+                "az": "Bütün həftə nəticələri gözləyərkən o, gərgin idi."
+            }
+        },
+        {
+            "id": "phr-103",
+            "phrase": "a nervous wreck",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hədsiz dərəcədə əsəbi/gərgin insan",
+            "example": {
+                "en": "By the time the interview started, she was a nervous wreck.",
+                "az": "Müsahibə başlayana qədər o, hədsiz gərginləşmişdi."
+            }
+        },
+        {
+            "id": "phr-104",
+            "phrase": "cold feet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "son anda qorxub çəkinmək",
+            "example": {
+                "en": "He got cold feet right before the wedding.",
+                "az": "Toydan bir az əvvəl o, qorxub çəkindi."
+            }
+        },
+        {
+            "id": "phr-105",
+            "phrase": "shaking in your boots",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qorxudan titrəmək",
+            "example": {
+                "en": "He was shaking in his boots before the big presentation.",
+                "az": "Böyük təqdimatdan əvvəl o, qorxudan titrəyirdi."
+            }
+        },
+        {
+            "id": "phr-106",
+            "phrase": "fly off the handle",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "qəflətən, gözlənilmədən qəzəblənmək",
+            "example": {
+                "en": "He flew off the handle when he heard the news.",
+                "az": "Xəbəri eşidəndə o, birdən partladı."
+            }
+        },
+        {
+            "id": "phr-107",
+            "phrase": "lose your temper",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "hirsini/özünü itirmək",
+            "example": {
+                "en": "She lost her temper when the printer broke down again.",
+                "az": "Printer yenidən sıradan çıxanda o, hirsindən özünü itirdi."
+            }
+        },
+        {
+            "id": "phr-108",
+            "phrase": "drive someone up the wall",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə çox əsəbiləşdirmək",
+            "example": {
+                "en": "His constant complaining drives me up the wall.",
+                "az": "Onun daimi şikayəti məni əsəbiləşdirir."
+            }
+        },
+        {
+            "id": "phr-109",
+            "phrase": "get on someone's nerves",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "kimisə əsəbiləşdirmək",
+            "example": {
+                "en": "That noise is really getting on my nerves.",
+                "az": "O səs həqiqətən məni əsəbiləşdirir."
+            }
+        },
+        {
+            "id": "phr-110",
+            "phrase": "at boiling point",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "qəzəbin ən yüksək həddi",
+            "example": {
+                "en": "Tensions in the office reached boiling point after the announcement.",
+                "az": "Elandan sonra ofisdəki gərginlik ən yüksək həddə çatdı."
+            }
+        },
+        {
+            "id": "phr-111",
+            "phrase": "keep a stiff upper lip",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hisslərini göstərmədən dözümlü qalmaq",
+            "example": {
+                "en": "Despite the bad news, he kept a stiff upper lip.",
+                "az": "Pis xəbərə baxmayaraq, o, hisslərini büruzə vermədi."
+            }
+        },
+        {
+            "id": "phr-112",
+            "phrase": "put on a brave face",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətinliyə baxmayaraq güclü görünmək",
+            "example": {
+                "en": "She put on a brave face despite feeling terrible.",
+                "az": "Özünü pis hiss etməsinə baxmayaraq, o, cəsarətli görünməyə çalışdı."
+            }
+        },
+        {
+            "id": "phr-113",
+            "phrase": "fall head over heels",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tamamilə aşiq olmaq (head over heels ilə eyni)",
+            "example": {
+                "en": "He fell head over heels for her the moment they met.",
+                "az": "Onunla tanış olan kimi o, tamamilə aşiq oldu."
+            }
+        },
+        {
+            "id": "phr-114",
+            "phrase": "have a crush on someone",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "kiməsə xoşu gəlmək (romantik)",
+            "example": {
+                "en": "I think he has a crush on the new colleague.",
+                "az": "Deyəsən, onun yeni həmkarına xoşu gəlir."
+            }
+        },
+        {
+            "id": "phr-115",
+            "phrase": "puppy love",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sadə, uşaqcasına romantik hiss",
+            "example": {
+                "en": "Their relationship in high school was just puppy love.",
+                "az": "Onların orta məktəbdəki münasibəti sadəcə uşaqlıq aşiqliyi idi."
+            }
+        },
+        {
+            "id": "phr-116",
+            "phrase": "green with envy",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox qısqanc olmaq",
+            "example": {
+                "en": "She was green with envy when she saw his new car.",
+                "az": "Onun yeni maşınını görəndə o, qısqanclıqdan yaşıllaşdı."
+            }
+        },
+        {
+            "id": "phr-117",
+            "phrase": "eat your heart out",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "qısqanclıq/peşmançılıq hiss etmək (adətən zarafatla deyilir)",
+            "example": {
+                "en": "Eat your heart out — I got the last ticket!",
+                "az": "Qısqan qal — son bileti mən aldım!"
+            }
+        },
+        {
+            "id": "phr-118",
+            "phrase": "sick and tired",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "bir şeydən çox bezmiş",
+            "example": {
+                "en": "I'm sick and tired of his excuses.",
+                "az": "Onun bəhanələrindən çox bezmişəm."
+            }
+        },
+        {
+            "id": "phr-119",
+            "phrase": "fed up",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "bezmiş, dözümü tükənmiş",
+            "example": {
+                "en": "She's fed up with the constant delays.",
+                "az": "O, daimi gecikmələrdən bezib."
+            }
+        },
+        {
+            "id": "phr-120",
+            "phrase": "bored to tears",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hədsiz dərəcədə darıxmış",
+            "example": {
+                "en": "The lecture was so long that I was bored to tears.",
+                "az": "Mühazirə o qədər uzun idi ki, hədsiz darıxdım."
+            }
+        },
+        {
+            "id": "phr-121",
+            "phrase": "keep your chin up",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətinliyə baxmayaraq nikbin qalmaq",
+            "example": {
+                "en": "Keep your chin up — things will get better soon.",
+                "az": "Ruhdan düşmə — tezliklə hər şey yaxşı olacaq."
+            }
+        },
+        {
+            "id": "phr-122",
+            "phrase": "grin and bear it",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çətinliyə şikayət etmədən dözmək",
+            "example": {
+                "en": "There's nothing we can do, so we'll just have to grin and bear it.",
+                "az": "Edə biləcəyimiz heç nə yoxdur, ona görə sadəcə dözməliyik."
+            }
+        },
+        {
+            "id": "phr-123",
+            "phrase": "look on the bright side",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "vəziyyətin müsbət tərəfinə baxmaq",
+            "example": {
+                "en": "Try to look on the bright side — at least you learned something.",
+                "az": "Müsbət tərəfə baxmağa çalış — ən azı bir şey öyrəndin."
+            }
+        },
+        {
+            "id": "phr-124",
+            "phrase": "a weight off my shoulders",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "narahatlıqdan qurtulma hissi (rahatlama)",
+            "example": {
+                "en": "Finishing the project was a weight off my shoulders.",
+                "az": "Layihəni bitirmək çiynimdən böyük yük götürdü."
+            }
+        },
+        {
+            "id": "phr-125",
+            "phrase": "breathe a sigh of relief",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "rahatlıq hissi ilə nəfəs almaq",
+            "example": {
+                "en": "We all breathed a sigh of relief when the exam was over.",
+                "az": "İmtahan bitəndə hamımız rahatlıqla nəfəs aldıq."
+            }
+        }
+    ]
+}

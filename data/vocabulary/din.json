@@ -1,0 +1,278 @@
+{
+    "category": "din",
+    "words": [
+        {
+            "id": "rel-001",
+            "word": "religion",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "din"
+        },
+        {
+            "id": "rel-002",
+            "word": "God",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Allah, Tanrı"
+        },
+        {
+            "id": "rel-003",
+            "word": "pray",
+            "level": "A1",
+            "partOfSpeech": "verb",
+            "translation": "dua etmək"
+        },
+        {
+            "id": "rel-004",
+            "word": "church",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "kilsə"
+        },
+        {
+            "id": "rel-005",
+            "word": "mosque",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "məscid"
+        },
+        {
+            "id": "rel-006",
+            "word": "temple",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "məbəd"
+        },
+        {
+            "id": "rel-007",
+            "word": "priest",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "keşiş"
+        },
+        {
+            "id": "rel-008",
+            "word": "prayer",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "dua"
+        },
+        {
+            "id": "rel-009",
+            "word": "faith",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "iman"
+        },
+        {
+            "id": "rel-010",
+            "word": "belief",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "inanc"
+        },
+        {
+            "id": "rel-011",
+            "word": "believe",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "inanmaq"
+        },
+        {
+            "id": "rel-012",
+            "word": "holy",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "müqəddəs"
+        },
+        {
+            "id": "rel-013",
+            "word": "sacred",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "müqəddəs, toxunulmaz"
+        },
+        {
+            "id": "rel-014",
+            "word": "worship",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "ibadət etmək"
+        },
+        {
+            "id": "rel-015",
+            "word": "funeral",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "dəfn mərasimi"
+        },
+        {
+            "id": "rel-016",
+            "word": "wedding",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "toy mərasimi"
+        },
+        {
+            "id": "rel-017",
+            "word": "Bible",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "İncil"
+        },
+        {
+            "id": "rel-018",
+            "word": "Quran",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Quran"
+        },
+        {
+            "id": "rel-019",
+            "word": "ceremony",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mərasim"
+        },
+        {
+            "id": "rel-020",
+            "word": "ritual",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ayin, ritual"
+        },
+        {
+            "id": "rel-021",
+            "word": "baptism",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "vəftiz mərasimi"
+        },
+        {
+            "id": "rel-022",
+            "word": "pilgrimage",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ziyarət (dini)"
+        },
+        {
+            "id": "rel-023",
+            "word": "fasting",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "oruc"
+        },
+        {
+            "id": "rel-024",
+            "word": "sin",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "günah"
+        },
+        {
+            "id": "rel-025",
+            "word": "soul",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ruh"
+        },
+        {
+            "id": "rel-026",
+            "word": "heaven",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "cənnət"
+        },
+        {
+            "id": "rel-027",
+            "word": "hell",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "cəhənnəm"
+        },
+        {
+            "id": "rel-028",
+            "word": "angel",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mələk"
+        },
+        {
+            "id": "rel-029",
+            "word": "prophet",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "peyğəmbər"
+        },
+        {
+            "id": "rel-030",
+            "word": "believer",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "möminin, inanan şəxs"
+        },
+        {
+            "id": "rel-031",
+            "word": "atheist",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ateist"
+        },
+        {
+            "id": "rel-032",
+            "word": "spiritual",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "mənəvi, ruhani"
+        },
+        {
+            "id": "rel-033",
+            "word": "religious",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "dindar, dini"
+        },
+        {
+            "id": "rel-034",
+            "word": "monk",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "rahib"
+        },
+        {
+            "id": "rel-035",
+            "word": "imam",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "imam"
+        },
+        {
+            "id": "rel-036",
+            "word": "congregation",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "icma (dini toplantı)"
+        },
+        {
+            "id": "rel-037",
+            "word": "denomination",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "dini məzhəb"
+        },
+        {
+            "id": "rel-038",
+            "word": "scripture",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "müqəddəs mətn"
+        },
+        {
+            "id": "rel-039",
+            "word": "theology",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "ilahiyyat"
+        }
+    ]
+}

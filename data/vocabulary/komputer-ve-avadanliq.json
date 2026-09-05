@@ -71,7 +71,6 @@
       "partOfSpeech": "noun",
       "translation": "batareya"
     },
-
     {
       "id": "hrd-011",
       "word": "monitor",
@@ -170,7 +169,6 @@
       "partOfSpeech": "noun",
       "translation": "cihaz"
     },
-
     {
       "id": "hrd-025",
       "word": "CPU",
@@ -318,7 +316,6 @@
       "partOfSpeech": "noun",
       "translation": "piksel"
     },
-
     {
       "id": "hrd-046",
       "word": "processor",
@@ -339,6 +336,41 @@
       "level": "B2",
       "partOfSpeech": "noun",
       "translation": "qurğu proqramı (firmware)"
+    },
+    {
+      "id": "hrd-049",
+      "word": "router",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "router"
+    },
+    {
+      "id": "hrd-050",
+      "word": "modem",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "modem"
+    },
+    {
+      "id": "hrd-051",
+      "word": "smartwatch",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ağıllı saat"
+    },
+    {
+      "id": "hrd-052",
+      "word": "VR headset",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "virtual reallıq eynəyi"
+    },
+    {
+      "id": "hrd-053",
+      "word": "game console",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oyun konsolu"
     }
   ]
 }

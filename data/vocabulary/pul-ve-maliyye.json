@@ -71,7 +71,6 @@
       "partOfSpeech": "noun",
       "translation": "pul kisəsi"
     },
-
     {
       "id": "mon-011",
       "word": "account",
@@ -191,7 +190,6 @@
       "partOfSpeech": "noun",
       "translation": "gəlir (şəxsi)"
     },
-
     {
       "id": "mon-028",
       "word": "loan",
@@ -297,7 +295,6 @@
       "partOfSpeech": "noun",
       "translation": "bankir"
     },
-
     {
       "id": "mon-043",
       "word": "mortgage",
@@ -361,13 +358,33 @@
       "partOfSpeech": "noun",
       "translation": "iqtisadiyyat"
     },
-
     {
       "id": "mon-052",
       "word": "collapse",
       "level": "C1",
       "partOfSpeech": "verb",
       "translation": "çökmək (iqtisadi)"
+    },
+    {
+      "id": "mon-053",
+      "word": "cryptocurrency",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kriptovalyuta"
+    },
+    {
+      "id": "mon-054",
+      "word": "wire transfer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bank köçürməsi"
+    },
+    {
+      "id": "mon-055",
+      "word": "overdraft",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "overdraft (mənfi balans)"
     }
   ]
 }

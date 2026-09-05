@@ -1,0 +1,488 @@
+{
+    "category": "musbet-xarakter-cizgileri",
+    "words": [
+        {
+            "id": "pos-001",
+            "word": "kind",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "mehriban"
+        },
+        {
+            "id": "pos-002",
+            "word": "honest",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "dürüst"
+        },
+        {
+            "id": "pos-003",
+            "word": "friendly",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "səmimi, dostcasına"
+        },
+        {
+            "id": "pos-004",
+            "word": "brave",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "cəsur"
+        },
+        {
+            "id": "pos-005",
+            "word": "smart",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "ağıllı"
+        },
+        {
+            "id": "pos-006",
+            "word": "funny",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "gülməli, zarafatcıl"
+        },
+        {
+            "id": "pos-007",
+            "word": "polite",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "nəzakətli"
+        },
+        {
+            "id": "pos-008",
+            "word": "generous",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "əliaçıq"
+        },
+        {
+            "id": "pos-009",
+            "word": "patient",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "səbirli"
+        },
+        {
+            "id": "pos-010",
+            "word": "confident",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "özünə əminvçi"
+        },
+        {
+            "id": "pos-011",
+            "word": "loyal",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "sadiq"
+        },
+        {
+            "id": "pos-012",
+            "word": "responsible",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "məsuliyyətli"
+        },
+        {
+            "id": "pos-013",
+            "word": "hardworking",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "çalışqan"
+        },
+        {
+            "id": "pos-014",
+            "word": "helpful",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "köməkçi"
+        },
+        {
+            "id": "pos-015",
+            "word": "creative",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "yaradıcı"
+        },
+        {
+            "id": "pos-016",
+            "word": "cheerful",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "şən"
+        },
+        {
+            "id": "pos-017",
+            "word": "calm",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "sakit"
+        },
+        {
+            "id": "pos-018",
+            "word": "careful",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "diqqətli"
+        },
+        {
+            "id": "pos-019",
+            "word": "wise",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "müdrik"
+        },
+        {
+            "id": "pos-020",
+            "word": "humble",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "təvazökar"
+        },
+        {
+            "id": "pos-021",
+            "word": "curious",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "maraqlanan"
+        },
+        {
+            "id": "pos-022",
+            "word": "outgoing",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "ünsiyyətcil"
+        },
+        {
+            "id": "pos-023",
+            "word": "sociable",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "ictimai, insanlarla asan ünsiyyət quran"
+        },
+        {
+            "id": "pos-024",
+            "word": "adaptable",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "uyğunlaşa bilən"
+        },
+        {
+            "id": "pos-025",
+            "word": "adventurous",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "macərapərəst"
+        },
+        {
+            "id": "pos-026",
+            "word": "affectionate",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "sevgi dolu"
+        },
+        {
+            "id": "pos-027",
+            "word": "ambitious",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "iddialı, hədəf yönümlü"
+        },
+        {
+            "id": "pos-028",
+            "word": "amiable",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "xoşsözlü, mehriban"
+        },
+        {
+            "id": "pos-029",
+            "word": "compassionate",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "mərhəmətli"
+        },
+        {
+            "id": "pos-030",
+            "word": "conscientious",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "vicdanlı, məsuliyyətli"
+        },
+        {
+            "id": "pos-031",
+            "word": "considerate",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "başqalarını düşünən"
+        },
+        {
+            "id": "pos-032",
+            "word": "courageous",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "cəsarətli"
+        },
+        {
+            "id": "pos-033",
+            "word": "courteous",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "nəzakətli (rəsmi)"
+        },
+        {
+            "id": "pos-034",
+            "word": "determined",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "qətiyyətli"
+        },
+        {
+            "id": "pos-035",
+            "word": "diplomatic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "diplomatik"
+        },
+        {
+            "id": "pos-036",
+            "word": "disciplined",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "intizamlı"
+        },
+        {
+            "id": "pos-037",
+            "word": "easy-going",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "asan xasiyyətli"
+        },
+        {
+            "id": "pos-038",
+            "word": "empathetic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "empatiyalı"
+        },
+        {
+            "id": "pos-039",
+            "word": "enthusiastic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "həvəsli"
+        },
+        {
+            "id": "pos-040",
+            "word": "flexible",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "çevik (xasiyyət)"
+        },
+        {
+            "id": "pos-041",
+            "word": "genuine",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "səmimi, saf"
+        },
+        {
+            "id": "pos-042",
+            "word": "independent",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "müstəqil"
+        },
+        {
+            "id": "pos-043",
+            "word": "modest",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "təvazökar"
+        },
+        {
+            "id": "pos-044",
+            "word": "open-minded",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "açıq fikirli"
+        },
+        {
+            "id": "pos-045",
+            "word": "optimistic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "nikbin"
+        },
+        {
+            "id": "pos-046",
+            "word": "persuasive",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "inandırıcı"
+        },
+        {
+            "id": "pos-047",
+            "word": "reliable",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "etibarlı"
+        },
+        {
+            "id": "pos-048",
+            "word": "resourceful",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "çıxış yolu tapan"
+        },
+        {
+            "id": "pos-049",
+            "word": "sensible",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "ağıllı, məntiqli"
+        },
+        {
+            "id": "pos-050",
+            "word": "sincere",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "səmimi"
+        },
+        {
+            "id": "pos-051",
+            "word": "tactful",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "incə davranışlı"
+        },
+        {
+            "id": "pos-052",
+            "word": "thoughtful",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "diqqətli, düşüncəli"
+        },
+        {
+            "id": "pos-053",
+            "word": "tolerant",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "dözümlü"
+        },
+        {
+            "id": "pos-054",
+            "word": "trustworthy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "etibar ediləsi"
+        },
+        {
+            "id": "pos-055",
+            "word": "witty",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "zarafatcıl, ağıllı yumor sahibi"
+        },
+        {
+            "id": "pos-056",
+            "word": "attentive",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "diqqətli (başqasına)"
+        },
+        {
+            "id": "pos-057",
+            "word": "bold",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "cəsarətli, üzdə olan"
+        },
+        {
+            "id": "pos-058",
+            "word": "artistic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "sənətkar təbiətli"
+        },
+        {
+            "id": "pos-059",
+            "word": "approachable",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "yaxınlaşması asan, səmimi"
+        },
+        {
+            "id": "pos-060",
+            "word": "meticulous",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "hər detala diqqətli"
+        },
+        {
+            "id": "pos-061",
+            "word": "resilient",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "çətinliklərə davamlı"
+        },
+        {
+            "id": "pos-062",
+            "word": "versatile",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "çoxbacarıqlı"
+        },
+        {
+            "id": "pos-063",
+            "word": "pragmatic",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "praqmatik"
+        },
+        {
+            "id": "pos-064",
+            "word": "charismatic",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "cazibədar (şəxsiyyət)"
+        },
+        {
+            "id": "pos-065",
+            "word": "altruistic",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "başqalarına fayda güdən"
+        },
+        {
+            "id": "pos-066",
+            "word": "perceptive",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "dərrakəli, hiss edən"
+        },
+        {
+            "id": "pos-067",
+            "word": "benevolent",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "xeyirxah (yüksək üslub)"
+        },
+        {
+            "id": "pos-068",
+            "word": "erudite",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "dərin biliyə malik"
+        },
+        {
+            "id": "pos-069",
+            "word": "judicious",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "ağıllı qərar verən"
+        }
+    ]
+}

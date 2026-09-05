@@ -141,7 +141,6 @@
       "partOfSpeech": "noun",
       "translation": "ingilis dili (fənn)"
     },
-
     {
       "id": "sch-021",
       "word": "science",
@@ -373,7 +372,6 @@
       "partOfSpeech": "adjective",
       "translation": "ağıllı, bacarıqlı"
     },
-
     {
       "id": "sch-054",
       "word": "college",
@@ -633,7 +631,6 @@
       "partOfSpeech": "noun",
       "translation": "sinif (Amerikan) / qiymət"
     },
-
     {
       "id": "sch-091",
       "word": "thesis",
@@ -683,7 +680,6 @@
       "partOfSpeech": "adjective",
       "translation": "akademik"
     },
-
     {
       "id": "sch-098",
       "word": "pedagogy",
@@ -697,6 +693,69 @@
       "level": "C1",
       "partOfSpeech": "noun",
       "translation": "plagiat"
+    },
+    {
+      "id": "sch-100",
+      "word": "glue",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yapışqan"
+    },
+    {
+      "id": "sch-101",
+      "word": "scissors",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qayçı"
+    },
+    {
+      "id": "sch-102",
+      "word": "stapler",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "degizləyici (stəpler)"
+    },
+    {
+      "id": "sch-103",
+      "word": "highlighter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "markerlə vurğulayıcı"
+    },
+    {
+      "id": "sch-104",
+      "word": "economics",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iqtisadiyyat (fənn)"
+    },
+    {
+      "id": "sch-105",
+      "word": "psychology",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "psixologiya"
+    },
+    {
+      "id": "sch-106",
+      "word": "philosophy",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fəlsəfə"
+    },
+    {
+      "id": "sch-107",
+      "word": "distance learning",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məsafədən təhsil"
+    },
+    {
+      "id": "sch-108",
+      "word": "online class",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "onlayn dərs"
     }
   ]
 }

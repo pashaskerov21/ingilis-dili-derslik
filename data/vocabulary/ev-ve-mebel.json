@@ -155,7 +155,6 @@
       "partOfSpeech": "noun",
       "translation": "paltar şkafı"
     },
-
     {
       "id": "hom-023",
       "word": "dining room",
@@ -401,7 +400,6 @@
       "partOfSpeech": "noun",
       "translation": "kilid"
     },
-
     {
       "id": "hom-058",
       "word": "nightstand",
@@ -633,7 +631,6 @@
       "partOfSpeech": "noun",
       "translation": "kran"
     },
-
     {
       "id": "hom-091",
       "word": "cramped",
@@ -676,7 +673,6 @@
       "partOfSpeech": "adjective",
       "translation": "tam ayrı (ev tipi)"
     },
-
     {
       "id": "hom-097",
       "word": "dwelling",
@@ -690,6 +686,76 @@
       "level": "C1",
       "partOfSpeech": "noun",
       "translation": "iqamətgah"
+    },
+    {
+      "id": "hom-099",
+      "word": "patio",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "terras (həyət)"
+    },
+    {
+      "id": "hom-100",
+      "word": "deck",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "taxta terras"
+    },
+    {
+      "id": "hom-101",
+      "word": "driveway",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "maşın yolu (evə)"
+    },
+    {
+      "id": "hom-102",
+      "word": "lawn",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çəmənlik (həyətdə)"
+    },
+    {
+      "id": "hom-103",
+      "word": "hose",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şlanq"
+    },
+    {
+      "id": "hom-104",
+      "word": "bunk bed",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iki mərtəbəli çarpayı"
+    },
+    {
+      "id": "hom-105",
+      "word": "crib",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "körpə çarpayısı"
+    },
+    {
+      "id": "hom-106",
+      "word": "ottoman",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ayaq altlığı (mebel)"
+    },
+    {
+      "id": "hom-107",
+      "word": "pantry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ərzaq anbarı (mətbəx)"
+    },
+    {
+      "id": "hom-108",
+      "word": "doorknob",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qapı dəstəyi"
     }
   ]
 }

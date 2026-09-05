@@ -85,7 +85,6 @@
       "partOfSpeech": "noun",
       "translation": "alış-veriş çantası"
     },
-
     {
       "id": "shp-013",
       "word": "mall",
@@ -226,7 +225,6 @@
       "partOfSpeech": "noun",
       "translation": "ölçü (alış-veriş)"
     },
-
     {
       "id": "shp-033",
       "word": "vendor",
@@ -332,7 +330,6 @@
       "partOfSpeech": "noun",
       "translation": "zəmanət"
     },
-
     {
       "id": "shp-048",
       "word": "consumer",
@@ -353,6 +350,27 @@
       "level": "B2",
       "partOfSpeech": "noun",
       "translation": "əmtəə, mal"
+    },
+    {
+      "id": "shp-051",
+      "word": "window shopping",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vitrinlərə baxaraq gəzmə"
+    },
+    {
+      "id": "shp-052",
+      "word": "loyalty card",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sadiqlik kartı"
+    },
+    {
+      "id": "shp-053",
+      "word": "gift card",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hədiyyə kartı"
     }
   ]
 }

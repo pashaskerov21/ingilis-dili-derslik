@@ -1,7 +1,15 @@
 // "Yaz və Yoxla" oyununun saf məntiqi — state saxlamır, komponentlərdən çağırılır.
 import type { VocabSearchEntry } from '@/lib/types';
 
-export type GameWord = VocabSearchEntry;
+export type GameWord = VocabSearchEntry & {
+  /**
+   * Yalnız "ümumi" rejimdə birləşdirilmiş sözlər üçün doldurulur (bax:
+   * `mergeDuplicateWordsForOverallMode`). Yalnız görüntüləmə üçündür — hər
+   * tərcümə hissəsini onun gəldiyi kateqoriya adı ilə əlaqələndirir. Sıra
+   * qorunur və eyni normalizə olunmuş tərcümə təkrar sayılmır.
+   */
+  mergedTranslationParts?: Array<{ text: string; categoryTitleAz: string }>;
+};
 
 export type GameDirection = 'en-az' | 'az-en';
 
@@ -71,7 +79,7 @@ export function mergeDuplicateWordsForOverallMode(words: GameWord[]): GameWord[]
     if (group.length === 1) return group[0];
 
     const seenTranslations = new Set<string>();
-    const translationParts: string[] = [];
+    const mergedTranslationParts: Array<{ text: string; categoryTitleAz: string }> = [];
 
     for (const entry of group) {
       for (const part of entry.translation.split('/').map((p) => p.trim())) {
@@ -82,15 +90,32 @@ export function mergeDuplicateWordsForOverallMode(words: GameWord[]): GameWord[]
           .toLowerCase();
         if (!normalized || seenTranslations.has(normalized)) continue;
         seenTranslations.add(normalized);
-        translationParts.push(part);
+        mergedTranslationParts.push({ text: part, categoryTitleAz: entry.categoryTitleAz });
       }
     }
 
     return {
       ...group[0],
-      translation: translationParts.join(' / '),
+      translation: mergedTranslationParts.map((p) => p.text).join(' / '),
+      mergedTranslationParts,
     };
   });
+}
+
+/**
+ * Sual mərhələsində göstərilən kateqoriya etiketi. Birləşdirilmiş sözlər üçün
+ * bütün mənbə kateqoriyaları (təkrarsız, sıra qorunmaqla) vergüllə ayrılmış
+ * halda qaytarır; adi sözlər üçün isə sadəcə öz kateqoriyasını.
+ */
+export function getCategoryLabel(word: GameWord): string {
+  if (word.mergedTranslationParts && word.mergedTranslationParts.length > 0) {
+    const titles: string[] = [];
+    for (const part of word.mergedTranslationParts) {
+      if (!titles.includes(part.categoryTitleAz)) titles.push(part.categoryTitleAz);
+    }
+    return titles.join(', ');
+  }
+  return word.categoryTitleAz;
 }
 
 /** Fisher-Yates qarışdırma — orijinal massivi dəyişmir. */

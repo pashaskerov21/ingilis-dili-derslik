@@ -99,7 +99,6 @@
       "partOfSpeech": "adjective",
       "translation": "yaşıl (ekoloji mənada da)"
     },
-
     {
       "id": "nat-015",
       "word": "branch",
@@ -219,7 +218,6 @@
       "partOfSpeech": "noun",
       "translation": "çəmənlik"
     },
-
     {
       "id": "nat-032",
       "word": "oak",
@@ -409,7 +407,6 @@
       "partOfSpeech": "verb",
       "translation": "axmaq (su)"
     },
-
     {
       "id": "nat-059",
       "word": "ecosystem",
@@ -522,7 +519,6 @@
       "partOfSpeech": "noun",
       "translation": "kompost"
     },
-
     {
       "id": "nat-075",
       "word": "arboreal",
@@ -544,13 +540,40 @@
       "partOfSpeech": "noun",
       "translation": "çöküntü"
     },
-
     {
       "id": "nat-078",
       "word": "photosynthesis",
       "level": "C2",
       "partOfSpeech": "noun",
       "translation": "fotosintez"
+    },
+    {
+      "id": "nat-079",
+      "word": "tropical",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "tropik"
+    },
+    {
+      "id": "nat-080",
+      "word": "arid",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "quraq (iqlim)"
+    },
+    {
+      "id": "nat-081",
+      "word": "temperate",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "mülayim (iqlim)"
+    },
+    {
+      "id": "nat-082",
+      "word": "polar",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qütb (iqlim)"
     }
   ]
 }

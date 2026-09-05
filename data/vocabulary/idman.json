@@ -106,7 +106,6 @@
       "partOfSpeech": "noun",
       "translation": "qol, darvaza"
     },
-
     {
       "id": "spo-016",
       "word": "baseball",
@@ -289,7 +288,6 @@
       "partOfSpeech": "noun",
       "translation": "meydança (qapalı)"
     },
-
     {
       "id": "spo-042",
       "word": "opponent",
@@ -542,7 +540,6 @@
       "partOfSpeech": "noun",
       "translation": "heyət, komanda tərkibi"
     },
-
     {
       "id": "spo-078",
       "word": "veteran",
@@ -592,13 +589,40 @@
       "partOfSpeech": "noun",
       "translation": "zəif hesab edilən komanda"
     },
-
     {
       "id": "spo-085",
       "word": "fixture",
       "level": "C1",
       "partOfSpeech": "noun",
       "translation": "planlaşdırılmış oyun"
+    },
+    {
+      "id": "spo-086",
+      "word": "badminton",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "badminton"
+    },
+    {
+      "id": "spo-087",
+      "word": "table tennis",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "stolüstü tennis"
+    },
+    {
+      "id": "spo-088",
+      "word": "ice hockey",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xokkey (buz üzərində)"
+    },
+    {
+      "id": "spo-089",
+      "word": "darts",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "darts (ox atma oyunu)"
     }
   ]
 }

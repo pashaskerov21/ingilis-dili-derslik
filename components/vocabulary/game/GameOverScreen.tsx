@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import {
   gameScopeToHighScoreScope,
+  getCategoryLabel,
   getCorrectAnswer,
   getPrompt,
 } from '@/lib/vocabulary-game';
@@ -34,6 +35,12 @@ export function GameOverScreen({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // en-az istiqamətində düzgün cavab tərcümədir — birləşdirilmiş sözlərdə
+  // hər tərcüməni öz kateqoriyası ilə annotasiya edirik. Digər hallarda sadə
+  // cavab göstərilir, kateqoriya isə ayrıca kiçik etiket kimi verilir.
+  const annotatedParts =
+    direction === 'en-az' ? missedWord.mergedTranslationParts : undefined;
+
   return (
     <div className="mx-auto mt-10 flex max-w-md flex-col items-center px-4 text-center">
       <h1 className="font-display text-3xl sm:text-4xl">Oyun bitdi!</h1>
@@ -50,9 +57,28 @@ export function GameOverScreen({
         <p className="font-mono text-xs text-muted">
           {getPrompt(missedWord, direction)}
         </p>
-        <p className="mt-1 font-display text-lg text-accent">
-          {getCorrectAnswer(missedWord, direction)}
-        </p>
+        {annotatedParts && annotatedParts.length > 0 ? (
+          <p className="mt-1 font-display text-lg text-accent">
+            {annotatedParts.map((part, index) => (
+              <span key={index}>
+                {index > 0 ? <span className="text-muted"> / </span> : null}
+                {part.text}{' '}
+                <span className="font-mono text-xs text-muted">
+                  ({part.categoryTitleAz})
+                </span>
+              </span>
+            ))}
+          </p>
+        ) : (
+          <>
+            <p className="mt-1 font-display text-lg text-accent">
+              {getCorrectAnswer(missedWord, direction)}
+            </p>
+            <p className="mt-1 font-mono text-xs uppercase tracking-wide text-muted">
+              {getCategoryLabel(missedWord)}
+            </p>
+          </>
+        )}
       </div>
 
       <div className="mt-10 flex w-full flex-col gap-3">

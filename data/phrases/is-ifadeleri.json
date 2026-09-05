@@ -1,0 +1,665 @@
+{
+    "category": "is-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-031",
+            "phrase": "climb the career ladder",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "karyerada vəzifə/məsuliyyət baxımından irəliləmək",
+            "example": {
+                "en": "He worked hard to climb the career ladder at his company.",
+                "az": "O, şirkətində karyera pillələrini qalxmaq üçün çox çalışdı."
+            }
+        },
+        {
+            "id": "phr-032",
+            "phrase": "get the ball rolling",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir işi/layihəni başlatmaq",
+            "example": {
+                "en": "Let's get the ball rolling on the new marketing campaign.",
+                "az": "Yeni marketinq kampaniyasına başlayaq."
+            }
+        },
+        {
+            "id": "phr-033",
+            "phrase": "learn the ropes",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "işin necə görüldüyünü öyrənmək (yeni işdə)",
+            "example": {
+                "en": "It took her a few weeks to learn the ropes at her new job.",
+                "az": "Yeni işində işin qaydalarını öyrənməyə bir neçə həftə çəkdi."
+            }
+        },
+        {
+            "id": "phr-034",
+            "phrase": "think outside the box",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yaradıcı, qeyri-standart düşünmək",
+            "example": {
+                "en": "We need to think outside the box to solve this problem.",
+                "az": "Bu problemi həll etmək üçün qeyri-standart düşünməliyik."
+            }
+        },
+        {
+            "id": "phr-035",
+            "phrase": "back to the drawing board",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yenidən başlamaq (əvvəlki plan uğursuz olanda)",
+            "example": {
+                "en": "The client rejected our proposal, so it's back to the drawing board.",
+                "az": "Müştəri təklifimizi rədd etdi, ona görə yenidən başlamalıyıq."
+            }
+        },
+        {
+            "id": "phr-036",
+            "phrase": "cut corners",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "işi tələsik, keyfiyyətsiz görmək (vaxt/pul qənaəti üçün)",
+            "example": {
+                "en": "Cutting corners on quality control will result in careless errors.",
+                "az": "Keyfiyyət nəzarətində qənaət etmək diqqətsiz səhvlərə səbəb olacaq."
+            }
+        },
+        {
+            "id": "phr-037",
+            "phrase": "up to speed",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "cari məlumatla tanış olmaq/etmək",
+            "example": {
+                "en": "Can everyone help him get up to speed on our accounts?",
+                "az": "Hamı ona hesablarımız barədə məlumat verməkdə kömək edə bilərmi?"
+            }
+        },
+        {
+            "id": "phr-038",
+            "phrase": "in the loop",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "məlumatlandırılmış, xəbərdar olmaq",
+            "example": {
+                "en": "Please keep me in the loop about the project's progress.",
+                "az": "Zəhmət olmasa, layihənin gedişatı barədə məni məlumatlandırın."
+            }
+        },
+        {
+            "id": "phr-039",
+            "phrase": "out of the loop",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "məlumatsız qalmaq, xəbərsiz olmaq",
+            "example": {
+                "en": "I've been out of the loop since I was on vacation.",
+                "az": "Məzuniyyətdə olduğumdan bəri məlumatsızam."
+            }
+        },
+        {
+            "id": "phr-040",
+            "phrase": "ahead of the curve",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "başqalarından öndə, trendi qabaqlayan",
+            "example": {
+                "en": "This company is always ahead of the curve when it comes to technology.",
+                "az": "Bu şirkət texnologiya baxımından həmişə öndə gedir."
+            }
+        },
+        {
+            "id": "phr-041",
+            "phrase": "by the book",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qaydalara tam uyğun, rəsmi qaydada",
+            "example": {
+                "en": "He always does everything by the book.",
+                "az": "O, həmişə hər şeyi qaydalara tam uyğun edir."
+            }
+        },
+        {
+            "id": "phr-042",
+            "phrase": "call the shots",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qərar vermək, idarə etmək (məsul şəxs olmaq)",
+            "example": {
+                "en": "In this department, she calls the shots.",
+                "az": "Bu şöbədə qərarları o verir."
+            }
+        },
+        {
+            "id": "phr-043",
+            "phrase": "go the extra mile",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gözlənilən səviyyədən artıq səy göstərmək",
+            "example": {
+                "en": "We need to go the extra mile if we want to impress our clients.",
+                "az": "Müştərilərimizi heyran etmək istəyiriksə, əlavə səy göstərməliyik."
+            }
+        },
+        {
+            "id": "phr-044",
+            "phrase": "put in the hours",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "uzun müddət ciddi işləmək",
+            "example": {
+                "en": "If we want to finish this on time, we'll have to put in the hours.",
+                "az": "Bunu vaxtında bitirmək istəyiriksə, uzun-uzadı işləməliyik."
+            }
+        },
+        {
+            "id": "phr-045",
+            "phrase": "wear many hats",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "eyni vaxtda bir neçə fərqli vəzifə/rol daşımaq",
+            "example": {
+                "en": "As a small business owner, I have to wear many hats.",
+                "az": "Kiçik biznes sahibi kimi, mən bir neçə fərqli rol daşımalı oluram."
+            }
+        },
+        {
+            "id": "phr-046",
+            "phrase": "nose to the grindstone",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "səylə, fasiləsiz çalışmaq",
+            "example": {
+                "en": "She's had her nose to the grindstone all week to meet the deadline.",
+                "az": "O, son tarixə çatmaq üçün bütün həftə fasiləsiz çalışıb."
+            }
+        },
+        {
+            "id": "phr-047",
+            "phrase": "burning the midnight oil",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "gecə gec saatlara qədər işləmək",
+            "example": {
+                "en": "We'll be burning the midnight oil tonight to finish the report.",
+                "az": "Hesabatı bitirmək üçün bu gecə gecəyarısına qədər işləyəcəyik."
+            }
+        },
+        {
+            "id": "phr-048",
+            "phrase": "the ball is in your court",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "növbəti addım/qərar sənə aiddir",
+            "example": {
+                "en": "I've sent the proposal — now the ball is in your court.",
+                "az": "Təklifi göndərdim — indi növbə səndədir."
+            }
+        },
+        {
+            "id": "phr-049",
+            "phrase": "a long shot",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "uğur ehtimalı az olan cəhd",
+            "example": {
+                "en": "Getting that position is a long shot, but it's worth trying.",
+                "az": "Həmin vəzifəni almaq ehtimalı azdır, amma cəhd etməyə dəyər."
+            }
+        },
+        {
+            "id": "phr-050",
+            "phrase": "ballpark figure",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "təxmini, dəqiq olmayan rəqəm",
+            "example": {
+                "en": "We need a ballpark figure for the new building's cost.",
+                "az": "Yeni binanın dəyəri üçün təxmini rəqəm lazımdır."
+            }
+        },
+        {
+            "id": "phr-051",
+            "phrase": "big picture",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "vəziyyətin ümumi mənzərəsi (detallar deyil)",
+            "example": {
+                "en": "Let's not get lost in details — look at the big picture.",
+                "az": "Detallarda itməyək — ümumi mənzərəyə baxaq."
+            }
+        },
+        {
+            "id": "phr-052",
+            "phrase": "raise the bar",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "standartları/gözləntiləri yüksəltmək",
+            "example": {
+                "en": "The new manager has really raised the bar for customer service.",
+                "az": "Yeni menecer müştəri xidməti standartlarını həqiqətən yüksəldib."
+            }
+        },
+        {
+            "id": "phr-053",
+            "phrase": "game changer",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "vəziyyəti kökündən dəyişən şey/hadisə",
+            "example": {
+                "en": "This new software is a real game changer for our workflow.",
+                "az": "Bu yeni proqram təminatı iş axınımız üçün əsl dönüş nöqtəsidir."
+            }
+        },
+        {
+            "id": "phr-054",
+            "phrase": "in the driver's seat",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "vəziyyətə nəzarət edən, idarə edən mövqedə",
+            "example": {
+                "en": "After the merger, she's in the driver's seat of the new division.",
+                "az": "Birləşmədən sonra o, yeni bölmənin sükanı arxasındadır."
+            }
+        },
+        {
+            "id": "phr-055",
+            "phrase": "cash cow",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "davamlı gəlir gətirən məhsul/xidmət",
+            "example": {
+                "en": "That product line has become a real cash cow for the company.",
+                "az": "Həmin məhsul xətti şirkət üçün əsl gəlir mənbəyinə çevrilib."
+            }
+        },
+        {
+            "id": "phr-056",
+            "phrase": "bring home the bacon",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "pul qazanmaq, ailəni maliyyələşdirmək",
+            "example": {
+                "en": "She's the one bringing home the bacon in her family.",
+                "az": "Ailəsində pulu qazanan məhz odur."
+            }
+        },
+        {
+            "id": "phr-057",
+            "phrase": "in the black",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "mənfəətdə olmaq (biznes)",
+            "example": {
+                "en": "After a tough year, the company is finally back in the black.",
+                "az": "Çətin ildən sonra şirkət nəhayət yenidən mənfəətdədir."
+            }
+        },
+        {
+            "id": "phr-058",
+            "phrase": "cost an arm and a leg",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox baha olmaq",
+            "example": {
+                "en": "That software upgrade cost us an arm and a leg.",
+                "az": "O proqram yeniləməsi bizə çox baha başa gəldi."
+            }
+        },
+        {
+            "id": "phr-059",
+            "phrase": "not rocket science",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "mürəkkəb olmayan, sadə şey",
+            "example": {
+                "en": "Just follow the instructions — it's not rocket science.",
+                "az": "Sadəcə təlimatlara əməl et — bu, mürəkkəb bir şey deyil."
+            }
+        },
+        {
+            "id": "phr-060",
+            "phrase": "rock the boat",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "sabit vəziyyəti pozmaq, problem yaratmaq",
+            "example": {
+                "en": "Everything is working fine, so let's not rock the boat.",
+                "az": "Hər şey yaxşı işləyir, ona görə sabit vəziyyəti pozmayaq."
+            }
+        },
+        {
+            "id": "phr-061",
+            "phrase": "touch base",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qısaca əlaqə saxlamaq, yenilik bölüşmək",
+            "example": {
+                "en": "I'll touch base with you after the meeting.",
+                "az": "İclasdan sonra səninlə əlaqə saxlayacam."
+            }
+        },
+        {
+            "id": "phr-062",
+            "phrase": "on the same page",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "eyni anlayışda/razılaşmada olmaq",
+            "example": {
+                "en": "Before we start, let's make sure we're all on the same page.",
+                "az": "Başlamazdan əvvəl hamımızın eyni fikirdə olduğuna əmin olaq."
+            }
+        },
+        {
+            "id": "phr-063",
+            "phrase": "circle back",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sonra mövzuya yenidən qayıtmaq",
+            "example": {
+                "en": "Let's circle back to this topic next week.",
+                "az": "Növbəti həftə bu mövzuya qayıdaq."
+            }
+        },
+        {
+            "id": "phr-064",
+            "phrase": "hit the ground running",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "yeni işə/layihəyə dərhal enerji ilə başlamaq",
+            "example": {
+                "en": "The new employee hit the ground running on her first day.",
+                "az": "Yeni işçi ilk günündən dərhal enerjili şəkildə işə başladı."
+            }
+        },
+        {
+            "id": "phr-065",
+            "phrase": "keep someone posted",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə davamlı məlumatlandırmaq",
+            "example": {
+                "en": "Please keep me posted on any updates.",
+                "az": "Zəhmət olmasa, hər hansı yeniliklər barədə məni məlumatlandırın."
+            }
+        },
+        {
+            "id": "phr-066",
+            "phrase": "close the deal",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sövdələşməni yekunlaşdırmaq",
+            "example": {
+                "en": "We finally closed the deal after months of negotiation.",
+                "az": "Aylarla davam edən danışıqdan sonra nəhayət sövdələşməni yekunlaşdırdıq."
+            }
+        },
+        {
+            "id": "phr-067",
+            "phrase": "put all your eggs in one basket",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "bütün resursları tək bir şeyə qoymaq (riskli)",
+            "example": {
+                "en": "Don't put all your eggs in one basket — diversify your investments.",
+                "az": "Bütün resurslarını tək bir şeyə qoyma — investisiyalarını müxtəlifləşdir."
+            }
+        },
+        {
+            "id": "phr-068",
+            "phrase": "jump on the bandwagon",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "populyar olan bir şeyə qoşulmaq",
+            "example": {
+                "en": "Many companies jumped on the bandwagon of remote work.",
+                "az": "Bir çox şirkət uzaqdan işləmə trendinə qoşuldu."
+            }
+        },
+        {
+            "id": "phr-069",
+            "phrase": "read between the lines",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "açıq deyilməyən mənanı anlamaq",
+            "example": {
+                "en": "You need to read between the lines to understand what he really wants.",
+                "az": "Onun həqiqətən nə istədiyini anlamaq üçün sətirarası oxumalısan."
+            }
+        },
+        {
+            "id": "phr-070",
+            "phrase": "get down to business",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ciddi işə başlamaq (formal söhbətdən sonra)",
+            "example": {
+                "en": "Enough small talk — let's get down to business.",
+                "az": "Boş söhbət yetər — işə keçək."
+            }
+        },
+        {
+            "id": "phr-071",
+            "phrase": "run out of steam",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "enerjini/həvəsi itirmək",
+            "example": {
+                "en": "The project ran out of steam after the initial excitement faded.",
+                "az": "İlk həyəcan sönəndən sonra layihə öz sürətini itirdi."
+            }
+        },
+        {
+            "id": "phr-072",
+            "phrase": "on the back burner",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hazırda prioritet olmayan, təxirə salınmış (məsələ)",
+            "example": {
+                "en": "That project is on the back burner for now.",
+                "az": "Hazırda o layihə arxa plana keçirilib."
+            }
+        },
+        {
+            "id": "phr-073",
+            "phrase": "the writing is on the wall",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "pis nəticənin qaçılmaz olduğu aydın olmaq",
+            "example": {
+                "en": "When sales kept dropping, the writing was on the wall for the store.",
+                "az": "Satışlar davamlı düşəndə, mağaza üçün son aydın oldu."
+            }
+        },
+        {
+            "id": "phr-074",
+            "phrase": "sink or swim",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kömək olmadan uğur qazanmalı və ya uğursuz olmalı",
+            "example": {
+                "en": "They gave her the project and said it was sink or swim.",
+                "az": "Ona layihəni verdilər və dedilər ki, ya bacar, ya da uğursuz ol."
+            }
+        },
+        {
+            "id": "phr-075",
+            "phrase": "take the plunge",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "riskli/cəsarətli bir addım atmaq",
+            "example": {
+                "en": "After years of planning, she finally took the plunge and started her own business.",
+                "az": "İllərlə planlaşdırmadan sonra o, nəhayət cəsarətli addım atıb öz biznesini qurdu."
+            }
+        },
+        {
+            "id": "phr-076",
+            "phrase": "throw in the towel",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təslim olmaq, vaz keçmək",
+            "example": {
+                "en": "After three failed attempts, he threw in the towel.",
+                "az": "Üç uğursuz cəhddən sonra o, təslim oldu."
+            }
+        },
+        {
+            "id": "phr-077",
+            "phrase": "keep your eye on the ball",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "diqqəti əsas məqsədə cəmləmək",
+            "example": {
+                "en": "With so many distractions, it's hard to keep your eye on the ball.",
+                "az": "Bu qədər diqqətyayındırıcı şey olanda, əsas məqsədə fokuslanmaq çətindir."
+            }
+        },
+        {
+            "id": "phr-078",
+            "phrase": "give someone the green light",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "icazə vermək, təsdiqləmək",
+            "example": {
+                "en": "The board finally gave us the green light for the new project.",
+                "az": "İdarə heyəti nəhayət yeni layihəyə yaşıl işıq yandırdı."
+            }
+        },
+        {
+            "id": "phr-079",
+            "phrase": "back to square one",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əvvəlki başlanğıc nöqtəsinə qayıtmaq (uğursuzluqdan sonra)",
+            "example": {
+                "en": "The deal fell through, so we're back to square one.",
+                "az": "Sövdələşmə pozuldu, ona görə yenidən başlanğıc nöqtəsindəyik."
+            }
+        },
+        {
+            "id": "phr-080",
+            "phrase": "under the table",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "gizli, qeyri-rəsmi (adətən pul haqqında)",
+            "example": {
+                "en": "He was paid under the table for the extra work.",
+                "az": "Əlavə iş üçün ona gizli şəkildə pul ödənildi."
+            }
+        },
+        {
+            "id": "phr-081",
+            "phrase": "corner the market",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "bir sahədə üstünlük/inhisar əldə etmək",
+            "example": {
+                "en": "That company has cornered the market on electric cars.",
+                "az": "Həmin şirkət elektrik avtomobilləri bazarında inhisar əldə edib."
+            }
+        },
+        {
+            "id": "phr-082",
+            "phrase": "a foot in the door",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ilk imkan/başlanğıc əldə etmək",
+            "example": {
+                "en": "This internship could be her foot in the door at the company.",
+                "az": "Bu təcrübə şirkətdə onun üçün ilk imkan ola bilər."
+            }
+        },
+        {
+            "id": "phr-083",
+            "phrase": "know the ins and outs",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyin bütün detallarını bilmək",
+            "example": {
+                "en": "She knows the ins and outs of the industry.",
+                "az": "O, sənayenin bütün incəliklərini bilir."
+            }
+        },
+        {
+            "id": "phr-084",
+            "phrase": "put your best foot forward",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ən yaxşı təəssürat yaratmağa çalışmaq",
+            "example": {
+                "en": "Make sure to put your best foot forward at the interview.",
+                "az": "Müsahibədə ən yaxşı təəssüratı yaratmağa çalış."
+            }
+        },
+        {
+            "id": "phr-085",
+            "phrase": "in over your head",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "öhdəsindən gələ bilməyəcəyi qədər çətinlik içində",
+            "example": {
+                "en": "He's in over his head with this project — it's too complex for him.",
+                "az": "O, bu layihədə öhdəsindən gələ bilmir — onun üçün çox mürəkkəbdir."
+            }
+        },
+        {
+            "id": "phr-086",
+            "phrase": "spread yourself too thin",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "eyni vaxtda həddindən artıq çox işlə məşğul olmaq",
+            "example": {
+                "en": "By taking on too many projects, she's spreading herself too thin.",
+                "az": "Çox sayda layihə götürərək, o, özünü həddən artıq yükləyib."
+            }
+        },
+        {
+            "id": "phr-087",
+            "phrase": "on the ball",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "diqqətli, sürətli reaksiya verən",
+            "example": {
+                "en": "Our new assistant is really on the ball.",
+                "az": "Yeni köməkçimiz həqiqətən çox diqqətli və çevikdir."
+            }
+        },
+        {
+            "id": "phr-088",
+            "phrase": "get the sack",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "işdən çıxarılmaq",
+            "example": {
+                "en": "He got the sack after missing too many deadlines.",
+                "az": "Çox sayda son tarixi qaçırdığı üçün o, işdən çıxarıldı."
+            }
+        },
+        {
+            "id": "phr-089",
+            "phrase": "pull your weight",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "öz payına düşən işi tam yerinə yetirmək",
+            "example": {
+                "en": "Everyone on the team needs to pull their weight.",
+                "az": "Komandadakı hər kəs öz payına düşən işi görməlidir."
+            }
+        },
+        {
+            "id": "phr-090",
+            "phrase": "a rule of thumb",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təxmini, ümumi qəbul edilmiş qayda",
+            "example": {
+                "en": "As a rule of thumb, respond to emails within 24 hours.",
+                "az": "Ümumi qayda olaraq, emaillərə 24 saat ərzində cavab ver."
+            }
+        }
+    ]
+}

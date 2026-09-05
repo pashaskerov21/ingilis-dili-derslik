@@ -1,0 +1,243 @@
+{
+    "category": "medeniyyet-ve-bayramlar",
+    "words": [
+        {
+            "id": "cul-001",
+            "word": "festival",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "festival, bayram"
+        },
+        {
+            "id": "cul-002",
+            "word": "celebration",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "qeyd etmə, kutlama"
+        },
+        {
+            "id": "cul-003",
+            "word": "celebrate",
+            "level": "A1",
+            "partOfSpeech": "verb",
+            "translation": "qeyd etmək"
+        },
+        {
+            "id": "cul-004",
+            "word": "gift",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "hədiyyə"
+        },
+        {
+            "id": "cul-005",
+            "word": "party",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "məclis"
+        },
+        {
+            "id": "cul-006",
+            "word": "tradition",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ənənə"
+        },
+        {
+            "id": "cul-007",
+            "word": "traditional",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "ənənəvi"
+        },
+        {
+            "id": "cul-008",
+            "word": "custom",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "adət"
+        },
+        {
+            "id": "cul-009",
+            "word": "parade",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yürüş, parad"
+        },
+        {
+            "id": "cul-010",
+            "word": "fireworks",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "atəşfəşanlıq"
+        },
+        {
+            "id": "cul-011",
+            "word": "decoration",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "bəzək"
+        },
+        {
+            "id": "cul-012",
+            "word": "feast",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "böyük ziyafət"
+        },
+        {
+            "id": "cul-013",
+            "word": "national holiday",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "milli bayram"
+        },
+        {
+            "id": "cul-014",
+            "word": "New Year",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Yeni il"
+        },
+        {
+            "id": "cul-015",
+            "word": "birthday",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ad günü"
+        },
+        {
+            "id": "cul-016",
+            "word": "ceremony",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mərasim (dünyəvi)"
+        },
+        {
+            "id": "cul-017",
+            "word": "ritual",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "adət-ənənə ayini"
+        },
+        {
+            "id": "cul-018",
+            "word": "gathering",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "toplantı"
+        },
+        {
+            "id": "cul-019",
+            "word": "toast",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "badə qaldırma"
+        },
+        {
+            "id": "cul-020",
+            "word": "bonfire",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tonqal (bayram)"
+        },
+        {
+            "id": "cul-021",
+            "word": "lantern",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "fənər (bəzək)"
+        },
+        {
+            "id": "cul-022",
+            "word": "folklore",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "folklor"
+        },
+        {
+            "id": "cul-023",
+            "word": "heritage",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "irs, miras (mədəni)"
+        },
+        {
+            "id": "cul-024",
+            "word": "anniversary",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ildönümü"
+        },
+        {
+            "id": "cul-025",
+            "word": "commemorate",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "xatırlamaq (rəsmi tədbirlə)"
+        },
+        {
+            "id": "cul-026",
+            "word": "generation",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "nəsil"
+        },
+        {
+            "id": "cul-027",
+            "word": "custom-made",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "sifarişlə hazırlanmış"
+        },
+        {
+            "id": "cul-028",
+            "word": "observance",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qeyd etmə (rəsmi)"
+        },
+        {
+            "id": "cul-029",
+            "word": "ethnicity",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "etnik mənsubiyyət"
+        },
+        {
+            "id": "cul-030",
+            "word": "diversity",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "müxtəliflik (mədəni)"
+        },
+        {
+            "id": "cul-031",
+            "word": "cross-cultural",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "mədəniyyətlərarası"
+        },
+        {
+            "id": "cul-032",
+            "word": "assimilation",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "assimilyasiya"
+        },
+        {
+            "id": "cul-033",
+            "word": "multicultural",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "çoxmədəniyyətli"
+        },
+        {
+            "id": "cul-034",
+            "word": "folkloric",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "folklorik"
+        }
+    ]
+}

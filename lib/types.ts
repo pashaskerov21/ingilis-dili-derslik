@@ -240,3 +240,53 @@ export interface VocabSearchEntry extends VocabWord {
   categorySlug: string;
   categoryTitleAz: string;
 }
+
+/* ------------------------------------------------------------------ */
+/* İfadələr modulu — data/phrases/*.json                               */
+/* ------------------------------------------------------------------ */
+
+export type PhraseType = 'idiom' | 'collocation' | 'fixed-expression';
+
+export type PhraseLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2';
+
+/** Bir ifadə — data/phrases/[kateqoriya].json-dakı `phrases` massivinin elementi. */
+export interface Phrase {
+  id: string;
+  phrase: string;
+  type: PhraseType;
+  level: PhraseLevel;
+  meaning: string;
+  example: { en: string; az: string };
+}
+
+/** data/phrases/index.json-dakı bir kateqoriya girişi. */
+export interface PhraseCategory {
+  slug: string;
+  titleAz: string;
+  titleEn: string;
+  /** data/phrases/ qovluğundakı JSON faylının adı. */
+  file: string;
+}
+
+/** data/phrases/[kateqoriya].json faylının kök obyekti. */
+export interface PhraseCategoryPhrases {
+  category: string;
+  phrases: Phrase[];
+}
+
+export interface PhraseMeta {
+  schemaVersion: number;
+  module: string;
+}
+
+/** data/phrases/index.json faylının kök obyekti. */
+export interface PhraseIndex {
+  meta: PhraseMeta;
+  categories: PhraseCategory[];
+}
+
+/** Ümumi axtarış üçün: ifadə + hansı kateqoriyadan gəldiyi. */
+export interface PhraseSearchEntry extends Phrase {
+  categorySlug: string;
+  categoryTitleAz: string;
+}

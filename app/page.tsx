@@ -23,11 +23,17 @@ const modules: ModuleCard[] = [
   },
   {
     code: '03',
+    title: 'İfadələr',
+    description: 'İdiomlar, kollokasiyalar və sabit ifadələr.',
+    href: '/phrases',
+  },
+  {
+    code: '04',
     title: 'Mətnlər',
     description: 'Səviyyəyə uyğun oxu mətnləri.',
   },
   {
-    code: '04',
+    code: '05',
     title: 'Testlər',
     description: 'Bölmə testləri və qarışıq təkrar.',
   },

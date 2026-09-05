@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "schemaVersion": 1,
+        "module": "phrases",
+        "note": "Hər kateqoriya öz JSON faylında saxlanılır. İdiom, kollokasiya və sabit ifadələri əhatə edir. Nümunə cümlə HƏR GİRİŞDƏ MƏCBURİDİR."
+    },
+    "categories": [
+        {
+            "slug": "hisler-ifadeleri",
+            "titleAz": "Hisslər və emosiya ifadələri",
+            "titleEn": "Feelings & Emotion Idioms",
+            "file": "hisler-ifadeleri.json"
+        },
+        {
+            "slug": "is-ifadeleri",
+            "titleAz": "İş və karyera ifadələri",
+            "titleEn": "Work & Career Idioms",
+            "file": "is-ifadeleri.json"
+        },
+        {
+            "slug": "ugur-ugursuzluq-ifadeleri",
+            "titleAz": "Uğur və uğursuzluq ifadələri",
+            "titleEn": "Success & Failure Idioms",
+            "file": "ugur-ugursuzluq-ifadeleri.json"
+        },
+        {
+            "slug": "pul-ifadeleri",
+            "titleAz": "Pul ifadələri",
+            "titleEn": "Money Idioms",
+            "file": "pul-ifadeleri.json"
+        },
+        {
+            "slug": "vaxt-ifadeleri",
+            "titleAz": "Vaxt ifadələri",
+            "titleEn": "Time Idioms",
+            "file": "vaxt-ifadeleri.json"
+        },
+        {
+            "slug": "munasibet-unsiyyet-ifadeleri",
+            "titleAz": "Münasibət və ünsiyyət ifadələri",
+            "titleEn": "Relationship & Communication Idioms",
+            "file": "munasibet-unsiyyet-ifadeleri.json"
+        },
+        {
+            "slug": "cetinlik-asanliq-ifadeleri",
+            "titleAz": "Çətinlik və asanlıq ifadələri",
+            "titleEn": "Difficulty & Ease Idioms",
+            "file": "cetinlik-asanliq-ifadeleri.json"
+        },
+        {
+            "slug": "raziliq-etiraz-ifadeleri",
+            "titleAz": "Razılıq və etiraz ifadələri",
+            "titleEn": "Agreement & Disagreement Idioms",
+            "file": "raziliq-etiraz-ifadeleri.json"
+        },
+        {
+            "slug": "fikir-kecid-ifadeleri",
+            "titleAz": "Fikir bildirmə və keçid ifadələri",
+            "titleEn": "Discourse & Transition Expressions",
+            "file": "fikir-kecid-ifadeleri.json"
+        },
+        {
+            "slug": "fel-isim-kollokasiyalari",
+            "titleAz": "Fel+isim kollokasiyaları",
+            "titleEn": "Verb+Noun Collocations",
+            "file": "fel-isim-kollokasiyalari.json"
+        },
+        {
+            "slug": "heyvan-idiomlari",
+            "titleAz": "Heyvan idiomları",
+            "titleEn": "Animal Idioms",
+            "file": "heyvan-idiomlari.json"
+        },
+        {
+            "slug": "beden-uzvleri-idiomlari",
+            "titleAz": "Bədən üzvləri ilə idiomlar",
+            "titleEn": "Body Part Idioms",
+            "file": "beden-uzvleri-idiomlari.json"
+        }
+    ]
+}

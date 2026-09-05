@@ -141,7 +141,6 @@
       "partOfSpeech": "noun",
       "translation": "alim"
     },
-
     {
       "id": "job-021",
       "word": "lawyer",
@@ -338,7 +337,6 @@
       "partOfSpeech": "noun",
       "translation": "mağaza sahibi"
     },
-
     {
       "id": "job-049",
       "word": "resign",
@@ -584,7 +582,6 @@
       "partOfSpeech": "noun",
       "translation": "elektrik köməkçisi"
     },
-
     {
       "id": "job-084",
       "word": "psychologist",
@@ -655,7 +652,6 @@
       "partOfSpeech": "noun",
       "translation": "maraqlı tərəf"
     },
-
     {
       "id": "job-094",
       "word": "optometrist",
@@ -690,6 +686,62 @@
       "level": "C1",
       "partOfSpeech": "noun",
       "translation": "konsultant"
+    },
+    {
+      "id": "job-099",
+      "word": "architect",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "memar"
+    },
+    {
+      "id": "job-100",
+      "word": "vet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "baytar"
+    },
+    {
+      "id": "job-101",
+      "word": "pharmacist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əczaçı"
+    },
+    {
+      "id": "job-102",
+      "word": "surgeon",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cərrah"
+    },
+    {
+      "id": "job-103",
+      "word": "baker",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çörəkçi"
+    },
+    {
+      "id": "job-104",
+      "word": "florist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gülçü"
+    },
+    {
+      "id": "job-105",
+      "word": "carpenter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dülgər"
+    },
+    {
+      "id": "job-106",
+      "word": "photographer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fotoqraf"
     }
   ]
 }
