@@ -16,6 +16,7 @@ type Step = 'scope' | 'direction' | 'playing' | 'gameover';
 interface GameOverData {
   score: number;
   missedWord: GameWord;
+  prompt: string;
 }
 
 interface VocabularyGameProps {
@@ -82,8 +83,8 @@ export function VocabularyGame({ categories }: VocabularyGameProps) {
     setStep('playing');
   }
 
-  function handleGameOver(score: number, missedWord: GameWord) {
-    setGameOverData({ score, missedWord });
+  function handleGameOver(score: number, missedWord: GameWord, prompt: string) {
+    setGameOverData({ score, missedWord, prompt });
     setStep('gameover');
   }
 
@@ -140,6 +141,7 @@ export function VocabularyGame({ categories }: VocabularyGameProps) {
           direction={direction}
           score={gameOverData.score}
           missedWord={gameOverData.missedWord}
+          prompt={gameOverData.prompt}
           onReplay={handleReplay}
         />
       ) : null}

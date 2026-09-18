@@ -5,9 +5,9 @@ import type { FormEvent } from 'react';
 import {
   checkAnswer,
   gameScopeToHighScoreScope,
-  getCategoryLabel,
   getCorrectAnswer,
   getPrompt,
+  getWordMetadataParts,
   shuffle,
 } from '@/lib/vocabulary-game';
 import type { GameDirection, GameScope, GameWord } from '@/lib/vocabulary-game';
@@ -21,7 +21,7 @@ interface GamePlayScreenProps {
   scope: GameScope;
   direction: GameDirection;
   words: GameWord[];
-  onGameOver: (score: number, missedWord: GameWord) => void;
+  onGameOver: (score: number, missedWord: GameWord, prompt: string) => void;
 }
 
 /** Addım 3 — oyun ekranı: bag-shuffle sıra ilə söz göstərir, cavabı yoxlayır. */
@@ -36,6 +36,10 @@ export function GamePlayScreen({
   const inputRef = useRef<HTMLInputElement>(null);
 
   const [currentWord, setCurrentWord] = useState<GameWord | null>(null);
+  // `getPrompt` AZ→EN-də "/" olan tərcümələr üçün TƏSADÜFİ variant seçir —
+  // hər render zamanı yenidən çağırılsa sual dəyişərdi, ona görə sözlə
+  // birlikdə bir dəfə çəkiləndə dondurulur (bax: lib/vocabulary-game.ts).
+  const [promptText, setPromptText] = useState('');
   const [score, setScore] = useState(0);
   const [input, setInput] = useState('');
   const [feedback, setFeedback] = useState<Feedback>('idle');
@@ -49,8 +53,14 @@ export function GamePlayScreen({
     return bagRef.current.pop();
   }
 
+  function drawAndSetNextWord() {
+    const word = drawNextWord() ?? null;
+    setCurrentWord(word);
+    setPromptText(word ? getPrompt(word, direction) : '');
+  }
+
   useEffect(() => {
-    setCurrentWord(drawNextWord() ?? null);
+    drawAndSetNextWord();
     // Yalnız mount zamanı ilk sözü çək — bu komponent hər yeni oyunda
     // VocabularyGame tərəfindən yenidən `key` ilə mount edilir.
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -72,11 +82,11 @@ export function GamePlayScreen({
       setTimeout(() => {
         setFeedback('idle');
         setInput('');
-        setCurrentWord(drawNextWord() ?? null);
+        drawAndSetNextWord();
       }, FEEDBACK_DELAY_MS);
     } else {
       setFeedback('incorrect');
-      setTimeout(() => onGameOver(score, currentWord), FEEDBACK_DELAY_MS);
+      setTimeout(() => onGameOver(score, currentWord, promptText), FEEDBACK_DELAY_MS);
     }
   }
 
@@ -105,11 +115,10 @@ export function GamePlayScreen({
       </div>
 
       <p className="mt-10 text-center font-display text-3xl sm:text-4xl">
-        {getPrompt(currentWord, direction)}
+        {promptText}
       </p>
-
-      <p className="mt-3 text-center font-mono text-xs uppercase tracking-wide text-muted">
-        {getCategoryLabel(currentWord)}
+      <p className="mt-2 text-center font-mono text-xs uppercase tracking-wide text-muted">
+        {getWordMetadataParts(currentWord, scope).join(' · ')}
       </p>
 
       <form onSubmit={handleSubmit} className="mt-8 w-full">
