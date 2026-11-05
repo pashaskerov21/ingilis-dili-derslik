@@ -1,0 +1,415 @@
+{
+  "category": "internet-ve-rabite",
+  "words": [
+    {
+      "id": "net-001",
+      "word": "internet",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "internet"
+    },
+    {
+      "id": "net-002",
+      "word": "website",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "veb-sayt"
+    },
+    {
+      "id": "net-003",
+      "word": "email",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "elektron poçt"
+    },
+    {
+      "id": "net-004",
+      "word": "password",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "parol"
+    },
+    {
+      "id": "net-005",
+      "word": "message",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mesaj"
+    },
+    {
+      "id": "net-006",
+      "word": "search",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "axtarmaq (internetdə)"
+    },
+    {
+      "id": "net-007",
+      "word": "wifi",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "wifi"
+    },
+    {
+      "id": "net-008",
+      "word": "app",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tətbiq"
+    },
+    {
+      "id": "net-009",
+      "word": "call",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "zəng etmək"
+    },
+    {
+      "id": "net-010",
+      "word": "video call",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "video zəng"
+    },
+
+    {
+      "id": "net-011",
+      "word": "browser",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "brauzer"
+    },
+    {
+      "id": "net-012",
+      "word": "download",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yükləmək (endirmək)"
+    },
+    {
+      "id": "net-013",
+      "word": "upload",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yükləmək (göndərmək)"
+    },
+    {
+      "id": "net-014",
+      "word": "login",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "giriş (hesaba)"
+    },
+    {
+      "id": "net-015",
+      "word": "log in",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "hesaba daxil olmaq"
+    },
+    {
+      "id": "net-016",
+      "word": "sign up",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "qeydiyyatdan keçmək"
+    },
+    {
+      "id": "net-017",
+      "word": "account",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hesab (onlayn)"
+    },
+    {
+      "id": "net-018",
+      "word": "social media",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sosial media"
+    },
+    {
+      "id": "net-019",
+      "word": "post",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "paylaşım"
+    },
+    {
+      "id": "net-020",
+      "word": "like",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "bəyənmək (sosial media)"
+    },
+    {
+      "id": "net-021",
+      "word": "follow",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "izləmək (hesabı)"
+    },
+    {
+      "id": "net-022",
+      "word": "follower",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "izləyici"
+    },
+    {
+      "id": "net-023",
+      "word": "comment",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şərh"
+    },
+    {
+      "id": "net-024",
+      "word": "share",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "paylaşmaq"
+    },
+    {
+      "id": "net-025",
+      "word": "chat",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yazışma"
+    },
+    {
+      "id": "net-026",
+      "word": "link",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "keçid, link"
+    },
+    {
+      "id": "net-027",
+      "word": "connect",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "qoşulmaq (şəbəkəyə)"
+    },
+    {
+      "id": "net-028",
+      "word": "notification",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bildiriş"
+    },
+    {
+      "id": "net-029",
+      "word": "photo",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şəkil"
+    },
+    {
+      "id": "net-030",
+      "word": "video",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "video"
+    },
+
+    {
+      "id": "net-031",
+      "word": "search engine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "axtarış sistemi"
+    },
+    {
+      "id": "net-032",
+      "word": "URL",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "veb ünvan"
+    },
+    {
+      "id": "net-033",
+      "word": "domain name",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "domen adı"
+    },
+    {
+      "id": "net-034",
+      "word": "bookmark",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əlfəcin (brauzerdə)"
+    },
+    {
+      "id": "net-035",
+      "word": "cookie",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kuki (veb məlumatı)"
+    },
+    {
+      "id": "net-036",
+      "word": "broadband",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "genişzolaqlı internet"
+    },
+    {
+      "id": "net-037",
+      "word": "blog",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bloq"
+    },
+    {
+      "id": "net-038",
+      "word": "blogger",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bloger"
+    },
+    {
+      "id": "net-039",
+      "word": "forum",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "forum"
+    },
+    {
+      "id": "net-040",
+      "word": "hashtag",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "haştag"
+    },
+    {
+      "id": "net-041",
+      "word": "podcast",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "podkast"
+    },
+    {
+      "id": "net-042",
+      "word": "meme",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "мем"
+    },
+    {
+      "id": "net-043",
+      "word": "selfie",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "selfi"
+    },
+    {
+      "id": "net-044",
+      "word": "vlog",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "video-bloq"
+    },
+    {
+      "id": "net-045",
+      "word": "unfollow",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "izləməkdən çıxmaq"
+    },
+    {
+      "id": "net-046",
+      "word": "block",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "bloklamaq"
+    },
+    {
+      "id": "net-047",
+      "word": "direct message",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şəxsi mesaj"
+    },
+    {
+      "id": "net-048",
+      "word": "digital",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rəqəmsal"
+    },
+    {
+      "id": "net-049",
+      "word": "attachment",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əlavə fayl (email)"
+    },
+    {
+      "id": "net-050",
+      "word": "inbox",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gələn qutusu (email)"
+    },
+    {
+      "id": "net-051",
+      "word": "spam",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "spam"
+    },
+    {
+      "id": "net-052",
+      "word": "content",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məzmun (onlayn)"
+    },
+
+    {
+      "id": "net-053",
+      "word": "algorithm",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "alqoritm"
+    },
+    {
+      "id": "net-054",
+      "word": "clickbait",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "diqqət cəlbedici başlıq (yalançı)"
+    },
+    {
+      "id": "net-055",
+      "word": "troll",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "internet troll"
+    },
+    {
+      "id": "net-056",
+      "word": "influencer",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təsiredici (sosial media)"
+    },
+    {
+      "id": "net-057",
+      "word": "streaming",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "canlı yayım (axın)"
+    },
+
+    {
+      "id": "net-058",
+      "word": "encryption",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "şifrələmə"
+    }
+  ]
+}

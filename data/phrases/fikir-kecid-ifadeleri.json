@@ -1,0 +1,588 @@
+{
+    "category": "fikir-kecid-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-357",
+            "phrase": "moreover",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "üstəlik, bundan əlavə (rəsmi)",
+            "example": {
+                "en": "The plan is expensive; moreover, it's unrealistic.",
+                "az": "Plan bahadır; üstəlik, real deyil."
+            }
+        },
+        {
+            "id": "phr-358",
+            "phrase": "furthermore",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "bundan başqa (rəsmi, əlavə arqument)",
+            "example": {
+                "en": "Furthermore, the data supports our hypothesis.",
+                "az": "Bundan başqa, məlumatlar bizim fərziyyəmizi təsdiqləyir."
+            }
+        },
+        {
+            "id": "phr-359",
+            "phrase": "in addition",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "əlavə olaraq",
+            "example": {
+                "en": "In addition, we need to consider the budget.",
+                "az": "Əlavə olaraq, büdcəni nəzərə almalıyıq."
+            }
+        },
+        {
+            "id": "phr-360",
+            "phrase": "on top of that",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "üstəlik (qeyri-rəsmi)",
+            "example": {
+                "en": "It was raining, and on top of that, the car broke down.",
+                "az": "Yağış yağırdı, üstəlik maşın da xarab oldu."
+            }
+        },
+        {
+            "id": "phr-361",
+            "phrase": "not only... but also",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "təkcə... yox, həm də",
+            "example": {
+                "en": "She's not only talented but also hardworking.",
+                "az": "O, təkcə istedadlı deyil, həm də çalışqandır."
+            }
+        },
+        {
+            "id": "phr-362",
+            "phrase": "on the other hand",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "digər tərəfdən (ziddiyyət)",
+            "example": {
+                "en": "The salary is good; on the other hand, the hours are long.",
+                "az": "Maaş yaxşıdır; digər tərəfdən, iş saatları uzundur."
+            }
+        },
+        {
+            "id": "phr-363",
+            "phrase": "in contrast",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "əksinə, fərqli olaraq",
+            "example": {
+                "en": "In contrast, the second method is much faster.",
+                "az": "Fərqli olaraq, ikinci üsul daha sürətlidir."
+            }
+        },
+        {
+            "id": "phr-364",
+            "phrase": "however",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "lakin, buna baxmayaraq",
+            "example": {
+                "en": "The plan sounds good. However, it needs more funding.",
+                "az": "Plan yaxşı görünür. Lakin, daha çox maliyyə lazımdır."
+            }
+        },
+        {
+            "id": "phr-365",
+            "phrase": "nevertheless",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "buna baxmayaraq (rəsmi)",
+            "example": {
+                "en": "It was raining. Nevertheless, we went out.",
+                "az": "Yağış yağırdı. Buna baxmayaraq, biz çölə çıxdıq."
+            }
+        },
+        {
+            "id": "phr-366",
+            "phrase": "nonetheless",
+            "type": "fixed-expression",
+            "level": "B2",
+            "meaning": "buna baxmayaraq (nevertheless ilə eyni, alternativ forma)",
+            "example": {
+                "en": "The results were disappointing; nonetheless, we learned a lot.",
+                "az": "Nəticələr məyus edici idi; buna baxmayaraq, çox şey öyrəndik."
+            }
+        },
+        {
+            "id": "phr-367",
+            "phrase": "whereas",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "halbuki, ...-dırsa da (müqayisə/ziddiyyət)",
+            "example": {
+                "en": "The north is cold, whereas the south is hot.",
+                "az": "Şimal soyuqdur, halbuki cənub istidir."
+            }
+        },
+        {
+            "id": "phr-368",
+            "phrase": "on the contrary",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "əksinə (əvvəlki fikri tamamilə rədd edərək)",
+            "example": {
+                "en": "I'm not tired — on the contrary, I feel energetic.",
+                "az": "Mən yorğun deyiləm — əksinə, özümü enerjili hiss edirəm."
+            }
+        },
+        {
+            "id": "phr-369",
+            "phrase": "then again",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "digər tərəfdən (yenidən düşünəndə)",
+            "example": {
+                "en": "I could take the job. Then again, the salary isn't great.",
+                "az": "İşi qəbul edə bilərəm. Digər tərəfdən, maaş o qədər də yaxşı deyil."
+            }
+        },
+        {
+            "id": "phr-370",
+            "phrase": "having said that",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "bunu desəm də (yumşaq ziddiyyət)",
+            "example": {
+                "en": "The food was expensive. Having said that, it was delicious.",
+                "az": "Yemək baha idi. Bunu desəm də, çox dadlı idi."
+            }
+        },
+        {
+            "id": "phr-371",
+            "phrase": "as a result",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "nəticədə",
+            "example": {
+                "en": "He didn't study. As a result, he failed the exam.",
+                "az": "O, oxumadı. Nəticədə, imtahandan kəsildi."
+            }
+        },
+        {
+            "id": "phr-372",
+            "phrase": "therefore",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "buna görə də",
+            "example": {
+                "en": "The data is incomplete; therefore, we cannot draw conclusions.",
+                "az": "Məlumatlar natamamdır; buna görə də, nəticə çıxara bilmərik."
+            }
+        },
+        {
+            "id": "phr-373",
+            "phrase": "consequently",
+            "type": "fixed-expression",
+            "level": "B2",
+            "meaning": "nəticə etibarilə (rəsmi)",
+            "example": {
+                "en": "Sales dropped; consequently, several stores closed.",
+                "az": "Satışlar düşdü; nəticə etibarilə, bir neçə mağaza bağlandı."
+            }
+        },
+        {
+            "id": "phr-374",
+            "phrase": "for this reason",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "bu səbəbdən",
+            "example": {
+                "en": "For this reason, we decided to postpone the launch.",
+                "az": "Bu səbəbdən, buraxılışı təxirə salmağı qərara aldıq."
+            }
+        },
+        {
+            "id": "phr-375",
+            "phrase": "due to",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "...-nə görə, səbəbindən",
+            "example": {
+                "en": "The flight was delayed due to bad weather.",
+                "az": "Uçuş pis hava şəraiti səbəbindən gecikdi."
+            }
+        },
+        {
+            "id": "phr-376",
+            "phrase": "first of all",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "hər şeydən əvvəl, birincisi",
+            "example": {
+                "en": "First of all, let's review the agenda.",
+                "az": "Hər şeydən əvvəl, gündəliyi nəzərdən keçirək."
+            }
+        },
+        {
+            "id": "phr-377",
+            "phrase": "to begin with",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "başlanğıc olaraq",
+            "example": {
+                "en": "To begin with, we need to define the problem.",
+                "az": "Başlanğıc olaraq, problemi müəyyənləşdirməliyik."
+            }
+        },
+        {
+            "id": "phr-378",
+            "phrase": "meanwhile",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "bu arada",
+            "example": {
+                "en": "She's preparing dinner. Meanwhile, I'll set the table.",
+                "az": "O, şam yeməyi hazırlayır. Bu arada, mən süfrəni açacam."
+            }
+        },
+        {
+            "id": "phr-379",
+            "phrase": "eventually",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "nəhayət, sonda",
+            "example": {
+                "en": "After many attempts, they eventually succeeded.",
+                "az": "Çoxlu cəhddən sonra onlar nəhayət uğur qazandılar."
+            }
+        },
+        {
+            "id": "phr-380",
+            "phrase": "last but not least",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "sonuncu, amma əhəmiyyəti az olmayan",
+            "example": {
+                "en": "Last but not least, I'd like to thank the whole team.",
+                "az": "Sonuncu, amma əhəmiyyətsiz olmayan, bütün komandaya təşəkkür etmək istəyirəm."
+            }
+        },
+        {
+            "id": "phr-381",
+            "phrase": "for example",
+            "type": "fixed-expression",
+            "level": "A1",
+            "meaning": "məsələn",
+            "example": {
+                "en": "Many fruits, for example apples and oranges, are rich in vitamins.",
+                "az": "Bir çox meyvə, məsələn alma və portağal, vitaminlə zəngindir."
+            }
+        },
+        {
+            "id": "phr-382",
+            "phrase": "such as",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "kimi, məsələn",
+            "example": {
+                "en": "Countries such as France and Italy are popular tourist destinations.",
+                "az": "Fransa və İtaliya kimi ölkələr məşhur turist istiqamətləridir."
+            }
+        },
+        {
+            "id": "phr-383",
+            "phrase": "in particular",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "xüsusilə",
+            "example": {
+                "en": "I enjoyed the trip, in particular the food.",
+                "az": "Səyahətdən zövq aldım, xüsusilə yeməklərdən."
+            }
+        },
+        {
+            "id": "phr-384",
+            "phrase": "namely",
+            "type": "fixed-expression",
+            "level": "B2",
+            "meaning": "yəni, dəqiq olaraq",
+            "example": {
+                "en": "One country stands out, namely Japan.",
+                "az": "Bir ölkə seçilir, yəni Yaponiya."
+            }
+        },
+        {
+            "id": "phr-385",
+            "phrase": "in conclusion",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "yekunda, nəticə olaraq",
+            "example": {
+                "en": "In conclusion, the project was a success.",
+                "az": "Nəticə olaraq, layihə uğurlu oldu."
+            }
+        },
+        {
+            "id": "phr-386",
+            "phrase": "to sum up",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "qısaca yekunlaşdırsaq",
+            "example": {
+                "en": "To sum up, we need more time and resources.",
+                "az": "Qısaca yekunlaşdırsaq, bizə daha çox vaxt və resurs lazımdır."
+            }
+        },
+        {
+            "id": "phr-387",
+            "phrase": "all in all",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "ümumilikdə, hər şeyi nəzərə alsaq",
+            "example": {
+                "en": "All in all, it was a productive meeting.",
+                "az": "Ümumilikdə, bu, məhsuldar bir iclas idi."
+            }
+        },
+        {
+            "id": "phr-388",
+            "phrase": "in a nutshell",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qısaca desək",
+            "example": {
+                "en": "In a nutshell, the plan failed because of poor timing.",
+                "az": "Qısaca desək, plan yanlış zamanlama üzündən uğursuz oldu."
+            }
+        },
+        {
+            "id": "phr-389",
+            "phrase": "overall",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "ümumi olaraq",
+            "example": {
+                "en": "Overall, the results were positive.",
+                "az": "Ümumi olaraq, nəticələr müsbət idi."
+            }
+        },
+        {
+            "id": "phr-390",
+            "phrase": "in my opinion",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "mənim fikrimcə",
+            "example": {
+                "en": "In my opinion, this is the best option.",
+                "az": "Mənim fikrimcə, bu, ən yaxşı seçimdir."
+            }
+        },
+        {
+            "id": "phr-391",
+            "phrase": "as far as I'm concerned",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "mənə gəlincə, mənim baxımımdan",
+            "example": {
+                "en": "As far as I'm concerned, the meeting was a waste of time.",
+                "az": "Mənə gəlincə, iclas vaxt itkisi idi."
+            }
+        },
+        {
+            "id": "phr-392",
+            "phrase": "from my point of view",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "mənim baxış bucağımdan",
+            "example": {
+                "en": "From my point of view, we should invest more in training.",
+                "az": "Mənim baxış bucağımdan, təlimə daha çox investisiya etməliyik."
+            }
+        },
+        {
+            "id": "phr-393",
+            "phrase": "if you ask me",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "əgər məndən soruşsan",
+            "example": {
+                "en": "If you ask me, the old design was better.",
+                "az": "Əgər məndən soruşsan, köhnə dizayn daha yaxşı idi."
+            }
+        },
+        {
+            "id": "phr-394",
+            "phrase": "by the way",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "yeri gəlmişkən (mövzu dəyişmə)",
+            "example": {
+                "en": "By the way, did you finish the report?",
+                "az": "Yeri gəlmişkən, hesabatı bitirdinmi?"
+            }
+        },
+        {
+            "id": "phr-395",
+            "phrase": "incidentally",
+            "type": "fixed-expression",
+            "level": "B2",
+            "meaning": "yeri gəlmişkən (rəsmi)",
+            "example": {
+                "en": "Incidentally, do you still have that book I lent you?",
+                "az": "Yeri gəlmişkən, borc verdiyim kitab hələ də səndədirmi?"
+            }
+        },
+        {
+            "id": "phr-396",
+            "phrase": "anyway",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "hər halda (mövzuya qayıtmaq/bitirmək)",
+            "example": {
+                "en": "Anyway, let's get back to the main topic.",
+                "az": "Hər halda, əsas mövzuya qayıdaq."
+            }
+        },
+        {
+            "id": "phr-397",
+            "phrase": "speaking of which",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "bu barədə deyilmişkən",
+            "example": {
+                "en": "Speaking of which, have you seen the new update?",
+                "az": "Bu barədə deyilmişkən, yeni yeniləməni gördünmü?"
+            }
+        },
+        {
+            "id": "phr-398",
+            "phrase": "as for",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "...-nə gəlincə (mövzu dəyişmə)",
+            "example": {
+                "en": "As for the budget, we'll discuss it next week.",
+                "az": "Büdcəyə gəlincə, onu növbəti həftə müzakirə edəcəyik."
+            }
+        },
+        {
+            "id": "phr-399",
+            "phrase": "in other words",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "başqa sözlə",
+            "example": {
+                "en": "The project is on hold — in other words, it's cancelled.",
+                "az": "Layihə dayandırılıb — başqa sözlə, ləğv edilib."
+            }
+        },
+        {
+            "id": "phr-400",
+            "phrase": "that is to say",
+            "type": "fixed-expression",
+            "level": "B2",
+            "meaning": "yəni, daha dəqiq desək",
+            "example": {
+                "en": "We need volunteers, that is to say, unpaid help.",
+                "az": "Bizə könüllülər lazımdır, yəni ödənişsiz kömək."
+            }
+        },
+        {
+            "id": "phr-401",
+            "phrase": "to put it another way",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "başqa cür desək",
+            "example": {
+                "en": "To put it another way, we're out of options.",
+                "az": "Başqa cür desək, seçimimiz qalmayıb."
+            }
+        },
+        {
+            "id": "phr-402",
+            "phrase": "actually",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "əslində (gözlənilməz məlumat)",
+            "example": {
+                "en": "I don't like coffee. Actually, I've never tried it.",
+                "az": "Qəhvəni sevmirəm. Əslində, heç sınamamışam."
+            }
+        },
+        {
+            "id": "phr-403",
+            "phrase": "in fact",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "əslində, faktiki olaraq",
+            "example": {
+                "en": "He seems shy, but in fact, he's very confident.",
+                "az": "O, utancaq görünür, amma əslində çox özünə əmindir."
+            }
+        },
+        {
+            "id": "phr-404",
+            "phrase": "as a matter of fact",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "əslində (in fact-in daha rəsmi forması)",
+            "example": {
+                "en": "As a matter of fact, I was just about to call you.",
+                "az": "Əslində, mən sənə zəng etmək üzrə idim."
+            }
+        },
+        {
+            "id": "phr-405",
+            "phrase": "to be honest",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "dürüst desəm",
+            "example": {
+                "en": "To be honest, I don't think this will work.",
+                "az": "Dürüst desəm, bunun işləyəcəyini düşünmürəm."
+            }
+        },
+        {
+            "id": "phr-406",
+            "phrase": "frankly speaking",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "açıq desək",
+            "example": {
+                "en": "Frankly speaking, I was disappointed with the result.",
+                "az": "Açıq desək, nəticədən məyus oldum."
+            }
+        },
+        {
+            "id": "phr-407",
+            "phrase": "similarly",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "eyni şəkildə, bənzər olaraq",
+            "example": {
+                "en": "Similarly, the second experiment showed the same result.",
+                "az": "Eyni şəkildə, ikinci təcrübə də eyni nəticəni göstərdi."
+            }
+        },
+        {
+            "id": "phr-408",
+            "phrase": "likewise",
+            "type": "fixed-expression",
+            "level": "B1",
+            "meaning": "eləcə də, oxşar şəkildə",
+            "example": {
+                "en": "She works hard, and likewise, her brother does too.",
+                "az": "O, çox çalışır, eləcə də qardaşı da."
+            }
+        },
+        {
+            "id": "phr-409",
+            "phrase": "be that as it may",
+            "type": "fixed-expression",
+            "level": "B2",
+            "meaning": "bu belə olsa da (güzəşt bildirən)",
+            "example": {
+                "en": "Be that as it may, we still need to finish on time.",
+                "az": "Bu belə olsa da, hələ də vaxtında bitirməliyik."
+            }
+        }
+    ]
+}

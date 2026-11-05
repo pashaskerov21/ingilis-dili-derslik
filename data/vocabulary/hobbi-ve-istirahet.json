@@ -1,0 +1,387 @@
+{
+  "category": "hobbi-ve-istirahet",
+  "words": [
+    {
+      "id": "hob-001",
+      "word": "hobby",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hobbi"
+    },
+    {
+      "id": "hob-002",
+      "word": "free time",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "boş vaxt"
+    },
+    {
+      "id": "hob-003",
+      "word": "read",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oxumaq (kitab)"
+    },
+    {
+      "id": "hob-004",
+      "word": "draw",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "rəsm çəkmək"
+    },
+    {
+      "id": "hob-005",
+      "word": "paint",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "rəssamlıq etmək"
+    },
+    {
+      "id": "hob-006",
+      "word": "game",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "oyun"
+    },
+    {
+      "id": "hob-007",
+      "word": "play",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oynamaq"
+    },
+    {
+      "id": "hob-008",
+      "word": "relax",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "dincəlmək"
+    },
+    {
+      "id": "hob-009",
+      "word": "weekend",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "həftəsonu"
+    },
+    {
+      "id": "hob-010",
+      "word": "collect",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "kolleksiya toplamaq"
+    },
+
+    {
+      "id": "hob-011",
+      "word": "board game",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "masa oyunu"
+    },
+    {
+      "id": "hob-012",
+      "word": "video game",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "video oyun"
+    },
+    {
+      "id": "hob-013",
+      "word": "puzzle",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tapmaca, pazl"
+    },
+    {
+      "id": "hob-014",
+      "word": "chess",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şahmat"
+    },
+    {
+      "id": "hob-015",
+      "word": "cards",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kart oyunu"
+    },
+    {
+      "id": "hob-016",
+      "word": "interest",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "maraq"
+    },
+    {
+      "id": "hob-017",
+      "word": "pastime",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "vaxt keçirmə fəaliyyəti"
+    },
+    {
+      "id": "hob-018",
+      "word": "leisure",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "asudə vaxt"
+    },
+    {
+      "id": "hob-019",
+      "word": "photography",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fotoqrafiya"
+    },
+    {
+      "id": "hob-020",
+      "word": "cooking",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "aşpazlıq (hobbi kimi)"
+    },
+    {
+      "id": "hob-021",
+      "word": "gardening",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bağçılıq (hobbi)"
+    },
+    {
+      "id": "hob-022",
+      "word": "knitting",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "toxuculuq (əl işi)"
+    },
+    {
+      "id": "hob-023",
+      "word": "sewing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tikiş"
+    },
+    {
+      "id": "hob-024",
+      "word": "dancing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "rəqs (hobbi)"
+    },
+    {
+      "id": "hob-025",
+      "word": "singing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oxuma (hobbi)"
+    },
+    {
+      "id": "hob-026",
+      "word": "writing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yazı yazmaq (hobbi)"
+    },
+    {
+      "id": "hob-027",
+      "word": "skill",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bacarıq"
+    },
+    {
+      "id": "hob-028",
+      "word": "enjoy",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "zövq almaq"
+    },
+
+    {
+      "id": "hob-029",
+      "word": "craft",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əl işi sənəti"
+    },
+    {
+      "id": "hob-030",
+      "word": "crafting",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əl işi hazırlamaq"
+    },
+    {
+      "id": "hob-031",
+      "word": "pottery",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "keramika sənəti"
+    },
+    {
+      "id": "hob-032",
+      "word": "woodworking",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ağac emalı"
+    },
+    {
+      "id": "hob-033",
+      "word": "DIY",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "özün-et (ev təmiri)"
+    },
+    {
+      "id": "hob-034",
+      "word": "collecting",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kolleksiya toplama"
+    },
+    {
+      "id": "hob-035",
+      "word": "stamp collecting",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "marka kolleksiyası"
+    },
+    {
+      "id": "hob-036",
+      "word": "coin collecting",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sikkə kolleksiyası"
+    },
+    {
+      "id": "hob-037",
+      "word": "collectible",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kolleksiya əşyası"
+    },
+    {
+      "id": "hob-038",
+      "word": "puzzle-solving",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tapmaca həlli"
+    },
+    {
+      "id": "hob-039",
+      "word": "creative writing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yaradıcı yazı"
+    },
+    {
+      "id": "hob-040",
+      "word": "meditation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "meditasiya"
+    },
+    {
+      "id": "hob-041",
+      "word": "yoga",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yoqa"
+    },
+    {
+      "id": "hob-042",
+      "word": "relaxation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rahatlaşma"
+    },
+    {
+      "id": "hob-043",
+      "word": "volunteering",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "könüllülük"
+    },
+    {
+      "id": "hob-044",
+      "word": "recreational",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "istirahət məqsədli"
+    },
+    {
+      "id": "hob-045",
+      "word": "passion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ehtiras, güclü maraq"
+    },
+    {
+      "id": "hob-046",
+      "word": "carpentry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dülgərlik"
+    },
+    {
+      "id": "hob-047",
+      "word": "carving",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "oyma sənəti"
+    },
+    {
+      "id": "hob-048",
+      "word": "ceramics",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "keramika"
+    },
+
+    {
+      "id": "hob-049",
+      "word": "pursuit",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "məşğuliyyət, fəaliyyət"
+    },
+    {
+      "id": "hob-050",
+      "word": "binge-watching",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ardıcıl çox seriya izləmə"
+    },
+    {
+      "id": "hob-051",
+      "word": "amateur",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "həvəskar"
+    },
+    {
+      "id": "hob-052",
+      "word": "philately",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "filateliya (marka kolleksiyası elmi)"
+    },
+    {
+      "id": "hob-053",
+      "word": "spelunking",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "mağara tədqiqi"
+    },
+
+    {
+      "id": "hob-054",
+      "word": "scrimshaw",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "sümük/dişdə oyma sənəti"
+    }
+  ]
+}

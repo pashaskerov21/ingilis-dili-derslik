@@ -1,0 +1,327 @@
+{
+    "category": "kosmos-ve-astronomiya",
+    "words": [
+        {
+            "id": "spc-001",
+            "word": "space",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "kosmos"
+        },
+        {
+            "id": "spc-002",
+            "word": "sun",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "günəş"
+        },
+        {
+            "id": "spc-003",
+            "word": "moon",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "ay"
+        },
+        {
+            "id": "spc-004",
+            "word": "star",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "ulduz"
+        },
+        {
+            "id": "spc-005",
+            "word": "planet",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "planet"
+        },
+        {
+            "id": "spc-006",
+            "word": "Earth",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Yer kürəsi"
+        },
+        {
+            "id": "spc-007",
+            "word": "sky",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "səma"
+        },
+        {
+            "id": "spc-008",
+            "word": "astronaut",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "astronavt"
+        },
+        {
+            "id": "spc-009",
+            "word": "rocket",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "raket"
+        },
+        {
+            "id": "spc-010",
+            "word": "spacecraft",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kosmik gəmi"
+        },
+        {
+            "id": "spc-011",
+            "word": "solar system",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "günəş sistemi"
+        },
+        {
+            "id": "spc-012",
+            "word": "galaxy",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "qalaktika"
+        },
+        {
+            "id": "spc-013",
+            "word": "universe",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kainat"
+        },
+        {
+            "id": "spc-014",
+            "word": "telescope",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "teleskop"
+        },
+        {
+            "id": "spc-015",
+            "word": "astronomer",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "astronom"
+        },
+        {
+            "id": "spc-016",
+            "word": "Mars",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Mars"
+        },
+        {
+            "id": "spc-017",
+            "word": "Jupiter",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Yupiter"
+        },
+        {
+            "id": "spc-018",
+            "word": "Saturn",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Saturn"
+        },
+        {
+            "id": "spc-019",
+            "word": "orbit",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "orbit"
+        },
+        {
+            "id": "spc-020",
+            "word": "gravity",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "cazibə qüvvəsi"
+        },
+        {
+            "id": "spc-021",
+            "word": "satellite",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "peyk"
+        },
+        {
+            "id": "spc-022",
+            "word": "spaceship",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kosmik gəmi (bədii)"
+        },
+        {
+            "id": "spc-023",
+            "word": "alien",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yadplanetli"
+        },
+        {
+            "id": "spc-024",
+            "word": "asteroid",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "asteroid"
+        },
+        {
+            "id": "spc-025",
+            "word": "comet",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kometa"
+        },
+        {
+            "id": "spc-026",
+            "word": "meteor",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "meteor"
+        },
+        {
+            "id": "spc-027",
+            "word": "meteorite",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "meteorit"
+        },
+        {
+            "id": "spc-028",
+            "word": "nebula",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "dumanlıq (nebula)"
+        },
+        {
+            "id": "spc-029",
+            "word": "black hole",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qara dəlik"
+        },
+        {
+            "id": "spc-030",
+            "word": "space station",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kosmik stansiya"
+        },
+        {
+            "id": "spc-031",
+            "word": "launch",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "fəzaya buraxmaq (raket)"
+        },
+        {
+            "id": "spc-032",
+            "word": "astronomy",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "astronomiya"
+        },
+        {
+            "id": "spc-033",
+            "word": "cosmonaut",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kosmonavt"
+        },
+        {
+            "id": "spc-034",
+            "word": "asteroid belt",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "asteroid qurşağı"
+        },
+        {
+            "id": "spc-035",
+            "word": "observatory",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "rəsədxana"
+        },
+        {
+            "id": "spc-036",
+            "word": "eclipse",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tutulma (günəş/ay)"
+        },
+        {
+            "id": "spc-037",
+            "word": "crater",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "krater"
+        },
+        {
+            "id": "spc-038",
+            "word": "weightlessness",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "çəkisizlik"
+        },
+        {
+            "id": "spc-039",
+            "word": "mission",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "missiya (kosmik)"
+        },
+        {
+            "id": "spc-040",
+            "word": "exoplanet",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "ekzoplanet"
+        },
+        {
+            "id": "spc-041",
+            "word": "supernova",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "superyeni ulduz"
+        },
+        {
+            "id": "spc-042",
+            "word": "sunspot",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "günəş ləkəsi"
+        },
+        {
+            "id": "spc-043",
+            "word": "solar flare",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "günəş püskürməsi"
+        },
+        {
+            "id": "spc-044",
+            "word": "microgravity",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "mikroqravitasiya"
+        },
+        {
+            "id": "spc-045",
+            "word": "cosmology",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "kosmologiya"
+        },
+        {
+            "id": "spc-046",
+            "word": "redshift",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "qırmızıya sürüşmə"
+        }
+    ]
+}

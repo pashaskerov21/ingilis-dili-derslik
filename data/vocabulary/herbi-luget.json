@@ -1,0 +1,922 @@
+{
+    "category": "herbi-luget",
+    "words": [
+        {
+            "id": "mil-001",
+            "word": "war",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "müharibə"
+        },
+        {
+            "id": "mil-002",
+            "word": "army",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "ordu"
+        },
+        {
+            "id": "mil-003",
+            "word": "soldier",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "əsgər"
+        },
+        {
+            "id": "mil-004",
+            "word": "peace",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "sülh"
+        },
+        {
+            "id": "mil-005",
+            "word": "weapon",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "silah"
+        },
+        {
+            "id": "mil-006",
+            "word": "gun",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "tüfəng"
+        },
+        {
+            "id": "mil-007",
+            "word": "attack",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "hücum"
+        },
+        {
+            "id": "mil-008",
+            "word": "enemy",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "düşmən"
+        },
+        {
+            "id": "mil-009",
+            "word": "officer",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "zabit"
+        },
+        {
+            "id": "mil-010",
+            "word": "general",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "general"
+        },
+        {
+            "id": "mil-011",
+            "word": "captain",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kapitan (hərbi rütbə)"
+        },
+        {
+            "id": "mil-012",
+            "word": "battle",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "döyüş"
+        },
+        {
+            "id": "mil-013",
+            "word": "navy",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "hərbi dəniz donanması"
+        },
+        {
+            "id": "mil-014",
+            "word": "air force",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "hərbi hava qüvvələri"
+        },
+        {
+            "id": "mil-015",
+            "word": "bomb",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "bomba"
+        },
+        {
+            "id": "mil-016",
+            "word": "tank",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "tank"
+        },
+        {
+            "id": "mil-017",
+            "word": "uniform",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "hərbi forma"
+        },
+        {
+            "id": "mil-018",
+            "word": "helmet",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "dəbilqə (hərbi)"
+        },
+        {
+            "id": "mil-019",
+            "word": "troops",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "qoşunlar"
+        },
+        {
+            "id": "mil-020",
+            "word": "defend",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "müdafiə etmək"
+        },
+        {
+            "id": "mil-021",
+            "word": "surrender",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "təslim olmaq"
+        },
+        {
+            "id": "mil-022",
+            "word": "veteran",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "veteran"
+        },
+        {
+            "id": "mil-023",
+            "word": "wound",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yara (hərbi)"
+        },
+        {
+            "id": "mil-024",
+            "word": "victory",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "qələbə"
+        },
+        {
+            "id": "mil-025",
+            "word": "defeat",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "məğlubiyyət"
+        },
+        {
+            "id": "mil-026",
+            "word": "colonel",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "polkovnik"
+        },
+        {
+            "id": "mil-027",
+            "word": "sergeant",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "serjant"
+        },
+        {
+            "id": "mil-028",
+            "word": "corporal",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kapral"
+        },
+        {
+            "id": "mil-029",
+            "word": "lieutenant",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "leytenant"
+        },
+        {
+            "id": "mil-030",
+            "word": "cadet",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kursant"
+        },
+        {
+            "id": "mil-031",
+            "word": "recruit",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "yeni cəlb olunmuş əsgər"
+        },
+        {
+            "id": "mil-032",
+            "word": "squad",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "dəstə (kiçik hərbi qrup)"
+        },
+        {
+            "id": "mil-033",
+            "word": "battalion",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "batalyon"
+        },
+        {
+            "id": "mil-034",
+            "word": "regiment",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "alay"
+        },
+        {
+            "id": "mil-035",
+            "word": "division",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "diviziya"
+        },
+        {
+            "id": "mil-036",
+            "word": "commander",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "komandir"
+        },
+        {
+            "id": "mil-037",
+            "word": "missile",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "raket (idarəolunan)"
+        },
+        {
+            "id": "mil-038",
+            "word": "rifle",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tüfəng (uzun)"
+        },
+        {
+            "id": "mil-039",
+            "word": "grenade",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qumbara"
+        },
+        {
+            "id": "mil-040",
+            "word": "ammunition",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sursat"
+        },
+        {
+            "id": "mil-041",
+            "word": "armor",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "zireh"
+        },
+        {
+            "id": "mil-042",
+            "word": "submarine",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sualtı qayıq"
+        },
+        {
+            "id": "mil-043",
+            "word": "warship",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "hərbi gəmi"
+        },
+        {
+            "id": "mil-044",
+            "word": "fighter jet",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qırıcı təyyarə"
+        },
+        {
+            "id": "mil-045",
+            "word": "helicopter",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "helikopter"
+        },
+        {
+            "id": "mil-046",
+            "word": "drone",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "dron (pilotsuz uçuş aparatı)"
+        },
+        {
+            "id": "mil-047",
+            "word": "base",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "hərbi baza"
+        },
+        {
+            "id": "mil-048",
+            "word": "headquarters",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qərargah"
+        },
+        {
+            "id": "mil-049",
+            "word": "front",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "cəbhə"
+        },
+        {
+            "id": "mil-050",
+            "word": "battlefield",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "döyüş meydanı"
+        },
+        {
+            "id": "mil-051",
+            "word": "invasion",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "işğal"
+        },
+        {
+            "id": "mil-052",
+            "word": "invade",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "işğal etmək"
+        },
+        {
+            "id": "mil-053",
+            "word": "ceasefire",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "atəşkəs"
+        },
+        {
+            "id": "mil-054",
+            "word": "truce",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "müvəqqəti sülh"
+        },
+        {
+            "id": "mil-055",
+            "word": "treaty",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sülh müqaviləsi"
+        },
+        {
+            "id": "mil-056",
+            "word": "alliance",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ittifaq"
+        },
+        {
+            "id": "mil-057",
+            "word": "ally",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "müttəfiq"
+        },
+        {
+            "id": "mil-058",
+            "word": "conflict",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "münaqişə"
+        },
+        {
+            "id": "mil-059",
+            "word": "casualty",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tələfat"
+        },
+        {
+            "id": "mil-060",
+            "word": "prisoner of war",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "hərbi əsir"
+        },
+        {
+            "id": "mil-061",
+            "word": "refugee",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qaçqın"
+        },
+        {
+            "id": "mil-062",
+            "word": "medal",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "medal (hərbi)"
+        },
+        {
+            "id": "mil-063",
+            "word": "salute",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "salam vermək (hərbi)"
+        },
+        {
+            "id": "mil-064",
+            "word": "military",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "hərbi"
+        },
+        {
+            "id": "mil-065",
+            "word": "warfare",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "müharibə aparma"
+        },
+        {
+            "id": "mil-066",
+            "word": "tactics",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "taktika"
+        },
+        {
+            "id": "mil-067",
+            "word": "strategy",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "strategiya (hərbi)"
+        },
+        {
+            "id": "mil-068",
+            "word": "retreat",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "geri çəkilmək"
+        },
+        {
+            "id": "mil-069",
+            "word": "deploy",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "yerləşdirmək (qoşunları)"
+        },
+        {
+            "id": "mil-070",
+            "word": "camp",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "hərbi düşərgə"
+        },
+        {
+            "id": "mil-071",
+            "word": "arsenal",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "silah anbarı"
+        },
+        {
+            "id": "mil-072",
+            "word": "artillery",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "artilleriya"
+        },
+        {
+            "id": "mil-073",
+            "word": "aggression",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "təcavüz"
+        },
+        {
+            "id": "mil-074",
+            "word": "deterrent",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "çəkindirici qüvvə"
+        },
+        {
+            "id": "mil-075",
+            "word": "disarmament",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "silahsızlanma"
+        },
+        {
+            "id": "mil-076",
+            "word": "reconnaissance",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "kəşfiyyat (hərbi)"
+        },
+        {
+            "id": "mil-077",
+            "word": "curfew",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "komendant saatı"
+        },
+        {
+            "id": "mil-078",
+            "word": "insurgency",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "üsyançılıq"
+        },
+        {
+            "id": "mil-079",
+            "word": "atrocity",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "vəhşilik (hərbi cinayət)"
+        },
+        {
+            "id": "mil-080",
+            "word": "private",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sıravi (ən aşağı hərbi rütbə)"
+        },
+        {
+            "id": "mil-081",
+            "word": "private first class",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "böyük sıravi"
+        },
+        {
+            "id": "mil-082",
+            "word": "staff sergeant",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "baş serjant"
+        },
+        {
+            "id": "mil-083",
+            "word": "sergeant major",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "serjant-mayor"
+        },
+        {
+            "id": "mil-084",
+            "word": "second lieutenant",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kiçik leytenant"
+        },
+        {
+            "id": "mil-085",
+            "word": "major",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mayor (hərbi rütbə)"
+        },
+        {
+            "id": "mil-086",
+            "word": "lieutenant colonel",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "podpolkovnik"
+        },
+        {
+            "id": "mil-087",
+            "word": "brigadier general",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "briqada generalı"
+        },
+        {
+            "id": "mil-088",
+            "word": "major general",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "general-mayor"
+        },
+        {
+            "id": "mil-089",
+            "word": "lieutenant general",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "general-leytenant"
+        },
+        {
+            "id": "mil-090",
+            "word": "field marshal",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "mareşal"
+        },
+        {
+            "id": "mil-091",
+            "word": "warrant officer",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "order zabiti"
+        },
+        {
+            "id": "mil-092",
+            "word": "admiral",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "admiral"
+        },
+        {
+            "id": "mil-093",
+            "word": "pistol",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "tapança"
+        },
+        {
+            "id": "mil-094",
+            "word": "machine gun",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "pulemyot"
+        },
+        {
+            "id": "mil-095",
+            "word": "sniper rifle",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "snayper tüfəngi"
+        },
+        {
+            "id": "mil-096",
+            "word": "shotgun",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ov tüfəngi"
+        },
+        {
+            "id": "mil-097",
+            "word": "assault rifle",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "avtomat (hücum tüfəngi)"
+        },
+        {
+            "id": "mil-098",
+            "word": "revolver",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "revolver"
+        },
+        {
+            "id": "mil-099",
+            "word": "bayonet",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "süngü"
+        },
+        {
+            "id": "mil-100",
+            "word": "howitzer",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "haubitsa"
+        },
+        {
+            "id": "mil-101",
+            "word": "cannon",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "top (artilleriya)"
+        },
+        {
+            "id": "mil-102",
+            "word": "mortar",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "minaatan"
+        },
+        {
+            "id": "mil-103",
+            "word": "rocket launcher",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "raket atıcısı"
+        },
+        {
+            "id": "mil-104",
+            "word": "anti-aircraft gun",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "zenit topu"
+        },
+        {
+            "id": "mil-105",
+            "word": "landmine",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mina (yerdə)"
+        },
+        {
+            "id": "mil-106",
+            "word": "torpedo",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "torpeda"
+        },
+        {
+            "id": "mil-107",
+            "word": "warhead",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "döyüş başlığı (raket)"
+        },
+        {
+            "id": "mil-108",
+            "word": "explosive",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "partlayıcı maddə"
+        },
+        {
+            "id": "mil-109",
+            "word": "detonate",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "partlatmaq"
+        },
+        {
+            "id": "mil-110",
+            "word": "armored vehicle",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "zirehli maşın"
+        },
+        {
+            "id": "mil-111",
+            "word": "armored personnel carrier",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "zirehli piyada daşıyıcısı"
+        },
+        {
+            "id": "mil-112",
+            "word": "military jeep",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "hərbi cip"
+        },
+        {
+            "id": "mil-113",
+            "word": "destroyer",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "esminets"
+        },
+        {
+            "id": "mil-114",
+            "word": "frigate",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "friqat"
+        },
+        {
+            "id": "mil-115",
+            "word": "aircraft carrier",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təyyarədaşıyan gəmi"
+        },
+        {
+            "id": "mil-116",
+            "word": "battleship",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "döyüş gəmisi"
+        },
+        {
+            "id": "mil-117",
+            "word": "bomber",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "bombardmançı təyyarə"
+        },
+        {
+            "id": "mil-118",
+            "word": "stealth aircraft",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "gizli (radara görünməyən) təyyarə"
+        },
+        {
+            "id": "mil-119",
+            "word": "nuclear weapon",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "nüvə silahı"
+        },
+        {
+            "id": "mil-120",
+            "word": "chemical weapon",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "kimyəvi silah"
+        },
+        {
+            "id": "mil-121",
+            "word": "biological weapon",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "bioloji silah"
+        },
+        {
+            "id": "mil-122",
+            "word": "cruise missile",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "qanadlı raket"
+        },
+        {
+            "id": "mil-123",
+            "word": "ballistic missile",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "ballistik raket"
+        },
+        {
+            "id": "mil-124",
+            "word": "bulletproof vest",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "gülləkeçirməz jilet"
+        },
+        {
+            "id": "mil-125",
+            "word": "gas mask",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qaz maskası"
+        },
+        {
+            "id": "mil-126",
+            "word": "night vision goggles",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "gecə görmə cihazı"
+        },
+        {
+            "id": "mil-127",
+            "word": "radar",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "radar"
+        },
+        {
+            "id": "mil-128",
+            "word": "sword",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "qılınc"
+        },
+        {
+            "id": "mil-129",
+            "word": "shield",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "sipər"
+        },
+        {
+            "id": "mil-130",
+            "word": "spear",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "nizə"
+        },
+        {
+            "id": "mil-131",
+            "word": "bow and arrow",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ox-kaman"
+        }
+    ]
+}

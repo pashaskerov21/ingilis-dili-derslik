@@ -1,0 +1,1403 @@
+{
+  "category": "reqemler-ve-vaxt",
+  "words": [
+    {
+      "id": "time-001",
+      "word": "one",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bir"
+    },
+    {
+      "id": "time-002",
+      "word": "two",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "iki"
+    },
+    {
+      "id": "time-003",
+      "word": "three",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "üç"
+    },
+    {
+      "id": "time-004",
+      "word": "four",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dörd"
+    },
+    {
+      "id": "time-005",
+      "word": "five",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "beş"
+    },
+    {
+      "id": "time-006",
+      "word": "six",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "altı"
+    },
+    {
+      "id": "time-007",
+      "word": "seven",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yeddi"
+    },
+    {
+      "id": "time-008",
+      "word": "eight",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "səkkiz"
+    },
+    {
+      "id": "time-009",
+      "word": "nine",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "doqquz"
+    },
+    {
+      "id": "time-010",
+      "word": "ten",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on"
+    },
+    {
+      "id": "time-011",
+      "word": "eleven",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on bir"
+    },
+    {
+      "id": "time-012",
+      "word": "twelve",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on iki"
+    },
+    {
+      "id": "time-013",
+      "word": "thirteen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on üç"
+    },
+    {
+      "id": "time-014",
+      "word": "fourteen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on dörd"
+    },
+    {
+      "id": "time-015",
+      "word": "fifteen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on beş"
+    },
+    {
+      "id": "time-016",
+      "word": "sixteen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on altı"
+    },
+    {
+      "id": "time-017",
+      "word": "seventeen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on yeddi"
+    },
+    {
+      "id": "time-018",
+      "word": "eighteen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on səkkiz"
+    },
+    {
+      "id": "time-019",
+      "word": "nineteen",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "on doqquz"
+    },
+    {
+      "id": "time-020",
+      "word": "twenty",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "iyirmi"
+    },
+    {
+      "id": "time-021",
+      "word": "zero",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sıfır"
+    },
+    {
+      "id": "time-022",
+      "word": "thirty",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "otuz"
+    },
+    {
+      "id": "time-023",
+      "word": "forty",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qırx"
+    },
+    {
+      "id": "time-024",
+      "word": "fifty",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "əlli"
+    },
+    {
+      "id": "time-025",
+      "word": "hundred",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yüz"
+    },
+    {
+      "id": "time-026",
+      "word": "thousand",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "min"
+    },
+    {
+      "id": "time-027",
+      "word": "first",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "birinci"
+    },
+    {
+      "id": "time-028",
+      "word": "second",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "ikinci"
+    },
+    {
+      "id": "time-029",
+      "word": "third",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "üçüncü"
+    },
+    {
+      "id": "time-030",
+      "word": "fourth",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "dördüncü"
+    },
+    {
+      "id": "time-031",
+      "word": "fifth",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "beşinci"
+    },
+    {
+      "id": "time-032",
+      "word": "Monday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bazar ertəsi"
+    },
+    {
+      "id": "time-033",
+      "word": "Tuesday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çərşənbə axşamı"
+    },
+    {
+      "id": "time-034",
+      "word": "Wednesday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çərşənbə"
+    },
+    {
+      "id": "time-035",
+      "word": "Thursday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cümə axşamı"
+    },
+    {
+      "id": "time-036",
+      "word": "Friday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cümə"
+    },
+    {
+      "id": "time-037",
+      "word": "Saturday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şənbə"
+    },
+    {
+      "id": "time-038",
+      "word": "Sunday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bazar"
+    },
+    {
+      "id": "time-039",
+      "word": "January",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yanvar"
+    },
+    {
+      "id": "time-040",
+      "word": "February",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "fevral"
+    },
+    {
+      "id": "time-041",
+      "word": "March",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mart"
+    },
+    {
+      "id": "time-042",
+      "word": "April",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "aprel"
+    },
+    {
+      "id": "time-043",
+      "word": "May",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "may"
+    },
+    {
+      "id": "time-044",
+      "word": "June",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "iyun"
+    },
+    {
+      "id": "time-045",
+      "word": "July",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "iyul"
+    },
+    {
+      "id": "time-046",
+      "word": "August",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "avqust"
+    },
+    {
+      "id": "time-047",
+      "word": "September",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sentyabr"
+    },
+    {
+      "id": "time-048",
+      "word": "October",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "oktyabr"
+    },
+    {
+      "id": "time-049",
+      "word": "November",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "noyabr"
+    },
+    {
+      "id": "time-050",
+      "word": "December",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dekabr"
+    },
+    {
+      "id": "time-051",
+      "word": "spring",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yaz"
+    },
+    {
+      "id": "time-052",
+      "word": "summer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yay"
+    },
+    {
+      "id": "time-053",
+      "word": "autumn",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "payız"
+    },
+    {
+      "id": "time-054",
+      "word": "winter",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qış"
+    },
+    {
+      "id": "time-055",
+      "word": "time",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "vaxt"
+    },
+    {
+      "id": "time-056",
+      "word": "clock",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "saat (divar/masa)"
+    },
+    {
+      "id": "time-057",
+      "word": "watch",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qol saatı"
+    },
+    {
+      "id": "time-058",
+      "word": "hour",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "saat (müddət)"
+    },
+    {
+      "id": "time-059",
+      "word": "minute",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dəqiqə"
+    },
+    {
+      "id": "time-060",
+      "word": "o'clock",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "düz saat"
+    },
+    {
+      "id": "time-061",
+      "word": "morning",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "səhər"
+    },
+    {
+      "id": "time-062",
+      "word": "afternoon",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "günorta (sonrası)"
+    },
+    {
+      "id": "time-063",
+      "word": "evening",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "axşam"
+    },
+    {
+      "id": "time-064",
+      "word": "night",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "gecə"
+    },
+    {
+      "id": "time-065",
+      "word": "today",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "bu gün"
+    },
+    {
+      "id": "time-066",
+      "word": "tomorrow",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "sabah"
+    },
+    {
+      "id": "time-067",
+      "word": "yesterday",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "dünən"
+    },
+    {
+      "id": "time-068",
+      "word": "week",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "həftə"
+    },
+    {
+      "id": "time-069",
+      "word": "month",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ay"
+    },
+    {
+      "id": "time-070",
+      "word": "year",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "il"
+    },
+    {
+      "id": "time-071",
+      "word": "day",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "gün"
+    },
+    {
+      "id": "time-072",
+      "word": "now",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "indi"
+    },
+    {
+      "id": "time-073",
+      "word": "always",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "həmişə"
+    },
+    {
+      "id": "time-074",
+      "word": "sometimes",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "bəzən"
+    },
+    {
+      "id": "time-075",
+      "word": "never",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "heç vaxt"
+    },
+    {
+      "id": "time-076",
+      "word": "early",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "erkən"
+    },
+    {
+      "id": "time-077",
+      "word": "late",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "gec"
+    },
+
+    {
+      "id": "time-078",
+      "word": "sixty",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "altmış"
+    },
+    {
+      "id": "time-079",
+      "word": "seventy",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yetmiş"
+    },
+    {
+      "id": "time-080",
+      "word": "eighty",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səksən"
+    },
+    {
+      "id": "time-081",
+      "word": "ninety",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "doxsan"
+    },
+    {
+      "id": "time-082",
+      "word": "million",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "milyon"
+    },
+    {
+      "id": "time-083",
+      "word": "sixth",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "altıncı"
+    },
+    {
+      "id": "time-084",
+      "word": "seventh",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "yeddinci"
+    },
+    {
+      "id": "time-085",
+      "word": "eighth",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "səkkizinci"
+    },
+    {
+      "id": "time-086",
+      "word": "ninth",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "doqquzuncu"
+    },
+    {
+      "id": "time-087",
+      "word": "tenth",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "onuncu"
+    },
+    {
+      "id": "time-088",
+      "word": "second (2)",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "saniyə"
+    },
+    {
+      "id": "time-089",
+      "word": "noon",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "günorta"
+    },
+    {
+      "id": "time-090",
+      "word": "midnight",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gecə yarısı"
+    },
+    {
+      "id": "time-091",
+      "word": "weekend",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "həftəsonu"
+    },
+    {
+      "id": "time-092",
+      "word": "date",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tarix"
+    },
+    {
+      "id": "time-093",
+      "word": "half past",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "yarım (saatdan sonra)"
+    },
+    {
+      "id": "time-094",
+      "word": "quarter past",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "on beş dəqiqə keçir"
+    },
+    {
+      "id": "time-095",
+      "word": "quarter to",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "on beş dəqiqə qalır"
+    },
+    {
+      "id": "time-096",
+      "word": "a.m.",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "səhər (gecə yarısı-günorta arası)"
+    },
+    {
+      "id": "time-097",
+      "word": "p.m.",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "günortadan sonra"
+    },
+    {
+      "id": "time-098",
+      "word": "usually",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "adətən"
+    },
+    {
+      "id": "time-099",
+      "word": "often",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "tez-tez"
+    },
+    {
+      "id": "time-100",
+      "word": "rarely",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "nadir hallarda"
+    },
+    {
+      "id": "time-101",
+      "word": "daily",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "gündəlik"
+    },
+    {
+      "id": "time-102",
+      "word": "weekly",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "həftəlik"
+    },
+    {
+      "id": "time-103",
+      "word": "monthly",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "aylıq"
+    },
+    {
+      "id": "time-104",
+      "word": "yearly",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "illik"
+    },
+    {
+      "id": "time-105",
+      "word": "soon",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "tezliklə"
+    },
+    {
+      "id": "time-106",
+      "word": "later",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "sonra"
+    },
+    {
+      "id": "time-107",
+      "word": "already",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "artıq"
+    },
+    {
+      "id": "time-108",
+      "word": "yet",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "hələ"
+    },
+    {
+      "id": "time-109",
+      "word": "still",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "hələ də"
+    },
+    {
+      "id": "time-110",
+      "word": "on time",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "vaxtında"
+    },
+    {
+      "id": "time-111",
+      "word": "calendar",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təqvim"
+    },
+    {
+      "id": "time-112",
+      "word": "birthday",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ad günü"
+    },
+    {
+      "id": "time-113",
+      "word": "holiday",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bayram / tətil"
+    },
+    {
+      "id": "time-114",
+      "word": "appointment",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "görüş (təyin olunmuş)"
+    },
+    {
+      "id": "time-115",
+      "word": "pair",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cüt"
+    },
+    {
+      "id": "time-116",
+      "word": "few",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "bir neçə"
+    },
+    {
+      "id": "time-117",
+      "word": "sunrise",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gün doğuşu"
+    },
+    {
+      "id": "time-118",
+      "word": "sunset",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gün batımı"
+    },
+
+    {
+      "id": "time-119",
+      "word": "billion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "milyard"
+    },
+    {
+      "id": "time-120",
+      "word": "twentieth",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "iyirminci"
+    },
+    {
+      "id": "time-121",
+      "word": "century",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əsr"
+    },
+    {
+      "id": "time-122",
+      "word": "decade",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "onillik"
+    },
+    {
+      "id": "time-123",
+      "word": "fortnight",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iki həftə"
+    },
+    {
+      "id": "time-124",
+      "word": "leap year",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "artıq il"
+    },
+    {
+      "id": "time-125",
+      "word": "schedule",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cədvəl (vaxt)"
+    },
+    {
+      "id": "time-126",
+      "word": "timetable",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dərs/hərəkət cədvəli"
+    },
+    {
+      "id": "time-127",
+      "word": "deadline",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "son tarix"
+    },
+    {
+      "id": "time-128",
+      "word": "anniversary",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ildönümü"
+    },
+    {
+      "id": "time-129",
+      "word": "occasionally",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "bəzən (arabir)"
+    },
+    {
+      "id": "time-130",
+      "word": "annually",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "hər il"
+    },
+    {
+      "id": "time-131",
+      "word": "immediately",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "dərhal"
+    },
+    {
+      "id": "time-132",
+      "word": "recently",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "bu yaxınlarda"
+    },
+    {
+      "id": "time-133",
+      "word": "nowadays",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "hazırda, indiki dövrdə"
+    },
+    {
+      "id": "time-134",
+      "word": "moment",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "an"
+    },
+    {
+      "id": "time-135",
+      "word": "period",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dövr"
+    },
+    {
+      "id": "time-136",
+      "word": "dozen",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "on iki ədəd"
+    },
+    {
+      "id": "time-137",
+      "word": "meanwhile",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "bu arada"
+    },
+    {
+      "id": "time-138",
+      "word": "afterwards",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "sonradan"
+    },
+    {
+      "id": "time-139",
+      "word": "dawn",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sübh"
+    },
+    {
+      "id": "time-140",
+      "word": "dusk",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "alaqaranlıq"
+    },
+
+    {
+      "id": "time-141",
+      "word": "era",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "era, dövr"
+    },
+    {
+      "id": "time-142",
+      "word": "instant",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "an, ləhzə"
+    },
+    {
+      "id": "time-143",
+      "word": "interval",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "fasilə, aralıq"
+    },
+    {
+      "id": "time-144",
+      "word": "punctual",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "dəqiq (vaxta əməl edən)"
+    },
+    {
+      "id": "time-145",
+      "word": "overdue",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "vaxtı keçmiş"
+    },
+    {
+      "id": "time-146",
+      "word": "duration",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "müddət"
+    },
+    {
+      "id": "time-147",
+      "word": "simultaneously",
+      "level": "B2",
+      "partOfSpeech": "adverb",
+      "translation": "eyni zamanda"
+    },
+    {
+      "id": "time-148",
+      "word": "beforehand",
+      "level": "B2",
+      "partOfSpeech": "adverb",
+      "translation": "əvvəlcədən"
+    },
+
+    {
+      "id": "time-149",
+      "word": "epoch",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "epoxa"
+    },
+    {
+      "id": "time-150",
+      "word": "chronological",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "xronoloji"
+    },
+
+    {
+      "id": "time-151",
+      "word": "timeless",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "əbədi, zamansız"
+    },
+    {
+      "id": "time-152",
+      "word": "temporal",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "zamana aid (rəsmi/elmi termin)"
+    },
+    {
+      "id": "time-153",
+      "word": "digit",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rəqəm (tək simvol)"
+    },
+    {
+      "id": "time-154",
+      "word": "numeral",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rəqəm işarəsi"
+    },
+    {
+      "id": "time-155",
+      "word": "figure",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rəqəm, göstərici"
+    },
+    {
+      "id": "time-156",
+      "word": "sum",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məbləğ"
+    },
+    {
+      "id": "time-157",
+      "word": "total",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ümumi məbləğ"
+    },
+    {
+      "id": "time-158",
+      "word": "amount",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "miqdar"
+    },
+    {
+      "id": "time-159",
+      "word": "quantity",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kəmiyyət"
+    },
+    {
+      "id": "time-160",
+      "word": "countless",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "saysız-hesabsız"
+    },
+    {
+      "id": "time-161",
+      "word": "numerous",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "çoxsaylı"
+    },
+    {
+      "id": "time-162",
+      "word": "infinite",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "sonsuz"
+    },
+    {
+      "id": "time-163",
+      "word": "eleventh",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "on birinci"
+    },
+    {
+      "id": "time-164",
+      "word": "twelfth",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "on ikinci"
+    },
+    {
+      "id": "time-165",
+      "word": "thirtieth",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "otuzuncu"
+    },
+    {
+      "id": "time-166",
+      "word": "frequently",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "tez-tez (rəsmi)"
+    },
+    {
+      "id": "time-167",
+      "word": "constantly",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "daim"
+    },
+    {
+      "id": "time-168",
+      "word": "regularly",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "müntəzəm olaraq"
+    },
+    {
+      "id": "time-169",
+      "word": "periodically",
+      "level": "B2",
+      "partOfSpeech": "adverb",
+      "translation": "dövri olaraq"
+    },
+    {
+      "id": "time-170",
+      "word": "seldom",
+      "level": "B1",
+      "partOfSpeech": "adverb",
+      "translation": "nadir hallarda (rəsmi)"
+    },
+    {
+      "id": "time-171",
+      "word": "hand",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "saat əqrəbi"
+    },
+    {
+      "id": "time-172",
+      "word": "tick",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "tıqqıldamaq"
+    },
+    {
+      "id": "time-173",
+      "word": "alarm clock",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "zəngli saat"
+    },
+    {
+      "id": "time-174",
+      "word": "timer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "taymer"
+    },
+    {
+      "id": "time-175",
+      "word": "stopwatch",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xronometr"
+    },
+    {
+      "id": "time-176",
+      "word": "hourglass",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qum saatı"
+    },
+    {
+      "id": "time-177",
+      "word": "twilight",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "alaqaranlıq"
+    },
+    {
+      "id": "time-178",
+      "word": "daybreak",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sübh açılması"
+    },
+    {
+      "id": "time-179",
+      "word": "nightfall",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qaranlıq düşməsi"
+    },
+    {
+      "id": "time-180",
+      "word": "daytime",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gündüz vaxtı"
+    },
+    {
+      "id": "time-181",
+      "word": "nighttime",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gecə vaxtı"
+    },
+    {
+      "id": "time-182",
+      "word": "eternity",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əbədiyyət"
+    },
+    {
+      "id": "time-183",
+      "word": "forever",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "əbədi olaraq"
+    },
+    {
+      "id": "time-184",
+      "word": "temporary",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "müvəqqəti"
+    },
+    {
+      "id": "time-185",
+      "word": "permanent",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "daimi"
+    },
+    {
+      "id": "time-186",
+      "word": "brief",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qısa (müddət)"
+    },
+    {
+      "id": "time-187",
+      "word": "lengthy",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "uzun (müddət)"
+    },
+    {
+      "id": "time-188",
+      "word": "prompt",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "cəld, vaxtında"
+    },
+    {
+      "id": "time-189",
+      "word": "delay",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "gecikmə"
+    },
+    {
+      "id": "time-190",
+      "word": "postpone",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təxirə salmaq"
+    },
+    {
+      "id": "time-191",
+      "word": "previous",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "əvvəlki"
+    },
+    {
+      "id": "time-192",
+      "word": "following",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "sonrakı"
+    },
+    {
+      "id": "time-193",
+      "word": "subsequent",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "sonrakı (rəsmi)"
+    },
+    {
+      "id": "time-194",
+      "word": "prior",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "əvvəlki (rəsmi)"
+    },
+    {
+      "id": "time-195",
+      "word": "upcoming",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "yaxınlaşan"
+    },
+    {
+      "id": "time-196",
+      "word": "current",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "hazırkı"
+    },
+    {
+      "id": "time-197",
+      "word": "semester",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "semestr"
+    },
+    {
+      "id": "time-198",
+      "word": "term",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tədris dövrü"
+    },
+    {
+      "id": "time-199",
+      "word": "millennium",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "minillik"
+    }
+  ]
+}

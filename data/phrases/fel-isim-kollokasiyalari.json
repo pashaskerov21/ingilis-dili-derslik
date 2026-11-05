@@ -1,0 +1,797 @@
+{
+    "category": "fel-isim-kollokasiyalari",
+    "phrases": [
+        {
+            "id": "phr-410",
+            "phrase": "make a decision",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "qərar vermək",
+            "example": {
+                "en": "He made a big decision to move abroad.",
+                "az": "O, xaricə köçmək üçün böyük qərar verdi."
+            }
+        },
+        {
+            "id": "phr-411",
+            "phrase": "make a mistake",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "səhv etmək",
+            "example": {
+                "en": "Everyone makes mistakes sometimes.",
+                "az": "Hər kəs bəzən səhv edir."
+            }
+        },
+        {
+            "id": "phr-412",
+            "phrase": "make an effort",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "səy göstərmək",
+            "example": {
+                "en": "She made an effort to arrive on time.",
+                "az": "O, vaxtında çatmaq üçün səy göstərdi."
+            }
+        },
+        {
+            "id": "phr-413",
+            "phrase": "make a difference",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "fərq yaratmaq, təsir etmək",
+            "example": {
+                "en": "Small actions can make a difference.",
+                "az": "Kiçik hərəkətlər fərq yarada bilər."
+            }
+        },
+        {
+            "id": "phr-414",
+            "phrase": "make progress",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "irəliləyiş etmək",
+            "example": {
+                "en": "We're making good progress on the project.",
+                "az": "Layihədə yaxşı irəliləyiş edirik."
+            }
+        },
+        {
+            "id": "phr-415",
+            "phrase": "make a plan",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "plan qurmaq",
+            "example": {
+                "en": "Let's make a plan for the weekend.",
+                "az": "Həftəsonu üçün plan quraq."
+            }
+        },
+        {
+            "id": "phr-416",
+            "phrase": "make a promise",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "vəd vermək",
+            "example": {
+                "en": "He made a promise to call every day.",
+                "az": "O, hər gün zəng edəcəyinə söz verdi."
+            }
+        },
+        {
+            "id": "phr-417",
+            "phrase": "make a suggestion",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "təklif vermək",
+            "example": {
+                "en": "Can I make a suggestion?",
+                "az": "Bir təklif verə bilərəmmi?"
+            }
+        },
+        {
+            "id": "phr-418",
+            "phrase": "make an excuse",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "bəhanə gətirmək",
+            "example": {
+                "en": "He always makes an excuse for being late.",
+                "az": "O, həmişə gecikməsi üçün bəhanə gətirir."
+            }
+        },
+        {
+            "id": "phr-419",
+            "phrase": "make a phone call",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "telefon zəngi etmək",
+            "example": {
+                "en": "I need to make a phone call before the meeting.",
+                "az": "İclasdan əvvəl telefon zəngi etməliyəm."
+            }
+        },
+        {
+            "id": "phr-420",
+            "phrase": "make friends",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "dost qazanmaq",
+            "example": {
+                "en": "She made friends easily at her new school.",
+                "az": "O, yeni məktəbdə asanlıqla dost qazandı."
+            }
+        },
+        {
+            "id": "phr-421",
+            "phrase": "make money",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "pul qazanmaq",
+            "example": {
+                "en": "This business makes a lot of money.",
+                "az": "Bu biznes çox pul qazanır."
+            }
+        },
+        {
+            "id": "phr-422",
+            "phrase": "make a mess",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "səliqəsizlik yaratmaq",
+            "example": {
+                "en": "The kids made a mess in the kitchen.",
+                "az": "Uşaqlar mətbəxdə səliqəsizlik yaratdılar."
+            }
+        },
+        {
+            "id": "phr-423",
+            "phrase": "make noise",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "səs-küy salmaq",
+            "example": {
+                "en": "Please don't make noise — the baby is sleeping.",
+                "az": "Zəhmət olmasa səs salma — körpə yatır."
+            }
+        },
+        {
+            "id": "phr-424",
+            "phrase": "make a point",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "fikri vurğulamaq/əsaslandırmaq",
+            "example": {
+                "en": "She made a good point during the discussion.",
+                "az": "O, müzakirədə yaxşı bir fikir irəli sürdü."
+            }
+        },
+        {
+            "id": "phr-425",
+            "phrase": "make an appointment",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "görüş təyin etmək",
+            "example": {
+                "en": "I need to make an appointment with the dentist.",
+                "az": "Diş həkimi ilə görüş təyin etməliyəm."
+            }
+        },
+        {
+            "id": "phr-426",
+            "phrase": "make a complaint",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "şikayət etmək",
+            "example": {
+                "en": "She made a complaint about the noisy neighbors.",
+                "az": "O, səs-küylü qonşulardan şikayət etdi."
+            }
+        },
+        {
+            "id": "phr-427",
+            "phrase": "make a choice",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "seçim etmək",
+            "example": {
+                "en": "You need to make a choice between the two options.",
+                "az": "İki seçim arasından seçim etməlisən."
+            }
+        },
+        {
+            "id": "phr-428",
+            "phrase": "make a profit",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "mənfəət əldə etmək",
+            "example": {
+                "en": "The company made a profit this quarter.",
+                "az": "Şirkət bu rübdə mənfəət əldə etdi."
+            }
+        },
+        {
+            "id": "phr-429",
+            "phrase": "make a speech",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "çıxış etmək (nitq söyləmək)",
+            "example": {
+                "en": "The CEO made a speech at the conference.",
+                "az": "İcraçı Direktor konfransda çıxış etdi."
+            }
+        },
+        {
+            "id": "phr-430",
+            "phrase": "make sense",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "məntiqli olmaq",
+            "example": {
+                "en": "This explanation doesn't make sense to me.",
+                "az": "Bu izah mənə məntiqli görünmür."
+            }
+        },
+        {
+            "id": "phr-431",
+            "phrase": "make room",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "yer açmaq",
+            "example": {
+                "en": "Can you make room for one more person?",
+                "az": "Bir nəfər üçün də yer aça bilərsənmi?"
+            }
+        },
+        {
+            "id": "phr-432",
+            "phrase": "make an impression",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "təəssürat yaratmaq",
+            "example": {
+                "en": "She made a great impression at the interview.",
+                "az": "O, müsahibədə əla təəssürat yaratdı."
+            }
+        },
+        {
+            "id": "phr-433",
+            "phrase": "make a habit of",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "bir şeyi vərdişə çevirmək",
+            "example": {
+                "en": "He made a habit of checking emails every morning.",
+                "az": "O, hər səhər emailları yoxlamağı vərdişə çevirdi."
+            }
+        },
+        {
+            "id": "phr-434",
+            "phrase": "do homework",
+            "type": "collocation",
+            "level": "A1",
+            "meaning": "ev tapşırığı etmək",
+            "example": {
+                "en": "She does her homework after school.",
+                "az": "O, dərsdən sonra ev tapşırığını edir."
+            }
+        },
+        {
+            "id": "phr-435",
+            "phrase": "do the dishes",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "qab yumaq",
+            "example": {
+                "en": "Can you do the dishes tonight?",
+                "az": "Bu gecə qabları yuya bilərsənmi?"
+            }
+        },
+        {
+            "id": "phr-436",
+            "phrase": "do the laundry",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "paltar yumaq (növbəsini görmək)",
+            "example": {
+                "en": "I do the laundry every Sunday.",
+                "az": "Hər bazar günü paltar yuyuram."
+            }
+        },
+        {
+            "id": "phr-437",
+            "phrase": "do the shopping",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "alış-veriş etmək",
+            "example": {
+                "en": "I'll do the shopping this afternoon.",
+                "az": "Bu günorta alış-veriş edəcəm."
+            }
+        },
+        {
+            "id": "phr-438",
+            "phrase": "do a favor",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "yaxşılıq etmək",
+            "example": {
+                "en": "Can you do me a favor?",
+                "az": "Mənə bir yaxşılıq edə bilərsənmi?"
+            }
+        },
+        {
+            "id": "phr-439",
+            "phrase": "do business",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "biznes aparmaq",
+            "example": {
+                "en": "We've done business together for years.",
+                "az": "İllərdir bir-birimizlə biznes aparırıq."
+            }
+        },
+        {
+            "id": "phr-440",
+            "phrase": "do harm",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "zərər vermək",
+            "example": {
+                "en": "Too much sugar can do harm to your health.",
+                "az": "Həddindən artıq şəkər sağlamlığına zərər verə bilər."
+            }
+        },
+        {
+            "id": "phr-441",
+            "phrase": "do your best",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "əlindən gələni etmək",
+            "example": {
+                "en": "Just do your best on the exam.",
+                "az": "İmtahanda sadəcə əlindən gələni et."
+            }
+        },
+        {
+            "id": "phr-442",
+            "phrase": "do exercise",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "idman etmək (fiziki hərəkət)",
+            "example": {
+                "en": "I do exercise every morning.",
+                "az": "Hər səhər idman edirəm."
+            }
+        },
+        {
+            "id": "phr-443",
+            "phrase": "do a course",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "kurs keçmək",
+            "example": {
+                "en": "She did a course in graphic design.",
+                "az": "O, qrafik dizayn kursu keçdi."
+            }
+        },
+        {
+            "id": "phr-444",
+            "phrase": "do research",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "tədqiqat aparmaq",
+            "example": {
+                "en": "We did research before launching the product.",
+                "az": "Məhsulu buraxmazdan əvvəl tədqiqat apardıq."
+            }
+        },
+        {
+            "id": "phr-445",
+            "phrase": "do well",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "yaxşı nəticə göstərmək",
+            "example": {
+                "en": "She did well on her exams this year.",
+                "az": "O, bu il imtahanlarında yaxşı nəticə göstərdi."
+            }
+        },
+        {
+            "id": "phr-446",
+            "phrase": "do the housework",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "ev işlərini görmək",
+            "example": {
+                "en": "We take turns doing the housework.",
+                "az": "Ev işlərini növbə ilə görürük."
+            }
+        },
+        {
+            "id": "phr-447",
+            "phrase": "have breakfast",
+            "type": "collocation",
+            "level": "A1",
+            "meaning": "səhər yeməyi yemək",
+            "example": {
+                "en": "I have breakfast at 8 every day.",
+                "az": "Hər gün saat 8-də səhər yeməyi yeyirəm."
+            }
+        },
+        {
+            "id": "phr-448",
+            "phrase": "have a shower",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "duş qəbul etmək",
+            "example": {
+                "en": "I always have a shower before bed.",
+                "az": "Yatmazdan əvvəl həmişə duş qəbul edirəm."
+            }
+        },
+        {
+            "id": "phr-449",
+            "phrase": "have a rest",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "istirahət etmək",
+            "example": {
+                "en": "You should have a rest after such a long day.",
+                "az": "Belə uzun gündən sonra istirahət etməlisən."
+            }
+        },
+        {
+            "id": "phr-450",
+            "phrase": "have a look",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "baxmaq, nəzər salmaq",
+            "example": {
+                "en": "Can I have a look at your notes?",
+                "az": "Qeydlərinə baxa bilərəmmi?"
+            }
+        },
+        {
+            "id": "phr-451",
+            "phrase": "have a chat",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "söhbət etmək (qeyri-rəsmi)",
+            "example": {
+                "en": "Let's have a chat over coffee.",
+                "az": "Qəhvə içərkən söhbət edək."
+            }
+        },
+        {
+            "id": "phr-452",
+            "phrase": "have a conversation",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "söhbət/danışıq etmək",
+            "example": {
+                "en": "We had a long conversation about the future.",
+                "az": "Gələcək barədə uzun söhbət etdik."
+            }
+        },
+        {
+            "id": "phr-453",
+            "phrase": "have an argument",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "mübahisə etmək",
+            "example": {
+                "en": "They had an argument about money.",
+                "az": "Onlar pul üzündən mübahisə etdilər."
+            }
+        },
+        {
+            "id": "phr-454",
+            "phrase": "have a meeting",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "iclas keçirmək",
+            "example": {
+                "en": "We have a meeting at 10 tomorrow.",
+                "az": "Sabah saat 10-da iclasımız var."
+            }
+        },
+        {
+            "id": "phr-455",
+            "phrase": "have an interview",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "müsahibədə iştirak etmək",
+            "example": {
+                "en": "I have an interview for a new job next week.",
+                "az": "Növbəti həftə yeni iş üçün müsahibəm var."
+            }
+        },
+        {
+            "id": "phr-456",
+            "phrase": "have fun",
+            "type": "collocation",
+            "level": "A1",
+            "meaning": "əylənmək",
+            "example": {
+                "en": "Have fun at the party!",
+                "az": "Məclisdə əylən!"
+            }
+        },
+        {
+            "id": "phr-457",
+            "phrase": "have a headache",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "baş ağrısı olmaq",
+            "example": {
+                "en": "I have a headache — I need to lie down.",
+                "az": "Baş ağrım var — uzanmalıyam."
+            }
+        },
+        {
+            "id": "phr-458",
+            "phrase": "have a dream",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "yuxu görmək / arzusu olmaq",
+            "example": {
+                "en": "I had a strange dream last night.",
+                "az": "Dünən gecə qəribə yuxu gördüm."
+            }
+        },
+        {
+            "id": "phr-459",
+            "phrase": "have doubts",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "şübhələri olmaq",
+            "example": {
+                "en": "I have doubts about this plan.",
+                "az": "Bu plan barədə şübhələrim var."
+            }
+        },
+        {
+            "id": "phr-460",
+            "phrase": "have an idea",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "fikri olmaq",
+            "example": {
+                "en": "I have an idea for the presentation.",
+                "az": "Təqdimat üçün fikrim var."
+            }
+        },
+        {
+            "id": "phr-461",
+            "phrase": "have patience",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "səbirli olmaq",
+            "example": {
+                "en": "You need to have patience with beginners.",
+                "az": "Yeni başlayanlarla səbirli olmalısan."
+            }
+        },
+        {
+            "id": "phr-462",
+            "phrase": "take a break",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "fasilə vermək",
+            "example": {
+                "en": "Let's take a break for ten minutes.",
+                "az": "On dəqiqəlik fasilə verək."
+            }
+        },
+        {
+            "id": "phr-463",
+            "phrase": "take a photo",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "şəkil çəkmək",
+            "example": {
+                "en": "Can you take a photo of us?",
+                "az": "Bizim şəklimizi çəkə bilərsənmi?"
+            }
+        },
+        {
+            "id": "phr-464",
+            "phrase": "take a seat",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "əyləşmək",
+            "example": {
+                "en": "Please take a seat while you wait.",
+                "az": "Zəhmət olmasa gözləyərkən əyləşin."
+            }
+        },
+        {
+            "id": "phr-465",
+            "phrase": "take a test",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "imtahan/test vermək",
+            "example": {
+                "en": "She's taking a test tomorrow morning.",
+                "az": "O, sabah səhər test verəcək."
+            }
+        },
+        {
+            "id": "phr-466",
+            "phrase": "take a risk",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "risk götürmək",
+            "example": {
+                "en": "He took a risk by investing all his savings.",
+                "az": "O, bütün qənaətini yatırmaqla risk götürdü."
+            }
+        },
+        {
+            "id": "phr-467",
+            "phrase": "take advice",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "məsləhətə əməl etmək",
+            "example": {
+                "en": "You should take her advice seriously.",
+                "az": "Onun məsləhətini ciddi qəbul etməlisən."
+            }
+        },
+        {
+            "id": "phr-468",
+            "phrase": "take action",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "hərəkətə keçmək",
+            "example": {
+                "en": "We need to take action before it's too late.",
+                "az": "Gec olmadan hərəkətə keçməliyik."
+            }
+        },
+        {
+            "id": "phr-469",
+            "phrase": "take care",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "diqqətli olmaq / özünə fikir vermək",
+            "example": {
+                "en": "Take care on your way home.",
+                "az": "Evə gedərkən diqqətli ol."
+            }
+        },
+        {
+            "id": "phr-470",
+            "phrase": "take responsibility",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "məsuliyyəti öz üzərinə götürmək",
+            "example": {
+                "en": "He took responsibility for the mistake.",
+                "az": "O, səhv üçün məsuliyyəti öz üzərinə götürdü."
+            }
+        },
+        {
+            "id": "phr-471",
+            "phrase": "take notes",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "qeydlər götürmək",
+            "example": {
+                "en": "Please take notes during the lecture.",
+                "az": "Mühazirə zamanı zəhmət olmasa qeydlər götür."
+            }
+        },
+        {
+            "id": "phr-472",
+            "phrase": "take a message",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "mesaj qəbul etmək (birinin adından)",
+            "example": {
+                "en": "She's not here — can I take a message?",
+                "az": "O, burda deyil — mesaj qəbul edə bilərəmmi?"
+            }
+        },
+        {
+            "id": "phr-473",
+            "phrase": "take place",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "baş vermək, keçirilmək",
+            "example": {
+                "en": "The ceremony will take place next Friday.",
+                "az": "Mərasim növbəti cümə günü keçiriləcək."
+            }
+        },
+        {
+            "id": "phr-474",
+            "phrase": "take part in",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "iştirak etmək",
+            "example": {
+                "en": "Many students took part in the competition.",
+                "az": "Bir çox tələbə yarışda iştirak etdi."
+            }
+        },
+        {
+            "id": "phr-475",
+            "phrase": "get married",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "evlənmək",
+            "example": {
+                "en": "They got married last summer.",
+                "az": "Onlar keçən yay evləndilər."
+            }
+        },
+        {
+            "id": "phr-476",
+            "phrase": "get permission",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "icazə almaq",
+            "example": {
+                "en": "You need to get permission before entering.",
+                "az": "Girməzdən əvvəl icazə almalısan."
+            }
+        },
+        {
+            "id": "phr-477",
+            "phrase": "get in touch",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "əlaqə saxlamaq",
+            "example": {
+                "en": "I'll get in touch with you next week.",
+                "az": "Növbəti həftə səninlə əlaqə saxlayacam."
+            }
+        },
+        {
+            "id": "phr-478",
+            "phrase": "get lost",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "yolunu itirmək",
+            "example": {
+                "en": "We got lost on the way to the hotel.",
+                "az": "Otelə gedən yolda yolumuzu itirdik."
+            }
+        },
+        {
+            "id": "phr-479",
+            "phrase": "get ready",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "hazırlaşmaq",
+            "example": {
+                "en": "Get ready — we're leaving in ten minutes.",
+                "az": "Hazırlaş — on dəqiqəyə çıxırıq."
+            }
+        },
+        {
+            "id": "phr-480",
+            "phrase": "have a bath vs. take a bath",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "vanna qəbul etmək (hər ikisi eyni məna, have=Britaniya, take=Amerikan)",
+            "example": {
+                "en": "I have a bath every evening. / I take a bath every evening.",
+                "az": "Hər axşam vanna qəbul edirəm. (hər iki forma düzgündür)"
+            }
+        },
+        {
+            "id": "phr-481",
+            "phrase": "make a bath",
+            "type": "collocation",
+            "level": "B2",
+            "meaning": "vannanı hazırlamaq (su doldurmaq) — 'have/take a bath'-dan FƏRQLİ məna",
+            "example": {
+                "en": "I'll make a bath for the kids before making them take it.",
+                "az": "Uşaqlar üçün əvvəlcə vannanı hazırlayacam (su dolduracam)."
+            }
+        }
+    ]
+}

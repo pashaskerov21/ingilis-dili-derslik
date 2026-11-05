@@ -1,0 +1,225 @@
+{
+  "category": "aciq-hava-fealiyyetleri",
+  "words": [
+    {
+      "id": "out-001",
+      "word": "hiking",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "piyada dağ gəzintisi"
+    },
+    {
+      "id": "out-002",
+      "word": "camping",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kempinq"
+    },
+    {
+      "id": "out-003",
+      "word": "fishing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "balıqçılıq"
+    },
+    {
+      "id": "out-004",
+      "word": "cycling",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "velosipedçilik"
+    },
+    {
+      "id": "out-005",
+      "word": "swimming",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "üzgüçülük"
+    },
+    {
+      "id": "out-006",
+      "word": "tent",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çadır"
+    },
+    {
+      "id": "out-007",
+      "word": "backpack",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bel çantası (səyahət)"
+    },
+    {
+      "id": "out-008",
+      "word": "sleeping bag",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yataq torbası"
+    },
+    {
+      "id": "out-009",
+      "word": "campfire",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tonqal"
+    },
+    {
+      "id": "out-010",
+      "word": "picnic",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "piknik"
+    },
+
+    {
+      "id": "out-011",
+      "word": "climbing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dağa dırmaşma"
+    },
+    {
+      "id": "out-012",
+      "word": "rock climbing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qaya dırmaşması"
+    },
+    {
+      "id": "out-013",
+      "word": "trail",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cığır (təbiət)"
+    },
+    {
+      "id": "out-014",
+      "word": "trail running",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təbiətdə qaçış"
+    },
+    {
+      "id": "out-015",
+      "word": "backpacking",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bel çantası ilə səyahət"
+    },
+    {
+      "id": "out-016",
+      "word": "birdwatching",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "quş müşahidəsi"
+    },
+    {
+      "id": "out-017",
+      "word": "boating",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qayıqçılıq"
+    },
+    {
+      "id": "out-018",
+      "word": "sailing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yelkənçilik"
+    },
+    {
+      "id": "out-019",
+      "word": "kayaking",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kayakçılıq"
+    },
+    {
+      "id": "out-020",
+      "word": "rafting",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rafting"
+    },
+    {
+      "id": "out-021",
+      "word": "surfing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sörfinq"
+    },
+    {
+      "id": "out-022",
+      "word": "flower pressing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gül qurutma sənəti"
+    },
+    {
+      "id": "out-023",
+      "word": "wade",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sulu yerdə addımlamaq"
+    },
+    {
+      "id": "out-024",
+      "word": "compass",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kompas"
+    },
+    {
+      "id": "out-025",
+      "word": "flashlight",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fənər (əl)"
+    },
+
+    {
+      "id": "out-026",
+      "word": "scuba diving",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "akvalanqla dalma"
+    },
+    {
+      "id": "out-027",
+      "word": "snorkeling",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "maska ilə üzmə"
+    },
+    {
+      "id": "out-028",
+      "word": "skydiving",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "parapланерizm (göydən tullanma)"
+    },
+    {
+      "id": "out-029",
+      "word": "skeet shooting",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "atıcılıq (nişan)"
+    },
+    {
+      "id": "out-030",
+      "word": "mountaineering",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "alpinizm"
+    },
+
+    {
+      "id": "out-031",
+      "word": "bushcraft",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "təbiətdə sağqalma bacarığı"
+    }
+  ]
+}

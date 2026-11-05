@@ -1,0 +1,310 @@
+{
+  "category": "tesviri-incesenet-ve-edebiyyat",
+  "words": [
+    {
+      "id": "art-001",
+      "word": "art",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "incəsənət"
+    },
+    {
+      "id": "art-002",
+      "word": "painting",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "rəsm əsəri"
+    },
+    {
+      "id": "art-003",
+      "word": "book",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kitab"
+    },
+    {
+      "id": "art-004",
+      "word": "author",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "müəllif"
+    },
+    {
+      "id": "art-005",
+      "word": "artist",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "rəssam"
+    },
+    {
+      "id": "art-006",
+      "word": "museum",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "muzey"
+    },
+
+    {
+      "id": "art-007",
+      "word": "sculpture",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "heykəl"
+    },
+    {
+      "id": "art-008",
+      "word": "drawing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çertyoj, rəsm (qələmlə)"
+    },
+    {
+      "id": "art-009",
+      "word": "sketch",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "eskiz"
+    },
+    {
+      "id": "art-010",
+      "word": "gallery",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qalereya"
+    },
+    {
+      "id": "art-011",
+      "word": "exhibition",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sərgi"
+    },
+    {
+      "id": "art-012",
+      "word": "novel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "roman"
+    },
+    {
+      "id": "art-013",
+      "word": "poem",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şeir"
+    },
+    {
+      "id": "art-014",
+      "word": "poet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şair"
+    },
+    {
+      "id": "art-015",
+      "word": "writer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yazıçı"
+    },
+    {
+      "id": "art-016",
+      "word": "chapter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "fəsil (kitabda)"
+    },
+    {
+      "id": "art-017",
+      "word": "painter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "rəssam (rəngkarlıq)"
+    },
+    {
+      "id": "art-018",
+      "word": "sculptor",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "heykəltəraş"
+    },
+    {
+      "id": "art-019",
+      "word": "portrait",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "portret"
+    },
+    {
+      "id": "art-020",
+      "word": "landscape",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "mənzərə (rəsm janrı)"
+    },
+    {
+      "id": "art-021",
+      "word": "creative",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "yaradıcı"
+    },
+
+    {
+      "id": "art-022",
+      "word": "collage",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kollaj"
+    },
+    {
+      "id": "art-023",
+      "word": "collection",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kolleksiya (sənət)"
+    },
+    {
+      "id": "art-024",
+      "word": "guided tour",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bələdçili tur"
+    },
+    {
+      "id": "art-025",
+      "word": "style",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "üslub (sənət)"
+    },
+    {
+      "id": "art-026",
+      "word": "masterpiece",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şah əsər"
+    },
+    {
+      "id": "art-027",
+      "word": "literature",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ədəbiyyat"
+    },
+    {
+      "id": "art-028",
+      "word": "publish",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "nəşr etmək"
+    },
+    {
+      "id": "art-029",
+      "word": "festival",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "festival"
+    },
+    {
+      "id": "art-030",
+      "word": "inspire",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ilham vermək"
+    },
+    {
+      "id": "art-031",
+      "word": "craft",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əl sənəti"
+    },
+    {
+      "id": "art-032",
+      "word": "ceramics",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "keramika"
+    },
+    {
+      "id": "art-033",
+      "word": "pottery",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dulusçuluq"
+    },
+    {
+      "id": "art-034",
+      "word": "photography",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fotoqrafiya (sənət)"
+    },
+    {
+      "id": "art-035",
+      "word": "abstract",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "mücərrəd (sənət)"
+    },
+    {
+      "id": "art-036",
+      "word": "classical",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "klassik"
+    },
+    {
+      "id": "art-037",
+      "word": "modern",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "müasir (sənət)"
+    },
+
+    {
+      "id": "art-038",
+      "word": "installation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qurulum (sənət növü)"
+    },
+    {
+      "id": "art-039",
+      "word": "aesthetic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "estetik"
+    },
+    {
+      "id": "art-040",
+      "word": "oeuvre",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "müəllifin bütöv yaradıcılığı"
+    },
+    {
+      "id": "art-041",
+      "word": "literary critic",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ədəbiyyat tənqidçisi"
+    },
+
+    {
+      "id": "art-042",
+      "word": "mimesis",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "mimesis (reallığın bədii təqlidi)"
+    },
+    {
+      "id": "art-043",
+      "word": "magnum opus",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "ən böyük əsər (müəllifin)"
+    }
+  ]
+}

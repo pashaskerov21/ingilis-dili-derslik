@@ -1,0 +1,187 @@
+{
+    "category": "kend-teserrufati",
+    "words": [
+        {
+            "id": "agr-001",
+            "word": "farm",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "ferma"
+        },
+        {
+            "id": "agr-002",
+            "word": "tractor",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "traktor"
+        },
+        {
+            "id": "agr-003",
+            "word": "barn",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "tövlə, anbar (ferma)"
+        },
+        {
+            "id": "agr-004",
+            "word": "livestock",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "mal-qara"
+        },
+        {
+            "id": "agr-005",
+            "word": "cattle",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "iri buynuzlu heyvanlar"
+        },
+        {
+            "id": "agr-006",
+            "word": "plough",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kotan"
+        },
+        {
+            "id": "agr-007",
+            "word": "irrigation",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "suvarma"
+        },
+        {
+            "id": "agr-008",
+            "word": "fertilizer",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "gübrə"
+        },
+        {
+            "id": "agr-009",
+            "word": "pesticide",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "pestisid"
+        },
+        {
+            "id": "agr-010",
+            "word": "greenhouse",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "istixana"
+        },
+        {
+            "id": "agr-011",
+            "word": "silo",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "silo (taxıl anbarı)"
+        },
+        {
+            "id": "agr-012",
+            "word": "livestock farming",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "heyvandarlıq"
+        },
+        {
+            "id": "agr-013",
+            "word": "crop rotation",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "növbəli əkin"
+        },
+        {
+            "id": "agr-014",
+            "word": "plantation",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "plantasiya"
+        },
+        {
+            "id": "agr-015",
+            "word": "shepherd",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "çoban"
+        },
+        {
+            "id": "agr-016",
+            "word": "milking",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sağma"
+        },
+        {
+            "id": "agr-017",
+            "word": "plow",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "şumlamaq"
+        },
+        {
+            "id": "agr-018",
+            "word": "sow",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "toxum səpmək"
+        },
+        {
+            "id": "agr-019",
+            "word": "yield",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "məhsuldarlıq"
+        },
+        {
+            "id": "agr-020",
+            "word": "grain",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "taxıl dəni"
+        },
+        {
+            "id": "agr-021",
+            "word": "wheat",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "buğda"
+        },
+        {
+            "id": "agr-022",
+            "word": "cotton",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "pambıq (bitki)"
+        },
+        {
+            "id": "agr-023",
+            "word": "agricultural",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "kənd təsərrüfatına aid"
+        },
+        {
+            "id": "agr-024",
+            "word": "sustainable farming",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "dayanıqlı kənd təsərrüfatı"
+        },
+        {
+            "id": "agr-025",
+            "word": "livestock breeding",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "heyvan yetişdirmə"
+        },
+        {
+            "id": "agr-026",
+            "word": "agronomy",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "aqronomiya"
+        }
+    ]
+}

@@ -1,0 +1,478 @@
+{
+  "category": "cinayet-ve-huquq",
+  "words": [
+    {
+      "id": "law-001",
+      "word": "crime",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cinayət"
+    },
+    {
+      "id": "law-002",
+      "word": "criminal",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cinayətkar"
+    },
+    {
+      "id": "law-003",
+      "word": "police",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "polis"
+    },
+    {
+      "id": "law-004",
+      "word": "steal",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oğurlamaq"
+    },
+    {
+      "id": "law-005",
+      "word": "thief",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "oğru"
+    },
+    {
+      "id": "law-006",
+      "word": "prison",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "həbsxana"
+    },
+    {
+      "id": "law-007",
+      "word": "arrest",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "həbs etmək"
+    },
+    {
+      "id": "law-008",
+      "word": "court",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "məhkəmə"
+    },
+    {
+      "id": "law-009",
+      "word": "judge",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hakim"
+    },
+    {
+      "id": "law-010",
+      "word": "lawyer",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "vəkil"
+    },
+
+    {
+      "id": "law-011",
+      "word": "theft",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "oğurluq"
+    },
+    {
+      "id": "law-012",
+      "word": "robbery",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "quldurluq"
+    },
+    {
+      "id": "law-013",
+      "word": "murder",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qətl"
+    },
+    {
+      "id": "law-014",
+      "word": "violence",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "zorakılıq"
+    },
+    {
+      "id": "law-015",
+      "word": "victim",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qurban (cinayət)"
+    },
+    {
+      "id": "law-016",
+      "word": "witness",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şahid"
+    },
+    {
+      "id": "law-017",
+      "word": "detective",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "detektiv"
+    },
+    {
+      "id": "law-018",
+      "word": "investigation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "istintaq"
+    },
+    {
+      "id": "law-019",
+      "word": "evidence",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sübut, dəlil"
+    },
+    {
+      "id": "law-020",
+      "word": "suspect",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şübhəli şəxs"
+    },
+    {
+      "id": "law-021",
+      "word": "trial",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məhkəmə prosesi"
+    },
+    {
+      "id": "law-022",
+      "word": "jury",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "münsiflər heyəti"
+    },
+    {
+      "id": "law-023",
+      "word": "verdict",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hökm"
+    },
+    {
+      "id": "law-024",
+      "word": "sentence",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cəza müddəti"
+    },
+    {
+      "id": "law-025",
+      "word": "punishment",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cəza"
+    },
+    {
+      "id": "law-026",
+      "word": "guilty",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "təqsirkar"
+    },
+    {
+      "id": "law-027",
+      "word": "innocent",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "günahsız"
+    },
+    {
+      "id": "law-028",
+      "word": "illegal",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qeyri-qanuni"
+    },
+    {
+      "id": "law-029",
+      "word": "legal",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "qanuni"
+    },
+    {
+      "id": "law-030",
+      "word": "justice",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ədalət"
+    },
+    {
+      "id": "law-031",
+      "word": "charge",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "ittiham etmək"
+    },
+
+    {
+      "id": "law-032",
+      "word": "burglary",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "evə girib oğurluq"
+    },
+    {
+      "id": "law-033",
+      "word": "fraud",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "fırıldaqçılıq"
+    },
+    {
+      "id": "law-034",
+      "word": "assault",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "hücum (fiziki)"
+    },
+    {
+      "id": "law-035",
+      "word": "kidnapping",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "adam oğurluğu"
+    },
+    {
+      "id": "law-036",
+      "word": "vandalism",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vandalizm"
+    },
+    {
+      "id": "law-037",
+      "word": "smuggling",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qaçaqmalçılıq"
+    },
+    {
+      "id": "law-038",
+      "word": "arson",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qəsdən yandırma"
+    },
+    {
+      "id": "law-039",
+      "word": "bribery",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rüşvətxorluq"
+    },
+    {
+      "id": "law-040",
+      "word": "bribe",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rüşvət"
+    },
+    {
+      "id": "law-041",
+      "word": "attorney",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "advokat (Amerikan)"
+    },
+    {
+      "id": "law-042",
+      "word": "defendant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təqsirləndirilən şəxs"
+    },
+    {
+      "id": "law-043",
+      "word": "conviction",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təqsirli tanınma"
+    },
+    {
+      "id": "law-044",
+      "word": "appeal",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "apellyasiya"
+    },
+    {
+      "id": "law-045",
+      "word": "fine",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cərimə"
+    },
+    {
+      "id": "law-046",
+      "word": "bail",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "girov (məhkəmə)"
+    },
+    {
+      "id": "law-047",
+      "word": "parole",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şərti azadlıq"
+    },
+    {
+      "id": "law-048",
+      "word": "probation",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sınaq müddəti (cəza əvəzi)"
+    },
+    {
+      "id": "law-049",
+      "word": "warrant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "order (məhkəmə sənədi)"
+    },
+    {
+      "id": "law-050",
+      "word": "interrogate",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "istintaq etmək (sorğu)"
+    },
+    {
+      "id": "law-051",
+      "word": "confess",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "etiraf etmək"
+    },
+    {
+      "id": "law-052",
+      "word": "testify",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ifadə vermək (məhkəmədə)"
+    },
+    {
+      "id": "law-053",
+      "word": "sue",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "məhkəməyə vermək"
+    },
+    {
+      "id": "law-054",
+      "word": "accuse",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "ittiham etmək (ümumi)"
+    },
+    {
+      "id": "law-055",
+      "word": "convict",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "təqsirli tanımaq"
+    },
+    {
+      "id": "law-056",
+      "word": "cybercrime",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kibercinayət"
+    },
+    {
+      "id": "law-057",
+      "word": "trespassing",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "icazəsiz ərazi keçmə"
+    },
+
+    {
+      "id": "law-058",
+      "word": "acquittal",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bəraət"
+    },
+    {
+      "id": "law-059",
+      "word": "arraignment",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "rəsmi ittiham elan olunması"
+    },
+    {
+      "id": "law-060",
+      "word": "forensic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "kriminalistik"
+    },
+    {
+      "id": "law-061",
+      "word": "fingerprint",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "barmaq izi"
+    },
+    {
+      "id": "law-062",
+      "word": "blackmail",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "şantaj"
+    },
+    {
+      "id": "law-063",
+      "word": "extortion",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "zorla pul alma"
+    },
+    {
+      "id": "law-064",
+      "word": "forgery",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "saxtakarlıq"
+    },
+    {
+      "id": "law-065",
+      "word": "perpetrator",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "cinayəti törədən şəxs"
+    },
+
+    {
+      "id": "law-066",
+      "word": "abduction",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "zorla aparma"
+    },
+    {
+      "id": "law-067",
+      "word": "custody",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "nəzarət altında saxlama"
+    }
+  ]
+}

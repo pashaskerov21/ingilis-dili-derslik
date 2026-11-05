@@ -1,0 +1,222 @@
+{
+    "category": "heyat-hadiseleri",
+    "words": [
+        {
+            "id": "lif-001",
+            "word": "born",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "doğulmuş"
+        },
+        {
+            "id": "lif-002",
+            "word": "birth",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "doğum"
+        },
+        {
+            "id": "lif-003",
+            "word": "grow up",
+            "level": "A1",
+            "partOfSpeech": "phrase",
+            "translation": "böyümək (uşaqlıqdan)"
+        },
+        {
+            "id": "lif-004",
+            "word": "childhood",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "uşaqlıq"
+        },
+        {
+            "id": "lif-005",
+            "word": "die",
+            "level": "A1",
+            "partOfSpeech": "verb",
+            "translation": "ölmək"
+        },
+        {
+            "id": "lif-006",
+            "word": "life",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "həyat"
+        },
+        {
+            "id": "lif-007",
+            "word": "adulthood",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yetkinlik dövrü"
+        },
+        {
+            "id": "lif-008",
+            "word": "teenage years",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yeniyetməlik illəri"
+        },
+        {
+            "id": "lif-009",
+            "word": "death",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ölüm"
+        },
+        {
+            "id": "lif-010",
+            "word": "move out",
+            "level": "A2",
+            "partOfSpeech": "phrase",
+            "translation": "ailədən ayrı köçmək"
+        },
+        {
+            "id": "lif-011",
+            "word": "first job",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ilk iş yeri"
+        },
+        {
+            "id": "lif-012",
+            "word": "pregnant",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "hamilə"
+        },
+        {
+            "id": "lif-013",
+            "word": "pregnancy",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "hamiləlik"
+        },
+        {
+            "id": "lif-014",
+            "word": "milestone",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mərhələ, mühüm dönüş nöqtəsi"
+        },
+        {
+            "id": "lif-015",
+            "word": "life stage",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "həyat mərhələsi"
+        },
+        {
+            "id": "lif-016",
+            "word": "midlife",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "orta yaş dövrü"
+        },
+        {
+            "id": "lif-017",
+            "word": "coming of age",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "yetkinliyə çatma"
+        },
+        {
+            "id": "lif-018",
+            "word": "upbringing",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tərbiyə (uşaqlıqda alınan)"
+        },
+        {
+            "id": "lif-019",
+            "word": "raise",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "böyütmək (uşağı)"
+        },
+        {
+            "id": "lif-020",
+            "word": "inherit",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "miras almaq"
+        },
+        {
+            "id": "lif-021",
+            "word": "inheritance",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "miras"
+        },
+        {
+            "id": "lif-022",
+            "word": "will",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "vəsiyyətnamə"
+        },
+        {
+            "id": "lif-023",
+            "word": "settle down",
+            "level": "B1",
+            "partOfSpeech": "phrase",
+            "translation": "ailə qurub sakit həyata keçmək"
+        },
+        {
+            "id": "lif-024",
+            "word": "achievement",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "nailiyyət"
+        },
+        {
+            "id": "lif-025",
+            "word": "turning point",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "dönüş nöqtəsi"
+        },
+        {
+            "id": "lif-026",
+            "word": "mourn",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "yas tutmaq"
+        },
+        {
+            "id": "lif-027",
+            "word": "loss",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "itki (yaxınını itirmə)"
+        },
+        {
+            "id": "lif-028",
+            "word": "legacy",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "irs, miras (mənəvi)"
+        },
+        {
+            "id": "lif-029",
+            "word": "rite of passage",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "keçid mərasimi (həyat mərhələsi)"
+        },
+        {
+            "id": "lif-030",
+            "word": "posthumous",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "ölümdən sonrakı"
+        },
+        {
+            "id": "lif-031",
+            "word": "mortality",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "ölümlülük (fəlsəfi termin)"
+        }
+    ]
+}

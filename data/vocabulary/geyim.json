@@ -1,0 +1,1186 @@
+{
+  "category": "geyim",
+  "words": [
+    {
+      "id": "clo-001",
+      "word": "shirt",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "köynək"
+    },
+    {
+      "id": "clo-002",
+      "word": "t-shirt",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "futbolka"
+    },
+    {
+      "id": "clo-003",
+      "word": "trousers",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şalvar"
+    },
+    {
+      "id": "clo-004",
+      "word": "jeans",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cins şalvar"
+    },
+    {
+      "id": "clo-005",
+      "word": "dress",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "don"
+    },
+    {
+      "id": "clo-006",
+      "word": "shoes",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ayaqqabı"
+    },
+    {
+      "id": "clo-007",
+      "word": "socks",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "corab"
+    },
+    {
+      "id": "clo-008",
+      "word": "hat",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şlyapa"
+    },
+    {
+      "id": "clo-009",
+      "word": "coat",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "palto"
+    },
+    {
+      "id": "clo-010",
+      "word": "jacket",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "gödəkçə"
+    },
+    {
+      "id": "clo-011",
+      "word": "skirt",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "yubka"
+    },
+    {
+      "id": "clo-012",
+      "word": "shorts",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şort"
+    },
+    {
+      "id": "clo-013",
+      "word": "sweater",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "sviter"
+    },
+    {
+      "id": "clo-014",
+      "word": "gloves",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "əlcək"
+    },
+    {
+      "id": "clo-015",
+      "word": "scarf",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şərf"
+    },
+    {
+      "id": "clo-016",
+      "word": "belt",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kəmər"
+    },
+    {
+      "id": "clo-017",
+      "word": "bag",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çanta"
+    },
+    {
+      "id": "clo-018",
+      "word": "wear",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "geyinmək"
+    },
+    {
+      "id": "clo-019",
+      "word": "put on",
+      "level": "A1",
+      "partOfSpeech": "phrase",
+      "translation": "geyinmək (hərəkət)"
+    },
+    {
+      "id": "clo-020",
+      "word": "take off",
+      "level": "A1",
+      "partOfSpeech": "phrase",
+      "translation": "soyunmaq (çıxarmaq)"
+    },
+
+    {
+      "id": "clo-021",
+      "word": "blouse",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bluza"
+    },
+    {
+      "id": "clo-022",
+      "word": "cardigan",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kardigan"
+    },
+    {
+      "id": "clo-023",
+      "word": "hoodie",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kapüşonlu sviter"
+    },
+    {
+      "id": "clo-024",
+      "word": "tank top",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yelenka"
+    },
+    {
+      "id": "clo-025",
+      "word": "leggings",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "leggins"
+    },
+    {
+      "id": "clo-026",
+      "word": "suit",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kostyum"
+    },
+    {
+      "id": "clo-027",
+      "word": "underwear",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "alt paltarı"
+    },
+    {
+      "id": "clo-028",
+      "word": "pyjamas",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pijama"
+    },
+    {
+      "id": "clo-029",
+      "word": "boots",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çəkmə"
+    },
+    {
+      "id": "clo-030",
+      "word": "sandals",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sandal"
+    },
+    {
+      "id": "clo-031",
+      "word": "trainers",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "idman ayaqqabısı"
+    },
+    {
+      "id": "clo-032",
+      "word": "slippers",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şlyopanets"
+    },
+    {
+      "id": "clo-033",
+      "word": "cap",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kepka"
+    },
+    {
+      "id": "clo-034",
+      "word": "tie",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qalstuk"
+    },
+    {
+      "id": "clo-035",
+      "word": "handbag",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əl çantası"
+    },
+    {
+      "id": "clo-036",
+      "word": "backpack",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bel çantası"
+    },
+    {
+      "id": "clo-037",
+      "word": "wallet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pul kisəsi"
+    },
+    {
+      "id": "clo-038",
+      "word": "umbrella",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çətir"
+    },
+    {
+      "id": "clo-039",
+      "word": "sunglasses",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "günəş eynəyi"
+    },
+    {
+      "id": "clo-040",
+      "word": "watch",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qol saatı"
+    },
+    {
+      "id": "clo-041",
+      "word": "ring",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "üzük"
+    },
+    {
+      "id": "clo-042",
+      "word": "necklace",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "boyunbağı"
+    },
+    {
+      "id": "clo-043",
+      "word": "bracelet",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bilərzik"
+    },
+    {
+      "id": "clo-044",
+      "word": "earrings",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sırğa"
+    },
+    {
+      "id": "clo-045",
+      "word": "cotton",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "pambıq"
+    },
+    {
+      "id": "clo-046",
+      "word": "wool",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yun"
+    },
+    {
+      "id": "clo-047",
+      "word": "leather",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dəri"
+    },
+    {
+      "id": "clo-048",
+      "word": "sleeve",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qol (geyimdə)"
+    },
+    {
+      "id": "clo-049",
+      "word": "collar",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yaxa"
+    },
+    {
+      "id": "clo-050",
+      "word": "pocket",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cib"
+    },
+    {
+      "id": "clo-051",
+      "word": "button",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "düymə"
+    },
+    {
+      "id": "clo-052",
+      "word": "zip",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "zamok (geyimdə)"
+    },
+    {
+      "id": "clo-053",
+      "word": "try on",
+      "level": "A2",
+      "partOfSpeech": "phrase",
+      "translation": "geyinib yoxlamaq"
+    },
+    {
+      "id": "clo-054",
+      "word": "fit",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "əndazəyə uyğun gəlmək"
+    },
+    {
+      "id": "clo-055",
+      "word": "match",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yaraşmaq, uzlaşmaq"
+    },
+    {
+      "id": "clo-057",
+      "word": "wash",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yumaq"
+    },
+    {
+      "id": "clo-058",
+      "word": "tight",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "dar (geyim)"
+    },
+    {
+      "id": "clo-059",
+      "word": "loose",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "bol (geyim)"
+    },
+    {
+      "id": "clo-060",
+      "word": "size",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ölçü (geyim)"
+    },
+    {
+      "id": "clo-061",
+      "word": "outfit",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "geyim dəsti"
+    },
+    {
+      "id": "clo-062",
+      "word": "undress",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "soyunmaq"
+    },
+    {
+      "id": "clo-063",
+      "word": "swimsuit",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "çimərlik geyimi"
+    },
+
+    {
+      "id": "clo-064",
+      "word": "polo shirt",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "polo köynək"
+    },
+    {
+      "id": "clo-065",
+      "word": "vest",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "jilet"
+    },
+    {
+      "id": "clo-066",
+      "word": "jumper",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sviter (Britaniya)"
+    },
+    {
+      "id": "clo-067",
+      "word": "tunic",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tunika"
+    },
+    {
+      "id": "clo-068",
+      "word": "sundress",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yay donu"
+    },
+    {
+      "id": "clo-069",
+      "word": "jumpsuit",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kombinezon"
+    },
+    {
+      "id": "clo-070",
+      "word": "overalls",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "iş kombinezonu"
+    },
+    {
+      "id": "clo-071",
+      "word": "raincoat",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yağmurluq"
+    },
+    {
+      "id": "clo-072",
+      "word": "blazer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "blayzer"
+    },
+    {
+      "id": "clo-073",
+      "word": "parka",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "parka"
+    },
+    {
+      "id": "clo-074",
+      "word": "bra",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "büstqalter"
+    },
+    {
+      "id": "clo-075",
+      "word": "boxers",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kişi alt tuman"
+    },
+    {
+      "id": "clo-076",
+      "word": "briefs",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dar alt tuman"
+    },
+    {
+      "id": "clo-077",
+      "word": "nightgown",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gecə köynəyi"
+    },
+    {
+      "id": "clo-078",
+      "word": "robe",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xalat"
+    },
+    {
+      "id": "clo-079",
+      "word": "heels",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dabanlı ayaqqabı"
+    },
+    {
+      "id": "clo-080",
+      "word": "flip-flops",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şlyopans (çəpik)"
+    },
+    {
+      "id": "clo-081",
+      "word": "loafers",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "moksin ayaqqabı"
+    },
+    {
+      "id": "clo-082",
+      "word": "helmet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dəbilqə"
+    },
+    {
+      "id": "clo-083",
+      "word": "beanie",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "toxunma papaq"
+    },
+    {
+      "id": "clo-084",
+      "word": "beret",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "berret"
+    },
+    {
+      "id": "clo-085",
+      "word": "mittens",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "barmaqsız əlcək"
+    },
+    {
+      "id": "clo-086",
+      "word": "purse",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kiçik pul kisəsi (qadın)"
+    },
+    {
+      "id": "clo-087",
+      "word": "brooch",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "broş"
+    },
+    {
+      "id": "clo-088",
+      "word": "pendant",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "asma bəzək"
+    },
+    {
+      "id": "clo-089",
+      "word": "denim",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cins parça"
+    },
+    {
+      "id": "clo-090",
+      "word": "linen",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kətan"
+    },
+    {
+      "id": "clo-091",
+      "word": "polyester",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "poliester"
+    },
+    {
+      "id": "clo-092",
+      "word": "velvet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məxmər"
+    },
+    {
+      "id": "clo-093",
+      "word": "suede",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "zamşa"
+    },
+    {
+      "id": "clo-094",
+      "word": "hem",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ətək kənarı"
+    },
+    {
+      "id": "clo-095",
+      "word": "cuff",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qolçaq"
+    },
+    {
+      "id": "clo-096",
+      "word": "hood",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kapüşon"
+    },
+    {
+      "id": "clo-097",
+      "word": "lace",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "krujeva/bağcıq"
+    },
+    {
+      "id": "clo-098",
+      "word": "buckle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "toqqa"
+    },
+    {
+      "id": "clo-099",
+      "word": "baggy",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "geniş, sallanan"
+    },
+    {
+      "id": "clo-100",
+      "word": "fitted",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "bədənə uyğun"
+    },
+    {
+      "id": "clo-101",
+      "word": "oversized",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "böyük ölçülü (dəbli)"
+    },
+    {
+      "id": "clo-102",
+      "word": "stylish",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "stilli"
+    },
+    {
+      "id": "clo-103",
+      "word": "fashionable",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "dəbdə olan"
+    },
+    {
+      "id": "clo-104",
+      "word": "elegant",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "zərif, elegant"
+    },
+    {
+      "id": "clo-105",
+      "word": "casual",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "gündəlik (üslub)"
+    },
+    {
+      "id": "clo-106",
+      "word": "formal",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rəsmi (geyim)"
+    },
+    {
+      "id": "clo-107",
+      "word": "sleeveless",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qolsuz"
+    },
+    {
+      "id": "clo-108",
+      "word": "long-sleeved",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "uzun qollu"
+    },
+    {
+      "id": "clo-109",
+      "word": "fitting room",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "geyinmə otağı"
+    },
+    {
+      "id": "clo-110",
+      "word": "price tag",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qiymət etiketi"
+    },
+    {
+      "id": "clo-111",
+      "word": "brand",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "brend"
+    },
+    {
+      "id": "clo-112",
+      "word": "garment",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "geyim əşyası (rəsmi)"
+    },
+    {
+      "id": "clo-113",
+      "word": "hang",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "asmaq"
+    },
+    {
+      "id": "clo-114",
+      "word": "fold",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "qatlamaq"
+    },
+    {
+      "id": "clo-115",
+      "word": "dress code",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "geyim qaydası"
+    },
+    {
+      "id": "clo-116",
+      "word": "uniform",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "forma geyimi"
+    },
+    {
+      "id": "clo-117",
+      "word": "costume",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kostyum (tamaşa/bayram)"
+    },
+    {
+      "id": "clo-118",
+      "word": "laundry",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kirli paltar"
+    },
+    {
+      "id": "clo-119",
+      "word": "sew",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "tikmək"
+    },
+    {
+      "id": "clo-120",
+      "word": "tailor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dərzi"
+    },
+    {
+      "id": "clo-121",
+      "word": "turtleneck",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "boğazlı sviter"
+    },
+    {
+      "id": "clo-122",
+      "word": "crop top",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qısa bluza"
+    },
+    {
+      "id": "clo-123",
+      "word": "headband",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "baş sarğısı"
+    },
+    {
+      "id": "clo-124",
+      "word": "bow tie",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kəpənək qalstuk"
+    },
+    {
+      "id": "clo-125",
+      "word": "unbutton",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "düymələri açmaq"
+    },
+    {
+      "id": "clo-126",
+      "word": "tuck in",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "içəri salmaq (köynək)"
+    },
+    {
+      "id": "clo-127",
+      "word": "shoelace",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ayaqqabı bağı"
+    },
+    {
+      "id": "clo-128",
+      "word": "sole",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ayaqqabı altlığı"
+    },
+    {
+      "id": "clo-129",
+      "word": "bikini",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bikini"
+    },
+    {
+      "id": "clo-130",
+      "word": "tracksuit",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "idman geyimi"
+    },
+    {
+      "id": "clo-131",
+      "word": "worn-out",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "köhnəlmiş (geyimdə)"
+    },
+    {
+      "id": "clo-132",
+      "word": "second-hand",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "əlbəttə istifadə olunmuş"
+    },
+
+    {
+      "id": "clo-133",
+      "word": "cashmere",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kaşemir"
+    },
+    {
+      "id": "clo-134",
+      "word": "nylon",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "neylon"
+    },
+    {
+      "id": "clo-135",
+      "word": "tweed",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tvid"
+    },
+    {
+      "id": "clo-136",
+      "word": "corduroy",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "vəlvet parça"
+    },
+    {
+      "id": "clo-137",
+      "word": "windbreaker",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "külgəçirməyən gödəkçə"
+    },
+    {
+      "id": "clo-138",
+      "word": "cape",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "pelerin"
+    },
+    {
+      "id": "clo-139",
+      "word": "poncho",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ponço"
+    },
+    {
+      "id": "clo-140",
+      "word": "shawl",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "şal"
+    },
+    {
+      "id": "clo-141",
+      "word": "tuxedo",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "smokinq"
+    },
+    {
+      "id": "clo-142",
+      "word": "gown",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "bal donu"
+    },
+    {
+      "id": "clo-143",
+      "word": "cufflinks",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qolbağı düymələri"
+    },
+    {
+      "id": "clo-144",
+      "word": "embroidery",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "naxış tikmə"
+    },
+    {
+      "id": "clo-145",
+      "word": "seam",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tikiş xətti"
+    },
+    {
+      "id": "clo-146",
+      "word": "lining",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "astar"
+    },
+    {
+      "id": "clo-147",
+      "word": "tailored",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "sifarişlə tikilmiş"
+    },
+    {
+      "id": "clo-148",
+      "word": "vintage",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "vintaj (köhnə üslub)"
+    },
+    {
+      "id": "clo-149",
+      "word": "chic",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "şık"
+    },
+    {
+      "id": "clo-150",
+      "word": "trendy",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "trenddə olan"
+    },
+    {
+      "id": "clo-151",
+      "word": "moth-eaten",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "güvə yediyi"
+    },
+    {
+      "id": "clo-152",
+      "word": "alter",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "dəyişiklik etmək (geyimdə)"
+    },
+    {
+      "id": "clo-153",
+      "word": "accessorize",
+      "level": "B2",
+      "partOfSpeech": "verb",
+      "translation": "aksessuarla tamamlamaq"
+    },
+    {
+      "id": "clo-154",
+      "word": "satin",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "atlas parça"
+    },
+    {
+      "id": "clo-155",
+      "word": "chiffon",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "şifon"
+    },
+    {
+      "id": "clo-156",
+      "word": "anklet",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ayaq bilərziyi"
+    },
+    {
+      "id": "clo-157",
+      "word": "locket",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "medalyon"
+    },
+    {
+      "id": "clo-158",
+      "word": "retro",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "retro üslublu"
+    },
+    {
+      "id": "clo-159",
+      "word": "wellies",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "rezin çəkmə"
+    },
+    {
+      "id": "clo-160",
+      "word": "clogs",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "taxta ayaqqabı"
+    },
+    {
+      "id": "clo-161",
+      "word": "leotard",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "gimnastika geyimi"
+    },
+
+    {
+      "id": "clo-162",
+      "word": "couture",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "yüksək moda"
+    },
+    {
+      "id": "clo-163",
+      "word": "bespoke",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "fərdi sifarişlə hazırlanmış"
+    },
+    {
+      "id": "clo-164",
+      "word": "silhouette",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "silüet"
+    },
+    {
+      "id": "clo-165",
+      "word": "drape",
+      "level": "C1",
+      "partOfSpeech": "verb",
+      "translation": "sallanmaq (parça haqqında)"
+    },
+    {
+      "id": "clo-166",
+      "word": "textile",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "toxuculuq məmulatı"
+    },
+    {
+      "id": "clo-167",
+      "word": "apparel",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "geyim (rəsmi/ticari termin)"
+    },
+    {
+      "id": "clo-168",
+      "word": "ensemble",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "tam uyğunlaşdırılmış geyim dəsti"
+    },
+
+    {
+      "id": "clo-169",
+      "word": "sartorial",
+      "level": "C2",
+      "partOfSpeech": "adjective",
+      "translation": "dərzilik/geyim sənətinə aid"
+    }
+  ]
+}

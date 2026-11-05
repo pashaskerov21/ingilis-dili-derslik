@@ -1,0 +1,579 @@
+{
+    "category": "olkeler-milletler-diller",
+    "words": [
+        {
+            "id": "nat-001",
+            "word": "country",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "ölkə"
+        },
+        {
+            "id": "nat-002",
+            "word": "Azerbaijan",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Azərbaycan"
+        },
+        {
+            "id": "nat-003",
+            "word": "Azerbaijani",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "azərbaycanlı, azərbaycan dili"
+        },
+        {
+            "id": "nat-004",
+            "word": "Turkey",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Türkiyə"
+        },
+        {
+            "id": "nat-005",
+            "word": "Turkish",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "türk, türk dili"
+        },
+        {
+            "id": "nat-006",
+            "word": "England",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "İngiltərə"
+        },
+        {
+            "id": "nat-007",
+            "word": "English",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "ingilis, ingilis dili"
+        },
+        {
+            "id": "nat-008",
+            "word": "America",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Amerika"
+        },
+        {
+            "id": "nat-009",
+            "word": "American",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "amerikalı"
+        },
+        {
+            "id": "nat-010",
+            "word": "France",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Fransa"
+        },
+        {
+            "id": "nat-011",
+            "word": "French",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "fransız, fransız dili"
+        },
+        {
+            "id": "nat-012",
+            "word": "Germany",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Almaniya"
+        },
+        {
+            "id": "nat-013",
+            "word": "German",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "alman, alman dili"
+        },
+        {
+            "id": "nat-014",
+            "word": "Russia",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Rusiya"
+        },
+        {
+            "id": "nat-015",
+            "word": "Russian",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "rus, rus dili"
+        },
+        {
+            "id": "nat-016",
+            "word": "China",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Çin"
+        },
+        {
+            "id": "nat-017",
+            "word": "Chinese",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "çinli, çin dili"
+        },
+        {
+            "id": "nat-018",
+            "word": "Japan",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "Yaponiya"
+        },
+        {
+            "id": "nat-019",
+            "word": "Japanese",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "yapon, yapon dili"
+        },
+        {
+            "id": "nat-020",
+            "word": "Italy",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "İtaliya"
+        },
+        {
+            "id": "nat-021",
+            "word": "Italian",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "italyan, italyan dili"
+        },
+        {
+            "id": "nat-022",
+            "word": "Spain",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "İspaniya"
+        },
+        {
+            "id": "nat-023",
+            "word": "Spanish",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "ispan, ispan dili"
+        },
+        {
+            "id": "nat-024",
+            "word": "Georgia",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Gürcüstan"
+        },
+        {
+            "id": "nat-025",
+            "word": "Georgian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "gürcü, gürcü dili"
+        },
+        {
+            "id": "nat-026",
+            "word": "Iran",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "İran"
+        },
+        {
+            "id": "nat-027",
+            "word": "Iranian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "iranlı"
+        },
+        {
+            "id": "nat-028",
+            "word": "India",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Hindistan"
+        },
+        {
+            "id": "nat-029",
+            "word": "Indian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "hindistanlı"
+        },
+        {
+            "id": "nat-030",
+            "word": "Canada",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Kanada"
+        },
+        {
+            "id": "nat-031",
+            "word": "Canadian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "kanadalı"
+        },
+        {
+            "id": "nat-032",
+            "word": "Brazil",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Braziliya"
+        },
+        {
+            "id": "nat-033",
+            "word": "Brazilian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "braziliyalı"
+        },
+        {
+            "id": "nat-034",
+            "word": "Mexico",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Meksika"
+        },
+        {
+            "id": "nat-035",
+            "word": "Mexican",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "meksikalı"
+        },
+        {
+            "id": "nat-036",
+            "word": "Egypt",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Misir"
+        },
+        {
+            "id": "nat-037",
+            "word": "Egyptian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "misirli"
+        },
+        {
+            "id": "nat-038",
+            "word": "Australia",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Avstraliya"
+        },
+        {
+            "id": "nat-039",
+            "word": "Australian",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "avstraliyalı"
+        },
+        {
+            "id": "nat-040",
+            "word": "Poland",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Polşa"
+        },
+        {
+            "id": "nat-041",
+            "word": "Polish",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "polyak, polyak dili"
+        },
+        {
+            "id": "nat-042",
+            "word": "Greece",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "Yunanıstan"
+        },
+        {
+            "id": "nat-043",
+            "word": "Greek",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "yunan, yunan dili"
+        },
+        {
+            "id": "nat-044",
+            "word": "nationality",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "millət, vətəndaşlıq"
+        },
+        {
+            "id": "nat-045",
+            "word": "foreign",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "xarici"
+        },
+        {
+            "id": "nat-046",
+            "word": "Ukraine",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Ukrayna"
+        },
+        {
+            "id": "nat-047",
+            "word": "Ukrainian",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "ukraynalı, ukrayna dili"
+        },
+        {
+            "id": "nat-048",
+            "word": "Saudi Arabia",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Səudiyyə Ərəbistanı"
+        },
+        {
+            "id": "nat-049",
+            "word": "Arabic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "ərəb dili"
+        },
+        {
+            "id": "nat-050",
+            "word": "Portugal",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Portuqaliya"
+        },
+        {
+            "id": "nat-051",
+            "word": "Portuguese",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "portuqal, portuqal dili"
+        },
+        {
+            "id": "nat-052",
+            "word": "Netherlands",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Niderland"
+        },
+        {
+            "id": "nat-053",
+            "word": "Dutch",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "holland, holland dili"
+        },
+        {
+            "id": "nat-054",
+            "word": "Sweden",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "İsveç"
+        },
+        {
+            "id": "nat-055",
+            "word": "Swedish",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "isveçli, isveç dili"
+        },
+        {
+            "id": "nat-056",
+            "word": "Switzerland",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "İsveçrə"
+        },
+        {
+            "id": "nat-057",
+            "word": "Swiss",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "isveçrəli"
+        },
+        {
+            "id": "nat-058",
+            "word": "Austria",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Avstriya"
+        },
+        {
+            "id": "nat-059",
+            "word": "Austrian",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "avstriyalı"
+        },
+        {
+            "id": "nat-060",
+            "word": "Pakistan",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Pakistan"
+        },
+        {
+            "id": "nat-061",
+            "word": "Pakistani",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "pakistanlı"
+        },
+        {
+            "id": "nat-062",
+            "word": "Indonesia",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "İndoneziya"
+        },
+        {
+            "id": "nat-063",
+            "word": "Thailand",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Tailand"
+        },
+        {
+            "id": "nat-064",
+            "word": "Thai",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "tailandlı, tay dili"
+        },
+        {
+            "id": "nat-065",
+            "word": "Vietnam",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Vyetnam"
+        },
+        {
+            "id": "nat-066",
+            "word": "Vietnamese",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "vyetnamlı, vyetnam dili"
+        },
+        {
+            "id": "nat-067",
+            "word": "Nigeria",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Nigeriya"
+        },
+        {
+            "id": "nat-068",
+            "word": "Nigerian",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "nigeriyalı"
+        },
+        {
+            "id": "nat-069",
+            "word": "South Africa",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Cənubi Afrika"
+        },
+        {
+            "id": "nat-070",
+            "word": "South African",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "cənubi afrikalı"
+        },
+        {
+            "id": "nat-071",
+            "word": "Argentina",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Argentina"
+        },
+        {
+            "id": "nat-072",
+            "word": "Argentine",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "argentinalı"
+        },
+        {
+            "id": "nat-073",
+            "word": "Kazakhstan",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Qazaxıstan"
+        },
+        {
+            "id": "nat-074",
+            "word": "Kazakh",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "qazax, qazax dili"
+        },
+        {
+            "id": "nat-075",
+            "word": "Uzbekistan",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Özbəkistan"
+        },
+        {
+            "id": "nat-076",
+            "word": "Uzbek",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "özbək, özbək dili"
+        },
+        {
+            "id": "nat-077",
+            "word": "Iraq",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "İraq"
+        },
+        {
+            "id": "nat-078",
+            "word": "Israel",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "İsrail"
+        },
+        {
+            "id": "nat-079",
+            "word": "Israeli",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "israilli"
+        },
+        {
+            "id": "nat-080",
+            "word": "Korean",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "koreyalı, koreya dili"
+        },
+        {
+            "id": "nat-081",
+            "word": "citizen",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "vətəndaş (millət mənasında)"
+        },
+        {
+            "id": "nat-082",
+            "word": "multinational",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "çoxmillətli"
+        }
+    ]
+}

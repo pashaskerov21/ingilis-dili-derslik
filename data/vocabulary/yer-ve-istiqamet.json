@@ -1,0 +1,667 @@
+{
+  "category": "yer-ve-istiqamet",
+  "words": [
+    {
+      "id": "plc-001",
+      "word": "city",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "şəhər"
+    },
+    {
+      "id": "plc-002",
+      "word": "town",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kiçik şəhər"
+    },
+    {
+      "id": "plc-003",
+      "word": "village",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kənd"
+    },
+    {
+      "id": "plc-004",
+      "word": "street",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "küçə"
+    },
+    {
+      "id": "plc-005",
+      "word": "country",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "ölkə"
+    },
+    {
+      "id": "plc-006",
+      "word": "left",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "sol"
+    },
+    {
+      "id": "plc-007",
+      "word": "right",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "sağ"
+    },
+    {
+      "id": "plc-008",
+      "word": "straight",
+      "level": "A1",
+      "partOfSpeech": "adverb",
+      "translation": "düz (istiqamətdə)"
+    },
+    {
+      "id": "plc-009",
+      "word": "near",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "yaxın"
+    },
+    {
+      "id": "plc-010",
+      "word": "far",
+      "level": "A1",
+      "partOfSpeech": "adjective",
+      "translation": "uzaq"
+    },
+    {
+      "id": "plc-011",
+      "word": "school",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "məktəb"
+    },
+    {
+      "id": "plc-012",
+      "word": "park",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "park"
+    },
+    {
+      "id": "plc-013",
+      "word": "shop",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "mağaza"
+    },
+    {
+      "id": "plc-014",
+      "word": "market",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "bazar"
+    },
+    {
+      "id": "plc-015",
+      "word": "mountain",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dağ"
+    },
+    {
+      "id": "plc-016",
+      "word": "river",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çay"
+    },
+    {
+      "id": "plc-017",
+      "word": "sea",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dəniz"
+    },
+    {
+      "id": "plc-018",
+      "word": "forest",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "meşə"
+    },
+    {
+      "id": "plc-019",
+      "word": "beach",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çimərlik"
+    },
+
+    {
+      "id": "plc-020",
+      "word": "north",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şimal"
+    },
+    {
+      "id": "plc-021",
+      "word": "south",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cənub"
+    },
+    {
+      "id": "plc-022",
+      "word": "east",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "şərq"
+    },
+    {
+      "id": "plc-023",
+      "word": "west",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qərb"
+    },
+    {
+      "id": "plc-024",
+      "word": "behind",
+      "level": "A2",
+      "partOfSpeech": "preposition",
+      "translation": "arxasında"
+    },
+    {
+      "id": "plc-025",
+      "word": "in front of",
+      "level": "A2",
+      "partOfSpeech": "preposition",
+      "translation": "qarşısında"
+    },
+    {
+      "id": "plc-026",
+      "word": "next to",
+      "level": "A2",
+      "partOfSpeech": "preposition",
+      "translation": "yanında"
+    },
+    {
+      "id": "plc-027",
+      "word": "between",
+      "level": "A2",
+      "partOfSpeech": "preposition",
+      "translation": "arasında"
+    },
+    {
+      "id": "plc-028",
+      "word": "opposite",
+      "level": "A2",
+      "partOfSpeech": "preposition",
+      "translation": "qarşı tərəfdə"
+    },
+    {
+      "id": "plc-029",
+      "word": "hospital",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xəstəxana"
+    },
+    {
+      "id": "plc-030",
+      "word": "bank",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bank"
+    },
+    {
+      "id": "plc-031",
+      "word": "church",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kilsə"
+    },
+    {
+      "id": "plc-032",
+      "word": "mosque",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məscid"
+    },
+    {
+      "id": "plc-033",
+      "word": "airport",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "hava limanı"
+    },
+    {
+      "id": "plc-034",
+      "word": "station",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "vağzal, stansiya"
+    },
+    {
+      "id": "plc-035",
+      "word": "building",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bina"
+    },
+    {
+      "id": "plc-036",
+      "word": "bridge",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "körpü"
+    },
+    {
+      "id": "plc-037",
+      "word": "lake",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "göl"
+    },
+    {
+      "id": "plc-038",
+      "word": "island",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ada"
+    },
+    {
+      "id": "plc-039",
+      "word": "hill",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "təpə"
+    },
+    {
+      "id": "plc-040",
+      "word": "desert",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səhra"
+    },
+    {
+      "id": "plc-041",
+      "word": "corner",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "küncü, döngə"
+    },
+    {
+      "id": "plc-042",
+      "word": "turn",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "dönmək"
+    },
+    {
+      "id": "plc-043",
+      "word": "cross",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "keçmək (küçə/yol)"
+    },
+    {
+      "id": "plc-044",
+      "word": "map",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xəritə"
+    },
+    {
+      "id": "plc-045",
+      "word": "nearby",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "yaxınlıqda"
+    },
+    {
+      "id": "plc-046",
+      "word": "outside",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "bayırda"
+    },
+    {
+      "id": "plc-047",
+      "word": "inside",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "içəridə"
+    },
+    {
+      "id": "plc-048",
+      "word": "upstairs",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "yuxarı mərtəbədə"
+    },
+    {
+      "id": "plc-049",
+      "word": "downstairs",
+      "level": "A2",
+      "partOfSpeech": "adverb",
+      "translation": "aşağı mərtəbədə"
+    },
+
+    {
+      "id": "plc-050",
+      "word": "tower",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qüllə"
+    },
+    {
+      "id": "plc-051",
+      "word": "monument",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "abidə"
+    },
+    {
+      "id": "plc-052",
+      "word": "castle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qala"
+    },
+    {
+      "id": "plc-053",
+      "word": "palace",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "saray"
+    },
+    {
+      "id": "plc-054",
+      "word": "ocean",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "okean"
+    },
+    {
+      "id": "plc-055",
+      "word": "valley",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dərə"
+    },
+    {
+      "id": "plc-056",
+      "word": "coast",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sahil"
+    },
+    {
+      "id": "plc-057",
+      "word": "square",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "meydan"
+    },
+    {
+      "id": "plc-058",
+      "word": "roundabout",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dövrə yol"
+    },
+    {
+      "id": "plc-059",
+      "word": "crossroads",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yol qovşağı"
+    },
+    {
+      "id": "plc-060",
+      "word": "pavement",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səki, piyada yolu"
+    },
+    {
+      "id": "plc-061",
+      "word": "avenue",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "prospekt"
+    },
+    {
+      "id": "plc-062",
+      "word": "lane",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dar küçə, zolaq"
+    },
+    {
+      "id": "plc-063",
+      "word": "alley",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dalan"
+    },
+    {
+      "id": "plc-064",
+      "word": "follow",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "izləmək (yol)"
+    },
+    {
+      "id": "plc-065",
+      "word": "head towards",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "istiqamətlənmək"
+    },
+    {
+      "id": "plc-066",
+      "word": "above",
+      "level": "B1",
+      "partOfSpeech": "preposition",
+      "translation": "üzərində (hündür)"
+    },
+    {
+      "id": "plc-067",
+      "word": "below",
+      "level": "B1",
+      "partOfSpeech": "preposition",
+      "translation": "altında (aşağı)"
+    },
+    {
+      "id": "plc-068",
+      "word": "beneath",
+      "level": "B1",
+      "partOfSpeech": "preposition",
+      "translation": "altında (rəsmi)"
+    },
+    {
+      "id": "plc-069",
+      "word": "compass",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kompas"
+    },
+    {
+      "id": "plc-070",
+      "word": "route",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "marşrut"
+    },
+    {
+      "id": "plc-071",
+      "word": "direction",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "istiqamət"
+    },
+    {
+      "id": "plc-072",
+      "word": "distance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "məsafə"
+    },
+    {
+      "id": "plc-073",
+      "word": "landmark",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "istinad nöqtəsi (görkəmli yer)"
+    },
+    {
+      "id": "plc-074",
+      "word": "junction",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yol qovşağı"
+    },
+    {
+      "id": "plc-075",
+      "word": "district",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "rayon"
+    },
+    {
+      "id": "plc-076",
+      "word": "region",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "region"
+    },
+    {
+      "id": "plc-077",
+      "word": "capital",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "paytaxt"
+    },
+    {
+      "id": "plc-078",
+      "word": "continent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "qitə"
+    },
+    {
+      "id": "plc-079",
+      "word": "rural",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "kənd yeri, kənd təsərrüfatına aid"
+    },
+    {
+      "id": "plc-080",
+      "word": "urban",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "şəhər (urban)"
+    },
+    {
+      "id": "plc-081",
+      "word": "countryside",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kənd yeri, təbiət"
+    },
+    {
+      "id": "plc-082",
+      "word": "downtown",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şəhər mərkəzi"
+    },
+    {
+      "id": "plc-083",
+      "word": "outskirts",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "şəhər kənarı"
+    },
+    {
+      "id": "plc-084",
+      "word": "path",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "cığır, yol"
+    },
+    {
+      "id": "plc-085",
+      "word": "surroundings",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ətraf mühit (yer)"
+    },
+
+    {
+      "id": "plc-086",
+      "word": "province",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "əyalət"
+    },
+    {
+      "id": "plc-087",
+      "word": "territory",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ərazi"
+    },
+    {
+      "id": "plc-088",
+      "word": "boundary",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sərhəd"
+    },
+    {
+      "id": "plc-089",
+      "word": "peninsula",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yarımada"
+    },
+    {
+      "id": "plc-090",
+      "word": "plateau",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yayla"
+    },
+    {
+      "id": "plc-091",
+      "word": "cliff",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sıldırım qaya"
+    },
+    {
+      "id": "plc-092",
+      "word": "canyon",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "kanyon"
+    },
+
+    {
+      "id": "plc-093",
+      "word": "terrain",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "ərazi relyefi"
+    },
+    {
+      "id": "plc-094",
+      "word": "topography",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "topoqrafiya"
+    }
+  ]
+}

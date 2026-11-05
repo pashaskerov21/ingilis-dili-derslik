@@ -1,0 +1,434 @@
+{
+    "category": "cetinlik-asanliq-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-287",
+            "phrase": "piece of cake",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox asan iş",
+            "example": {
+                "en": "The test was a piece of cake.",
+                "az": "Test çox asan idi."
+            }
+        },
+        {
+            "id": "phr-288",
+            "phrase": "a walk in the park",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox asan, problemsiz iş",
+            "example": {
+                "en": "Compared to last year's exam, this one was a walk in the park.",
+                "az": "Keçən ilki imtahanla müqayisədə, bu, çox asan idi."
+            }
+        },
+        {
+            "id": "phr-289",
+            "phrase": "easy as pie",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox asan",
+            "example": {
+                "en": "Fixing the bug was easy as pie once I found the cause.",
+                "az": "Səbəbini tapan kimi, xətanı düzəltmək çox asan oldu."
+            }
+        },
+        {
+            "id": "phr-290",
+            "phrase": "child's play",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "son dərəcə asan, uşaq işi qədər sadə",
+            "example": {
+                "en": "For an expert like her, this task is child's play.",
+                "az": "Onun kimi mütəxəssis üçün bu tapşırıq uşaq oyuncağıdır."
+            }
+        },
+        {
+            "id": "phr-291",
+            "phrase": "no sweat",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "heç bir çətinlik olmadan",
+            "example": {
+                "en": "Can you finish it by tomorrow? No sweat.",
+                "az": "Sabaha qədər bitirə bilərsənmi? Heç problem deyil."
+            }
+        },
+        {
+            "id": "phr-292",
+            "phrase": "a breeze",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox asan, sürətlə edilən iş",
+            "example": {
+                "en": "The interview was a breeze.",
+                "az": "Müsahibə çox asan keçdi."
+            }
+        },
+        {
+            "id": "phr-293",
+            "phrase": "smooth sailing",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "heç bir maneə olmadan irəliləmə",
+            "example": {
+                "en": "Once we got approval, it was smooth sailing.",
+                "az": "Təsdiq aldıqdan sonra hər şey rahat getdi."
+            }
+        },
+        {
+            "id": "phr-294",
+            "phrase": "plain sailing",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "problemsiz, asan gedişat (smooth sailing-in Britaniya forması)",
+            "example": {
+                "en": "Once we solved the glitch, it was all plain sailing.",
+                "az": "Xətanı həll edəndən sonra, hər şey problemsiz getdi."
+            }
+        },
+        {
+            "id": "phr-295",
+            "phrase": "dead easy",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox-çox asan",
+            "example": {
+                "en": "The math quiz was so short it was dead easy.",
+                "az": "Riyaziyyat testi o qədər qısa idi ki, çox asan idi."
+            }
+        },
+        {
+            "id": "phr-296",
+            "phrase": "hands down",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "heç bir çətinlik/mübahisə olmadan",
+            "example": {
+                "en": "She won the competition hands down.",
+                "az": "O, yarışı asanlıqla, mübahisəsiz qazandı."
+            }
+        },
+        {
+            "id": "phr-297",
+            "phrase": "as easy as ABC",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "çox asan (əlifba kimi)",
+            "example": {
+                "en": "Using this app is as easy as ABC.",
+                "az": "Bu tətbiqdən istifadə etmək əlifba qədər asandır."
+            }
+        },
+        {
+            "id": "phr-298",
+            "phrase": "a cakewalk",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox asan, minimal səylə edilən iş",
+            "example": {
+                "en": "Winning against that weak team was a cakewalk.",
+                "az": "O zəif komandaya qarşı qalib gəlmək çox asan oldu."
+            }
+        },
+        {
+            "id": "phr-299",
+            "phrase": "on easy street",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "maddi baxımdan rahat, təhlükəsiz vəziyyət",
+            "example": {
+                "en": "Ever since she inherited the money, she's been on easy street.",
+                "az": "Pulu miras aldığından bəri, o, rahat həyat sürür."
+            }
+        },
+        {
+            "id": "phr-300",
+            "phrase": "breathe easy",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gərginlikdən sonra rahatlamaq",
+            "example": {
+                "en": "Now she's out of hospital, I can breathe easy.",
+                "az": "İndi o, xəstəxanadan çıxdığı üçün rahatlaya bilərəm."
+            }
+        },
+        {
+            "id": "phr-301",
+            "phrase": "get off easy",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gözlənilməyən qədər yüngül cəza almaq",
+            "example": {
+                "en": "He got off easy considering what he did.",
+                "az": "Etdiyi işi nəzərə alsaq, o, çox yüngül cəza aldı."
+            }
+        },
+        {
+            "id": "phr-302",
+            "phrase": "the home straight",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir işin/səfərin son mərhələsi",
+            "example": {
+                "en": "We've finished most of the work — we're on the home straight.",
+                "az": "İşin çoxunu bitirmişik — sona yaxınlaşırıq."
+            }
+        },
+        {
+            "id": "phr-303",
+            "phrase": "easier said than done",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "demək asan, etmək çətindir",
+            "example": {
+                "en": "Losing weight sounds simple, but it's easier said than done.",
+                "az": "Arıqlamaq sadə görünür, amma demək etməkdən asandır."
+            }
+        },
+        {
+            "id": "phr-304",
+            "phrase": "a hard nut to crack",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "həll edilməsi çətin problem/insan",
+            "example": {
+                "en": "This physics problem is a hard nut to crack.",
+                "az": "Bu fizika məsələsi çətin bir tapmacadır."
+            }
+        },
+        {
+            "id": "phr-305",
+            "phrase": "an uphill battle",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "böyük maneələrlə dolu çətin mübarizə",
+            "example": {
+                "en": "Getting the funding approved was an uphill battle.",
+                "az": "Maliyyələşdirmənin təsdiqlənməsi çətin bir mübarizə oldu."
+            }
+        },
+        {
+            "id": "phr-306",
+            "phrase": "like pulling teeth",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hədsiz çətin və əziyyətli iş",
+            "example": {
+                "en": "Getting him to answer questions is like pulling teeth.",
+                "az": "Ondan cavab almaq diş çıxartmaq qədər çətindir."
+            }
+        },
+        {
+            "id": "phr-307",
+            "phrase": "a tall order",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "yerinə yetirilməsi çətin tələb/tapşırıq",
+            "example": {
+                "en": "Finishing this by tomorrow is a tall order.",
+                "az": "Bunu sabaha qədər bitirmək çətin tələbdir."
+            }
+        },
+        {
+            "id": "phr-308",
+            "phrase": "bite off more than you can chew",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "öhdəsindən gələ bilməyəcəyi qədər çox iş götürmək",
+            "example": {
+                "en": "I think I bit off more than I could chew with this project.",
+                "az": "Deyəsən, bu layihədə öhdəmdən gələ bilməyəcəyim qədər iş götürmüşəm."
+            }
+        },
+        {
+            "id": "phr-309",
+            "phrase": "between a rock and a hard place",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hər iki seçim də pis olan çətin vəziyyət",
+            "example": {
+                "en": "I'm between a rock and a hard place — both options have big downsides.",
+                "az": "Mən çıxılmaz vəziyyətdəyəm — hər iki seçimin ciddi mənfi tərəfi var."
+            }
+        },
+        {
+            "id": "phr-310",
+            "phrase": "catch-22",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "bir-birini istisna edən şərtlərdən ibarət çıxılmaz vəziyyət",
+            "example": {
+                "en": "You need experience to get the job, but you need the job to get experience — it's a catch-22.",
+                "az": "İşi almaq üçün təcrübə lazımdır, amma təcrübə üçün iş lazımdır — bu, çıxılmaz dövrədir."
+            }
+        },
+        {
+            "id": "phr-311",
+            "phrase": "in deep water",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ciddi problemdə/çətinlikdə olmaq",
+            "example": {
+                "en": "He's in deep water after missing the deadline again.",
+                "az": "Son tarixi yenidən qaçırdığı üçün o, ciddi çətinlikdədir."
+            }
+        },
+        {
+            "id": "phr-312",
+            "phrase": "jump through hoops",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyə çatmaq üçün çoxlu çətin mərhələdən keçmək",
+            "example": {
+                "en": "We had to jump through hoops to get the visa approved.",
+                "az": "Vizanı təsdiqlətmək üçün çoxlu çətin prosedurdan keçməli olduq."
+            }
+        },
+        {
+            "id": "phr-313",
+            "phrase": "the last straw",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "dözümü aşan son, əlavə çətinlik",
+            "example": {
+                "en": "The delayed flight was the last straw after a terrible trip.",
+                "az": "Uçuşun gecikməsi pis səyahətdən sonra son damla oldu."
+            }
+        },
+        {
+            "id": "phr-314",
+            "phrase": "no picnic",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "asan/xoş olmayan, çətin təcrübə",
+            "example": {
+                "en": "Raising three kids alone is no picnic.",
+                "az": "Üç uşağı tək böyütmək asan iş deyil."
+            }
+        },
+        {
+            "id": "phr-315",
+            "phrase": "a rough patch",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin, problemli dövr",
+            "example": {
+                "en": "Our relationship went through a rough patch last year.",
+                "az": "Münasibətimiz keçən il çətin bir dövrdən keçdi."
+            }
+        },
+        {
+            "id": "phr-316",
+            "phrase": "out of your depth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bacarıq/bilik baxımından öhdəsindən gələ bilməmək",
+            "example": {
+                "en": "This advanced course is out of my depth.",
+                "az": "Bu qabaqcıl kurs mənim səviyyəmdən yuxarıdır."
+            }
+        },
+        {
+            "id": "phr-317",
+            "phrase": "swim against the tide",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "ümumi cərəyana/rəyə qarşı hərəkət etmək (çətinliklə)",
+            "example": {
+                "en": "She's swimming against the tide by starting a business in this economy.",
+                "az": "Bu iqtisadi şəraitdə biznes qurmaqla o, cərəyana qarşı üzür."
+            }
+        },
+        {
+            "id": "phr-318",
+            "phrase": "learn the hard way",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "acı təcrübə vasitəsilə öyrənmək",
+            "example": {
+                "en": "I learned the hard way that you can't trust everyone.",
+                "az": "Hər kəsə etibar etməyin mümkün olmadığını acı təcrübə ilə öyrəndim."
+            }
+        },
+        {
+            "id": "phr-319",
+            "phrase": "take the bull by the horns",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin vəziyyətlə cəsarətlə, birbaşa üzləşmək",
+            "example": {
+                "en": "Instead of avoiding the issue, she took the bull by the horns.",
+                "az": "Məsələdən qaçmaq əvəzinə, o, cəsarətlə üzləşdi."
+            }
+        },
+        {
+            "id": "phr-320",
+            "phrase": "take it in your stride",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətinliyi sakit, təlaşsız qəbul etmək",
+            "example": {
+                "en": "She took the criticism in her stride.",
+                "az": "O, tənqidi sakitliklə qəbul etdi."
+            }
+        },
+        {
+            "id": "phr-321",
+            "phrase": "cross that bridge when we come to it",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gələcək problemi indi deyil, baş verəndə həll etmək",
+            "example": {
+                "en": "We'll cross that bridge when we come to it.",
+                "az": "O problemi baş verəndə həll edərik."
+            }
+        },
+        {
+            "id": "phr-322",
+            "phrase": "weather the storm",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin dövrü dözümlə keçirmək",
+            "example": {
+                "en": "The company managed to weather the storm during the recession.",
+                "az": "Şirkət böhran dövründə çətinliyi dözümlə keçirə bildi."
+            }
+        },
+        {
+            "id": "phr-323",
+            "phrase": "when the going gets tough, the tough get going",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çətinlik artdıqca, güclü insanlar daha da səy göstərir",
+            "example": {
+                "en": "Don't give up now — when the going gets tough, the tough get going.",
+                "az": "İndi vaz keçmə — çətinlik artanda, güclülər daha da çalışır."
+            }
+        },
+        {
+            "id": "phr-324",
+            "phrase": "a hard sell",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "başqalarını inandırmaq çətin olan fikir/təklif",
+            "example": {
+                "en": "The new policy was a hard sell for the employees.",
+                "az": "Yeni siyasəti işçilərə qəbul etdirmək çətin oldu."
+            }
+        },
+        {
+            "id": "phr-325",
+            "phrase": "be hard on someone",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə çox sərt/tələbkar davranmaq",
+            "example": {
+                "en": "My parents were quite hard on me about grades.",
+                "az": "Valideynlərim qiymətlər barədə mənə çox sərt idilər."
+            }
+        }
+    ]
+}

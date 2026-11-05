@@ -1,0 +1,353 @@
+{
+  "category": "media",
+  "words": [
+    {
+      "id": "med-001",
+      "word": "news",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xəbərlər"
+    },
+    {
+      "id": "med-002",
+      "word": "television",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "televiziya"
+    },
+    {
+      "id": "med-003",
+      "word": "radio",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "radio"
+    },
+    {
+      "id": "med-004",
+      "word": "newspaper",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "qəzet"
+    },
+    {
+      "id": "med-005",
+      "word": "magazine",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "jurnal"
+    },
+    {
+      "id": "med-006",
+      "word": "channel",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "kanal (TV)"
+    },
+
+    {
+      "id": "med-007",
+      "word": "journalist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "jurnalist"
+    },
+    {
+      "id": "med-008",
+      "word": "reporter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "müxbir"
+    },
+    {
+      "id": "med-009",
+      "word": "article",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "məqalə"
+    },
+    {
+      "id": "med-010",
+      "word": "headline",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "başlıq (xəbər)"
+    },
+    {
+      "id": "med-011",
+      "word": "interview",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "müsahibə"
+    },
+    {
+      "id": "med-012",
+      "word": "advertisement",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "reklam"
+    },
+    {
+      "id": "med-013",
+      "word": "commercial",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "reklam (TV/radio)"
+    },
+    {
+      "id": "med-014",
+      "word": "presenter",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "aparıcı (proqram)"
+    },
+    {
+      "id": "med-015",
+      "word": "documentary",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sənədli film"
+    },
+    {
+      "id": "med-016",
+      "word": "episode",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "epizod"
+    },
+    {
+      "id": "med-017",
+      "word": "series",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "serial"
+    },
+    {
+      "id": "med-018",
+      "word": "live",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "canlı (yayım)"
+    },
+    {
+      "id": "med-019",
+      "word": "viewer",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "izləyici (TV)"
+    },
+    {
+      "id": "med-020",
+      "word": "listener",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "dinləyici (radio)"
+    },
+    {
+      "id": "med-021",
+      "word": "audience",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "auditoriya"
+    },
+    {
+      "id": "med-022",
+      "word": "publish",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "dərc etmək"
+    },
+    {
+      "id": "med-023",
+      "word": "announce",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "elan etmək"
+    },
+
+    {
+      "id": "med-024",
+      "word": "broadcast",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "yayımlamaq"
+    },
+    {
+      "id": "med-025",
+      "word": "editor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "redaktor"
+    },
+    {
+      "id": "med-026",
+      "word": "anchor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "xəbər aparıcısı"
+    },
+    {
+      "id": "med-027",
+      "word": "press",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mətbuat"
+    },
+    {
+      "id": "med-028",
+      "word": "press release",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "mətbuat bəyanatı"
+    },
+    {
+      "id": "med-029",
+      "word": "column",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sütun (qəzet yazısı)"
+    },
+    {
+      "id": "med-030",
+      "word": "breaking news",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "təcili xəbər"
+    },
+    {
+      "id": "med-031",
+      "word": "sponsor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sponsor"
+    },
+    {
+      "id": "med-032",
+      "word": "tabloid",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tabloid (kiçik formatlı qəzet)"
+    },
+    {
+      "id": "med-033",
+      "word": "newsroom",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "redaksiya otağı"
+    },
+    {
+      "id": "med-034",
+      "word": "correspondent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "müxbir (xarici)"
+    },
+    {
+      "id": "med-035",
+      "word": "network",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "yayım şəbəkəsi"
+    },
+    {
+      "id": "med-036",
+      "word": "go viral",
+      "level": "B1",
+      "partOfSpeech": "phrase",
+      "translation": "geniş yayılmaq (internetdə)"
+    },
+    {
+      "id": "med-037",
+      "word": "leak",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "sızdırmaq (məlumatı)"
+    },
+    {
+      "id": "med-038",
+      "word": "outlet",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "media orqanı"
+    },
+
+    {
+      "id": "med-039",
+      "word": "bias",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "qərəzlilik"
+    },
+    {
+      "id": "med-040",
+      "word": "propaganda",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "təbliğat"
+    },
+    {
+      "id": "med-041",
+      "word": "misinformation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yanlış məlumat"
+    },
+    {
+      "id": "med-042",
+      "word": "credible",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "etibarlı (mənbə)"
+    },
+    {
+      "id": "med-043",
+      "word": "censorship",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "senzura"
+    },
+    {
+      "id": "med-044",
+      "word": "freedom of the press",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "mətbuat azadlığı"
+    },
+    {
+      "id": "med-045",
+      "word": "whistleblower",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "sirr açıqlayan (ictimai maraq üçün)"
+    },
+    {
+      "id": "med-046",
+      "word": "byline",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "müəllif adı (məqalədə)"
+    },
+
+    {
+      "id": "med-047",
+      "word": "muckraking",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "korrupsiya araşdırma jurnalistikası"
+    },
+    {
+      "id": "med-048",
+      "word": "citizen journalism",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "vətəndaş jurnalistikası"
+    },
+
+    {
+      "id": "med-049",
+      "word": "infotainment",
+      "level": "C2",
+      "partOfSpeech": "noun",
+      "translation": "əyləncəvi məlumat formatı"
+    }
+  ]
+}

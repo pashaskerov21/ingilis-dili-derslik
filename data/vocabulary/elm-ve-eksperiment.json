@@ -1,0 +1,292 @@
+{
+    "category": "elm-ve-eksperiment",
+    "words": [
+        {
+            "id": "sci-001",
+            "word": "science",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "elm"
+        },
+        {
+            "id": "sci-002",
+            "word": "scientist",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "alim"
+        },
+        {
+            "id": "sci-003",
+            "word": "experiment",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "təcrübə (elmi)"
+        },
+        {
+            "id": "sci-004",
+            "word": "test",
+            "level": "A1",
+            "partOfSpeech": "verb",
+            "translation": "sınamaq"
+        },
+        {
+            "id": "sci-005",
+            "word": "laboratory",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "laboratoriya"
+        },
+        {
+            "id": "sci-006",
+            "word": "chemical",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kimyəvi maddə"
+        },
+        {
+            "id": "sci-007",
+            "word": "result",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "nəticə"
+        },
+        {
+            "id": "sci-008",
+            "word": "discover",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "kəşf etmək"
+        },
+        {
+            "id": "sci-009",
+            "word": "discovery",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "kəşf"
+        },
+        {
+            "id": "sci-010",
+            "word": "invent",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "ixtira etmək"
+        },
+        {
+            "id": "sci-011",
+            "word": "invention",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ixtira"
+        },
+        {
+            "id": "sci-012",
+            "word": "microscope",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "mikroskop"
+        },
+        {
+            "id": "sci-013",
+            "word": "energy",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "enerji"
+        },
+        {
+            "id": "sci-014",
+            "word": "atom",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "atom"
+        },
+        {
+            "id": "sci-015",
+            "word": "cell",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "hüceyrə"
+        },
+        {
+            "id": "sci-016",
+            "word": "hypothesis",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "fərziyyə"
+        },
+        {
+            "id": "sci-017",
+            "word": "theory",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "nəzəriyyə"
+        },
+        {
+            "id": "sci-018",
+            "word": "evidence",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sübut (elmi)"
+        },
+        {
+            "id": "sci-019",
+            "word": "observation",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "müşahidə"
+        },
+        {
+            "id": "sci-020",
+            "word": "observe",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "müşahidə etmək"
+        },
+        {
+            "id": "sci-021",
+            "word": "analyze",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "təhlil etmək"
+        },
+        {
+            "id": "sci-022",
+            "word": "molecule",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "molekul"
+        },
+        {
+            "id": "sci-023",
+            "word": "gene",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "gen"
+        },
+        {
+            "id": "sci-024",
+            "word": "DNA",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "DNT"
+        },
+        {
+            "id": "sci-025",
+            "word": "physics",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "fizika"
+        },
+        {
+            "id": "sci-026",
+            "word": "chemistry",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kimya"
+        },
+        {
+            "id": "sci-027",
+            "word": "biology",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "biologiya"
+        },
+        {
+            "id": "sci-028",
+            "word": "physicist",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "fizik"
+        },
+        {
+            "id": "sci-029",
+            "word": "chemist",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kimyaçı"
+        },
+        {
+            "id": "sci-030",
+            "word": "biologist",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "bioloq"
+        },
+        {
+            "id": "sci-031",
+            "word": "research",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tədqiqat"
+        },
+        {
+            "id": "sci-032",
+            "word": "researcher",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tədqiqatçı"
+        },
+        {
+            "id": "sci-033",
+            "word": "sample",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "nümunə (elmi)"
+        },
+        {
+            "id": "sci-034",
+            "word": "measure",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "ölçmək"
+        },
+        {
+            "id": "sci-035",
+            "word": "measurement",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ölçmə"
+        },
+        {
+            "id": "sci-036",
+            "word": "temperature",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "temperatur"
+        },
+        {
+            "id": "sci-037",
+            "word": "reaction",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "reaksiya (kimyəvi)"
+        },
+        {
+            "id": "sci-038",
+            "word": "variable",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "dəyişən (elmi)"
+        },
+        {
+            "id": "sci-039",
+            "word": "peer review",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "həmkar rəyi (elmi)"
+        },
+        {
+            "id": "sci-040",
+            "word": "empirical",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "empirik"
+        },
+        {
+            "id": "sci-041",
+            "word": "quantum",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "kvant"
+        }
+    ]
+}

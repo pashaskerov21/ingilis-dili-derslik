@@ -1,0 +1,394 @@
+{
+  "category": "dil",
+  "words": [
+    {
+      "id": "lng-001",
+      "word": "language",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "dil"
+    },
+    {
+      "id": "lng-002",
+      "word": "word",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "söz"
+    },
+    {
+      "id": "lng-003",
+      "word": "sentence",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "cümlə"
+    },
+    {
+      "id": "lng-004",
+      "word": "letter",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "hərf"
+    },
+    {
+      "id": "lng-005",
+      "word": "meaning",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "məna"
+    },
+    {
+      "id": "lng-006",
+      "word": "speak",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "danışmaq"
+    },
+    {
+      "id": "lng-007",
+      "word": "listen",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "qulaq asmaq"
+    },
+    {
+      "id": "lng-008",
+      "word": "read",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "oxumaq"
+    },
+    {
+      "id": "lng-009",
+      "word": "write",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "yazmaq"
+    },
+    {
+      "id": "lng-010",
+      "word": "understand",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "başa düşmək"
+    },
+    {
+      "id": "lng-011",
+      "word": "translate",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "tərcümə etmək"
+    },
+    {
+      "id": "lng-012",
+      "word": "learn",
+      "level": "A1",
+      "partOfSpeech": "verb",
+      "translation": "öyrənmək"
+    },
+    {
+      "id": "lng-013",
+      "word": "dictionary",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "lüğət"
+    },
+
+    {
+      "id": "lng-014",
+      "word": "practice",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "məşq etmək"
+    },
+    {
+      "id": "lng-015",
+      "word": "repeat",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "təkrar etmək"
+    },
+    {
+      "id": "lng-016",
+      "word": "mistake",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səhv"
+    },
+    {
+      "id": "lng-017",
+      "word": "correct",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "düzəltmək (səhvi)"
+    },
+    {
+      "id": "lng-018",
+      "word": "pronunciation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tələffüz"
+    },
+    {
+      "id": "lng-019",
+      "word": "spelling",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yazılış (hərflə)"
+    },
+    {
+      "id": "lng-020",
+      "word": "translation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tərcümə"
+    },
+    {
+      "id": "lng-021",
+      "word": "native language",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ana dili"
+    },
+    {
+      "id": "lng-022",
+      "word": "foreign language",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "xarici dil"
+    },
+    {
+      "id": "lng-023",
+      "word": "vocabulary",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "lüğət ehtiyatı"
+    },
+    {
+      "id": "lng-024",
+      "word": "grammar",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qrammatika"
+    },
+    {
+      "id": "lng-025",
+      "word": "improve",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "yaxşılaşdırmaq"
+    },
+    {
+      "id": "lng-026",
+      "word": "explain",
+      "level": "A2",
+      "partOfSpeech": "verb",
+      "translation": "izah etmək"
+    },
+    {
+      "id": "lng-027",
+      "word": "phrase",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "ifadə (söz birləşməsi)"
+    },
+    {
+      "id": "lng-028",
+      "word": "definition",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tərif"
+    },
+
+    {
+      "id": "lng-029",
+      "word": "fluent",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "səlis danışan"
+    },
+    {
+      "id": "lng-030",
+      "word": "fluency",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səlislik"
+    },
+    {
+      "id": "lng-031",
+      "word": "accent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "aksent"
+    },
+    {
+      "id": "lng-032",
+      "word": "dialect",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dialekt"
+    },
+    {
+      "id": "lng-033",
+      "word": "bilingual",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "ikidilli"
+    },
+    {
+      "id": "lng-034",
+      "word": "mother tongue",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ana dili (məcazi ifadə)"
+    },
+    {
+      "id": "lng-035",
+      "word": "synonym",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sinonim"
+    },
+    {
+      "id": "lng-036",
+      "word": "antonym",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "antonim"
+    },
+    {
+      "id": "lng-037",
+      "word": "expression",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ifadə (dil)"
+    },
+    {
+      "id": "lng-038",
+      "word": "memorize",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "əzbərləmək"
+    },
+    {
+      "id": "lng-039",
+      "word": "mispronounce",
+      "level": "B1",
+      "partOfSpeech": "verb",
+      "translation": "səhv tələffüz etmək"
+    },
+    {
+      "id": "lng-040",
+      "word": "subtitle",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "altyazı"
+    },
+    {
+      "id": "lng-041",
+      "word": "interpreter",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "sinxron tərcüməçi"
+    },
+    {
+      "id": "lng-042",
+      "word": "phrasebook",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "danışıq kitabçası"
+    },
+    {
+      "id": "lng-043",
+      "word": "context",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kontekst"
+    },
+    {
+      "id": "lng-044",
+      "word": "idiom",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "idiom"
+    },
+    {
+      "id": "lng-045",
+      "word": "slang",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "jarqon"
+    },
+    {
+      "id": "lng-046",
+      "word": "formal",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "rəsmi (dil üslubu)"
+    },
+    {
+      "id": "lng-047",
+      "word": "informal",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "qeyri-rəsmi (dil üslubu)"
+    },
+
+    {
+      "id": "lng-048",
+      "word": "multilingual",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "çoxdilli"
+    },
+    {
+      "id": "lng-049",
+      "word": "proficient",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "mahir (dildə)"
+    },
+    {
+      "id": "lng-050",
+      "word": "comprehension",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "anlama qabiliyyəti"
+    },
+    {
+      "id": "lng-051",
+      "word": "linguistics",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "dilçilik"
+    },
+    {
+      "id": "lng-052",
+      "word": "terminology",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "terminologiya"
+    },
+    {
+      "id": "lng-053",
+      "word": "ambiguous",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "qeyri-müəyyən (məna)"
+    },
+
+    {
+      "id": "lng-054",
+      "word": "linguist",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "dilçi"
+    },
+    {
+      "id": "lng-055",
+      "word": "colloquial",
+      "level": "C1",
+      "partOfSpeech": "adjective",
+      "translation": "danışıq dilinə xas"
+    }
+  ]
+}

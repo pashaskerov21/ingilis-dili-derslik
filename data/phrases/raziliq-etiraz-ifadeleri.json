@@ -1,0 +1,346 @@
+{
+    "category": "raziliq-etiraz-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-326",
+            "phrase": "couldn't agree more",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tamamilə razıyam (mümkün olan ən yüksək dərəcədə)",
+            "example": {
+                "en": "Improving communication is essential — I couldn't agree more.",
+                "az": "Ünsiyyəti yaxşılaşdırmaq vacibdir — mən tamamilə razıyam."
+            }
+        },
+        {
+            "id": "phr-327",
+            "phrase": "see eye to eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir məsələdə tam razılaşmaq",
+            "example": {
+                "en": "We finally see eye to eye on this issue.",
+                "az": "Nəhayət bu məsələdə eyni fikirdəyik."
+            }
+        },
+        {
+            "id": "phr-328",
+            "phrase": "you took the words right out of my mouth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimsə deməyə hazırlaşdığın şeyi əvvəlcədən demək (tam razılıq)",
+            "example": {
+                "en": "When she said the movie was boring, I said, 'You took the words right out of my mouth.'",
+                "az": "O, filmin darıxdırıcı olduğunu deyəndə mən dedim: 'Elə mənim də deyəcəyim buydu.'"
+            }
+        },
+        {
+            "id": "phr-329",
+            "phrase": "that's spot on",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tam dəqiq, düzgün (razılıq bildirmək)",
+            "example": {
+                "en": "Your analysis is spot on.",
+                "az": "Sənin təhlilin tam dəqiqdir."
+            }
+        },
+        {
+            "id": "phr-330",
+            "phrase": "you've hit the nail on the head",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tam düzgün fikri ifadə etmək",
+            "example": {
+                "en": "You've hit the nail on the head — that's exactly the problem.",
+                "az": "Sən düz mismarın başına vurdun — məsələ məhz budur."
+            }
+        },
+        {
+            "id": "phr-331",
+            "phrase": "now you're talking",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nəhayət yaxşı bir təklif/fikir eşitmək (həvəsli razılıq)",
+            "example": {
+                "en": "\"Let's order pizza tonight.\" \"Now you're talking!\"",
+                "az": "\"Bu gecə pizza sifariş edək.\" \"Bax bu başqa məsələ!\""
+            }
+        },
+        {
+            "id": "phr-332",
+            "phrase": "tell me about it",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tam anlayıram, eyni təcrübəm olub (həmfikirlik)",
+            "example": {
+                "en": "\"Work has been so stressful.\" \"Tell me about it!\"",
+                "az": "\"İş çox stresli olub.\" \"Sən demə, mən özüm bilirəm!\""
+            }
+        },
+        {
+            "id": "phr-333",
+            "phrase": "you're dead right",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tamamilə haqlısan",
+            "example": {
+                "en": "You're dead right — we should have left earlier.",
+                "az": "Tamamilə haqlısan — daha tez çıxmalı idik."
+            }
+        },
+        {
+            "id": "phr-334",
+            "phrase": "I'm with you on that",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "bu məsələdə səninlə razıyam",
+            "example": {
+                "en": "I'm with you on that point.",
+                "az": "Bu məsələdə səninlə razıyam."
+            }
+        },
+        {
+            "id": "phr-335",
+            "phrase": "I'll go along with that",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bu təklifi qəbul edirəm/razıyam",
+            "example": {
+                "en": "If that's the plan, I'll go along with it.",
+                "az": "Əgər plan budursa, mən razıyam."
+            }
+        },
+        {
+            "id": "phr-336",
+            "phrase": "agree up to a point",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qismən razılaşmaq",
+            "example": {
+                "en": "I agree up to a point, but I have some concerns.",
+                "az": "Müəyyən dərəcədə razıyam, amma bəzi narahatlıqlarım var."
+            }
+        },
+        {
+            "id": "phr-337",
+            "phrase": "have a point there",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiminsə fikrinin əsaslı olduğunu qismən qəbul etmək",
+            "example": {
+                "en": "You have a point there — I hadn't thought of that.",
+                "az": "Sənin bu barədə haqlı tərəfin var — bunu düşünməmişdim."
+            }
+        },
+        {
+            "id": "phr-338",
+            "phrase": "agree to disagree",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "razılığa gəlməyəcəyini qəbul edib mübahisəni bitirmək",
+            "example": {
+                "en": "We're not going to convince each other — let's agree to disagree.",
+                "az": "Bir-birimizi inandıra bilməyəcəyik — gəl fərqli fikirdə qalmağı qəbul edək."
+            }
+        },
+        {
+            "id": "phr-339",
+            "phrase": "I beg to differ",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "nəzakətlə etiraz etmək",
+            "example": {
+                "en": "I beg to differ — I think the plan has serious flaws.",
+                "az": "İcazə ver fərqli fikirdə olum — düşünürəm ki, planın ciddi qüsurları var."
+            }
+        },
+        {
+            "id": "phr-340",
+            "phrase": "I see things differently",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "fərqli fikirdə olmaq (yumşaq etiraz)",
+            "example": {
+                "en": "I see things differently — I think we should wait.",
+                "az": "Mən fərqli düşünürəm — gözləməliyik deyə hesab edirəm."
+            }
+        },
+        {
+            "id": "phr-341",
+            "phrase": "not necessarily",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "mütləq belə deyil (yumşaq etiraz)",
+            "example": {
+                "en": "\"He must be guilty.\" \"Not necessarily.\"",
+                "az": "\"O, mütləq təqsirkardır.\" \"Mütləq belə deyil.\""
+            }
+        },
+        {
+            "id": "phr-342",
+            "phrase": "you must be joking",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "inanılmaz/qəbuledilməz bir şeyə şok ifadəsi",
+            "example": {
+                "en": "You want me to finish this tonight? You must be joking.",
+                "az": "Bunu bu gecə bitirməyimi istəyirsən? Zarafat edirsən yəqin."
+            }
+        },
+        {
+            "id": "phr-343",
+            "phrase": "argue the toss",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "artıq qəbul edilmiş qərarla razılaşmayıb mübahisəyə davam etmək",
+            "example": {
+                "en": "The decision was made yesterday — don't argue the toss now.",
+                "az": "Qərar dünən verildi — indi onunla mübahisə etmə."
+            }
+        },
+        {
+            "id": "phr-344",
+            "phrase": "a bone of contention",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "davamlı mübahisəyə səbəb olan məsələ",
+            "example": {
+                "en": "Opening on Sundays is still a bone of contention.",
+                "az": "Bazar günü açıq olmaq hələ də mübahisə mövzusudur."
+            }
+        },
+        {
+            "id": "phr-345",
+            "phrase": "much ado about nothing",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "əhəmiyyətsiz bir şey barədə həddindən artıq mübahisə/hay-küy",
+            "example": {
+                "en": "The whole argument was much ado about nothing.",
+                "az": "Bütün mübahisə boş yerə hay-küy idi."
+            }
+        },
+        {
+            "id": "phr-346",
+            "phrase": "I strongly disagree",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "kəskin etiraz etmək",
+            "example": {
+                "en": "I strongly disagree with that decision.",
+                "az": "Bu qərarla kəskin etiraz edirəm."
+            }
+        },
+        {
+            "id": "phr-347",
+            "phrase": "I'm absolutely against it",
+            "type": "fixed-expression",
+            "level": "A2",
+            "meaning": "tam əleyhinə olmaq",
+            "example": {
+                "en": "I'm absolutely against the proposal.",
+                "az": "Mən bu təklifin tam əleyhinəyəm."
+            }
+        },
+        {
+            "id": "phr-348",
+            "phrase": "bend over backwards",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "razılığa gəlmək üçün böyük səy göstərmək",
+            "example": {
+                "en": "We'll bend over backwards to reach an agreement.",
+                "az": "Razılığa gəlmək üçün əlimizdən gələni edəcəyik."
+            }
+        },
+        {
+            "id": "phr-349",
+            "phrase": "cave in",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "təzyiq altında güzəştə getmək, təslim olmaq",
+            "example": {
+                "en": "After insisting for months, the manager caved in to their demands.",
+                "az": "Aylarla təkid etdikdən sonra menecer onların tələblərinə güzəştə getdi."
+            }
+        },
+        {
+            "id": "phr-350",
+            "phrase": "meet halfway",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hər iki tərəfin güzəştə gedərək razılığa gəlməsi",
+            "example": {
+                "en": "Let's meet halfway on the price.",
+                "az": "Qiymətdə hər ikimiz güzəştə gedək."
+            }
+        },
+        {
+            "id": "phr-351",
+            "phrase": "come to terms with",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin bir vəziyyəti/razılaşmanı qəbul etmək",
+            "example": {
+                "en": "They finally came to terms with the new agreement.",
+                "az": "Onlar nəhayət yeni razılaşmanı qəbul etdilər."
+            }
+        },
+        {
+            "id": "phr-352",
+            "phrase": "reach a consensus",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "ümumi razılığa gəlmək",
+            "example": {
+                "en": "After a long discussion, we reached a consensus.",
+                "az": "Uzun müzakirədən sonra ümumi razılığa gəldik."
+            }
+        },
+        {
+            "id": "phr-353",
+            "phrase": "strike a deal",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sazişə/razılaşmaya nail olmaq",
+            "example": {
+                "en": "The two companies struck a deal after weeks of talks.",
+                "az": "İki şirkət həftələrlə davam edən danışıqdan sonra sazişə nail oldu."
+            }
+        },
+        {
+            "id": "phr-354",
+            "phrase": "get the upper hand",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "danışıqda üstünlük əldə etmək",
+            "example": {
+                "en": "Knowing their weaknesses gave us the upper hand in negotiations.",
+                "az": "Onların zəif tərəflərini bilmək danışıqlarda bizə üstünlük verdi."
+            }
+        },
+        {
+            "id": "phr-355",
+            "phrase": "give and take",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qarşılıqlı güzəşt (uğurlu münasibət/razılaşma üçün)",
+            "example": {
+                "en": "A good relationship requires give and take.",
+                "az": "Yaxşı münasibət qarşılıqlı güzəşt tələb edir."
+            }
+        },
+        {
+            "id": "phr-356",
+            "phrase": "sign off on",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "rəsmən təsdiqləmək, razılıq vermək",
+            "example": {
+                "en": "The manager needs to sign off on the budget before we proceed.",
+                "az": "Davam etməzdən əvvəl menecer büdcəni rəsmən təsdiqləməlidir."
+            }
+        }
+    ]
+}

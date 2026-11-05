@@ -1,0 +1,478 @@
+{
+  "category": "seyahet-ve-turizm",
+  "words": [
+    {
+      "id": "trv-001",
+      "word": "passport",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "pasport"
+    },
+    {
+      "id": "trv-002",
+      "word": "hotel",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "otel"
+    },
+    {
+      "id": "trv-003",
+      "word": "tourist",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "turist"
+    },
+    {
+      "id": "trv-004",
+      "word": "holiday",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "tətil"
+    },
+    {
+      "id": "trv-005",
+      "word": "map",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "xəritə"
+    },
+    {
+      "id": "trv-006",
+      "word": "camera",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "fotoaparat"
+    },
+    {
+      "id": "trv-007",
+      "word": "suitcase",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "çamadan"
+    },
+    {
+      "id": "trv-008",
+      "word": "souvenir",
+      "level": "A1",
+      "partOfSpeech": "noun",
+      "translation": "suvenir"
+    },
+
+    {
+      "id": "trv-009",
+      "word": "visa",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "viza"
+    },
+    {
+      "id": "trv-010",
+      "word": "reception",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "qeydiyyat (otel)"
+    },
+    {
+      "id": "trv-011",
+      "word": "receptionist",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "otel qeydiyyatçısı"
+    },
+    {
+      "id": "trv-012",
+      "word": "reservation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "rezervasiya"
+    },
+    {
+      "id": "trv-013",
+      "word": "booking",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sifariş (yer/bilet)"
+    },
+    {
+      "id": "trv-014",
+      "word": "guide",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bələdçi"
+    },
+    {
+      "id": "trv-015",
+      "word": "guidebook",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bələdçi kitabı"
+    },
+    {
+      "id": "trv-016",
+      "word": "sightseeing",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "görməli yerlərə baxma"
+    },
+    {
+      "id": "trv-017",
+      "word": "attraction",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "cazibə mərkəzi (turist)"
+    },
+    {
+      "id": "trv-018",
+      "word": "itinerary",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səyahət planı"
+    },
+    {
+      "id": "trv-019",
+      "word": "accommodation",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yaşayış yeri (səyahətdə)"
+    },
+    {
+      "id": "trv-020",
+      "word": "hostel",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "хostel"
+    },
+    {
+      "id": "trv-021",
+      "word": "resort",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "kurort"
+    },
+    {
+      "id": "trv-022",
+      "word": "postcard",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "açıqca"
+    },
+    {
+      "id": "trv-023",
+      "word": "border",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "sərhəd"
+    },
+    {
+      "id": "trv-024",
+      "word": "foreign",
+      "level": "A2",
+      "partOfSpeech": "adjective",
+      "translation": "xarici"
+    },
+    {
+      "id": "trv-025",
+      "word": "foreigner",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "əcnəbi"
+    },
+    {
+      "id": "trv-026",
+      "word": "local",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "yerli sakin"
+    },
+    {
+      "id": "trv-027",
+      "word": "traveler",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "səyahətçi"
+    },
+    {
+      "id": "trv-028",
+      "word": "single room",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "tək nəfərlik otaq"
+    },
+    {
+      "id": "trv-029",
+      "word": "double room",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "iki nəfərlik otaq"
+    },
+    {
+      "id": "trv-030",
+      "word": "brochure",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "broşür"
+    },
+    {
+      "id": "trv-031",
+      "word": "day trip",
+      "level": "A2",
+      "partOfSpeech": "noun",
+      "translation": "bir günlük səfər"
+    },
+
+    {
+      "id": "trv-032",
+      "word": "customs",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gömrük"
+    },
+    {
+      "id": "trv-033",
+      "word": "customs officer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "gömrük məmuru"
+    },
+    {
+      "id": "trv-034",
+      "word": "immigration",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "miqrasiya nəzarəti"
+    },
+    {
+      "id": "trv-035",
+      "word": "duty-free",
+      "level": "B1",
+      "partOfSpeech": "adjective",
+      "translation": "gömrüksüz (mağaza)"
+    },
+    {
+      "id": "trv-036",
+      "word": "travel insurance",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səyahət sığortası"
+    },
+    {
+      "id": "trv-037",
+      "word": "travel agency",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "turizm agentliyi"
+    },
+    {
+      "id": "trv-038",
+      "word": "travel agent",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "turizm agenti"
+    },
+    {
+      "id": "trv-039",
+      "word": "package holiday",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "hazır turlar (paket)"
+    },
+    {
+      "id": "trv-040",
+      "word": "cruise",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kruiz"
+    },
+    {
+      "id": "trv-041",
+      "word": "landmark",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "görkəmli yer"
+    },
+    {
+      "id": "trv-042",
+      "word": "monument",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "abidə"
+    },
+    {
+      "id": "trv-043",
+      "word": "excursion",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "ekskursiya"
+    },
+    {
+      "id": "trv-044",
+      "word": "campsite",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kempinq sahəsi"
+    },
+    {
+      "id": "trv-045",
+      "word": "cottage",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "kənd evi (kirayə)"
+    },
+    {
+      "id": "trv-046",
+      "word": "seaside resort",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "dəniz kənarı kurortu"
+    },
+    {
+      "id": "trv-047",
+      "word": "tour",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tur"
+    },
+    {
+      "id": "trv-048",
+      "word": "tourist trap",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "turist tələsi (baha yer)"
+    },
+    {
+      "id": "trv-049",
+      "word": "jet lag",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vaxt zonası yorğunluğu"
+    },
+    {
+      "id": "trv-050",
+      "word": "time zone",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "vaxt zonası"
+    },
+    {
+      "id": "trv-051",
+      "word": "tip",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bəxşiş"
+    },
+    {
+      "id": "trv-052",
+      "word": "phrasebook",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "danışıq kitabçası"
+    },
+    {
+      "id": "trv-053",
+      "word": "travel adaptor",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "səyahət adapteri"
+    },
+    {
+      "id": "trv-054",
+      "word": "amenities",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "əlavə xidmətlər (otel)"
+    },
+    {
+      "id": "trv-055",
+      "word": "aquarium",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "akvarium"
+    },
+    {
+      "id": "trv-056",
+      "word": "backpacker",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "bel çantalı səyahətçi"
+    },
+    {
+      "id": "trv-057",
+      "word": "vacationer",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "tətilçi"
+    },
+    {
+      "id": "trv-058",
+      "word": "safari",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "safari"
+    },
+    {
+      "id": "trv-059",
+      "word": "consulate",
+      "level": "B1",
+      "partOfSpeech": "noun",
+      "translation": "konsulluq"
+    },
+
+    {
+      "id": "trv-060",
+      "word": "all-inclusive",
+      "level": "B2",
+      "partOfSpeech": "adjective",
+      "translation": "hər şey daxil (tur)"
+    },
+    {
+      "id": "trv-061",
+      "word": "layover",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "aralıq dayanacaq (uçuşda)"
+    },
+    {
+      "id": "trv-062",
+      "word": "staycation",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "evdə/yerli tətil"
+    },
+    {
+      "id": "trv-063",
+      "word": "expedition",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "ekspedisiya"
+    },
+    {
+      "id": "trv-064",
+      "word": "frequent flyer",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "tez-tez uçan sərnişin"
+    },
+    {
+      "id": "trv-065",
+      "word": "homestay",
+      "level": "B2",
+      "partOfSpeech": "noun",
+      "translation": "yerli ailədə qonaqlıq"
+    },
+
+    {
+      "id": "trv-066",
+      "word": "pilgrim",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "ziyarətçi (dini)"
+    },
+    {
+      "id": "trv-067",
+      "word": "explorer",
+      "level": "C1",
+      "partOfSpeech": "noun",
+      "translation": "kəşfiyyatçı"
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+    "category": "munasibet-unsiyyet-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-237",
+            "phrase": "hit it off",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "dərhal yaxşı münasibət qurmaq (ilk tanışlıqda)",
+            "example": {
+                "en": "Our new coworkers hit it off right from the start.",
+                "az": "Yeni həmkarlarımız ilk gündən yaxşı münasibət qurdular."
+            }
+        },
+        {
+            "id": "phr-238",
+            "phrase": "break the ice",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ilk gərginliyi/utancaqlığı aradan qaldırmaq",
+            "example": {
+                "en": "She told a joke to break the ice at the meeting.",
+                "az": "O, iclasda gərginliyi aradan qaldırmaq üçün zarafat etdi."
+            }
+        },
+        {
+            "id": "phr-239",
+            "phrase": "like two peas in a pod",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox bənzər, ayrılmaz iki insan",
+            "example": {
+                "en": "The twins are like two peas in a pod.",
+                "az": "Əkizlər sanki bir almanın iki yarısıdır."
+            }
+        },
+        {
+            "id": "phr-240",
+            "phrase": "as thick as thieves",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox yaxın, sirdaş dostlar",
+            "example": {
+                "en": "They've been as thick as thieves since childhood.",
+                "az": "Onlar uşaqlıqdan sirdaş dost olublar."
+            }
+        },
+        {
+            "id": "phr-241",
+            "phrase": "a friend in need is a friend indeed",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin anda yanında olan həqiqi dostdur",
+            "example": {
+                "en": "John helped me when no one else did — a friend in need is a friend indeed.",
+                "az": "Con heç kim kömək etmədiyi vaxt mənə kömək etdi — çətinlikdə tanınan dost əsl dostdur."
+            }
+        },
+        {
+            "id": "phr-242",
+            "phrase": "birds of a feather flock together",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "oxşar insanlar bir-birinə cəlb olunur",
+            "example": {
+                "en": "All the tech enthusiasts hang out together — birds of a feather flock together.",
+                "az": "Bütün texnologiya həvəskarları birgə vaxt keçirir — bənzər insanlar bir yerə yığışır."
+            }
+        },
+        {
+            "id": "phr-243",
+            "phrase": "have someone's back",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə dəstəkləmək/müdafiə etmək",
+            "example": {
+                "en": "Don't worry, I've got your back.",
+                "az": "Narahat olma, mən səni dəstəkləyirəm."
+            }
+        },
+        {
+            "id": "phr-244",
+            "phrase": "through thick and thin",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yaxşı və pis günlərdə sadiq qalmaq",
+            "example": {
+                "en": "My brother has stood by me through thick and thin.",
+                "az": "Qardaşım yaxşı-pis hər vəziyyətdə mənim yanımda olub."
+            }
+        },
+        {
+            "id": "phr-245",
+            "phrase": "in the same boat",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "eyni çətin vəziyyəti paylaşmaq",
+            "example": {
+                "en": "We're all in the same boat during exam season.",
+                "az": "İmtahan dövründə hamımız eyni vəziyyətdəyik."
+            }
+        },
+        {
+            "id": "phr-246",
+            "phrase": "on good terms",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə qarşı dostcasına münasibətdə olmaq",
+            "example": {
+                "en": "I'm still on good terms with my ex-roommate.",
+                "az": "Keçmiş otaq yoldaşımla hələ də dostcasına münasibətdəyəm."
+            }
+        },
+        {
+            "id": "phr-247",
+            "phrase": "get along like a house on fire",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox sürətlə, yaxşı münasibət qurmaq",
+            "example": {
+                "en": "They got along like a house on fire from day one.",
+                "az": "Onlar ilk gündən çox sürətlə yaxınlaşdılar."
+            }
+        },
+        {
+            "id": "phr-248",
+            "phrase": "trust someone with your life",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə tam etibar etmək",
+            "example": {
+                "en": "I trust her with my life.",
+                "az": "Ona həyatımı belə etibar edərəm."
+            }
+        },
+        {
+            "id": "phr-249",
+            "phrase": "give someone the benefit of the doubt",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əmin olmasa belə, kiminsə dediyinə inanmaq",
+            "example": {
+                "en": "She arrived late, but I gave her the benefit of the doubt.",
+                "az": "O, gec gəldi, amma mən şübhəni onun xeyrinə həll etdim."
+            }
+        },
+        {
+            "id": "phr-250",
+            "phrase": "in someone's corner",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kimisə tam dəstəkləmək",
+            "example": {
+                "en": "No matter what, my family is always in my corner.",
+                "az": "Nə olursa olsun, ailəm həmişə mənim tərəfimdədir."
+            }
+        },
+        {
+            "id": "phr-251",
+            "phrase": "like clockwork",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "tamamilə etibarlı, davamlı şəkildə",
+            "example": {
+                "en": "He shows up every day like clockwork.",
+                "az": "O, hər gün dəqiqliklə gəlir."
+            }
+        },
+        {
+            "id": "phr-252",
+            "phrase": "see eye to eye",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir məsələdə tam razılaşmaq",
+            "example": {
+                "en": "We don't always see eye to eye on politics.",
+                "az": "Biz siyasətdə həmişə eyni fikirdə olmuruq."
+            }
+        },
+        {
+            "id": "phr-253",
+            "phrase": "burn bridges",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "münasibəti geri dönməz şəkildə korlamaq",
+            "example": {
+                "en": "Don't burn bridges when you leave a job.",
+                "az": "İşdən çıxarkən körpüləri yandırma (əlaqəni pozma)."
+            }
+        },
+        {
+            "id": "phr-254",
+            "phrase": "bury the hatchet",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "münaqişəni bitirib barışmaq",
+            "example": {
+                "en": "After years of arguing, the brothers finally buried the hatchet.",
+                "az": "İllərlə mübahisədən sonra qardaşlar nəhayət barışdılar."
+            }
+        },
+        {
+            "id": "phr-255",
+            "phrase": "give someone the cold shoulder",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə soyuq, laqeyd davranmaq",
+            "example": {
+                "en": "She gave me the cold shoulder after our argument.",
+                "az": "Mübahisədən sonra o, mənə soyuq davrandı."
+            }
+        },
+        {
+            "id": "phr-256",
+            "phrase": "read someone like a book",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiminsə hisslərini/niyyətini asanlıqla anlamaq",
+            "example": {
+                "en": "I can read him like a book — he's clearly upset.",
+                "az": "Onu açıq kitab kimi oxuya bilirəm — aydındır ki, narahatdır."
+            }
+        },
+        {
+            "id": "phr-257",
+            "phrase": "have a heart-to-heart",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "səmimi, açıq söhbət etmək",
+            "example": {
+                "en": "We had a heart-to-heart about our future plans.",
+                "az": "Gələcək planlarımız barədə səmimi söhbət etdik."
+            }
+        },
+        {
+            "id": "phr-258",
+            "phrase": "keep someone at arm's length",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kimisə emosional/sosial baxımdan uzaq tutmaq",
+            "example": {
+                "en": "He keeps most people at arm's length.",
+                "az": "O, əksər insanları özündən uzaq tutur."
+            }
+        },
+        {
+            "id": "phr-259",
+            "phrase": "open up to someone",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə hisslərini/sirrini bölüşmək",
+            "example": {
+                "en": "It took a while for her to open up to me.",
+                "az": "Onun mənə açılması bir müddət çəkdi."
+            }
+        },
+        {
+            "id": "phr-260",
+            "phrase": "speak your mind",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "fikrini açıq, çəkinmədən demək",
+            "example": {
+                "en": "He always speaks his mind, even if it's unpopular.",
+                "az": "O, hətta populyar olmasa da, həmişə fikrini açıq deyir."
+            }
+        },
+        {
+            "id": "phr-261",
+            "phrase": "beat around the bush",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əsas mövzuya birbaşa keçməmək, dolayı danışmaq",
+            "example": {
+                "en": "Stop beating around the bush and tell me what happened.",
+                "az": "Dolayı danışmağı burax və mənə nə baş verdiyini de."
+            }
+        },
+        {
+            "id": "phr-262",
+            "phrase": "put words in someone's mouth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiminsə demədiyi bir şeyi dediyini iddia etmək",
+            "example": {
+                "en": "Don't put words in my mouth — I never said that.",
+                "az": "Sözlərimi təhrif etmə — mən heç vaxt bunu deməmişəm."
+            }
+        },
+        {
+            "id": "phr-263",
+            "phrase": "talk behind someone's back",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "kiminsə yoxluğunda onun barəsində pis danışmaq",
+            "example": {
+                "en": "I don't like people who talk behind others' backs.",
+                "az": "Başqalarının arxasınca danışan insanları xoşlamıram."
+            }
+        },
+        {
+            "id": "phr-264",
+            "phrase": "spill the beans",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sirri ifşa etmək",
+            "example": {
+                "en": "Who spilled the beans about the surprise party?",
+                "az": "Sürpriz məclis barədə sirri kim açdı?"
+            }
+        },
+        {
+            "id": "phr-265",
+            "phrase": "let the cat out of the bag",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "sirri qəflətən (adətən təsadüfən) açıqlamaq",
+            "example": {
+                "en": "He let the cat out of the bag about the engagement.",
+                "az": "O, nişan barədə sirri təsadüfən açdı."
+            }
+        },
+        {
+            "id": "phr-266",
+            "phrase": "go behind someone's back",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimsədən gizli, onun bilmədiyi şəkildə hərəkət etmək",
+            "example": {
+                "en": "She went behind his back and told the boss.",
+                "az": "O, onun bilmədiyi şəkildə rəisə xəbər verdi."
+            }
+        },
+        {
+            "id": "phr-267",
+            "phrase": "clear the air",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "anlaşılmazlığı/gərginliyi aradan qaldırmaq üçün açıq danışmaq",
+            "example": {
+                "en": "We need to clear the air before this gets worse.",
+                "az": "Vəziyyət daha da pisləşməzdən əvvəl gərginliyi aradan qaldırmalıyıq."
+            }
+        },
+        {
+            "id": "phr-268",
+            "phrase": "get a word in edgewise",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "danışan başqasına söz növbəsi verməyəndə, çətinliklə danışmaq",
+            "example": {
+                "en": "She talks so much I can't get a word in edgewise.",
+                "az": "O, o qədər çox danışır ki, mən söz deyə bilmirəm."
+            }
+        },
+        {
+            "id": "phr-269",
+            "phrase": "lend an ear",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "diqqətlə, dəstəkləyici şəkildə qulaq asmaq",
+            "example": {
+                "en": "Thanks for lending an ear when I needed to talk.",
+                "az": "Danışmağa ehtiyacım olanda mənə qulaq asdığın üçün təşəkkür edirəm."
+            }
+        },
+        {
+            "id": "phr-270",
+            "phrase": "rub someone the wrong way",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kimisə narahat etmək/əsəbiləşdirmək (davranışla)",
+            "example": {
+                "en": "His arrogance rubs me the wrong way.",
+                "az": "Onun təkəbbürü məni əsəbiləşdirir."
+            }
+        },
+        {
+            "id": "phr-271",
+            "phrase": "hit close to home",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "şəxsən aid olan, emosional təsir edən mövzu",
+            "example": {
+                "en": "The movie's story hit close to home for her.",
+                "az": "Filmin hekayəsi onun üçün çox şəxsi idi."
+            }
+        },
+        {
+            "id": "phr-272",
+            "phrase": "stab someone in the back",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "etibar edən birinə xəyanət etmək",
+            "example": {
+                "en": "I trusted him, but he stabbed me in the back.",
+                "az": "Mən ona güvənmişdim, amma o, mənə xəyanət etdi."
+            }
+        },
+        {
+            "id": "phr-273",
+            "phrase": "take someone under your wing",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə mentorluq etmək, himayə etmək",
+            "example": {
+                "en": "The senior manager took the new hire under her wing.",
+                "az": "Baş menecer yeni işçini himayəsi altına aldı."
+            }
+        },
+        {
+            "id": "phr-274",
+            "phrase": "actions speak louder than words",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "əməllər sözlərdən daha vacibdir",
+            "example": {
+                "en": "He apologized, but actions speak louder than words.",
+                "az": "O, üzr istədi, amma əməllər sözlərdən daha vacibdir."
+            }
+        },
+        {
+            "id": "phr-275",
+            "phrase": "it takes two to tango",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "münaqişədə/münasibətdə hər iki tərəf məsuliyyət daşıyır",
+            "example": {
+                "en": "Don't blame only him — it takes two to tango.",
+                "az": "Yalnız onu günahlandırma — bu, ikitərəfli məsələdir."
+            }
+        },
+        {
+            "id": "phr-276",
+            "phrase": "keep in touch",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "əlaqəni davam etdirmək",
+            "example": {
+                "en": "Let's keep in touch after graduation.",
+                "az": "Məzun olandan sonra əlaqəni davam etdirək."
+            }
+        },
+        {
+            "id": "phr-277",
+            "phrase": "lose touch with",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə olan əlaqəni itirmək",
+            "example": {
+                "en": "We lost touch after she moved abroad.",
+                "az": "O, xaricə köçəndən sonra əlaqəmiz kəsildi."
+            }
+        },
+        {
+            "id": "phr-278",
+            "phrase": "fall out with someone",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiminləsə mübahisə edib münasibəti pozmaq",
+            "example": {
+                "en": "She fell out with her sister over the inheritance.",
+                "az": "O, miras üzündən bacısı ilə küsdü."
+            }
+        },
+        {
+            "id": "phr-279",
+            "phrase": "make up",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "mübahisədən sonra barışmaq",
+            "example": {
+                "en": "They had a fight but made up the next day.",
+                "az": "Onlar dalaşdılar, amma ertəsi gün barışdılar."
+            }
+        },
+        {
+            "id": "phr-280",
+            "phrase": "hold a grudge",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "kiməsə uzun müddət kin saxlamaq",
+            "example": {
+                "en": "I don't hold a grudge — I forgave him long ago.",
+                "az": "Mən kin saxlamıram — onu çoxdan bağışlamışam."
+            }
+        },
+        {
+            "id": "phr-281",
+            "phrase": "water under the bridge",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "keçmişdə qalmış, artıq önəmi olmayan problem",
+            "example": {
+                "en": "That argument is water under the bridge now.",
+                "az": "O mübahisə artıq keçmişdə qalıb."
+            }
+        },
+        {
+            "id": "phr-282",
+            "phrase": "straight from the horse's mouth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "birbaşa, etibarlı mənbədən (məlumat)",
+            "example": {
+                "en": "I heard it straight from the horse's mouth.",
+                "az": "Bunu birbaşa etibarlı mənbədən eşitdim."
+            }
+        },
+        {
+            "id": "phr-283",
+            "phrase": "word of mouth",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "adamdan-adama şifahi yayılan məlumat",
+            "example": {
+                "en": "The restaurant became popular through word of mouth.",
+                "az": "Restoran adamdan-adama yayılan sözlə məşhurlaşdı."
+            }
+        },
+        {
+            "id": "phr-284",
+            "phrase": "come clean",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "həqiqəti etiraf etmək",
+            "example": {
+                "en": "He finally came clean about what happened.",
+                "az": "O, nəhayət baş verənlər barədə həqiqəti etiraf etdi."
+            }
+        },
+        {
+            "id": "phr-285",
+            "phrase": "have a bone to pick with someone",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kiminləsə narazılığını bildirmək istəmək",
+            "example": {
+                "en": "I have a bone to pick with you about last night.",
+                "az": "Dünən gecəki hadisə barədə səninlə danışmalıyam (narazılığım var)."
+            }
+        },
+        {
+            "id": "phr-286",
+            "phrase": "a social butterfly",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "asanlıqla dost tapan, ünsiyyətcil insan",
+            "example": {
+                "en": "She's a social butterfly at every party.",
+                "az": "O, hər məclisdə asanlıqla hamı ilə ünsiyyət qurur."
+            }
+        }
+    ]
+}

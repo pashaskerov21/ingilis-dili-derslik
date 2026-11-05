@@ -1,0 +1,302 @@
+{
+    "category": "pul-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-167",
+            "phrase": "break the bank",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox baha başa gəlmək, bütün pulu xərcləmək",
+            "example": {
+                "en": "The car is expensive, but it won't break the bank.",
+                "az": "Maşın bahadır, amma bütün büdcəmizi bitirməyəcək."
+            }
+        },
+        {
+            "id": "phr-168",
+            "phrase": "a penny saved is a penny earned",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "qənaət etmək qazanmaqla eynidir",
+            "example": {
+                "en": "You should invest in savings — a penny saved is a penny earned.",
+                "az": "Qənaətə yatırım etməlisən — qənaət edilən pul da qazanılan pul kimidir."
+            }
+        },
+        {
+            "id": "phr-169",
+            "phrase": "born with a silver spoon in your mouth",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "varlı ailədə doğulmuş",
+            "example": {
+                "en": "She never had to work since she was born with a silver spoon in her mouth.",
+                "az": "O, varlı ailədə doğulduğu üçün heç vaxt işləməli olmayıb."
+            }
+        },
+        {
+            "id": "phr-170",
+            "phrase": "fork over",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "istəməyərək böyük məbləğ ödəmək",
+            "example": {
+                "en": "I had to fork over $500 to get my car out of the impound.",
+                "az": "Maşınımı geri almaq üçün 500 dollar ödəməli oldum."
+            }
+        },
+        {
+            "id": "phr-171",
+            "phrase": "the golden handshake",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "işdən çıxarılan işçiyə verilən böyük kompensasiya",
+            "example": {
+                "en": "The company gave 50 employees the golden handshake last week.",
+                "az": "Şirkət keçən həftə 50 işçiyə böyük kompensasiya ödəyərək işdən çıxardı."
+            }
+        },
+        {
+            "id": "phr-172",
+            "phrase": "tightfisted",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "xəsis, pul xərcləməyi sevməyən",
+            "example": {
+                "en": "He's so tightfisted that he never buys anyone a drink.",
+                "az": "O, o qədər xəsisdir ki, heç kimə içki almaz."
+            }
+        },
+        {
+            "id": "phr-173",
+            "phrase": "gravy train",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "az işlə çox pul qazanmaq",
+            "example": {
+                "en": "Lucky Tim! His job is a real gravy train.",
+                "az": "Şanslı Tim! Onun işi əsl gravy train (asan pul mənbəyi)dir."
+            }
+        },
+        {
+            "id": "phr-174",
+            "phrase": "nest egg",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gələcək üçün yığılan pul",
+            "example": {
+                "en": "I've been saving for years so I'll have a nice nest egg when I retire.",
+                "az": "İllərdir qənaət edirəm ki, təqaüdə çıxanda yaxşı ehtiyatım olsun."
+            }
+        },
+        {
+            "id": "phr-175",
+            "phrase": "cook the books",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "maliyyə hesabatlarını saxtalaşdırmaq",
+            "example": {
+                "en": "The accountant was arrested for cooking the books.",
+                "az": "Mühasib maliyyə hesabatlarını saxtalaşdırdığı üçün həbs olundu."
+            }
+        },
+        {
+            "id": "phr-176",
+            "phrase": "tighten your belt",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "xərcləri azaltmaq, qənaətlə yaşamaq",
+            "example": {
+                "en": "We were both laid off, so we'll have to tighten our belts.",
+                "az": "Hər ikimiz işdən çıxarıldıq, ona görə qənaətlə yaşamalıyıq."
+            }
+        },
+        {
+            "id": "phr-177",
+            "phrase": "live hand to mouth",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çətinliklə, ancaq zəruri ehtiyacları qarşılayaraq yaşamaq",
+            "example": {
+                "en": "Since the downturn, we've been living hand to mouth.",
+                "az": "Böhrandan bəri biz güclə dolanırıq."
+            }
+        },
+        {
+            "id": "phr-178",
+            "phrase": "rags to riches",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yoxsulluqdan varlılığa keçid",
+            "example": {
+                "en": "Her rags to riches journey is like a movie script.",
+                "az": "Onun yoxsulluqdan varlılığa yolu bir film ssenarisi kimidir."
+            }
+        },
+        {
+            "id": "phr-179",
+            "phrase": "worth its weight in gold",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çox dəyərli olmaq",
+            "example": {
+                "en": "He's an asset to the company — worth his weight in gold.",
+                "az": "O, şirkət üçün çox dəyərlidir — qızıl qədər qiymətlidir."
+            }
+        },
+        {
+            "id": "phr-180",
+            "phrase": "foot the bill",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hesabı ödəmək",
+            "example": {
+                "en": "I'll foot the bill for his education as long as his grades are good.",
+                "az": "Qiymətləri yaxşı olduğu müddətcə onun təhsili üçün mən ödəyəcəm."
+            }
+        },
+        {
+            "id": "phr-181",
+            "phrase": "money doesn't grow on trees",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "pul asanlıqla qazanılmır",
+            "example": {
+                "en": "Stop asking for new things — money doesn't grow on trees.",
+                "az": "Yeni şeylər istəməyi dayandır — pul ağacda bitmir."
+            }
+        },
+        {
+            "id": "phr-182",
+            "phrase": "penny wise, pound foolish",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kiçik məsələlərdə qənaətcil, böyük məsələlərdə ehtiyatsız",
+            "example": {
+                "en": "Skipping car maintenance is penny wise, pound foolish.",
+                "az": "Maşın texniki xidmətini buraxmaq kiçikdə qənaət, böyükdə itkidir."
+            }
+        },
+        {
+            "id": "phr-183",
+            "phrase": "put money aside",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "gələcək üçün pul yığmaq",
+            "example": {
+                "en": "She puts some money aside for her retirement every month.",
+                "az": "O, hər ay təqaüdü üçün müəyyən pul yığır."
+            }
+        },
+        {
+            "id": "phr-184",
+            "phrase": "squander money",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "pulu israf etmək",
+            "example": {
+                "en": "She squandered all her money on clothes and fast cars.",
+                "az": "O, bütün pulunu geyimə və sürətli maşınlara israf etdi."
+            }
+        },
+        {
+            "id": "phr-185",
+            "phrase": "splash out on",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir şeyə çox pul xərcləmək (adətən lüks əşya)",
+            "example": {
+                "en": "He splashed out on a brand-new car.",
+                "az": "O, tamamilə yeni maşına çox pul xərclədi."
+            }
+        },
+        {
+            "id": "phr-186",
+            "phrase": "raise money",
+            "type": "collocation",
+            "level": "A2",
+            "meaning": "bir məqsəd üçün pul toplamaq",
+            "example": {
+                "en": "We have raised enough money for building the hospital.",
+                "az": "Xəstəxananın tikintisi üçün kifayət qədər pul topladıq."
+            }
+        },
+        {
+            "id": "phr-187",
+            "phrase": "take out a mortgage",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "ev almaq üçün bank krediti götürmək",
+            "example": {
+                "en": "We need to take out a mortgage if we want to buy this house.",
+                "az": "Bu evi almaq istəyiriksə, ipoteka götürməliyik."
+            }
+        },
+        {
+            "id": "phr-188",
+            "phrase": "pay in installments",
+            "type": "collocation",
+            "level": "B1",
+            "meaning": "borcu hissə-hissə ödəmək",
+            "example": {
+                "en": "You can pay the money back in installments.",
+                "az": "Pulu hissə-hissə geri ödəyə bilərsən."
+            }
+        },
+        {
+            "id": "phr-189",
+            "phrase": "a fool and his money are soon parted",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "diqqətsiz insan pulunu tez itirir",
+            "example": {
+                "en": "Investing in that scam shows a fool and his money are soon parted.",
+                "az": "O fırıldağa investisiya etmək göstərir ki, ağılsız adam pulundan tez ayrılır."
+            }
+        },
+        {
+            "id": "phr-190",
+            "phrase": "rolling in it",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox varlı olmaq",
+            "example": {
+                "en": "My boss earns a lot of money — he's rolling in it.",
+                "az": "Rəisim çox pul qazanır — o, pul içində üzür."
+            }
+        },
+        {
+            "id": "phr-191",
+            "phrase": "make a killing",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "qısa müddətdə böyük mənfəət əldə etmək",
+            "example": {
+                "en": "He made a killing on the stock market last year.",
+                "az": "O, keçən il fond birjasında böyük qazanc əldə etdi."
+            }
+        },
+        {
+            "id": "phr-192",
+            "phrase": "time is money",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "vaxt qiymətlidir, israf edilməməlidir",
+            "example": {
+                "en": "Let's finish this quickly — time is money.",
+                "az": "Bunu tez bitirək — vaxt puldur."
+            }
+        },
+        {
+            "id": "phr-193",
+            "phrase": "not worth a penny",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "heç bir dəyəri olmamaq",
+            "example": {
+                "en": "This old device isn't worth a penny anymore.",
+                "az": "Bu köhnə cihazın artıq heç bir dəyəri yoxdur."
+            }
+        }
+    ]
+}

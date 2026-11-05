@@ -1,0 +1,456 @@
+{
+    "category": "ugur-ugursuzluq-ifadeleri",
+    "phrases": [
+        {
+            "id": "phr-126",
+            "phrase": "in the bag",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "uğurun/qələbənin təmin olunmuş olması",
+            "example": {
+                "en": "Don't worry about the exam results — it's in the bag.",
+                "az": "İmtahan nəticələrindən narahat olma — qələbə cibimizdədir."
+            }
+        },
+        {
+            "id": "phr-127",
+            "phrase": "on a roll",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "davamlı uğur/xoş bəxt dövrü keçirmək",
+            "example": {
+                "en": "Our team has won three games in a row — we're on a roll!",
+                "az": "Komandamız arxa-arxaya üç oyun qazandı — uğur dövrümüzdür!"
+            }
+        },
+        {
+            "id": "phr-128",
+            "phrase": "bear fruit",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "müsbət/uğurlu nəticə vermək",
+            "example": {
+                "en": "After years of hard work, his research finally began to bear fruit.",
+                "az": "İllərlə çəkilən zəhmətdən sonra onun tədqiqatı nəhayət bəhrəsini verməyə başladı."
+            }
+        },
+        {
+            "id": "phr-129",
+            "phrase": "come up trumps",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "gözlənilmədən uğur qazanmaq",
+            "example": {
+                "en": "Against all expectations, our team came up trumps in the cup final.",
+                "az": "Bütün gözləntilərə baxmayaraq, komandamız kubok finalında gözlənilməz uğur qazandı."
+            }
+        },
+        {
+            "id": "phr-130",
+            "phrase": "come up roses",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çətinliklərə baxmayaraq hər şeyin yaxşı nəticələnməsi",
+            "example": {
+                "en": "After several disappointments, everything seems to be coming up roses this year.",
+                "az": "Bir neçə məyusluqdan sonra, bu il hər şey yolunda görünür."
+            }
+        },
+        {
+            "id": "phr-131",
+            "phrase": "on course for",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir nəticəyə doğru irəliləyən, ehtimal olunan",
+            "example": {
+                "en": "Our team is on course for a victory in the national championship.",
+                "az": "Komandamız milli çempionatda qələbəyə doğru gedir."
+            }
+        },
+        {
+            "id": "phr-132",
+            "phrase": "on the crest of a wave",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "ən uğurlu dövrünü yaşamaq",
+            "example": {
+                "en": "The band is on the crest of a wave after their latest album's success.",
+                "az": "Qrup son albomunun uğurundan sonra ən yaxşı dövrünü yaşayır."
+            }
+        },
+        {
+            "id": "phr-133",
+            "phrase": "sail through",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətinlik çəkmədən uğurla keçmək",
+            "example": {
+                "en": "The English test was no problem for her — she sailed through it.",
+                "az": "İngilis dili testi onun üçün problem olmadı — asanlıqla keçdi."
+            }
+        },
+        {
+            "id": "phr-134",
+            "phrase": "rise to the occasion",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "çətin şəraitdə gözlənilən səviyyəni göstərmək",
+            "example": {
+                "en": "When her boss broke his leg, she rose to the occasion and represented the company.",
+                "az": "Rəisi ayağını sındıranda, o, vəziyyətə uyğunlaşıb şirkəti təmsil etdi."
+            }
+        },
+        {
+            "id": "phr-135",
+            "phrase": "make the cut",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tələb olunan standarta çatmaq, seçilmək",
+            "example": {
+                "en": "After intensive training, she made the cut and joined the team.",
+                "az": "İntensiv məşqdən sonra o, seçildi və komandaya qoşuldu."
+            }
+        },
+        {
+            "id": "phr-136",
+            "phrase": "make the grade",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tələb olunan səviyyəyə çatmaq",
+            "example": {
+                "en": "He wanted to be a professional player but he didn't make the grade.",
+                "az": "O, peşəkar oyunçu olmaq istəyirdi, amma tələb olunan səviyyəyə çata bilmədi."
+            }
+        },
+        {
+            "id": "phr-137",
+            "phrase": "make a go of it",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "bir işi uğurla həyata keçirmək",
+            "example": {
+                "en": "He opened a restaurant and worked hard to make a go of it.",
+                "az": "O, restoran açdı və onu uğurlu etmək üçün çox çalışdı."
+            }
+        },
+        {
+            "id": "phr-138",
+            "phrase": "come a long way",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "böyük irəliləyiş/uğur qeyd etmək",
+            "example": {
+                "en": "He has come a long way since he opened his first little shop.",
+                "az": "İlk kiçik mağazasını açandan bəri o, uzun yol qət edib."
+            }
+        },
+        {
+            "id": "phr-139",
+            "phrase": "bring the house down",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "çox uğurlu çıxış/performans göstərmək",
+            "example": {
+                "en": "If he sings like that on Saturday, he'll bring the house down.",
+                "az": "Şənbə günü belə oxusa, salonu ayağa qaldıracaq."
+            }
+        },
+        {
+            "id": "phr-140",
+            "phrase": "a roaring success",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "böyük, aşkar uğur",
+            "example": {
+                "en": "The new product launch was a roaring success.",
+                "az": "Yeni məhsulun təqdimatı böyük uğur qazandı."
+            }
+        },
+        {
+            "id": "phr-141",
+            "phrase": "slam dunk",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "asanlıqla, mütləq qazanılacaq uğur",
+            "example": {
+                "en": "Our lawyer will win the case easily — it's a slam dunk.",
+                "az": "Vəkilimiz işi asanlıqla udacaq — bu, mütləq qələbədir."
+            }
+        },
+        {
+            "id": "phr-142",
+            "phrase": "the sky's the limit",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "uğur imkanının sonsuz olması",
+            "example": {
+                "en": "With his talent and determination, the sky's the limit.",
+                "az": "Onun istedadı və qətiyyəti ilə, imkanları sonsuzdur."
+            }
+        },
+        {
+            "id": "phr-143",
+            "phrase": "run rings around someone",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kimisə çox üstələmək, ondan qat-qat yaxşı olmaq",
+            "example": {
+                "en": "The teenager ran rings around the other contestants in the quiz show.",
+                "az": "Yeniyetmə viktorina şousunda digər iştirakçıları geridə qoydu."
+            }
+        },
+        {
+            "id": "phr-144",
+            "phrase": "make a comeback",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "əvvəlki uğurlu mövqeyə qayıtmaq",
+            "example": {
+                "en": "After years away, the singer made a comeback with a new album.",
+                "az": "İllərcə fasilədən sonra müğənni yeni albomla geri qayıtdı."
+            }
+        },
+        {
+            "id": "phr-145",
+            "phrase": "live up to expectations",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gözlənilən standarta çatmaq",
+            "example": {
+                "en": "The movie didn't live up to expectations.",
+                "az": "Film gözləntiləri doğrultmadı."
+            }
+        },
+        {
+            "id": "phr-146",
+            "phrase": "chance your arm",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "uğur şansı az olsa da cəhd etmək",
+            "example": {
+                "en": "He knew there was little hope but he decided to chance his arm anyway.",
+                "az": "Ümid az olsa da, o, yenə də cəhd etməyi qərara aldı."
+            }
+        },
+        {
+            "id": "phr-147",
+            "phrase": "take a chance on",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "risk edərək bir şeyə cəhd etmək",
+            "example": {
+                "en": "My proposal may not be accepted, but I'll take a chance on it.",
+                "az": "Təklifim qəbul olunmaya bilər, amma yenə cəhd edəcəm."
+            }
+        },
+        {
+            "id": "phr-148",
+            "phrase": "every dog has its day",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "hər kəsin uğur qazanacağı vaxtı olar",
+            "example": {
+                "en": "I didn't win this time, but every dog has its day.",
+                "az": "Bu dəfə qazanmadım, amma hər kəsin öz günü olur."
+            }
+        },
+        {
+            "id": "phr-149",
+            "phrase": "on the pig's back",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hər şeyin yolunda getdiyi uğurlu vəziyyət",
+            "example": {
+                "en": "Before the recession, the country was on the pig's back.",
+                "az": "Böhrandan əvvəl ölkə çox uğurlu vəziyyətdə idi."
+            }
+        },
+        {
+            "id": "phr-150",
+            "phrase": "dead in the water",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "uğursuz olmuş, heç bir şans qalmayan (layihə/plan)",
+            "example": {
+                "en": "The new campaign was dead in the water due to poor execution.",
+                "az": "Zəif icra səbəbindən yeni kampaniya tamamilə uğursuz oldu."
+            }
+        },
+        {
+            "id": "phr-151",
+            "phrase": "bite the dust",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "uğursuz olmaq, məğlub olmaq",
+            "example": {
+                "en": "His political ambitions bit the dust after losing the election.",
+                "az": "Seçkini uduzduqdan sonra onun siyasi hədəfləri puça çıxdı."
+            }
+        },
+        {
+            "id": "phr-152",
+            "phrase": "cook someone's goose",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "kiminsə uğur şansını korlamaq",
+            "example": {
+                "en": "When the burglar saw the police car, he knew his goose was cooked.",
+                "az": "Oğru polis maşınını görəndə işinin bitdiyini anladı."
+            }
+        },
+        {
+            "id": "phr-153",
+            "phrase": "fall at the first hurdle",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "ilk çətinlikdə uğursuz olmaq",
+            "example": {
+                "en": "He fell at the first hurdle — he didn't study enough and failed the exam.",
+                "az": "O, ilk maneədə uğursuz oldu — kifayət qədər hazırlaşmadı və imtahandan kəsildi."
+            }
+        },
+        {
+            "id": "phr-154",
+            "phrase": "fall by the wayside",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "yarımçıq qalmaq, tərk edilmək (plan)",
+            "example": {
+                "en": "Plans for the new road fell by the wayside due to protests.",
+                "az": "Etirazlar səbəbindən yeni yol planları yarımçıq qaldı."
+            }
+        },
+        {
+            "id": "phr-155",
+            "phrase": "fall flat",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "gözlənilən effekti verməmək (zarafat, plan)",
+            "example": {
+                "en": "His jokes fell flat during the speech.",
+                "az": "Onun zarafatları çıxış zamanı təsir bağışlamadı."
+            }
+        },
+        {
+            "id": "phr-156",
+            "phrase": "fall from grace",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "nüfuzunu/hörmətini itirmək (səhv əməlinə görə)",
+            "example": {
+                "en": "The politician fell from grace after the scandal.",
+                "az": "Siyasətçi qalmaqaldan sonra nüfuzunu itirdi."
+            }
+        },
+        {
+            "id": "phr-157",
+            "phrase": "beat yourself up",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "öz səhvinə görə həddindən artıq özünü qınamaq",
+            "example": {
+                "en": "Don't beat yourself up over one mistake.",
+                "az": "Bir səhvə görə özünü bu qədər qınama."
+            }
+        },
+        {
+            "id": "phr-158",
+            "phrase": "at a low ebb",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "adətdən daha zəif/uğursuz vəziyyətdə",
+            "example": {
+                "en": "The team's morale was at a low ebb after the defeat.",
+                "az": "Məğlubiyyətdən sonra komandanın əhval-ruhiyyəsi çox aşağı idi."
+            }
+        },
+        {
+            "id": "phr-159",
+            "phrase": "close but no cigar",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "uğura yaxın olub, amma nail olmamaq",
+            "example": {
+                "en": "You almost guessed the right answer — close but no cigar.",
+                "az": "Az qala düzgün cavabı tapmışdın — yaxın oldun, amma alınmadı."
+            }
+        },
+        {
+            "id": "phr-160",
+            "phrase": "chasing rainbows",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "əldə edilməsi mümkün olmayan hədəf güdmək",
+            "example": {
+                "en": "He's been chasing rainbows with that unrealistic business idea.",
+                "az": "O, real olmayan biznes fikri ilə əlçatmaz xəyal dalınca gedir."
+            }
+        },
+        {
+            "id": "phr-161",
+            "phrase": "fight a losing battle",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "uğursuz olacağı əvvəlcədən bəlli olan mübarizə aparmaq",
+            "example": {
+                "en": "Trying to convince him is like fighting a losing battle.",
+                "az": "Onu inandırmağa çalışmaq əvvəlcədən uğursuz mübarizə aparmaq kimidir."
+            }
+        },
+        {
+            "id": "phr-162",
+            "phrase": "not worth the candle",
+            "type": "idiom",
+            "level": "C1",
+            "meaning": "gəlirin/faydanın çəkilən əziyyətə dəyməməsi",
+            "example": {
+                "en": "He recorded an album but sold few copies — the cake wasn't worth the candle.",
+                "az": "O, albom yazdı, amma az satdı — bu, çəkilən əziyyətə dəymədi."
+            }
+        },
+        {
+            "id": "phr-163",
+            "phrase": "back to the drawing board",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "uğursuzluqdan sonra yenidən planlaşdırmaq",
+            "example": {
+                "en": "The plan failed, so it's back to the drawing board.",
+                "az": "Plan uğursuz oldu, ona görə yenidən başlamalıyıq."
+            }
+        },
+        {
+            "id": "phr-164",
+            "phrase": "make or break",
+            "type": "idiom",
+            "level": "B1",
+            "meaning": "tam uğur və ya tam uğursuzluğa səbəb ola biləcək amil",
+            "example": {
+                "en": "This assignment will make or break his career.",
+                "az": "Bu tapşırıq onun karyerasını ya edəcək, ya da məhv edəcək."
+            }
+        },
+        {
+            "id": "phr-165",
+            "phrase": "live to fight another day",
+            "type": "idiom",
+            "level": "B2",
+            "meaning": "hazırkı uğursuzluğa baxmayaraq gələcəkdə yeni şans olması",
+            "example": {
+                "en": "He lost the match, but he lived to fight another day.",
+                "az": "O, matçı uduzdu, amma növbəti şansı olacaq."
+            }
+        },
+        {
+            "id": "phr-166",
+            "phrase": "have a long way to go",
+            "type": "idiom",
+            "level": "A2",
+            "meaning": "hədəfə çatmaq üçün hələ çox iş qalması",
+            "example": {
+                "en": "The editor said the book had a long way to go before publication.",
+                "az": "Redaktor dedi ki, kitabın nəşrə qədər hələ çox yolu var."
+            }
+        }
+    ]
+}

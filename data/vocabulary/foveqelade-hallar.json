@@ -1,0 +1,243 @@
+{
+    "category": "foveqelade-hallar",
+    "words": [
+        {
+            "id": "emg-001",
+            "word": "danger",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "təhlükə"
+        },
+        {
+            "id": "emg-002",
+            "word": "safe",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "təhlükəsiz"
+        },
+        {
+            "id": "emg-003",
+            "word": "fire",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "yanğın"
+        },
+        {
+            "id": "emg-004",
+            "word": "help",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "kömək"
+        },
+        {
+            "id": "emg-005",
+            "word": "emergency",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "təcili hal"
+        },
+        {
+            "id": "emg-006",
+            "word": "fire alarm",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yanğın həyəcan siqnalı"
+        },
+        {
+            "id": "emg-007",
+            "word": "fire exit",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yanğın çıxışı"
+        },
+        {
+            "id": "emg-008",
+            "word": "fire extinguisher",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "yanğınsöndürən"
+        },
+        {
+            "id": "emg-009",
+            "word": "ambulance",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "təcili yardım maşını"
+        },
+        {
+            "id": "emg-010",
+            "word": "first aid",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ilk yardım"
+        },
+        {
+            "id": "emg-011",
+            "word": "warning",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "xəbərdarlıq"
+        },
+        {
+            "id": "emg-012",
+            "word": "rescue",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "xilas etmək"
+        },
+        {
+            "id": "emg-013",
+            "word": "survive",
+            "level": "A2",
+            "partOfSpeech": "verb",
+            "translation": "sağ qalmaq"
+        },
+        {
+            "id": "emg-014",
+            "word": "accident",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "qəza"
+        },
+        {
+            "id": "emg-015",
+            "word": "injury",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "zədə"
+        },
+        {
+            "id": "emg-016",
+            "word": "hazard",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "təhlükə mənbəyi"
+        },
+        {
+            "id": "emg-017",
+            "word": "evacuation",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təxliyə"
+        },
+        {
+            "id": "emg-018",
+            "word": "evacuate",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "təxliyə etmək"
+        },
+        {
+            "id": "emg-019",
+            "word": "siren",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "siren"
+        },
+        {
+            "id": "emg-020",
+            "word": "shelter",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sığınacaq"
+        },
+        {
+            "id": "emg-021",
+            "word": "paramedic",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təcili tibbi yardım işçisi"
+        },
+        {
+            "id": "emg-022",
+            "word": "CPR",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "süni tənəffüs (ürək-ağciyər reanimasiyası)"
+        },
+        {
+            "id": "emg-023",
+            "word": "emergency services",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təcili xidmətlər"
+        },
+        {
+            "id": "emg-024",
+            "word": "emergency exit",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təcili çıxış"
+        },
+        {
+            "id": "emg-025",
+            "word": "casualty",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "zərərçəkmiş şəxs (qəzada)"
+        },
+        {
+            "id": "emg-026",
+            "word": "911",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təcili yardım nömrəsi (ABŞ)"
+        },
+        {
+            "id": "emg-027",
+            "word": "smoke detector",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "tüstü detektoru"
+        },
+        {
+            "id": "emg-028",
+            "word": "first responder",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "ilk müdaxilə edən şəxs"
+        },
+        {
+            "id": "emg-029",
+            "word": "distress signal",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "təhlükə siqnalı"
+        },
+        {
+            "id": "emg-030",
+            "word": "collapse",
+            "level": "B1",
+            "partOfSpeech": "verb",
+            "translation": "yıxılmaq, uçmaq (bina)"
+        },
+        {
+            "id": "emg-031",
+            "word": "life-threatening",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "həyat üçün təhlükəli"
+        },
+        {
+            "id": "emg-032",
+            "word": "quarantine",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "karantin"
+        },
+        {
+            "id": "emg-033",
+            "word": "crisis management",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "böhran idarəetməsi"
+        },
+        {
+            "id": "emg-034",
+            "word": "triage",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "prioritetləşdirmə (tibbi, ağırlığa görə)"
+        }
+    ]
+}

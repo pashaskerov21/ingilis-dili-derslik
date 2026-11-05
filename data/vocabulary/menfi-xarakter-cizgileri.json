@@ -1,0 +1,362 @@
+{
+    "category": "menfi-xarakter-cizgileri",
+    "words": [
+        {
+            "id": "neg-001",
+            "word": "lazy",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "tənbəl"
+        },
+        {
+            "id": "neg-002",
+            "word": "rude",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "kobud"
+        },
+        {
+            "id": "neg-003",
+            "word": "selfish",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "eqoist"
+        },
+        {
+            "id": "neg-004",
+            "word": "shy",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "utancaq"
+        },
+        {
+            "id": "neg-005",
+            "word": "quiet",
+            "level": "A1",
+            "partOfSpeech": "adjective",
+            "translation": "sakit, az danışan"
+        },
+        {
+            "id": "neg-006",
+            "word": "stubborn",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "inadkar"
+        },
+        {
+            "id": "neg-007",
+            "word": "jealous",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "qısqanc"
+        },
+        {
+            "id": "neg-008",
+            "word": "arrogant",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "təkəbbürlü"
+        },
+        {
+            "id": "neg-009",
+            "word": "dishonest",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "dürüst olmayan"
+        },
+        {
+            "id": "neg-010",
+            "word": "impatient",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "səbirsiz"
+        },
+        {
+            "id": "neg-011",
+            "word": "greedy",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "acgöz"
+        },
+        {
+            "id": "neg-012",
+            "word": "cruel",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "zalım"
+        },
+        {
+            "id": "neg-013",
+            "word": "moody",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "dəyişkən əhval-ruhiyyəli"
+        },
+        {
+            "id": "neg-014",
+            "word": "clumsy",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "bacarıqsız, əli-qolu bağlı"
+        },
+        {
+            "id": "neg-015",
+            "word": "childish",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "uşaq kimi (mənfi mənada)"
+        },
+        {
+            "id": "neg-016",
+            "word": "reserved",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "qapalı, az açıq"
+        },
+        {
+            "id": "neg-017",
+            "word": "sensitive",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "həssas"
+        },
+        {
+            "id": "neg-018",
+            "word": "cautious",
+            "level": "A2",
+            "partOfSpeech": "adjective",
+            "translation": "ehtiyatlı"
+        },
+        {
+            "id": "neg-019",
+            "word": "cocky",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "özündənrazı"
+        },
+        {
+            "id": "neg-020",
+            "word": "controlling",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "hər şeyə nəzarət etmək istəyən"
+        },
+        {
+            "id": "neg-021",
+            "word": "insecure",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "özünə əmin olmayan"
+        },
+        {
+            "id": "neg-022",
+            "word": "rebellious",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "üsyankar"
+        },
+        {
+            "id": "neg-023",
+            "word": "rowdy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "səs-küylü, nizamsız"
+        },
+        {
+            "id": "neg-024",
+            "word": "sleazy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "şübhəli, çirkin (əxlaqi)"
+        },
+        {
+            "id": "neg-025",
+            "word": "spoiled",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "şıllaqlanmış (uşaqlıqdan)"
+        },
+        {
+            "id": "neg-026",
+            "word": "sassy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "sərt cavab verən, cürətli dilli"
+        },
+        {
+            "id": "neg-027",
+            "word": "cowardly",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "qorxaq"
+        },
+        {
+            "id": "neg-028",
+            "word": "aggressive",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "aqressiv"
+        },
+        {
+            "id": "neg-029",
+            "word": "bossy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "əmr etməyi sevən"
+        },
+        {
+            "id": "neg-030",
+            "word": "conceited",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "özünü hər şeydən üstün sayan"
+        },
+        {
+            "id": "neg-031",
+            "word": "deceitful",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "aldadıcı"
+        },
+        {
+            "id": "neg-032",
+            "word": "manipulative",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "manipulyasiya edən"
+        },
+        {
+            "id": "neg-033",
+            "word": "narrow-minded",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "dar düşüncəli"
+        },
+        {
+            "id": "neg-034",
+            "word": "nosy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "hər şeyə burnunu soxan"
+        },
+        {
+            "id": "neg-035",
+            "word": "pessimistic",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "bədbin"
+        },
+        {
+            "id": "neg-036",
+            "word": "possessive",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "sahiblik hissi güclü"
+        },
+        {
+            "id": "neg-037",
+            "word": "reckless",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "ehtiyatsız, düşünmədən hərəkət edən"
+        },
+        {
+            "id": "neg-038",
+            "word": "stingy",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "xəsis"
+        },
+        {
+            "id": "neg-039",
+            "word": "vain",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "özünü bəyənmiş"
+        },
+        {
+            "id": "neg-040",
+            "word": "spontaneous",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "spontan, plansız hərəkət edən (neytral)"
+        },
+        {
+            "id": "neg-041",
+            "word": "eccentric",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "qəribə, adətdən kənar (neytral)"
+        },
+        {
+            "id": "neg-042",
+            "word": "stern",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "sərt, ciddi"
+        },
+        {
+            "id": "neg-043",
+            "word": "gullible",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "asanlıqla aldadılan"
+        },
+        {
+            "id": "neg-044",
+            "word": "indecisive",
+            "level": "B1",
+            "partOfSpeech": "adjective",
+            "translation": "qərarsız"
+        },
+        {
+            "id": "neg-045",
+            "word": "condescending",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "təkəbbürlə yuxarıdan baxan"
+        },
+        {
+            "id": "neg-046",
+            "word": "vindictive",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "qisasçı"
+        },
+        {
+            "id": "neg-047",
+            "word": "callous",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "hissiz, laqeyd"
+        },
+        {
+            "id": "neg-048",
+            "word": "impulsive",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "impulsiv"
+        },
+        {
+            "id": "neg-049",
+            "word": "obstinate",
+            "level": "B2",
+            "partOfSpeech": "adjective",
+            "translation": "inadkar (rəsmi)"
+        },
+        {
+            "id": "neg-050",
+            "word": "idiosyncratic",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "özünəməxsus, qeyri-adi"
+        },
+        {
+            "id": "neg-051",
+            "word": "pensive",
+            "level": "C1",
+            "partOfSpeech": "adjective",
+            "translation": "dərin fikrə dalmış (neytral)"
+        }
+    ]
+}

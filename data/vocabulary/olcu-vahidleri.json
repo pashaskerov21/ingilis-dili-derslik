@@ -1,0 +1,243 @@
+{
+    "category": "olcu-vahidleri",
+    "words": [
+        {
+            "id": "unt-001",
+            "word": "kilometre",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "kilometr"
+        },
+        {
+            "id": "unt-002",
+            "word": "metre",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "metr"
+        },
+        {
+            "id": "unt-003",
+            "word": "kilogram",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "kiloqram"
+        },
+        {
+            "id": "unt-004",
+            "word": "gram",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "qram"
+        },
+        {
+            "id": "unt-005",
+            "word": "litre",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "litr"
+        },
+        {
+            "id": "unt-006",
+            "word": "degree",
+            "level": "A1",
+            "partOfSpeech": "noun",
+            "translation": "dərəcə (temperatur)"
+        },
+        {
+            "id": "unt-007",
+            "word": "centimetre",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "santimetr"
+        },
+        {
+            "id": "unt-008",
+            "word": "millimetre",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "millimetr"
+        },
+        {
+            "id": "unt-009",
+            "word": "milliliter",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "millilitr"
+        },
+        {
+            "id": "unt-010",
+            "word": "percent",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "faiz"
+        },
+        {
+            "id": "unt-011",
+            "word": "weight",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "çəki"
+        },
+        {
+            "id": "unt-012",
+            "word": "length",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "uzunluq"
+        },
+        {
+            "id": "unt-013",
+            "word": "height",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "hündürlük, boy"
+        },
+        {
+            "id": "unt-014",
+            "word": "width",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "en"
+        },
+        {
+            "id": "unt-015",
+            "word": "distance",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "məsafə"
+        },
+        {
+            "id": "unt-016",
+            "word": "speed",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "sürət"
+        },
+        {
+            "id": "unt-017",
+            "word": "mile",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "mil"
+        },
+        {
+            "id": "unt-018",
+            "word": "ton",
+            "level": "A2",
+            "partOfSpeech": "noun",
+            "translation": "ton"
+        },
+        {
+            "id": "unt-019",
+            "word": "depth",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "dərinlik"
+        },
+        {
+            "id": "unt-020",
+            "word": "area",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "sahə"
+        },
+        {
+            "id": "unt-021",
+            "word": "volume",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "həcm"
+        },
+        {
+            "id": "unt-022",
+            "word": "square metre",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "kvadrat metr"
+        },
+        {
+            "id": "unt-023",
+            "word": "foot",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "fut (ölçü vahidi)"
+        },
+        {
+            "id": "unt-024",
+            "word": "inch",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "düym"
+        },
+        {
+            "id": "unt-025",
+            "word": "pound",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "funt (çəki)"
+        },
+        {
+            "id": "unt-026",
+            "word": "ounce",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "unsiya"
+        },
+        {
+            "id": "unt-027",
+            "word": "gallon",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "qallon"
+        },
+        {
+            "id": "unt-028",
+            "word": "Celsius",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Selsi (temperatur şkalası)"
+        },
+        {
+            "id": "unt-029",
+            "word": "Fahrenheit",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "Farenheyt"
+        },
+        {
+            "id": "unt-030",
+            "word": "ratio",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "nisbət"
+        },
+        {
+            "id": "unt-031",
+            "word": "proportion",
+            "level": "B1",
+            "partOfSpeech": "noun",
+            "translation": "mütənasiblik"
+        },
+        {
+            "id": "unt-032",
+            "word": "diameter",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "diametr"
+        },
+        {
+            "id": "unt-033",
+            "word": "circumference",
+            "level": "B2",
+            "partOfSpeech": "noun",
+            "translation": "çevrə (perimetr)"
+        },
+        {
+            "id": "unt-034",
+            "word": "metric system",
+            "level": "C1",
+            "partOfSpeech": "noun",
+            "translation": "metrik sistem"
+        }
+    ]
+}
