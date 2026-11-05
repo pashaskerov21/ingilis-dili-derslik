@@ -137,10 +137,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.3.4-dəki qaydaya uyğun olaraq, <em>is/are</em> özü köməkçi
-              rolunu daşıdığı üçün sadəcə <em>not</em> əlavə olunur.
-              Qeyri-müəyyən kontekstdə inkarda adətən <em>any</em> istifadə
-              olunur (bax: Fəsil 2 — Kəmiyyət göstəriciləri).
+              <em>Is/are</em> özü köməkçi rolunu daşıdığı üçün inkar forması
+              üçün sadəcə <em>not</em> əlavə olunur. Qeyri-müəyyən kontekstdə
+              inkarda adətən <em>any</em> istifadə olunur, bu da kəmiyyət
+              göstəriciləri ilə bağlı daha geniş açıqlamanın bir hissəsidir.
             </p>
             <ExampleList
               examples={[
@@ -168,8 +168,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Subyekt-köməkçi fel inversiyası (1.2.3) burada da eynilə tətbiq
-              olunur: <em>is/are</em> <em>there</em>-dan əvvələ keçir.
+              Sual qurarkən köməkçi fel <em>there</em>-dan əvvəl gəlir: ilk
+              olaraq <em>is/are</em> işlənir, sonra subyekt və ya mövcudluq
+              ifadəsi gəlir.
             </p>
             <ExampleList
               examples={[
@@ -308,7 +309,7 @@ export default function Page() {
             Azərbaycan dilində "var/yoxdur" mövcudluğu bildirmək üçün kifayət
             edir və heç bir "boş subyekt"ə ehtiyac yoxdur — isim özü subyekt
             rolunu oynayır, fel isə cümlənin sonuna gəlir. İngilis dili isə
-            subyektsiz cümləyə icazə vermədiyi üçün (bax: 1.1), süni bir subyekt
+            subyektsiz cümləyə icazə vermədiyi üçün süni bir subyekt
             (<em>there</em>) yaratmağa məcburdur. Bu, Azərbaycan dilli
             öyrənənlər üçün ən çətin adaptasiya nöqtələrindən biridir, çünki ana
             dildə bu cür "boş" söz mövcud deyil.

@@ -54,11 +54,12 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.4-dəki do-support qaydasına uyğun olaraq, əmr cümləsinin
-              inkarı üçün də köməkçi <em>do</em> tələb olunur — <em>be</em>{" "}
-              felindən fərqli olaraq, əmr cümləsində "not" birbaşa əsas felə
-              əlavə oluna bilməz. Tam forma (<em>do not</em>) daha rəsmi,
-              qısaldılmış forma (<em>don't</em>) daha çox danışıqda işlənir.
+              Cümlədə köməkçi fel yoxdursa, sadə indiki və keçmiş zamanlarda
+              <em> do/does/did </em> forması istifadə olunur. Əmr cümləsinin
+              inkarında da bu qayda işləyir — <em>be</em> felindən fərqli
+              olaraq, əmr cümləsində "not" birbaşa əsas felə əlavə olunmur. Tam
+              forma (<em>do not</em>) daha rəsmi, qısaldılmış forma
+              (<em>don't</em>) isə daha çox danışıq üslubunda işlənir.
             </p>
             <ExampleList
               examples={[
@@ -115,10 +116,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Diqqət — bu, 1.2.4-dəki qrammatik do-support deyil (çünki əmr
-              cümləsi artıq təsdiq formasında köməkçi felə ehtiyac duymur). Bura
-              əlavə olunan <em>do</em> semantik yük daşıyır: cümləni daha{" "}
-              <strong>nəzakətli, təkidli və ya rəsmi</strong> edir.
+              Diqqət — bu, qrammatik <em>do-support</em> deyil. Əmr cümləsi
+              artıq təsdiq formasında köməkçi felə ehtiyac duymur, buna görə
+              burada əlavə olunan <em>do</em> semantik yük daşıyır: cümləni
+              daha <strong>nəzakətli, təkidli və ya rəsmi</strong> edir.
             </p>
             <ExampleList
               examples={[

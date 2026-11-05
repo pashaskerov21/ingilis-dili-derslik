@@ -55,8 +55,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Köməkçi felin daxil olması (bax: 1.2) subject–verb ardıcıllığını
-              pozmur; köməkçi fel əlavə olunur, əsas struktur dəyişməz qalır.
+              Köməkçi fel cümləyə əlavə edilsə də, əsas söz sırası dəyişməz
+              qalır; yalnız qrammatik funksiya artırılır, əsas struktura toxunulmur.
             </p>
             <ExampleList
               examples={[

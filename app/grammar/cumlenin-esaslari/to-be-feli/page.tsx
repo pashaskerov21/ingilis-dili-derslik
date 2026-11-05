@@ -34,7 +34,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               <em>To be</em> ingilis dilinin ən qeyri-müntəzəm (irregular)
               felidir — hazırkı zamanda üç fərqli forma alır, halbuki digər
-              demək olar bütün fellər cəmi iki forma daşıyır (bax: 1.2.4).
+              demək olar bütün fellər cəmi iki forma daşıyır. Bu fərq onun
+              quruluşunu və istifadə nümunələrini daha çox fərqləndirir.
             </p>
             <div className="overflow-x-auto">
               <table className="w-full text-sm border border-line">
@@ -230,9 +231,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.1-də qeyd olunduğu kimi, <em>be</em> özü köməkçi fel statusuna
-              malikdir; buna görə inkar üçün heç bir əlavə köməkçi (do/does)
-              tələb olunmur — sadəcə <em>not</em> əlavə edilir.
+              <em>Be</em> özü köməkçi fel statusuna malikdir; buna görə inkar
+              üçün heç bir əlavə köməkçi (do/does) tələb olunmur — sadəcə
+              <em> not</em> əlavə edilir.
             </p>
             <ExampleList
               examples={[
@@ -260,8 +261,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.3-dəki subyekt-köməkçi fel inversiyası burada da eyni şəkildə
-              tətbiq olunur: <em>be</em> subyektdən əvvələ keçir.
+              Sual qurarkən subyekt-köməkçi fel inversiyası burada da eyni
+              şəkildə tətbiq olunur: <em>be</em> subyektdən əvvələ keçir.
             </p>
             <ExampleList
               examples={[
@@ -286,8 +287,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.7-dəki qaydaya uyğun olaraq, qısa cavabda əsas fel yenidən
-              yazılmır — yalnız subyekt və <em>be</em> forması təkrarlanır.
+              Qısa cavabda əsas fel yenidən yazılmır — yalnız subyekt və
+              <em> be</em> forması təkrarlanır.
             </p>
             <ExampleList
               examples={[
@@ -370,9 +371,10 @@ export default function Page() {
             isimin sonuna birləşir və çox vaxt müstəqil söz kimi görünmür
             ("proqramçı-yam", "hazır-san"). İngilis dilində isə <em>be</em>{" "}
             həmişə ayrı, müstəqil söz kimi yazılır və heç vaxt buraxılmır.
-            İkinci fərq — yuxarıda 1.3.7-də göstərildiyi kimi — yaş ifadəsində
-            istifadə olunan felin özüdür: Azərbaycan dilində "malik olmaq"
-            (var), ingilis dilində isə "olmaq" (be) məntiqi işləyir.
+            İkinci fərq — yuxarıda yaş ifadəsi ilə bağlı izahda göstərildiyi
+            kimi — yaş ifadəsində istifadə olunan felin özüdür: Azərbaycan
+            dilində "malik olmaq" (var), ingilis dilində isə "olmaq" (be)
+            məntiqi işləyir.
           </p>
           <div className="font-mono text-sm space-y-1 text-muted">
             <p>AZ: Mən proqramçı-yam. → EN: I am a programmer.</p>

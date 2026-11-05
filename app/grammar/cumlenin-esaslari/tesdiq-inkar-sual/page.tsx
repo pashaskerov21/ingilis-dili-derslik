@@ -352,9 +352,9 @@ export default function Page() {
             ))}
           </div>
           <p className="text-sm text-muted leading-relaxed">
-            Sonuncu misal (<em>What did happen?</em>) 1.2.6-dakı istisnanın
-            pozulmasıdır — "what" burada subyektdir, ona görə do-support tələb
-            olunmur.
+            Sonuncu misal (<em>What did happen?</em>) subyekt sualı olan
+            istisnanın pozulmasıdır — "what" burada subyektdir, ona görə
+            do-support tələb olunmur.
           </p>
         </section>
 
