@@ -56,8 +56,8 @@ export default function Page() {
                 am/is/are + fel-ing — indi, müvəqqəti, şəxsi gələcək razılaşma
               </code>
               <p className="text-sm text-foreground">
-                always/constantly ilə = narazılıq tonu. Şəxsi razılaşma ≠
-                4.1-dəki rəsmi cədvəl.
+                always/constantly ilə = narazılıq tonu. Şəxsi razılaşma rəsmi
+                cədvəlin əksidir.
               </p>
             </div>
           </div>

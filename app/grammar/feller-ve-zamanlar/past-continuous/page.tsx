@@ -15,10 +15,10 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           Past Continuous keçmişdə <strong>müəyyən bir anda davam edən</strong>{" "}
-          hərəkəti təsvir edir — Past Simple-ın (4.6) bitmiş, nöqtəvi
-          hadisələrindən fərqli olaraq, burada hərəkət həmin andan{" "}
-          <strong>əvvəl başlayıb, sonra da davam edib</strong>. Bu fərq xüsusilə
-          iki zaman birgə işlənəndə həlledici əhəmiyyət kəsb edir.
+          hərəkəti təsvir edir — bitmiş, nöqtəvi hadisələrdən fərqli olaraq,
+          burada hərəkət həmin andan <strong>əvvəl başlayıb, sonra da davam
+          edib</strong>. Bu fərq xüsusilə iki zaman birgə işlənəndə həlledici
+          əhəmiyyət kəsb edir.
         </p>
 
         <section className="space-y-10">
@@ -122,7 +122,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.2.3-ün ("indi müvəqqəti") keçmiş qarşılığı — o dövrdə müvəqqəti,
+              "İndi müvəqqəti" vəziyyətin keçmiş qarşılığı — o dövrdə müvəqqəti,
               sonradan dəyişmiş vəziyyət.
             </p>
             <ExampleList
@@ -143,8 +143,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.2.6-dakı eyni "always + Continuous = şikayət" məntiqi keçmiş
-              zamana da köçürülür.
+              Eyni "always + Continuous = şikayət" məntiqi keçmiş zamana da
+              köçürülür.
             </p>
             <ExampleList
               examples={[
@@ -192,7 +192,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.3-dəki qayda keçmiş zamanda da tam qüvvədədir.
+              Stative fellər haqqında qalan qayda keçmiş zamanda da tam
+              qüvvədədir.
             </p>
             <ExampleList
               examples={[
@@ -213,14 +214,12 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində nəqli keçmiş ("edirdi" formaları) davam edən
             keçmiş hərəkəti bildirə bilir, bu, Past Continuous-a nisbətən yaxın
-            bir konsept təqdim edir. Əsas çətinlik isə 4.7.2/4.7.3-də olduğu
-            kimi,{" "}
+            bir konsept təqdim edir. Əsas çətinlik isə iki fərqli keçmiş zamanın
+            (Simple/Continuous) eyni cümlədə birgə, konkret rolla{" "}
             <strong>
-              iki fərqli keçmiş zamanın (Simple/ Continuous) eyni cümlədə birgə,
-              konkret rolla
+              (kəsən/kəsilən, paralel)
             </strong>{" "}
-            (kəsən/kəsilən, paralel) işlənməsidir — bu qədər sistemli bir ayrım
-            Azərbaycan dilində yoxdur.
+            işlənməsidir — bu qədər sistemli bir ayrım Azərbaycan dilində yoxdur.
           </p>
         </aside>
 

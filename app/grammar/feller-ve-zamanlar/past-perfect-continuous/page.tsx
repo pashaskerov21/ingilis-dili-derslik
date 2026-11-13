@@ -17,9 +17,9 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu, 4.5-dəki Present Perfect Continuous-un birbaşa keçmiş qarşılığıdır
-          — fərq yalnız istinad nöqtəsinin indi deyil, keçmişdəki başqa bir an
-          olmasıdır. 4.8-dəki Past Perfect kimi, diqqət yenə iki keçmiş nöqtə
+          Bu, Present Perfect Continuous-un birbaşa keçmiş qarşılığıdır —
+          fərq yalnız istinad nöqtəsinin indi deyil, keçmişdəki başqa bir an
+          olmasıdır. Past Perfect kimi, diqqət yenə iki keçmiş nöqtə
           arasındakı əlaqədədir, amma burada{" "}
           <strong>müddət və prosesin özü</strong> vurğulanır.
         </p>
@@ -72,8 +72,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.4.5-dəki eyni for/since qaydası, sadəcə istinad nöqtəsi indi
-              deyil, keçmişdə olan bir andır.
+              Eyni for/since qaydası, sadəcə istinad nöqtəsi indi deyil,
+              keçmişdə olan bir andır.
             </p>
             <ExampleList
               examples={[
@@ -149,9 +149,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.8.5-dəki qaydaya uyğun olaraq, əsl cümlə Present Perfect
-              Continuous-da idisə, nəql edərkən bir addım geriyə — Past Perfect
-              Continuous-a keçir.
+              Bu qaydaya uyğun olaraq, əsl cümlə Present Perfect Continuous-da
+              idisə, nəql edərkən bir addım geriyə — Past Perfect Continuous-a
+              keçir.
             </p>
             <ExampleList
               examples={[
@@ -171,8 +171,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.3 və 4.5.8-dəki qaydalar dəyişmədən qalır — stative fellər
-              (know, believe) və anlıq fellər (start, stop) bu formada işlənmir.
+              Stative fellər (know, believe) və anlıq fellər (start, stop) bu
+              formada işlənmir; bu qaydalar dəyişmədən qalır.
             </p>
             <ExampleList
               examples={[
@@ -191,8 +191,8 @@ export default function Page() {
             Azərbaycan dili ilə struktur fərqi
           </h4>
           <p className="text-foreground leading-relaxed">
-            4.5-dəki eyni əsas çətinlik burada bir qat da mürəkkəbləşir — indi
-            təkcə "nəticə/müddət" fərqini deyil, həm də bunun{" "}
+            Eyni əsas çətinlik burada bir qat da mürəkkəbləşir — indi təkcə
+            "nəticə/müddət" fərqini deyil, həm də bunun{" "}
             <strong>hansı keçmiş nöqtəyə qədər</strong> hesablandığını idarə
             etmək lazımdır. Azərbaycan dilində bu üç qatlı qərar (keçmişdə vaxt
             + nəticə/proses + hansı nöqtəyə qədər) ayrı-ayrı qrammatik

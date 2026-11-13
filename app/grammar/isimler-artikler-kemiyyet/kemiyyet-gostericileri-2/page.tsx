@@ -17,8 +17,8 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          2.7-dəki göstəricilər qeyri-dəqiq miqdarı ifadə edirdi (bir az, bir
-          çox). Bu bölmədəki göstəricilər isə <strong>tam əhatəni</strong> —
+          Əvvəlki qrupdakı göstəricilər qeyri-dəqiq miqdarı ifadə edirdi (bir az,
+          bir çox). Bu bölmədəki göstəricilər isə <strong>tam əhatəni</strong> —
           qrupun hamısını, hər bir üzvünü ayrı-ayrılıqda, əksəriyyətini və ya
           heç birini — bildirir. Fərqlər əsasən qrammatik uzlaşmada (tək/cəm
           fel) və vurğu incəliyində gizlənir.
@@ -94,8 +94,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               <strong>All</strong> cəm sayıla bilən və ya sayıla bilməyən isimlə
               işlənir, felin forması ismə uyğunlaşır. Ümumi mənada işlədildikdə{" "}
-              <em>the</em> tələb olunmur (bax: 2.5.1), konkret qrupa aid olduqda
-              isə <em>the</em> qayıdır.
+              <em>the</em> tələb olunmur; konkret qrupa aid olduqda isə{" "}
+              <em>the</em> qayıdır.
             </p>
             <ExampleList
               examples={[
@@ -196,7 +196,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">2.8.7</span>
               <h3 className="font-display text-xl text-foreground">
-                İkiqat inkardan çəkinmək (2.7.8-in davamı)
+                İkiqat inkardan çəkinmək (əvvəlki bölmənin davamı)
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">

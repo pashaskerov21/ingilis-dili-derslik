@@ -17,11 +17,11 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          4.10-da gördüyümüz will/going to əsas gələcək formalarıdır. Bu bölmə
-          isə iki daha spesifik formanı əhatə edir: gələcəkdə{" "}
-          <strong>müəyyən anda davam edəcək</strong> hərəkət (Future Continuous)
-          və gələcəkdə <strong>müəyyən vaxtdan əvvəl bitmiş olacaq</strong>{" "}
-          hərəkət (Future Perfect).
+          Will/going to əsas gələcək formalarıdır. Bu bölmə isə iki daha
+          spesifik formanı əhatə edir: gələcəkdə <strong>müəyyən anda davam
+          edəcək</strong> hərəkət (Future Continuous) və gələcəkdə{" "}
+          <strong>müəyyən vaxtdan əvvəl bitmiş olacaq</strong> hərəkət (Future
+          Perfect).
         </p>
 
         <section className="space-y-10">
@@ -51,7 +51,7 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Gələcəkdə göstərilən bir nöqtədə hərəkət artıq başlamış və davam
-              edir — 4.7-dəki Past Continuous-un gələcək güzgüsü.
+              edir — bu, keçmişdə davam edən hərəkətin gələcəkdəki güzgüsüdür.
             </p>
             <ExampleList
               examples={[
@@ -77,8 +77,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Bu, incə, amma vacib bir fərqdir: Future Continuous hadisəni{" "}
               <strong>təbii olaraq baş verəcək bir şey</strong> kimi təqdim edir
-              — 4.10-dakı "going to" kimi qəsdən qərarlaşdırılmış niyyət deyil,
-              sadəcə "vəziyyətin gedişatı belədir".
+              — qəsdən qərarlaşdırılmış niyyət deyil, sadəcə "vəziyyətin
+              gedişatı belədir".
             </p>
             <ExampleList
               examples={[
@@ -125,8 +125,9 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Gələcəkdə göstərilən vaxta qədər{" "}
-              <strong>artıq bitmiş olacaq</strong> hərəkət — 4.8-dəki Past
-              Perfect-in gələcək güzgüsü. Adətən "by" ilə işlənir.
+              <strong>artıq bitmiş olacaq</strong> hərəkət — keçmişdəki
+              tamamlanma məntiqinin gələcəkdəki güzgüsüdür. Adətən "by" ilə
+              işlənir.
             </p>
             <ExampleList
               examples={[
@@ -150,8 +151,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.5/4.9-dakı Simple/Continuous məntiqi burada da təkrarlanır:
-              nəticə deyil, <strong>müddət</strong> vurğulanmaq istəyəndə{" "}
+              Simple/Continuous məntiqi burada da təkrarlanır: nəticə deyil,
+              <strong>müddət</strong> vurğulanmaq istəyəndə{" "}
               <em>will have been + fel-ing</em> işlədilir.
             </p>
             <ExampleList
@@ -172,9 +173,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.1.7-dəki qayda bu formalara da aiddir —{" "}
-              <em>when, after, until, before</em> ilə başlayan budaq cümlədə
-              Present Simple işlədilir, Future forması yox.
+              Bu qayda bu formalara da aiddir — <em>when, after, until, before</em>
+              ilə başlayan budaq cümlədə Present Simple işlədilir, Future
+              forması yox.
             </p>
             <ExampleList
               examples={[
@@ -196,8 +197,8 @@ export default function Page() {
             Azərbaycan dilində "işləyəcəm" tipli gələcək forması bu iki fərqli
             məna qatını (davam edəcək proses / bitmiş olacaq nəticə) ayırmır —
             kontekstdən çıxarılmalıdır. İngilis dilində isə bu iki qat Present
-            ailəsindəki (4.2 vs 4.4) eyni Simple/Continuous/ Perfect məntiqi ilə
-            leksik cəhətdən ayrılır — bu, bütün fəsil boyu təkrarlanan struktur
+            ailəsindəki eyni Simple/Continuous/Perfect məntiqi ilə leksik
+            cəhətdən ayrılır — bu, bütün fəsil boyu təkrarlanan struktur
             naxışın gələcəyə tətbiqidir.
           </p>
         </aside>

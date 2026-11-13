@@ -82,9 +82,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.2.6-dakı qeyri-müntəzəm cəm formaları (children, men, women,
-              people) -s ilə bitmədiyi üçün, bunlarda 2.6.1-dəki tək qayda
-              tətbiq olunur — tam "'s" əlavə edilir.
+              Qeyri-müntəzəm cəm formaları (children, men, women, people) -s ilə
+              bitmədiyi üçün, bunlarda tək isimlərdəki qayda tətbiq olunur —
+              tam "'s" əlavə edilir.
             </p>
             <ExampleList
               examples={[
@@ -247,8 +247,8 @@ export default function Page() {
               <em>'s</em> üstünlük təşkil edir,{" "}
               <strong>cansız/mücərrəd obyektlərlə</strong> isə <em>of</em> daha
               təbii səslənir. Bu, sərt qayda deyil, üslub meylidir — hər iki
-              forma da 2.6.7-dəki kimi mücərrəd isimlərlə (şirkət, ölkə) da
-              qəbul edilir.
+              forma da əvvəlki bölmədəki kimi mücərrəd isimlərlə (şirkət, ölkə)
+              də qəbul edilir.
             </p>
             <ExampleList
               examples={[

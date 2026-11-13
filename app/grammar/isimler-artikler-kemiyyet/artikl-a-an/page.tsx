@@ -225,7 +225,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.1-də öyrənildiyi kimi, <em>a/an</em> yalnız{" "}
+              Əvvəlki izahda qeyd edildiyi kimi, <em>a/an</em> yalnız{" "}
               <strong>tək sayıla bilən</strong> isimlərlə işlənir — nə cəm
               isimlə, nə sayıla bilməyən isimlə uyğun gəlmir.
             </p>

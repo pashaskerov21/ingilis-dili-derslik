@@ -133,9 +133,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.7-dəki qeyri-müəyyən əvəzliklər (everyone, everybody, each,
-              either, neither, somebody) zahirən cəm mənası daşısa belə,
-              qrammatik cəhətdən həmişə <strong>tək</strong> fel alır.
+              Qeyri-müəyyən əvəzliklər (everyone, everybody, each, either,
+              neither, somebody) zahirən cəm mənası daşısa belə, qrammatik
+              cəhətdən həmişə <strong>tək</strong> fel alır.
             </p>
             <ExampleList
               examples={[
@@ -160,9 +160,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Bu, çox vaxt gözdən qaçan, amma dəqiq bir qaydadır: "a number of"
-              kəmiyyət göstəricisi kimi işlənir (2.7-dəki "many" ilə eyni rolda)
-              və cəm fel alır. "The number of" isə konkret ədədin özünə istinad
-              edir və tək fel alır.
+              kəmiyyət göstəricisi kimi işlənir və cəm fel alır. "The number of"
+              isə konkret ədədin özünə istinad edir və tək fel alır.
             </p>
             <ExampleList
               examples={[
@@ -236,10 +235,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.4-dəki "there is/are" strukturunda fel özündən{" "}
-              <strong>sonra</strong> gələn həqiqi subyektlə uzlaşır — bu, artıq
-              öyrənilmiş qayda, burada bütün sistemin bir hissəsi kimi
-              xatırladılır.
+              "There is/are" strukturunda fel özündən <strong>sonra</strong>
+              gələn həqiqi subyektlə uzlaşır — bu, artıq öyrənilmiş qayda,
+              burada bütün sistemin bir hissəsi kimi xatırladılır.
             </p>
             <ExampleList
               examples={[

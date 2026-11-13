@@ -16,10 +16,10 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Past Perfect keçmişdəki{" "}
           <strong>iki hadisə arasında ardıcıllıq</strong> qurur — "hansı daha
-          əvvəl baş verdi" sualına cavab verir. Fikir olaraq 4.4-dəki Present
-          Perfect-ə bənzəyir (keçmişi bir istinad nöqtəsi ilə əlaqələndirir),
-          fərq yalnız istinad nöqtəsinin <strong>indi</strong> deyil,{" "}
-          <strong>keçmişdəki başqa bir an</strong> olmasıdır.
+          əvvəl baş verdi" sualına cavab verir. Fikir olaraq Present
+          Perfect-ə bənzəyir (keçmişi bir istinad nöqtəsi ilə
+          əlaqələndirir), fərq yalnız istinad nöqtəsinin <strong>indi</strong>
+          deyil, <strong>keçmişdəki başqa bir an</strong> olmasıdır.
         </p>
 
         <section className="space-y-10">
@@ -201,11 +201,10 @@ export default function Page() {
             Azərbaycan dilində "getmişdi", "bitirmişdi" kimi -mişdi şəkilçili
             forma Past Perfect-ə kifayət qədər yaxın bir konsept təqdim edir —
             hər iki dildə "keçmişdən əvvəlki keçmiş" ideyası mövcuddur. Əsas
-            fərq 4.8.4-dəki kimi, ingilis dilinin bu ayrımı{" "}
-            <strong>hər dəfə açıq şəkildə</strong> tələb etməsidir — Past
-            Simple/Past Perfect seçimi mütləq edilməlidir, halbuki Azərbaycan
-            dilində bəzən kontekstdən asılı olaraq sadə keçmiş forma da kifayət
-            edə bilər.
+            fərq ondadır ki, ingilis dilində bu ayrımı <strong>hər dəfə açıq
+            şəkildə</strong> tələb etmək lazımdır — Past Simple/Past Perfect
+            seçimi mütləq edilməlidir, halbuki Azərbaycan dilində bəzən
+            kontekstdən asılı olaraq sadə keçmiş forma da kifayət edə bilər.
           </p>
         </aside>
 

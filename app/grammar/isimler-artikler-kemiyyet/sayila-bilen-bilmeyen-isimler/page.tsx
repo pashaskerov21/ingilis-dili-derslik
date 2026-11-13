@@ -264,11 +264,11 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Sayıla bilən/bilməyən ayrımı 2.7 və 2.8-də ətraflı işlənəcək
-              kəmiyyət göstəricilərinin seçimini birbaşa müəyyən edir:{" "}
-              <em>many/few</em> yalnız sayıla bilənlə, <em>much/little</em>{" "}
-              yalnız sayıla bilməyənlə işlənir. <em>Some/any/a lot of</em> isə
-              hər ikisi ilə uyğun gəlir.
+              Sayıla bilən/bilməyən ayrımı sonrakı kəmiyyət göstəriciləri
+              bölmələrində daha ətraflı işlənəcək miqdar sözlərinin seçimini
+              birbaşa müəyyən edir: <em>many/few</em> yalnız sayıla bilənlə,
+              <em>much/little</em> yalnız sayıla bilməyənlə işlənir.
+              <em>Some/any/a lot of</em> isə hər ikisi ilə uyğun gəlir.
             </p>
             <ExampleList
               examples={[

@@ -32,8 +32,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Fel demək olar dəyişmir — yalnız <em>he/she/it</em> ilə (üçüncü
-              şəxs tək) sona -s əlavə olunur. Şəkilçinin dəqiq forması 2.2-dəki
-              cəm isim qaydalarının eynisidir (spelling baxımından):
+              şəxs tək) sona -s əlavə olunur. Şəkilçinin dəqiq forması cəm isimlərin
+              yazılış qaydalarına uyğun olaraq dəyişir (orfoqrafiya baxımından):
             </p>
             <div className="overflow-x-auto">
               <table className="w-full text-sm border border-line">
@@ -87,9 +87,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.4-də öyrəndiyin qayda birbaşa tətbiq olunur: köməkçi fel
-              yoxdur, ona görə <em>do/does</em> ödünc alınır, əsas fel bazaya
-              qayıdır (üçüncü şəxsdəki "-s" köməkçi felin üzərinə keçir).
+              Cümlədə köməkçi fel yoxdursa, bu qayda birbaşa tətbiq olunur:
+              <em>do/does</em> köməkçi forması istifadə edilir, əsas fel baza
+              formaya qayıdır (üçüncü şəxsdəki "-s" artıq köməkçi felin üzərinə
+              keçir).
             </p>
             <ExampleList
               examples={[
@@ -114,8 +115,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Müntəzəm təkrarlanan hərəkət. Tezlik zərfləri (always, usually,
-              often, sometimes, rarely, never — bax: 1.1.4) subyekt və felin
-              arasına yerləşir.
+              often, sometimes, rarely, never) subyekt və felin arasına
+              yerləşir.
             </p>
             <ExampleList
               examples={[
@@ -203,8 +204,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Addım-addım təlimat verərkən (əmr cümləsinin (1.5) alternativi
-              kimi, daha az birbaşa) Present Simple işlədilir.
+              Addım-addım təlimat verərkən, əmr cümləsinə nisbətən daha az
+              birbaşa formaya malik olan Present Simple işlədilir.
             </p>
             <ExampleList
               examples={[
@@ -282,11 +283,12 @@ export default function Page() {
           </h4>
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində indiki zaman (-ır/-ir şəkilçisi) həm adət, həm də
-            HAZIRDA baş verən hərəkəti bildirə bilir ("O, hər gün işləyir" VƏ
+            hazırda baş verən hərəkəti bildirə bilir ("O, hər gün işləyir" və
             "O, indi işləyir" — ikisi də oxşar formada). İngilis dilində isə bu
-            iki məna qəti şəkildə ayrılır: adət/rutin → Present Simple, hazırda
-            baş verən → Present Continuous (4.2). Bu fərqi qarışdırmaq
-            Azərbaycan dilli öyrənənlərin ən çox etdiyi struktur səhvidir.
+            iki məna qəti şəkildə ayrılır: adət/rutin üçün Present Simple,
+            hazırda baş verən hərəkət üçün isə Present Continuous istifadə
+            olunur. Bu fərqi qarışdırmaq Azərbaycan dilli öyrənənlərin ən çox
+            etdiyi struktur səhvidir.
           </p>
           <div className="font-mono text-sm space-y-1 text-muted">
             <p>AZ: O, hər gün işləyir. / O, indi işləyir. (oxşar forma)</p>
@@ -317,8 +319,7 @@ export default function Page() {
                 az: "Şirkət geri qaytarma təklif etmir.",
               },
               {
-                wrong:
-                  "I am understanding the issue now. (stative — 4.3-də ətraflı)",
+                wrong: "I am understanding the issue now. (stative fellər haqqında daha ətraflı izahat)",
                 right: "I understand the issue now.",
                 az: "İndi problemi başa düşürəm.",
               },

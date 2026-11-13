@@ -14,8 +14,8 @@ export default function Page() {
     <LessonShell chapterSlug="feller-ve-zamanlar" sectionSlug="stative-feller">
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          4.2-də "davam edən hərəkət" prinsipini öyrəndik. Lakin bir qrup fel bu
-          prinsipə tabe olmur — çünki onlar hərəkəti deyil,{" "}
+          Davam edən hərəkət prinsipi ilə tanış olduqdan sonra aydın olur ki,
+          bir qrup fel bu prinsiplə uyğunlaşmır — çünki onlar hərəkəti deyil,{" "}
           <strong>vəziyyəti, halı</strong> bildirir, halbuki hal "davam edir"
           demək məntiqsizdir (hal sadəcə mövcuddur). Bu fellər — olsalar belə —
           Continuous formasında demək olar heç vaxt işlənmir.
@@ -136,9 +136,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Hətta danışıq anına aid olsa belə (4.2.2-nin "indi" funksiyası
-              gözlənilə bilər), stative fellər Continuous formaya keçmir —
-              sadəcə Present Simple işlədilir.
+              Hətta danışıq anına aid olsa belə, stative fellər Continuous
+              formaya keçmir — sadəcə Present Simple işlədilir.
             </p>
             <ExampleList
               examples={[

@@ -17,9 +17,9 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu bölmə 2.1-də tanış olduğun sayıla bilən/bilməyən ayrımının praktik
-          tətbiqidir — kəmiyyəti dəqiq ədədsiz ifadə etmək üçün istifadə olunan
-          sözlər toplusu. Seçim yalnız ismin tipindən deyil, həm də cümlənin{" "}
+          Bu bölmə əvvəlki əsas ayrımın praktik tətbiqidir — sayıla bilən və
+          sayıla bilməyən isimlərin hansı kəmiyyət göstəriciləri ilə işlədiyini
+          göstərən sözlər toplusu. Seçim yalnız ismin tipindən deyil, həm də cümlənin{" "}
           <strong>təsdiq, inkar və ya sual</strong> olmasından asılıdır.
         </p>
 

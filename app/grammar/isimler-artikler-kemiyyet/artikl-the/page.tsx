@@ -19,7 +19,7 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           <em>The</em> — danışan və dinləyicinin hər ikisinin{" "}
           <strong>hansı konkret şeydən söhbət getdiyini bildiyi</strong> zaman
-          istifadə olunur. 2.3-dən fərqli olaraq, <em>the</em> həm tək, həm cəm,
+          istifadə olunur. a/an-dən fərqli olaraq, <em>the</em> həm tək, həm cəm,
           həm də sayıla bilməyən isimlərlə işlənə bilir — məhdudiyyət ismin
           sayına deyil, onun <strong>müəyyənlik statusuna</strong> aiddir.
         </p>
@@ -214,7 +214,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.3-dəki a/an qaydasına paralel olaraq, <em>the</em>-nin özü də
+              a/an qaydasına paralel olaraq, <em>the</em>-nin özü də
               növbəti sözün səsindən asılı olaraq fərqli tələffüz olunur — samit
               səsdən əvvəl <strong>/ðə/</strong>, sait səsdən əvvəl{" "}
               <strong>/ði/</strong>. Yazılışı dəyişmir, yalnız tələffüz.

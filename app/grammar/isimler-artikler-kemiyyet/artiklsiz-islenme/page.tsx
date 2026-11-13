@@ -22,7 +22,7 @@ export default function Page() {
           "boşluq" deyil, öz qaydaları olan müstəqil bir kateqoriyadır:
           dilçilikdə buna <em>zero article</em> (Ø) deyilir. Diqqət: bu bölmə
           yalnız cəm və sayıla bilməyən isimlərə aid deyil — TƏK sayıla bilən
-          isim demək olar HEÇ VAXT artiklsiz qala bilməz (bax: 2.5.8).
+          isim demək olar HEÇ VAXT artiklsiz qala bilməz.
         </p>
 
         <section className="space-y-10">
@@ -51,7 +51,7 @@ export default function Page() {
               ]}
             />
             <p className="text-foreground leading-relaxed">
-              Müqayisə et 2.4.1 ilə: əgər eyni isim konkret bir qrupa aiddirsə,{" "}
+              Müqayisə et əvvəlki bölmədəki qaydaya: əgər eyni isim konkret bir qrupa aiddirsə,{" "}
               <em>the</em> qayıdır.
             </p>
             <ExampleList
@@ -126,8 +126,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.5.3-ün əksinə, bir qrup coğrafi ad — çaylar, okeanlar, dağ
-              silsilələri və{" "}
+              Əvvəlki bölmədəki xüsusi isimlərə zidd olaraq, bir qrup coğrafi ad
+              — çaylar, okeanlar, dağ silsilələri və{" "}
               <strong>
                 cəm və ya söz-birləşməsi formasında olan ölkə adları
               </strong>{" "}
@@ -263,9 +263,9 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Bu bölmənin bütün nümunələri cəm və ya sayıla bilməyən isimlərə
-              aiddir. Tək sayıla bilən isim isə (2.5.7-dəki telegrafik registr
-              istisna olmaqla) həmişə bir müəyyənedici (a/an, the, my, this və
-              s.) tələb edir — artiklsiz tək isim adi cümlədə qrammatik səhvdir.
+              aiddir. Tək sayıla bilən isim isə (telegrafik yazı forması istisna
+              olmaqla) həmişə bir müəyyənedici (a/an, the, my, this və s.)
+              tələb edir — artiklsiz tək isim adi cümlədə qrammatik səhvdir.
             </p>
             <ExampleList
               examples={[
@@ -284,10 +284,10 @@ export default function Page() {
             Azərbaycan dili ilə struktur fərqi
           </h4>
           <p className="text-foreground leading-relaxed">
-            Ümumi ifadələrdə (2.5.1, 2.5.2) Azərbaycan dili ilə ingilis dili
-            arasında əslində uyğunluq var — hər ikisi ümumi mənada əlavə işarə
-            tələb etmir ("İnsanlar dəyişikliyə müqavimət göstərir" = "People
-            resist change"). Əsl çətinlik 2.5.6-dakı institusional qaydadır —
+            Ümumi ifadələrdə Azərbaycan dili ilə ingilis dili arasında əslində
+            uyğunluq var — hər ikisi ümumi mənada əlavə işarə tələb etmir
+            ("İnsanlar dəyişikliyə müqavimət göstərir" = "People resist
+            change"). Əsl çətinlik institusional isimlərlə bağlı qaydadadır —
             Azərbaycan dilində "məktəbdə oxumaq" ilə "məktəbə getmək" (bina
             kimi) arasında artiklə bağlı fərq yoxdur, hər ikisi eyni cür
             deyilir. Bu, tamamilə yeni, ana dildə paraleli olmayan bir fərqdir

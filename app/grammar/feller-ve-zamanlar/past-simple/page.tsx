@@ -16,7 +16,7 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Past Simple ingilis dilinin hekayə danışmaq, hadisə bildirmək və
           tamamlanmış keçmiş faktları ifadə etmək üçün əsas vasitəsidir.
-          4.4-dəki Present Perfect-dən fərqli olaraq, burada{" "}
+          Present Perfect-dən fərqli olaraq, burada{" "}
           <strong>konkret vaxt həmişə ya bilinir, ya nəzərdə tutulur</strong> —
           diqqət "nə vaxt oldu" sualındadır, "indiyə necə bağlıdır" sualında
           deyil.
@@ -103,8 +103,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.1.4-ün ("daimi indiki fakt") keçmiş qarşılığı — o zaman doğru
-              olan, indi doğru olub-olmaması önəmli olmayan vəziyyət.
+              Daimi indiki faktın keçmiş qarşılığı — o zaman doğru olan, indi
+              doğru olub-olmaması önəmli olmayan vəziyyət.
             </p>
             <ExampleList
               examples={[
@@ -158,9 +158,10 @@ export default function Page() {
               </table>
             </div>
             <p className="text-sm text-muted">
-              Diqqət: bu qaydalar 4.2.1-dəki -ing qaydaları ilə demək olar
-              eynidir (CVC ikiləşməsi, səssiz e düşməsi) — fərq yalnız "samit+y"
-              halında (Continuous-da dəyişmir, Past Simple-da -ied olur).
+              Diqqət: bu qaydalar -ing formalarının yazılış qaydaları ilə demək
+              olar eynidir (CVC ikiləşməsi, səssiz e düşməsi) — fərq yalnız
+              "samit+y" halında (Continuous-da dəyişmir, Past Simple-da -ied
+              olur).
             </p>
           </div>
 
@@ -200,9 +201,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.4-dəki do-support qaydası keçmiş zamanda "did" ilə eynilə
-              tətbiq olunur — həm müntəzəm, həm qeyri-müntəzəm fellərdə əsas fel
-              bazaya (dəyişməmiş formaya) qayıdır.
+              Do-support qaydası keçmiş zamanda "did" ilə eyni şəkildə tətbiq
+              olunur — həm müntəzəm, həm qeyri-müntəzəm fellərdə əsas fel baza
+              formaya (dəyişməmiş formaya) qayıdır.
             </p>
             <ExampleList
               examples={[

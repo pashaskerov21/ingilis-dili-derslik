@@ -17,7 +17,7 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu bölmə 2.1-də tanış olduğun sayıla bilən isimlərin{" "}
+          Bu bölmə sayıla bilən isimlərin{" "}
           <strong>cəm formasının necə qurulduğunu</strong> əhatə edir. Qayda
           əsasən orfoqrafik xarakter daşıyır — sözün son hərfindən asılı olaraq
           fərqli şəkilçi əlavə olunur — lakin bir qrup isim heç bir qaydaya tabe
@@ -132,7 +132,7 @@ export default function Page() {
                 },
                 {
                   en: "The company changed its policies on remote work.",
-                  az: "Şirkət uzaqdan iş siyasətlərini dəyişdi. (policy — 2.2.3 qaydası, y-yə diqqət)",
+                  az: "Şirkət uzaqdan iş siyasətlərini dəyişdi. (policy — samit + y ilə bitən isimdə y düşür, əvəzində -ies gəlir)",
                 },
                 {
                   en: "The building has flat roofs. (istisna — roof → roofs)",
@@ -258,8 +258,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Elm sahələrinin adları (<em>economics, mathematics, physics</em>)
               və bəzi xəstəlik adları -s ilə bitsə də, qrammatik cəhətdən{" "}
-              <strong>tək</strong> sayılır və tək fel alır. Bu, 2.1.6-dakı
-              "news" nümunəsi ilə eyni prinsipdir.
+              <strong>tək</strong> sayılır və tək fel alır. Bu, əvvəlki
+              bölmədəki "news" nümunəsi ilə eyni prinsiplə izah olunur.
             </p>
             <ExampleList
               examples={[
@@ -315,11 +315,11 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində cəm forması demək olar həmişə eyni şəkilçi
             (-lar/-lər) ilə qurulur — istisnalar minimaldır. İngilis dilində isə
-            cəm forması bir neçə orfoqrafik qaydaya (2.2.1–2.2.5) və əlavə
-            olaraq geniş bir qeyri-müntəzəm sözlər qrupuna (2.2.6) bölünür. Bu,
-            Azərbaycan dilli öyrənən üçün "bir universal şəkilçi" gözləntisinin
-            işləmədiyi bir sahədir — hər yeni ismi öyrənərkən onun cəm formasını
-            da ayrıca yadda saxlamaq vərdişi lazımdır.
+            cəm forması bir neçə orfoqrafik qaydaya və əlavə olaraq geniş bir
+            qeyri-müntəzəm sözlər qrupuna bölünür. Bu, Azərbaycan dilli
+            öyrənən üçün "bir universal şəkilçi" gözləntisinin işləmədiyi bir
+            sahədir — hər yeni ismi öyrənərkən onun cəm formasını da ayrıca
+            yadda saxlamaq vərdişi lazımdır.
           </p>
         </aside>
 

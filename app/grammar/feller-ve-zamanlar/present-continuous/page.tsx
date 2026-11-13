@@ -19,9 +19,9 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Present Continuous "hazırda baş verən hərəkət" kimi tanınsa da,
           əslində beş fərqli funksiyaya malikdir — bunlardan ikisi hətta{" "}
-          <strong>gələcəyə</strong> aiddir (4.1.5-dəki Present Simple-ın gələcək
-          funksiyasından fərqli bir formada). Bu bölmə hər birini ayrıca izah
-          edir və 4.1-lə olan kəskin sərhədləri göstərir.
+          <strong>gələcəyə</strong> aiddir, lakin bu, Present Simple-in gələcək
+          funksiyasından fərqli bir formada baş verir. Bu bölmə hər birini ayrıca
+          izah edir və bu iki strukturu bir-birindən aydın şəkildə ayırır.
         </p>
 
         <section className="space-y-10">
@@ -110,9 +110,9 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Müəyyən müddət üçün doğru olan, amma{" "}
-              <strong>daimi olmayan</strong> vəziyyət. Bu, 4.1.4-dəki "daimi
-              fakt" funksiyasının birbaşa əksidir — eyni fel, fərqli zamanla
-              tamam fərqli məna verir.
+              <strong>daimi olmayan</strong> vəziyyət. Bu, daimi faktı bildirən
+              Present Simple strukturunun birbaşa əksidir — eyni fel, fərqli
+              zamanla tamamilə fərqli məna verir.
             </p>
             <ExampleList
               examples={[
@@ -136,16 +136,15 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">4.2.4</span>
               <h3 className="font-display text-xl text-foreground">
-                Funksiya 3 — Şəxsi gələcək razılaşma (4.1.5-dən fərqi)
+                Funksiya 3 — Şəxsi gələcək razılaşma
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Present Continuous gələcək plan bildirəndə, bu, 4.1.5-dəki
-              rəsmi/dəyişməz cədvəldən fərqli olaraq,{" "}
-              <strong>şəxsi, artıq razılaşdırılmış niyyəti</strong> bildirir.
-              Fərq: <em>"The train leaves at 9"</em> (rəsmi cədvəl, Simple) ilə{" "}
-              <em>"I'm meeting the client at 9"</em> (şəxsi razılaşma,
-              Continuous) arasındakı incəliyə diqqət et.
+              Present Continuous gələcək plan bildirəndə, bu, rəsmi və dəyişməz
+              cədvəldən fərqli olaraq, <strong>şəxsi, artıq razılaşdırılmış
+              niyyəti</strong> bildirir. Fərq: <em>"The train leaves at 9"</em>
+              (rəsmi cədvəl, Simple) ilə <em>"I'm meeting the client at 9"</em>
+              (şəxsi razılaşma, Continuous) arasındakı incəliyə diqqət et.
             </p>
             <ExampleList
               examples={[
@@ -226,12 +225,12 @@ export default function Page() {
             Azərbaycan dili ilə struktur fərqi
           </h4>
           <p className="text-foreground leading-relaxed">
-            4.1-də qeyd etdiyimiz kimi, Azərbaycan dilində eyni indiki zaman
-            forması (-ır/-ir) həm adəti, həm "indi baş verəni" bildirə bilir.
-            İngilis dilində isə bu iki zaman arasındakı sərhəd — 4.1.4 (daimi)
-            ilə 4.2.3 (müvəqqəti) arasında — çox aydın seçilməlidir, çünki eyni
-            fel fərqli zamanla tamamilə fərqli məna verə bilər (bax: 4.2.3-dəki
-            "lives" / "is living" müqayisəsi).
+            Azərbaycan dilində eyni indiki zaman forması (-ır/-ir) həm adəti,
+            həm də "indi baş verəni" bildirə bilir. İngilis dilində isə bu iki
+            zaman arasındakı sərhəd çox aydın seçilməlidir: daimi vəziyyət ilə
+            müvəqqəti vəziyyət tamamilə fərqli məna verir. Eyni fel, fərqli zamanla
+            fərqli mənaya çevrilə bilər — məsələn, "lives" və "is living"
+            cütlüyü bu fərqi göstərir.
           </p>
         </aside>
 
