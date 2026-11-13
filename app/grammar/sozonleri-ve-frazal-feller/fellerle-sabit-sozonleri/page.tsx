@@ -314,7 +314,8 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">7.4.6</span>
               <h3 className="font-display text-xl text-foreground">
-                Fərqi: bu, frazal fel deyil (7.5-ə körpü)
+                Fərqi: bu, frazal fel deyil; növbəti frazal fel bölməsində
+                izah olunur
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">

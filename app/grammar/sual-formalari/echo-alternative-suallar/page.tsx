@@ -18,8 +18,8 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           Fəslin son bölməsi iki xüsusi sual növünü əhatə edir — hər ikisi
-          indiyə qədər öyrəndiyin standart inversiya qaydalarından{" "}
-          <strong>fərqli</strong> davranır və gündəlik danışıqda çox işlənir.
+          əvvəlki standart inversiya qaydalarından <strong>fərqli</strong>
+          davranır və gündəlik danışıqda çox işlənir.
         </p>
 
         <section className="space-y-10">
@@ -83,9 +83,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Bu suallar 8.1-dəki standart inversiya qaydasını izləyir, amma
-              bəli/xeyr əvəzinə <strong>iki və ya daha çox seçim</strong>{" "}
-              arasından cavab tələb edir.
+              Bu suallar standart inversiya qaydasını izləyir, amma bəli/xeyr
+              əvəzinə <strong>iki və ya daha çox seçim</strong> arasından cavab
+              tələb edir.
             </p>
             <ExampleList
               examples={[
@@ -159,12 +159,12 @@ export default function Page() {
           </h4>
           <p className="text-foreground leading-relaxed">
             Echo sualında söz sırasının dəyişməməsi Azərbaycan dilli öyrənən
-            üçün əslində rahatlıqdır — çünki bu, indiyə qədər 8.1-8.3-də
-            öyrəndiyimiz "hər sualda inversiya lazımdır" refleksinin{" "}
+            üçün əslində rahatlıqdır — çünki bu, əvvəlki sual formaları
+            bölməsində öyrəndiyimiz "hər sualda inversiya lazımdır" refleksinin{" "}
             <strong>istisnasıdır</strong> və Azərbaycan dilindəki sabit söz
-            sırası məntiqinə daha yaxındır. Əsl çətinlik 8.7.4-dəki intonasiya
-            fərqidir — Azərbaycan dilində bu qədər incə intonasiya fərqi ilə
-            məna dəyişməsi bu qədər sistemli deyil.
+            sırası məntiqinə daha yaxındır. Əsl çətinlik intonasiya fərqidir —
+            Azərbaycan dilində bu qədər incə intonasiya fərqi ilə məna dəyişməsi
+            bu qədər sistemli deyil.
           </p>
         </aside>
 

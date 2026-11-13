@@ -14,10 +14,10 @@ export default function Page() {
     <LessonShell chapterSlug="sual-formalari" sectionSlug="wh-sual-sozleri">
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          1.2.5-də tanış olduğun əsas quruluşu (sual sözü + köməkçi fel +
-          subyekt + əsas fel) bu bölmədə dərinləşdiririk — xüsusilə hansı sual
-          sözünün seçilməsi, "how/what" ilə birləşmələr və sözönlərinin yeri
-          kimi incə məqamları.
+          Əvvəlki əsas sual qurma bölməsində tanış olduğun quruluşu (sual sözü
+          + köməkçi fel + subyekt + əsas fel) bu bölmədə dərinləşdiririk —
+          xüsusilə hansı sual sözünün seçilməsi, "how/what" ilə birləşmələr və
+          sözönlərinin yeri kimi incə məqamları.
         </p>
 
         <section className="space-y-10">
@@ -145,7 +145,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              7.4-dəki sabit sözönü fellərlə sual qurarkən, sözönü{" "}
+              Sabit sözönü fellər bölməsindəki sual qurma nümunələrində, sözönü{" "}
               <strong>qeyri-rəsmi</strong> danışıqda cümlənin sonuna keçir.{" "}
               <strong>Rəsmi</strong> yazıda isə sual sözü ilə birgə əvvələ
               aparıla bilər (yalnız "who" "whom" olur).
@@ -172,8 +172,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              7.6/7.7-dəki frazal fellərlə (get up, set out) sual qurarkən,
-              particle felin yanında qalır, sözönü kimi köçmür.
+              Frazal fellər bölməsindəki nümunələrdə (get up, set out) sual
+              qurarkən, particle felin yanında qalır, sözönü kimi köçmür.
             </p>
             <ExampleList
               examples={[
@@ -217,8 +217,8 @@ export default function Page() {
             Azərbaycan dilində "nə" sözü həm açıq, həm məhdud sual üçün
             universal işlənə bilir ("nə istəyirsən" və "bu ikisindən nəyi
             istəyirsən" — hər ikisində "nə"). İngilis dilində isə bu fərq
-            (what/which) leksik olaraq ayrılır — 8.2.1-dəki bu ayrım Azərbaycan
-            dilində olmayan yeni bir qərar nöqtəsidir.
+            (what/which) leksik olaraq ayrılır — bu ayrım Azərbaycan dilində
+            olmayan yeni bir qərar nöqtəsidir.
           </p>
         </aside>
 

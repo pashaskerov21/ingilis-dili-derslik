@@ -17,10 +17,10 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu, 3.1.5-də qısaca toxunduğumuz istisnanın **tam qaydasıdır** — sual
-          sözü (who, what, which) cümlənin <strong>subyektinə</strong> aid
-          olduqda, indiyə qədər öyrəndiyin bütün inversiya qaydaları (8.1, 8.2)
-          tətbiq olunmur.
+          Bu, əvvəlki əvəzliklər bölməsində qısaca toxunduğumuz istisnanın
+          **tam qaydasıdır** — sual sözü (who, what, which) cümlənin
+          <strong>subyektinə</strong> aid olduqda, indiyə qədər öyrəndiyin
+          bütün inversiya qaydaları tətbiq olunmur.
         </p>
 
         <section className="space-y-10">
@@ -33,7 +33,7 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Sual sözü hərəkətin <strong>qəbul edicisini</strong> soruşduqda,
-              8.1/8.2-dəki tam inversiya tətbiq olunur.
+              standart tam inversiya tətbiq olunur.
             </p>
             <ExampleList
               examples={[

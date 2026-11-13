@@ -29,9 +29,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.1-dəki FANBOYS bağlayıcılarından **istifadə etmədən**, iki məna
-              cəhətdən sıx bağlı müstəqil cümləni birləşdirmək üçün. Hər iki
-              tərəf tam cümlə olmalıdır.
+              FANBOYS bağlayıcılarından **istifadə etmədən**, iki məna cəhətdən
+              sıx bağlı müstəqil cümləni birləşdirmək üçün. Hər iki tərəf tam
+              cümlə olmalıdır.
             </p>
             <ExampleList
               examples={[
@@ -47,7 +47,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">11.4.2</span>
               <h3 className="font-display text-xl text-foreground">
-                Nöqtəli vergül + keçid sözü: 11.3.2-nin daha dəqiq forması
+                Nöqtəli vergül + keçid sözü: cütlü vergülün daha dəqiq forması
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -136,8 +136,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.9-10-dakı dolayı nitqi xatırla — dolayı nitqdə dırnaq işarəsi
-              işlənmir, yalnız birbaşa sitatda.
+              Dolayı nitqi xatırlat — dolayı nitqdə dırnaq işarəsi işlənmir,
+              yalnız birbaşa sitatda.
             </p>
             <ExampleList
               examples={[
@@ -253,7 +253,7 @@ export default function Page() {
             ingilis dilində isə " " (düz dırnaq) standartdır. Nöqtəli vergül isə
             hər iki dildə nisbətən nadir işlənir, amma ingilis akademik/işgüzar
             yazıda Azərbaycan dilinə nisbətən bir qədər daha çox rast gəlinir —
-            xüsusilə mürəkkəb siyahılarda (11.4.3).
+            xüsusilə mürəkkəb siyahılarda.
           </p>
         </aside>
 

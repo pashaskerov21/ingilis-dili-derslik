@@ -17,11 +17,12 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Zaman sözönləri də 7.1-dəki eyni "ümumidən konkretə" məntiqini
-          izləyir, sadəcə fəza deyil, zaman oxunda: <strong>in</strong> — geniş
-          dövr (ay, il, mövsüm), <strong>on</strong> — konkret gün/ tarix,{" "}
-          <strong>at</strong> — dəqiq an. Bundan əlavə, müddət və son tarix
-          bildirən ayrıca bir qrup sözönü də var.
+          Zaman sözönləri də əvvəlki yer sözönləri bölməsindəki eyni
+          "ümumidən konkretə" məntiqini izləyir, sadəcə fəza deyil, zaman
+          oxunda: <strong>in</strong> — geniş dövr (ay, il, mövsüm),{" "}
+          <strong>on</strong> — konkret gün/ tarix, <strong>at</strong> —
+          dəqiq an. Bundan əlavə, müddət və son tarix bildirən ayrıca bir qrup
+          sözönü də var.
         </p>
 
         <section className="space-y-10">
@@ -109,7 +110,8 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">7.2.4</span>
               <h3 className="font-display text-xl text-foreground">
-                "For" vs "since" — 4.4.5-in xatırladılması
+                "For" vs "since" — əvvəlki present perfect bölməsində
+                xatırlanan qayda
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -191,7 +193,7 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Gələcək zaman ifadələrində <em>in</em> "indidən X müddət sonra"
-              mənasını verir — bu, 7.2.1-dəki "geniş dövr" mənasından fərqli,
+              mənasını verir — bu, əvvəlki "geniş dövr" mənasından fərqli,
               əlavə bir funksiyadır.
             </p>
             <ExampleList

@@ -49,8 +49,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Köməkçi fel/modal yoxdursa (Present/Past Simple), 1.2.4-dəki
-              do-support qaydası tag üçün də tətbiq olunur.
+              Köməkçi fel/modal yoxdursa (Present/Past Simple), do-support
+              qaydası tag üçün də tətbiq olunur.
             </p>
             <ExampleList
               examples={[
@@ -143,8 +143,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.1.5/3.7.4-dəki gender-neutral "they" qaydası burada da işləyir —
-              somebody/everyone/no one kimi subyektlərlə tag həmişə "they".
+              Gender-neutral "they" qaydası burada da işləyir — somebody/everyone/no
+              one kimi subyektlərlə tag həmişə "they".
             </p>
             <ExampleList
               examples={[
@@ -160,7 +160,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">8.5.7</span>
               <h3 className="font-display text-xl text-foreground">
-                Əmr cümlələri ilə (1.5-in davamı)
+                Əmr cümlələri ilə — əvvəlki bölmənin davamı
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">

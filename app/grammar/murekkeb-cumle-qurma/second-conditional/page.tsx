@@ -17,10 +17,11 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          9.6-dan fərqli olaraq, İkinci Şərt Cümləsi **real deyil, xəyali və ya
-          uzaq ehtimallı** vəziyyətləri təsvir edir. Buradakı ən çətin
-          konseptual məqam budur: keçmiş zaman forması işlədilir, amma bu,
-          **keçmiş vaxtı bildirmir** — sadəcə "reallıqdan uzaqlığı" göstərir.
+          Əvvəlki birinci şərt formalarından fərqli olaraq, İkinci Şərt Cümləsi
+          **real deyil, xəyali və ya uzaq ehtimallı** vəziyyətləri təsvir edir.
+          Buradakı ən çətin konseptual məqam budur: keçmiş zaman forması
+          işlədilir, amma bu, **keçmiş vaxtı bildirmir** — sadəcə
+          "reallıqdan uzaqlığı" göstərir.
         </p>
 
         <section className="space-y-10">
@@ -78,10 +79,11 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Bu, 5.2.3-də gördüyün "could — daha nəzakətli, daha uzaq"
-              məntiqinin daha böyük miqyasda təzahürüdür: ingilis dilində keçmiş
-              fel forması bəzən sadəcə **"gerçəklikdən uzaqlaşdırma"** vasitəsi
-              kimi işlənir, vaxtla əlaqəsi olmadan.
+              Bu, əvvəlki modal və mümkünlük bölməsində gördüyün "could — daha
+              nəzakətli, daha uzaq" məntiqinin daha böyük miqyasda təzahürüdür:
+              ingilis dilində keçmiş fel forması bəzən sadəcə
+              **"gerçəklikdən uzaqlaşdırma"** vasitəsi kimi işlənir, vaxtla
+              əlaqəsi olmadan.
             </p>
             <ExampleList
               examples={[
@@ -176,8 +178,8 @@ export default function Page() {
             Azərbaycan dilində şərt şəkilçisi ("-saydı/-səydi") özü artıq
             "qeyri-real, xəyali" mənasını daşıyır — fel forması ilə "vaxt"ı
             qarışdırmaq riski yoxdur. İngilis dilində isə eyni **keçmiş zaman
-            forması** həm real keçmişi (4.6), həm xəyali indini/gələcəyi (9.7)
-            bildirə bilir — bu, Azərbaycan dilli öyrənən üçün formanın özündən
+            forması** həm real keçmişi, həm xəyali indini/gələcəyi bildirə
+            bilir — bu, Azərbaycan dilli öyrənən üçün formanın özündən
             çıxarıla bilməyən, kontekstdən asılı bir qərar tələb edir.
           </p>
         </aside>

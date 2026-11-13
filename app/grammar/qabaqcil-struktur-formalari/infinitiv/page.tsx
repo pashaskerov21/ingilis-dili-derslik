@@ -32,8 +32,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Müəyyən fellərdən sonra (want, decide, hope, plan, agree — 10.5-də
-              tam siyahı), məqsəd bildirmək üçün, sifətdən sonra.
+              Müəyyən fellərdən sonra (want, decide, hope, plan, agree), məqsəd
+              bildirmək üçün, sifətdən sonra.
             </p>
             <ExampleList
               examples={[
@@ -57,12 +57,12 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">10.4.2</span>
               <h3 className="font-display text-xl text-foreground">
-                Çılpaq infinitiv: modal fellərdən sonra (5-in xatırladılması)
+                Çılpaq infinitiv: modal fellərdən sonra
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.1-5.10-da öyrəndiyin bütün modal fellərdən sonra "to" işlənmir —
-              bu, artıq tanış bir qaydadır, burada rəsmiləşdirilir.
+              Bütün modal fellərdən sonra "to" işlənmir — bu, artıq tanış bir
+              qaydadır, burada rəsmiləşdirilir.
             </p>
             <ExampleList
               examples={[
@@ -190,8 +190,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              <em>To have + III forma</em> — daha əvvəlki hərəkəti bildirir
-              (10.2.4-dəki hesabat strukturuna bənzər).{" "}
+              <em>To have + III forma</em> — daha əvvəlki hərəkəti bildirir.
               <em>To be + III forma</em> — passiv məna.
             </p>
             <ExampleList
@@ -216,9 +215,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              8.2.7-dəki "How to...?" xəbərdarlığının tamamlanması: bu,
-              **müstəqil sual kimi** işlənə bilməz, amma **isim ifadəsi kimi**
-              başqa cümlənin daxilində tam düzgündür.
+              "How to...?" sual strukturu, **müstəqil sual kimi** işlənə bilməz,
+              amma **isim ifadəsi kimi** başqa cümlənin daxilində tam düzgündür.
             </p>
             <ExampleList
               examples={[
@@ -245,7 +243,7 @@ export default function Page() {
             infinitiv funksiyasını eyni formada yerinə yetirir — iki ayrı forma
             yoxdur. İngilis dilində isə bu iki funksiya (gerund/ infinitiv)
             leksik cəhətdən ayrılıb, seçim isə əvvəlki felə bağlıdır — bu,
-            10.5-də tam ələ alınacaq əsas çətinlikdir.
+            növbəti hissədə tam ələ alınacaq əsas çətinlikdir.
           </p>
         </aside>
 

@@ -17,7 +17,7 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Non-defining budaq cümlə 9.3-dəki defining formadan **tamamilə fərqli
+          Non-defining budaq cümlə əvvəlki defining formadan **tamamilə fərqli
           funksiya** daşıyır — burada məlumat **əlavə, könüllü**dir, isimi
           tanımaq üçün lazım deyil. Struktur baxımından da bir neçə kəskin fərq
           var.
@@ -57,9 +57,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.3-dəki iki əsas çeviklik burada tamamilə itir: (1) <em>that</em>{" "}
-              heç vaxt işlənmir (yalnız who/which/whose), (2) əvəzlik heç vaxt
-              buraxıla bilməz — subyekt olsun, obyekt olsun, fərqi yoxdur.
+              Defining formadakı iki əsas çeviklik burada tamamilə itir: (1){" "}
+              <em>that</em> heç vaxt işlənmir (yalnız who/which/whose), (2)
+              əvəzlik heç vaxt buraxıla bilməz — subyekt olsun, obyekt olsun,
+              fərqi yoxdur.
             </p>
             <ExampleList
               examples={[
@@ -154,10 +155,10 @@ export default function Page() {
             Azərbaycan dilində əlavə, könüllü məlumat çox vaxt ayrıca cümlə kimi
             ("O, Bakıda yaşayır. Qardaşımdır.") və ya vergüllə ayrılmış tərkib
             kimi verilir, bu, ingilis dilinin non-defining formasına struktur
-            baxımından yaxındır. Əsl çətinlik 9.4.4-dəki vergülün özünün **məna
-            dəyişdirici** rolunu oynamasıdır — bu qədər incə, tək bir durğu
-            işarəsinə bağlı məna fərqi Azərbaycan dilində bu sistematiklikdə
-            mövcud deyil.
+            baxımından yaxındır. Əsl çətinlik bu hissədəki vergülün özünün
+            **məna dəyişdirici** rolunu oynamasıdır — bu qədər incə, tək bir
+            durğu işarəsinə bağlı məna fərqi Azərbaycan dilində bu
+            sistematiklikdə mövcud deyil.
           </p>
         </aside>
 

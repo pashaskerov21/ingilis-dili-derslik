@@ -18,9 +18,9 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           Fəslin son bölməsi. <em>Wish/if only</em> arzu, peşmançılıq və
-          narazılıq bildirir — 9.7 və 9.8-dəki Şərt Cümlələrinin **eyni
-          "reallıqdan uzaqlıq" məntiqini** paylaşır, sadəcə "if" ilə deyil,
-          "wish" ilə başlayır.
+          narazılıq bildirir — əvvəlki şərt cümlələrinin **eyni "reallıqdan
+          uzaqlıq" məntiqini** paylaşır, sadəcə "if" ilə deyil, "wish" ilə
+          başlayır.
         </p>
 
         <section className="space-y-10">
@@ -32,8 +32,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.7-dəki İkinci Şərtin eyni məntiqi — indiki vəziyyət fərqli
-              olmasını arzulayırsan, amma dəyişə bilmirsən.
+              İkinci Şərtin eyni məntiqi — indiki vəziyyət fərqli olmasını
+              arzulayırsan, amma dəyişə bilmirsən.
             </p>
             <ExampleList
               examples={[
@@ -57,8 +57,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.7.4-dəki eyni qayda — rəsmi kontekstdə "were" bütün şəxslərlə,
-              danışıqda "was" da eşidilir.
+              Eyni qayda — rəsmi kontekstdə "were" bütün şəxslərlə, danışıqda
+              "was" da eşidilir.
             </p>
             <ExampleList
               examples={[
@@ -78,8 +78,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.8-dəki Üçüncü Şərtin eyni məntiqi — keçmişdə fərqli olmasını
-              istəyirdin, amma artıq dəyişdirilə bilməz.
+              Üçüncü Şərtin eyni məntiqi — keçmişdə fərqli olmasını istəyirdin,
+              amma artıq dəyişdirilə bilməz.
             </p>
             <ExampleList
               examples={[
@@ -143,7 +143,7 @@ export default function Page() {
                   az: "(bu, qrammatik cəhətdən yanlışdır)",
                 },
                 {
-                  en: "I wish I worked harder. (✗ would əvəzinə sadə Past Simple, 10.6.1)",
+                  en: "I wish I worked harder. (✗ would əvəzinə sadə Past Simple)",
                   az: "Kaş daha çox çalışaydım.",
                 },
               ]}
@@ -204,12 +204,11 @@ export default function Page() {
           </h4>
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində "kaş" sözü ilə arzu ifadə edilir, feil isə şərt
-            formasında ("-saydı") qalır — bu, ingilis dilinin 10.6.1/
-            10.6.3-dəki eyni "keçmiş forma = uzaqlıq" məntiqi ilə üst-üstə
-            düşür. Əsl çətinlik 10.6.4/10.6.5-dəki "would" strukturudur —
-            Azərbaycan dilində "kaş dayandıraydı" ilə "kaş dayanaydım" arasında
-            bu qədər sərt qrammatik ayrım yoxdur, hər ikisi eyni "kaş" formasına
-            düşür.
+            formasında ("-saydı") qalır — bu, ingilis dilinin həmin strukturun
+            eyni "keçmiş forma = uzaqlıq" məntiqi ilə üst-üstə düşür. Əsl
+            çətinlik "would" strukturudur — Azərbaycan dilində "kaş
+            dayandıraydı" ilə "kaş dayanaydım" arasında bu qədər sərt
+            qrammatik ayrım yoxdur, hər ikisi eyni "kaş" formasına düşür.
           </p>
         </aside>
 

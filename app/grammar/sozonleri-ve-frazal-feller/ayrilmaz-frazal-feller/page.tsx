@@ -19,8 +19,8 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Bu qrupda fel və particle <strong>heç vaxt ayrıla bilmir</strong> —
           obyekt (isim və ya əvəzlik olmasından asılı olmayaraq) həmişə{" "}
-          <strong>bütöv birləşmədən sonra</strong> gəlir. Bu, 7.6-dakı qaydanın
-          tam əksidir, xüsusilə əvəzliklə.
+          <strong>bütöv birləşmədən sonra</strong> gəlir. Bu, ayrıla bilən
+          frazal fellərin qaydasının tam əksidir, xüsusilə əvəzliklə.
         </p>
 
         <section className="space-y-10">
@@ -49,12 +49,12 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">7.7.2</span>
               <h3 className="font-display text-xl text-foreground">
-                Kritik fərq: əvəzliklə də AYRILMIR (7.6-nın əksi)
+                Kritik fərq: əvəzliklə də AYRILMIR — ayrıla bilən qrupun əksi
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Bu, 7.6.2-dəki qaydanın tərs tərəfidir: əvəzlik burada da{" "}
-              <strong>sondan gəlir</strong>, felin və particle-in arasına
+              Bu, ayrıla bilən qrupdakı qaydanın tərs tərəfidir: əvəzlik burada
+              da <strong>sondan gəlir</strong>, felin və particle-in arasına
               girmir.
             </p>
             <ExampleList
@@ -79,11 +79,11 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Struktur baxımdan izah: 7.6-dakı ayrıla bilən fellərdə particle{" "}
+              Struktur baxımdan izah: ayrıla bilən fellərdə particle{" "}
               <strong>zərf</strong> rolundadır (turn off — "off" zərfdir). Bu
               qrupda isə eyni görünüşlü söz <strong>sözönü</strong> rolunu
-              oynayır, sözönü isə öz obyektindən heç vaxt ayrılmır (bax:
-              7.4-dəki sabit sözönü məntiqi).
+              oynayır, sözönü isə öz obyektindən heç vaxt ayrılmır; bu da sabit
+              sözönü məntiqi ilə eynidir.
             </p>
             <ExampleList
               examples={[
@@ -194,8 +194,8 @@ export default function Page() {
             Azərbaycan dili ilə struktur fərqi
           </h4>
           <p className="text-foreground leading-relaxed">
-            Bu bölmə əslində Azərbaycan dilli öyrənən üçün 7.6-dan daha{" "}
-            <strong>asandır</strong> — çünki heç bir ayrılma yoxdur, fel və
+            Bu bölmə əslində Azərbaycan dilli öyrənən üçün ayrıla bilən qrupdan
+            daha <strong>asandır</strong> — çünki heç bir ayrılma yoxdur, fel və
             particle həmişə bitişik qalır, bu, Azərbaycan dilindəki "fel +
             əlavə" bitişikliyinə daha yaxındır. Çətinlik yalnız{" "}
             <strong>hansı felin ayrıla bilən, hansının bilməyən</strong>{" "}

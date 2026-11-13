@@ -17,10 +17,10 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          7.1-dəki statik yer sözönlərindən (harada?) fərqli olaraq, bu
-          sözönləri <strong>hərəkəti</strong> (haraya? necə?) təsvir edir. Bir
-          çoxu 7.1-dəki statik qarşılığından yaranıb (in→into, on→onto), amma öz
-          müstəqil incəlikləri var.
+          Yer sözönləri bölməsindəki statik formalarından (harada?) fərqli
+          olaraq, bu sözönləri <strong>hərəkəti</strong> (haraya? necə?)
+          təsvir edir. Bir çoxu statik qarşılığından yaranıb (in→into, on→onto),
+          amma öz müstəqil incəlikləri var.
         </p>
 
         <section className="space-y-10">
@@ -54,7 +54,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">7.3.2</span>
               <h3 className="font-display text-xl text-foreground">
-                "Into" və "onto" — 7.1-dəki in/on-un hərəkət forması
+                "Into" və "onto" — yer sözönlərindəki in/on-un hərəkət forması
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -182,7 +182,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.3-dəki stative fellərlə (know, understand, believe) bu sözönləri
+              Stative fellər bölməsindəki (know, understand, believe) bu sözönləri
               işlətmək məntiqsizdir — bunlar yalnız fiziki hərəkəti bildirən
               fellərlə (walk, drive, jump, climb, run) təbii işlənir.
             </p>

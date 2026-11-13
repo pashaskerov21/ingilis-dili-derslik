@@ -17,10 +17,10 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Fəsil 9-un son bölməsi. 9.9-da bəyanatları nəql etməyi öyrənmişik —
-          suallar və əmrlər isə **tamamilə fərqli struktur** tələb edir, çünki
-          original forma (sual inversiyası, əmr forması) dolayı nitqdə qala
-          bilmir.
+          Bu fəsilin son bölməsidir. Əvvəlki bölmədə bəyanatları nəql etməyi
+          öyrənmişik — suallar və əmrlər isə **tamamilə fərqli struktur** tələb
+          edir, çünki original forma (sual inversiyası, əmr forması) dolayı
+          nitqdə qala bilmir.
         </p>
 
         <section className="space-y-10">
@@ -32,8 +32,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              8.4-dəki dolayı sual qaydası burada da tam tətbiq olunur —
-              inversiya itir, backshift (9.9.2) isə normal tətbiq olunur.
+              Əvvəlki dolayı sual qaydası burada da tam tətbiq olunur —
+              inversiya itir, backshift isə normal tətbiq olunur.
             </p>
             <ExampleList
               examples={[
@@ -53,8 +53,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Sual sözü qalır, amma do-support tamamilə itir (8.4.3-dəki eyni
-              qayda).
+              Sual sözü qalır, amma do-support tamamilə itir — bu da əvvəlki
+              dolayı sual qaydasının eynisidir.
             </p>
             <ExampleList
               examples={[
@@ -78,9 +78,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Diqqət — burada 9.9-dakı **backshift qaydası tamamilə fərqlidir**:
-              əmr forması birbaşa infinitivə çevrilir, zaman geriyə sürüşməsi
-              baş vermir.
+              Diqqət — burada əvvəlki dolayı nitq qaydası ilə **tamamilə fərqli**
+              bir şey olur: əmr forması birbaşa infinitivə çevrilir, zaman
+              geriyə sürüşməsi baş vermir.
             </p>
             <ExampleList
               examples={[
@@ -148,9 +148,9 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Eyni fel <em>ask</em> — sual nəql edərkən{" "}
-              <em>if/whether/ wh-söz + cümlə</em> tələb edir (9.10.1-9.10.2),
-              xahiş nəql edərkən isə <em>obyekt + to-infinitiv</em> (9.10.4).
-              Bunları qarışdırmaq geniş yayılmış bir səhvdir.
+              <em>if/whether/ wh-söz + cümlə</em> tələb edir, xahiş nəql
+              edərkən isə <em>obyekt + to-infinitiv</em> tələb edir. Bunları
+              qarışdırmaq geniş yayılmış bir səhvdir.
             </p>
             <ExampleList
               examples={[
@@ -191,9 +191,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.3.3-dəki qrammatik boşluq burada da özünü göstərir — öhdəlik
-              mənasında "must" nəql edilərkən "had to" olur, amma qadağa
-              mənasında "mustn't" olduğu kimi qalır.
+              Əvvəlki modal öhdəlik bölməsindəki qrammatik boşluq burada da
+              özünü göstərir — öhdəlik mənasında "must" nəql edilərkən "had
+              to" olur, amma qadağa mənasında "mustn't" olduğu kimi qalır.
             </p>
             <ExampleList
               examples={[

@@ -88,9 +88,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Bu qrupda iki particle var — birincisi zərf, ikincisi sözönü.
-              Sözönü öz obyektindən heç vaxt ayrıla bilmədiyi üçün (bax: 7.7.3),
-              bu fellər <strong>həmişə tam ayrılmaz</strong> — həm isim, həm
-              əvəzliklə.
+              Sözönü öz obyektindən heç vaxt ayrıla bilmədiyi üçün, bu fellər{" "}
+              <strong>həmişə tam ayrılmaz</strong> — həm isim, həm əvəzliklə.
             </p>
             <div className="flex flex-wrap gap-2">
               {[
@@ -138,8 +137,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              7.7.2-dəki qaydanın davamı — əvəzlik bu üç hissəli fellərdə də{" "}
-              <strong>həmişə ən sonda</strong> gəlir.
+              Əvvəlki ayrılmayan frazal fellər qrupunda olduğu kimi, əvəzlik bu
+              üç hissəli fellərdə də <strong>həmişə ən sonda</strong> gəlir.
             </p>
             <ExampleList
               examples={[
@@ -159,7 +158,8 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">7.8.5</span>
               <h3 className="font-display text-xl text-foreground">
-                Fel gəlirsə: gerund, 7.4.5-in xatırladılması
+                Fel gəlirsə: gerund, əvvəlki sabit sözönü bölməsində
+                xatırlanan qayda
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">

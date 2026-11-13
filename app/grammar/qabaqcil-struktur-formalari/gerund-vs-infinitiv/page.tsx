@@ -17,10 +17,10 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu, 10.3 və 10.4-ü birləşdirən **əsas çətinlikdir**: hansı fel hansını
-          tələb edir? Sabit qayda yoxdur — hər fel əzbərlənməlidir. Amma dörd
-          kateqoriyaya bölündükdə, bu, xaotik yığından strukturlu bir sistemə
-          çevrilir.
+          Bu, gerund və infinitiv formalarını birləşdirən **əsas çətinlikdir**:
+          hansı fel hansını tələb edir? Sabit qayda yoxdur — hər fel
+          əzbərlənməlidir. Amma dörd kateqoriyaya bölündükdə, bu, xaotik
+          yığından strukturlu bir sistemə çevrilir.
         </p>
 
         <section className="space-y-10">

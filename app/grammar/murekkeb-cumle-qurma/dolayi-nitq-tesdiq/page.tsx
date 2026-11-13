@@ -212,7 +212,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">9.9.7</span>
               <h3 className="font-display text-xl text-foreground">
-                Şərt cümlələri ilə: 9.6-9.8-in xatırladılması
+                Şərt cümlələri ilə: əvvəlki şərt cümlələrinin xatırladılması
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">

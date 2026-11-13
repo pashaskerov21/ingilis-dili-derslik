@@ -12,10 +12,9 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           Vergül — ingilis dilinin ən çox işlənən, amma ən çox səhv edilən durğu
-          işarəsidir. Fəsil 9-da (FANBOYS, subordinativ bağlayıcılar, təyin
-          cümlələri) bir çox vergül qaydasını görmüşük — bu bölmə onları **tam
-          bir sistemə** birləşdirir və bir neçə yeni, praktik qaydanı əlavə
-          edir.
+          işarəsidir. Əvvəlki bölmədəki bağlayıcılar, təyin cümlələri və
+          strukturların çoxunu görmüşük — bu bölmə onları **tam bir sistemə**
+          birləşdirir və bir neçə yeni, praktik qaydanı əlavə edir.
         </p>
 
         <section className="space-y-10">
@@ -78,7 +77,7 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Cümlənin mənasını dəyişmədən çıxarıla bilən əlavə məlumat
               (appozisiya, ara söz) hər iki tərəfdən vergüllə əhatələnir — bu,
-              9.4-dəki non-defining budaq cümlələrlə eyni məntiqin daha geniş
+              non-defining budaq cümlələri ilə eyni məntiqin daha geniş
               tətbiqidir.
             </p>
             <ExampleList
@@ -99,7 +98,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">11.3.4</span>
               <h3 className="font-display text-xl text-foreground">
-                Sadalama: 9.1.6-nın xatırladılması
+                Sadalama: vahid siyahı qaydası
               </h3>
             </div>
             <ExampleList
@@ -200,7 +199,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">11.3.9</span>
               <h3 className="font-display text-xl text-foreground">
-                Xatırlatma: "comma splice" (9.1.8) heç vaxt qəbul edilmir
+                Xatırlatma: "comma splice" heç vaxt qəbul edilmir
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -230,10 +229,10 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində vergül qaydaları əsasən intonasiya fasilələrinə
             uyğunlaşdırılır və bir çox halda seçim sərbəstdir. İngilis dilində
-            isə vergül — xüsusilə 11.3.2/11.3.3-dəki cütlü vergül qaydaları —
-            **struktur baxımından məcburi**dir, sırf intonasiya deyil. Bu,
-            Azərbaycan dilli öyrənən üçün vergülü "hiss ilə" deyil, "qaydaya
-            görə" qoymaq vərdişini tələb edir.
+            isə vergül — xüsusilə cütlü vergül qaydaları — **struktur
+            baxımından məcburi**dir, sırf intonasiya deyil. Bu, Azərbaycan
+            dilli öyrənən üçün vergülü "hiss ilə" deyil, "qaydaya görə"
+            qoymaq vərdişini tələb edir.
           </p>
         </aside>
 

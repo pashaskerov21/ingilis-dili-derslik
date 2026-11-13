@@ -17,10 +17,10 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          9.1-dəki koordinativ bağlayıcılardan fərqli olaraq, subordinativ
-          bağlayıcılar iki cümləni **bərabər** deyil, **asılı** münasibətdə
-          birləşdirir — biri müstəqil (əsas fikir), digəri **asılı** (tək başına
-          dayana bilməz) olur.
+          Koordinativ bağlayıcılardan fərqli olaraq, subordinativ bağlayıcılar
+          iki cümləni **bərabər** deyil, **asılı** münasibətdə birləşdirir —
+          biri müstəqil (əsas fikir), digəri **asılı** (tək başına dayana
+          bilməz) olur.
         </p>
 
         <section className="space-y-10">
@@ -255,9 +255,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.1.8-dəki "comma splice" problemi burada yaranmır — çünki
-              subordinativ bağlayıcı budaq cümləni artıq **asılı** etdiyi üçün,
-              vergül təkbaşına iki müstəqil fikri "yapışdırmır".
+              Əvvəlki koordinativ bağlayıcılar bölməsindəki "comma splice"
+              problemi burada yaranmır — çünki subordinativ bağlayıcı budaq
+              cümləni artıq **asılı** etdiyi üçün, vergül təkbaşına iki
+              müstəqil fikri "yapışdırmır".
             </p>
           </div>
         </section>

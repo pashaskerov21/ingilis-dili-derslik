@@ -78,9 +78,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.1.7-də ilk dəfə gördüyün qayda burada mərkəzi əhəmiyyət kəsb
-              edir — hər iki şərt tipində, "if"-dən sonrakı hissə həmişə Present
-              Simple-da qalır, "will" heç vaxt gəlmir.
+              Əvvəlki şərt formaları bölməsində ilk dəfə gördüyün qayda burada
+              mərkəzi əhəmiyyət kəsb edir — hər iki şərt tipində, "if"-dən
+              sonrakı hissə həmişə Present Simple-da qalır, "will" heç vaxt
+              gəlmir.
             </p>
             <ExampleList
               examples={[
@@ -180,7 +181,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              9.2.3-dəki subordinativ bağlayıcı qaydasının eynisi — mövqeyə
+              Subordinativ bağlayıcılar bölməsindəki eyni qayda — mövqeyə
               bağlıdır.
             </p>
             <ExampleList
@@ -206,7 +207,7 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində şərt cümləsi feilin özündə şərt şəkilçisi ilə
             ("-sa/-sə") qurulur, nəticə hissəsi isə sərbəst zaman formalarında
-            ola bilər. İngilis dilində isə 9.6.3-dəki qayda — şərt hissəsində
+            ola bilər. İngilis dilində isə bu bölmədəki qayda — şərt hissəsində
             HEÇ VAXT gələcək zaman işlədilməməsi — bir çox dildən (o cümlədən
             Azərbaycan dilindən, burada gələcək zamanın hər iki hissədə
             işlənməsi təbii ola bilər) fərqli, sərt bir qaydadır.

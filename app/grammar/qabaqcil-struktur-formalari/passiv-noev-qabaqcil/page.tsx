@@ -17,7 +17,7 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          10.1-dəki əsasların üzərinə üç qabaqcıl struktur əlavə edirik: iki
+          Passiv növün əsaslarına üç qabaqcıl struktur əlavə edirik: iki
           obyektli fellərin passivi, **rəsmi hesabat strukturları** (it is said
           that...) və **causative** (have/get something done) — bunların hər
           biri real, professional mətnlərdə tez-tez rast gəlinir.
@@ -32,9 +32,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.2.2-də tanış olduğun ikiqat obyektli fellərlə (give, send,
-              show), **hər iki obyekt** passiv subyektə çevrilə bilər — seçim
-              vurğulamaq istədiyin şeyə bağlıdır.
+              İkiqat obyektli fellərlə (give, send, show), **hər iki obyekt**
+              passiv subyektə çevrilə bilər — seçim vurğulamaq istədiyin şeyə
+              bağlıdır.
             </p>
             <ExampleList
               examples={[

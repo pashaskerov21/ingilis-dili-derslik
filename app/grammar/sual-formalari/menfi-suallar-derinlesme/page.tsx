@@ -17,11 +17,11 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Mənfi sualın forması (1.2, 5.4-də tanış olduğun) sadədir — bu bölmə
-          isə formaya deyil, <strong>funksiyaya</strong> fokuslanır. Mənfi sual
-          heç vaxt sadəcə "inkar sual" demək deyil — o, danışanın{" "}
-          <strong>gözləntisini, təəccübünü və ya təklifini</strong> daşıyan
-          güclü bir vasitədir.
+          Mənfi sualın forması əvvəlki bölmələrdə tanış olduğun qurmada sadədir
+          — bu bölmə isə formaya deyil, <strong>funksiyaya</strong>
+          fokuslanır. Mənfi sual heç vaxt sadəcə "inkar sual" demək deyil — o,
+          danışanın <strong>gözləntisini, təəccübünü və ya təklifini</strong>
+          daşıyan güclü bir vasitədir.
         </p>
 
         <section className="space-y-10">
@@ -60,8 +60,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Danışan artıq bir şeyin doğru olduğuna inanır və dinləyicidən{" "}
-              <strong>təsdiq</strong> gözləyir — bu, question tag-lərlə (8.5)
-              eyni psixoloji funksiyanı daşıyır.
+              <strong>təsdiq</strong> gözləyir — bu, question tag-lərlə eyni
+              psixoloji funksiyanı daşıyır.
             </p>
             <ExampleList
               examples={[
@@ -182,13 +182,13 @@ export default function Page() {
             Azərbaycan dili ilə struktur fərqi
           </h4>
           <p className="text-foreground leading-relaxed">
-            8.6.6-da göstərilən "yes/no faktın özünə görə" qaydası, əslində
-            bütün bu bölmənin ən vacib məqamıdır — bu, sadəcə qrammatik forma
-            fərqi deyil, <strong>məntiqi cavablandırma sistemi</strong>{" "}
-            fərqidir. Azərbaycan dilində (bir çox dil kimi) cavab sualın öz
-            formasına "razılıq/etiraz" bildirir, ingilis dilində isə cavab
-            birbaşa faktın özünə aiddir — bu, tərcümə zamanı ən çox
-            anlaşılmazlıq yaradan nöqtədir.
+            "Yes/no faktın özünə görə" qaydası, əslində bütün bu bölmənin ən
+            vacib məqamıdır — bu, sadəcə qrammatik forma fərqi deyil,{" "}
+            <strong>məntiqi cavablandırma sistemi</strong> fərqidir. Azərbaycan
+            dilində (bir çox dil kimi) cavab sualın öz formasına
+            "razılıq/etiraz" bildirir, ingilis dilində isə cavab birbaşa
+            faktın özünə aiddir — bu, tərcümə zamanı ən çox anlaşılmazlıq
+            yaradan nöqtədir.
           </p>
         </aside>
 

@@ -16,9 +16,9 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Dolayı sual — birbaşa sualı daha nəzakətli, formal bir "qabıq"
           daxilinə yerləşdirmək. Bu bölmənin əsas, ən vacib qaydası:{" "}
-          <strong>daxildəki sualın söz sırası dəyişmir</strong> — 8.1-8.3-də
-          öyrəndiyin bütün inversiya qaydaları burada{" "}
-          <strong>ləğv olunur</strong>.
+          <strong>daxildəki sualın söz sırası dəyişmir</strong> — əvvəlki
+          standart sual formaları bölməsində öyrəndiyin bütün inversiya qaydaları
+          burada <strong>ləğv olunur</strong>.
         </p>
 
         <section className="space-y-10">
@@ -81,9 +81,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.2.4-dəki do-support köməkçi feli dolayı sualda tamamilə yoxa
-              çıxır — əsas fel öz təsdiq formasına (şəxs/zaman şəkilçisi ilə)
-              qayıdır.
+              Do-support köməkçi feli dolayı sualda tamamilə yoxa çıxır — əsas
+              fel öz təsdiq formasına (şəxs/zaman şəkilçisi ilə) qayıdır.
             </p>
             <ExampleList
               examples={[
@@ -217,11 +216,11 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində dolayı sual üçün söz sırası dəyişməsi tələb
             olunmur, çünki birbaşa sualda da söz sırası dəyişmirdi (Azərbaycan
-            dilində sual şəkilçi/intonasiya ilə qurulur, 1.2-də gördüyümüz
-            kimi). İngilis dilində isə "geri qaytarma" (birbaşa sualın
-            inversiyasını ləğv etmək) prosesi Azərbaycan dilli öyrənən üçün
-            əlavə bir addımdır — birbaşa sualı düzgün qurmağı öyrəndikdən sonra,
-            indi onu "geri döndərməyi" öyrənmək lazımdır.
+            dilində sual şəkilçi/intonasiya ilə qurulur, əvvəlki bölmədə
+            gördüyümüz kimi). İngilis dilində isə "geri qaytarma" (birbaşa
+            sualın inversiyasını ləğv etmək) prosesi Azərbaycan dilli öyrənən
+            üçün əlavə bir addımdır — birbaşa sualı düzgün qurmağı öyrəndikdən
+            sonra, indi onu "geri döndərməyi" öyrənmək lazımdır.
           </p>
         </aside>
 

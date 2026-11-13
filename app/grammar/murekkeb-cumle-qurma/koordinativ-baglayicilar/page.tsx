@@ -159,9 +159,9 @@ export default function Page() {
               ]}
             />
             <p className="text-sm text-accent">
-              ⚠ Müqayisə et 9.1.2 ilə: "She reviewed it, and she sent it to the
-              client" — burada ikinci "she" var, iki müstəqil cümlədir, vergül
-              lazımdır.
+              ⚠ Bu nümunəni əvvəlki bölmədəki uyğun qaydayla müqayisə et: "She
+              reviewed it, and she sent it to the client" — burada ikinci "she"
+              var, iki müstəqil cümlədir, vergül lazımdır.
             </p>
           </div>
 
@@ -173,8 +173,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              <em>Nor</em> ikinci mənfi ideyanı bağlayanda, ondan sonra 8.1-dəki
-              sual inversiyası (köməkçi + subyekt) tətbiq olunur.
+              <em>Nor</em> ikinci mənfi ideyanı bağlayanda, ondan sonra sual
+              formaları bölməsindəki inversiya (köməkçi + subyekt) tətbiq
+              olunur.
             </p>
             <ExampleList
               examples={[
@@ -219,8 +220,7 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               <em>For</em> "because" mənasında işlənə bilər, amma daha
               rəsmi/ədəbidir və — subordinativ bağlayıcı olan "because"-dən
-              fərqli olaraq (9.2-də görəcəyik) — cümləni
-              <strong> başlada bilməz</strong>.
+              fərqli olaraq — cümləni <strong>başlada bilməz</strong>.
             </p>
             <ExampleList
               examples={[
@@ -267,7 +267,7 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində "və", "amma", "ya" kimi bağlayıcılardan əvvəl
             vergül qoyulması bu qədər sərt qaydaya tabe deyil, çox vaxt üslub
-            məsələsidir. İngilis dilində isə 9.1.2/9.1.3-dəki "müstəqil
+              məsələsidir. İngilis dilində isə bu bölmədəki "müstəqil
             cümlə/söz" ayrımı **məcburi** bir qrammatik qaydadır — bu,
             Azərbaycan dilli öyrənən üçün yeni bir qərar mexanizmidir, çünki
             səhv vergül qoyma (və ya qoymama) rəsmi yazıda səhv sayılır.

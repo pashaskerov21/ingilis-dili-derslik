@@ -131,8 +131,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Bu, "on"un gözlənildiyi yerdə (üzərində olma) "in"in işlənməsidir
               — çünki diqqət institusiyanın{" "}
-              <strong>əsl funksiyasındadır</strong> (bax: 2.5.6-dakı
-              institusional isim məntiqi ilə əlaqəli).
+              <strong>əsl funksiyasındadır</strong> — bununla institusional
+              isim məntiqi arasında əlaqə var.
             </p>
             <ExampleList
               examples={[

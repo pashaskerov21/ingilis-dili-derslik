@@ -17,10 +17,9 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu, təyin budaq cümlələri (9.3-9.4) üzrə üçlüyün son bölməsidir — iki
-          hissədən ibarətdir: budaq cümlələri **qısaltmaq** (iştirakçı formasına
-          salmaq) və ən çox rast gəlinən **səhvləri** sistemli şəkildə gözdən
-          keçirmək.
+          Bu, təyin budaq cümlələrinin son hissəsidir — iki mərhələdən ibarətdir:
+          budaq cümlələri **qısaltmaq** (iştirakçı formasına salmaq) və ən çox
+          rast gəlinən **səhvləri** sistemli şəkildə gözdən keçirmək.
         </p>
 
         <section className="space-y-10">
@@ -33,8 +32,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Budaq cümləni iştirakçı formasına salmaq yalnız əvəzlik{" "}
-              **subyekt** olduqda mümkündür — 9.3.4-dəki eyni sual burada da
-              həlledici rol oynayır.
+              **subyekt** olduqda mümkündür — əvvəlki təyin cümlələri bölməsində
+              də eyni sual həlledici rol oynayır.
             </p>
           </div>
 
@@ -97,10 +96,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Əvəzlik **obyektdirsə**, qısaltma mümkün deyil (bunun əvəzinə
-              9.3.4-dəki adi buraxma qaydası tətbiq olunur, iştirakçı forması
-              yox). Eyni şəkildə, <em>whose, when, where</em> ilə qurulan budaq
-              cümlələr də qısaldılmır.
+              Əvəzlik **obyektdirsə**, qısaltma mümkün deyil (bunun əvəzinə adi
+              buraxma qaydası tətbiq olunur, iştirakçı forması yox). Eyni
+              şəkildə, <em>whose, when, where</em> ilə qurulan budaq cümlələr də
+              qısaldılmır.
             </p>
             <ExampleList
               examples={[
@@ -180,8 +179,8 @@ export default function Page() {
             Azərbaycan dili ilə struktur fərqi
           </h4>
           <p className="text-foreground leading-relaxed">
-            9.5.7-dəki "artıq əvəzlik təkrarı" səhvi Azərbaycan dilli öyrənən
-            üçün xüsusilə təbiidir, çünki Azərbaycan dilində bənzər
+            Bu hissədəki "artıq əvəzlik təkrarı" səhvi Azərbaycan dilli
+            öyrənən üçün xüsusilə təbiidir, çünki Azərbaycan dilində bənzər
             konstruksiyalarda ("menecer, o mənə zəng etdi") əvəzlik təbii
             şəkildə görünür. İngilis dilində isə nisbi əvəzlik özü artıq bu rolu
             daşıdığı üçün, ikinci əvəzlik **artıqdır** və qrammatik səhv

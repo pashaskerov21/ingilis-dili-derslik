@@ -17,8 +17,8 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu bölmə yeni qayda öyrətmir — əvəzinə, 1.2-dən 5.10-a qədər{" "}
-          <strong>bütün fəsillərdə səpələnmiş</strong> sual formalarını{" "}
+          Bu bölmə yeni qayda öyrətmir — əvəzinə, əvvəlki fəsillərdə{" "}
+          <strong>səpələnmiş</strong> sual formalarını{" "}
           <strong>tək bir universal formula</strong> altında birləşdirir.
           Məqsəd: hər zamanı/modalı ayrıca yadda saxlamaq əvəzinə,{" "}
           <strong>bir naxışı</strong> mənimsəmək.
@@ -36,7 +36,7 @@ export default function Page() {
               Bütün "bəli/xeyr" sualları eyni bir prinsipə tabedir: cümlədəki{" "}
               <strong>ilk köməkçi fel və ya modal</strong> subyektdən əvvələ
               keçir. Əgər cümlədə heç bir köməkçi fel yoxdursa (sadə fel),
-              1.2.4-dəki do-support qaydası işə düşür.
+              do-support qaydası işə düşür.
             </p>
           </div>
 
@@ -142,9 +142,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.3.3-dəki qaydanın xatırladılması: <em>to be</em> özü köməkçi
-              rolunu oynadığı üçün, əsas fel olsa belə heç vaxt "does/did" tələb
-              etmir.
+              <em>To be</em> feli bölməsində xatırlanan qayda: <em>to be</em>
+              özü köməkçi rolunu oynadığı üçün, əsas fel olsa belə heç vaxt
+              "does/did" tələb etmir.
             </p>
             <ExampleList
               examples={[
@@ -190,8 +190,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.1.5-dəki qaydanın davamı — modal fel artıq köməkçi rolundadır,
-              ona görə "do" əlavə etmək lazımsız və səhvdir.
+              Modal fel bölməsindəki qaydanın davamı — modal fel artıq köməkçi
+              rolundadır, ona görə "do" əlavə etmək lazımsız və səhvdir.
             </p>
             <ExampleList
               examples={[

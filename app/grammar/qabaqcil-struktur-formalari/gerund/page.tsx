@@ -14,8 +14,8 @@ export default function Page() {
     <LessonShell chapterSlug="qabaqcil-struktur-formalari" sectionSlug="gerund">
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Gerund — felin -ing forması, amma **isim kimi** işlənir. Bu, Present
-          Continuous-dakı (4.2) eyni -ing şəkilçisi olsa da, funksiyası tamamilə
+          Gerund — felin -ing forması, amma **isim kimi** işlənir. Bu, davamlı
+          zamanın forması ilə eyni -ing şəkilçisi olsa da, funksiyası tamamilə
           fərqlidir: gerund hərəkəti təsvir etmir, hərəkəti bir **konsept/isim**
           kimi təqdim edir.
         </p>
@@ -53,8 +53,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Bəzi fellərdən sonra (enjoy, avoid, suggest, finish, mind) — hansı
-              fellərin gerund tələb etdiyi 10.5-də tam siyahı ilə veriləcək.
+              Bəzi fellərdən sonra (enjoy, avoid, suggest, finish, mind) — bu
+              fel qruplarının tam siyahısı gələcək hissədə tam izah olunacaq.
             </p>
             <ExampleList
               examples={[
@@ -74,12 +74,13 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">10.3.3</span>
               <h3 className="font-display text-xl text-foreground">
-                Funksiya 3 — Sözönündən sonra (7.4.5-in tam qaydası)
+                Funksiya 3 — Sözönündən sonra
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              7.4.5-də ilk dəfə gördüyün qayda burada tam formalaşır: sözönündən
-              sonra fel gəlirsə, **həmişə gerund** — heç vaxt infinitiv.
+              Sözönündən sonra fel gəlirsə, **həmişə gerund** — heç vaxt
+              infinitiv. Bu, öncəki bölmədə də tanış olduğun üsulun tam
+              formalaşmış versiyasıdır.
             </p>
             <ExampleList
               examples={[
@@ -139,8 +140,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Gerund kimin/nəyin "hərəkət etdiyini" göstərmək lazım gələndə,
               rəsmi qaydaya görə həmin isim/əvəzlik **mülkiyyət formasında**
-              olmalıdır (3.3-dəki mülkiyyət sifəti). Qeyri- rəsmi danışıqda adi
-              obyekt forması da tez-tez eşidilir.
+              olmalıdır. Qeyri-rəsmi danışıqda adi obyekt forması da tez-tez
+              eşidilir.
             </p>
             <ExampleList
               examples={[
@@ -225,9 +226,9 @@ export default function Page() {
             Azərbaycan dilində fel isim kimi işlədilərkən məsdər forması
             (-maq/-mək) istifadə olunur ("idarə etmək çətindir"). İngilis
             dilində isə eyni funksiya üçün **iki** rəqib forma (gerund və
-            infinitiv, 10.4-də görəcəyik) mövcuddur, seçim isə heç bir universal
-            qaydaya deyil, felin özünə görə dəyişir — bu, 10.5-də dərinləşəcək
-            əsas çətinlikdir.
+            infinitiv) mövcuddur, seçim isə heç bir universal qaydaya deyil,
+            felin özünə görə dəyişir — bu, növbəti hissədə dərinləşəcək əsas
+            çətinlikdir.
           </p>
         </aside>
 

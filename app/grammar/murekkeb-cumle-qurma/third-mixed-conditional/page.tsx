@@ -58,9 +58,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              4.1.7/9.6.3/9.7-dəki eyni prinsipin üçüncü şərtdəki forması — "if"
-              hissəsi heç vaxt "would" və ya "would have" tələb etmir, yalnız
-              Past Perfect.
+              Əvvəlki şərt formalarında gördüyünüz eyni prinsipin üçüncü şərtdəki
+              forması — "if" hissəsi heç vaxt "would" və ya "would have" tələb
+              etmir, yalnız Past Perfect.
             </p>
             <ExampleList
               examples={[

@@ -175,8 +175,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Frazal fellər öz strukturuna görə üç kateqoriyaya bölünür —
-              bunları növbəti üç bölmədə ayrıca öyrənəcəyik: ayrıla bilən (7.6),
-              ayrılmayan (7.7) və keçişsiz/üç hissəli (7.8).
+              bunları növbəti üç bölmədə ayrıca öyrənəcəyik: ayrıla bilən,
+              ayrılmayan və keçişsiz/üç hissəli frazal fellər.
             </p>
           </div>
         </section>

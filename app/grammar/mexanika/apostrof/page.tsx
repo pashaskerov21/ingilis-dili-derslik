@@ -11,11 +11,12 @@ export default function Page() {
     <LessonShell chapterSlug="mexanika" sectionSlug="apostrof">
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          2.6-da mülkiyyət halının **qrammatikasını** öyrənmişdik — bu bölmə isə
-          apostrofun özünün **mexanikasına**, yəni onu harada yazıb harada
-          yazmamaq lazım olduğuna fokuslanır. Apostrofun cəmi iki vəzifəsi var:
-          **mülkiyyət** və **ixtisar** (hərflərin buraxılması) — amma bu iki
-          vəzifə arasında sərhəd tez-tez pozulur.
+          Mülkiyyət halı ilə bağlı **qrammatikanı** əvvəlki bölmədə
+          öyrənmişdik — bu bölmə isə apostrofun özünün **mexanikasına**, yəni
+          onu harada yazıb harada yazmamaq lazım olduğuna fokuslanır.
+          Apostrofun cəmi iki vəzifəsi var: **mülkiyyət** və **ixtisar**
+          (hərflərin buraxılması) — amma bu iki vəzifə arasında sərhəd tez-tez
+          pozulur.
         </p>
 
         <section className="space-y-10">
@@ -69,7 +70,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.2.6-dakı qeyri-müntəzəm cəm formaları (children, men, women,
+              Əvvəlki qeyri-müntəzəm cəm formaları (children, men, women,
               people) -s ilə bitmədiyi üçün tək isim kimi işlədilir.
             </p>
             <ExampleList
@@ -90,8 +91,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.3.6-dakı qaydanın mexanika versiyası — his, hers, its, ours,
-              yours, theirs sözlərinin heç birində apostrof yoxdur.
+              Mülkiyyət əvəzlikləri ilə bağlı qaydanın mexanika versiyası —
+              his, hers, its, ours, yours, theirs sözlərinin heç birində
+              apostrof yoxdur.
             </p>
             <ExampleList
               examples={[
@@ -191,8 +193,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.6.8-dəki qayda — "it is/it has" yerinə oxumaq üçün sınaqdan
-              keçir: mənalıdırsa "it's", deyilsə "its".
+              Mülkiyyət halı ilə bağlı qayda — "it is/it has" yerinə oxumaq
+              üçün sınaqdan keçir: mənalıdırsa "it's", deyilsə "its".
             </p>
             <ExampleList
               examples={[
@@ -219,8 +221,8 @@ export default function Page() {
             ilə, ixtisar isə əsasən danışıq dilində fonetik dəyişikliklə ifadə
             olunur, yazıda əks olunmur. Bu, Azərbaycan dilli öyrənən üçün
             apostrofun **özünün** yeni bir yazı işarəsi olması deməkdir — həm
-            harada işlədiləcəyini, həm harada işlədilməyəcəyini (11.2.5-dəki cəm
-            qadağası) ayrıca öyrənmək lazımdır.
+            harada işlədiləcəyini, həm harada işlədilməyəcəyini ayrıca öyrənmək
+            lazımdır; sadə cəmdə apostrof qadağası buna nümunədir.
           </p>
         </aside>
 
