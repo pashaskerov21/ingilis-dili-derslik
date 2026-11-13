@@ -32,8 +32,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Orfoqrafiya qaydaları 6.4.1-dəki comparative qaydalarının
-              eynisidir (CVC ikiləşməsi, səssiz "e" + st, samit+y → -iest).
+              Orfoqrafiya qaydaları comparative qaydalarının eynisidir (CVC
+              ikiləşməsi, səssiz "e" + st, samit+y → -iest).
             </p>
             <ExampleList
               examples={[
@@ -57,8 +57,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              6.4.2-dəki eyni istisna qrupu (-y, -er, -le, -ow) burada da
-              keçərlidir — bunlar -est ilə də işlənə bilər.
+              Eyni istisna qrupu (-y, -er, -le, -ow) burada da keçərlidir —
+              bunlar -est ilə də işlənə bilər.
             </p>
             <ExampleList
               examples={[
@@ -113,9 +113,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Comparative-dən fərqli olaraq (bax: 6.4, "the" tələb olunmur),
-              superlativdən əvvəl demək olar həmişə <em>the</em> gəlir — çünki
-              2.4.5-də öyrəndiyin kimi, superlativ öz təbiətinə görə tək bir
+              Comparative-dən fərqli olaraq, "the" tələb olunmur, superlativdən
+              əvvəl demək olar həmişə <em>the</em> gəlir — çünki artikl
+              bölməsində öyrəndiyin kimi, superlativ öz təbiətinə görə tək bir
               elementi müəyyənləşdirir.
             </p>
             <ExampleList
@@ -192,9 +192,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Yalnız <strong>iki</strong> şey/şəxs müqayisə edildikdə
-              comparative (bax: 6.4) işlədilir.{" "}
-              <strong>Üç və ya daha çox</strong> olduqda superlativ tələb
-              olunur.
+              comparative forması işlədilir. <strong>Üç və ya daha çox</strong>{" "}
+              olduqda superlativ tələb olunur.
             </p>
             <ExampleList
               examples={[

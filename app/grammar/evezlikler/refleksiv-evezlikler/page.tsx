@@ -253,9 +253,9 @@ export default function Page() {
             (məsələn "geyinmək" — "geymək"dən fərqli müstəqil söz kimi) və ya
             ayrıca refleksiv formasız ifadə olunur, amma bəzi kontekstdə "özünü"
             sözü əlavə edilə bilər ("özünü göstərdi"). İngilis dilində isə
-            3.4.5-dəki fellər qrupu üçün refleksiv <strong>heç vaxt</strong>{" "}
-            əlavə olunmur — bu, universal bir qayda deyil, konkret fellər
-            siyahısıdır, ona görə əzbərlənməlidir.
+            refleksiv əvəzlik tələb etməyən fellər qrupu üçün refleksiv{" "}
+            <strong>heç vaxt</strong> əlavə olunmur — bu, universal bir qayda
+            deyil, konkret fellər siyahısıdır, ona görə əzbərlənməlidir.
           </p>
         </aside>
 

@@ -162,7 +162,7 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               İnkar forması ilə icazə rədd edilir — <em>mustn't</em> daha güclü,
-              qəti qadağa bildirir (bax: 5.4).
+              qəti qadağa bildirir.
             </p>
             <ExampleList
               examples={[
@@ -182,8 +182,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Eyni <em>can</em> sözü kontekstdən asılı olaraq ya bacarıq (5.1),
-              ya icazə bildirə bilər — cümlənin özü bunu aydınlaşdırır.
+              Eyni <em>can</em> sözü kontekstdən asılı olaraq ya bacarıq, ya
+              icazə bildirə bilər — cümlənin özü bunu aydınlaşdırır.
             </p>
             <ExampleList
               examples={[

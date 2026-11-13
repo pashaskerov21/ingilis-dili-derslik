@@ -135,8 +135,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Bu struktur keçmişdə{" "}
               <strong>ideal olan, amma baş verməyən</strong> bir şeyi bildirir —
-              peşmançılıq, tənqid və ya gözlənti pozulması mənasında (5.8-də
-              daha ətraflı, digər keçmiş modallarla birgə).
+              peşmançılıq, tənqid və ya gözlənti pozulması mənasında. Bu,
+              digər keçmiş modal formalarla birgə daha ətraflı müzakirə edilir.
             </p>
             <ExampleList
               examples={[

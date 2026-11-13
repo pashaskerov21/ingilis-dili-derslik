@@ -63,8 +63,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.2-də görəcəyin kimi, əksər şəxs əvəzliklərinin subyekt və obyekt
-              üçün <strong>ayrı forması</strong> var (I/me, he/him). Lakin{" "}
+              Daha sonra obyekt əvəzlikləri bölməsində görəcəyin kimi, əksər
+              şəxs əvəzliklərinin subyekt və obyekt üçün{" "}
+              <strong>ayrı forması</strong> var (I/me, he/him). Lakin{" "}
               <em>you</em> və <em>it</em> istisnadır — hər iki funksiya üçün
               eyni forma işlədilir.
             </p>
@@ -170,9 +171,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              <em>It</em> təkcə əşyaya deyil, artıq 1.3 və 1.4-də tanış olduğun
-              kimi hava, vaxt və mövcudluq strukturlarında da{" "}
-              <strong>qrammatik, mənasız subyekt</strong> kimi çıxış edir.
+              <em>It</em> təkcə əşyaya deyil; əvvəllər to be və there is/there
+              are strukturlarında tanış olduğun kimi hava, vaxt və mövcudluq
+              strukturlarında da <strong>qrammatik, mənasız subyekt</strong>{" "}
+              kimi çıxış edir.
             </p>
             <ExampleList
               examples={[

@@ -19,8 +19,8 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Zərflər mənasına görə fərqli kateqoriyalara bölünür, və hər
           kateqoriyanın cümlədə <strong>öz sabit yeri</strong> var. Bir neçə
-          zərf eyni cümlədə birləşəndə, onlar da (sifətlər kimi — bax: 6.1)
-          müəyyən bir sıraya tabe olur.
+          zərf eyni cümlədə birləşəndə, onlar da sifətlər kimi müəyyən bir
+          sıraya tabe olur.
         </p>
 
         <section className="space-y-10">
@@ -109,7 +109,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">6.3.4</span>
               <h3 className="font-display text-xl text-foreground">
-                Tezlik zərfləri (Frequency) — 1.1.4-ün dərinləşməsi
+                Tezlik zərfləri (Frequency) — əsas söz sırasının dərinləşməsi
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -144,8 +144,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.1.5-də tanış olduğun sıra qaydasının tam versiyası. Diqqət:
-              hərəkət (istiqamət) feli olduqda sıra dəyişir — Yer, Tərz, Zaman.
+              Əvvəlki söz sırası bölməsində tanış olduğun sıra qaydasının tam
+              versiyası. Diqqət: hərəkət (istiqamət) feli olduqda sıra dəyişir
+              — Yer, Tərz, Zaman.
             </p>
             <ExampleList
               examples={[
@@ -222,10 +223,10 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində zərflər cümlə daxilində nisbətən sərbəst yerləşə
             bilər, söz sırası dəyişsə də məna əsasən qorunur. İngilis dilində
-            isə — 1.1-dəki əsas SVO qaydasının davamı olaraq —{" "}
+            isə — əsas SVO qaydasının davamı olaraq —{" "}
             <strong>hər zərf növünün öz sabit yeri var</strong> və bu yerin
-            pozulması (xüsusilə 6.3.6-dakı fel-obyekt ayrılması) qrammatik
-            cəhətdən səhv sayılır.
+            pozulması (xüsusilə fel-obyekt ayrılması) qrammatik cəhətdən səhv
+            sayılır.
           </p>
         </aside>
 

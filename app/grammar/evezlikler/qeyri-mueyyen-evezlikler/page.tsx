@@ -19,9 +19,10 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Qeyri-müəyyən əvəzliklər konkret şəxs, əşya və ya yeri deyil,{" "}
           <strong>ümumi, qeyri-spesifik</strong> bir varlığı bildirir. Bunlar
-          2.7 və 2.8-də öyrəndiyin some/any/no/every sistemi ilə birbaşa
-          əlaqəlidir — sadəcə indi isimlə deyil, "şəxs/əşya/yer" bildirən sabit
-          şəkilçilərlə (-body/-one/-thing/-where) birləşir.
+          əvvəlki kəmiyyət göstəriciləri bölmələrində öyrəndiyin some/any/no/
+          every sistemi ilə birbaşa əlaqəlidir — sadəcə indi isimlə deyil,
+          "şəxs/əşya/yer" bildirən sabit şəkilçilərlə (-body/-one/-thing/-where)
+          birləşir.
         </p>
 
         <section className="space-y-10">
@@ -80,7 +81,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">3.7.2</span>
               <h3 className="font-display text-xl text-foreground">
-                Some-/any- paylanması: 2.7.1-in birbaşa davamı
+                Some-/any- paylanması: kəmiyyət göstəriciləri bölməsinin birbaşa davamı
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -113,9 +114,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.8.7-də gördüyün qaydaya uyğun olaraq, <em>no-</em> ilə başlayan
-              formalar artıq mənfidir — eyni cümlədə <em>not</em> işlədilmir.
-              Bunlar həmişə tək fel alır.
+              Əvvəlki kəmiyyət göstəriciləri bölməsində gördüyün qaydaya uyğun
+              olaraq, <em>no-</em> ilə başlayan formalar artıq mənfidir — eyni
+              cümlədə <em>not</em> işlədilmir. Bunlar həmişə tək fel alır.
             </p>
             <ExampleList
               examples={[
@@ -143,10 +144,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.1.5-də gördüyün gender-neutral "they" qaydası burada da
-              keçərlidir — <em>everyone/everybody</em> qrammatik cəhətdən tək
-              olsa da, cinsi bilinməyən şəxsə geri istinad edərkən{" "}
-              <em>they/their</em> işlədilir.
+              Şəxs əvəzlikləri bölməsində gördüyün gender-neutral "they"
+              qaydası burada da keçərlidir — <em>everyone/everybody</em>
+              qrammatik cəhətdən tək olsa da, cinsi bilinməyən şəxsə geri
+              istinad edərkən <em>they/their</em> işlədilir.
             </p>
             <ExampleList
               examples={[
@@ -166,8 +167,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Adi isimlərdən fərqli olaraq (bax: 1.1.6, sifət isimdən əvvəl),
-              qeyri-müəyyən əvəzlikləri təsvir edən sifət{" "}
+              Adi isimlərdən fərqli olaraq, sifət isimdən əvvəl gələn qaydadan
+              fərqli olaraq, qeyri-müəyyən əvəzlikləri təsvir edən sifət{" "}
               <strong>həmişə sonra</strong> gəlir.
             </p>
             <ExampleList
@@ -248,9 +249,9 @@ export default function Page() {
             Bundan başqa, Azərbaycan dilində ikiqat inkar tam normaldır və
             məcburidir ("heç kim heç nə demədi") — halbuki ingilis dilində bu,
             standart qaydaya görə yalnız <strong>bir</strong> mənfi element
-            tələb edir. Bu, Azərbaycan dilli öyrənənlər üçün 2.7/2.8-də
-            gördüyümüz ikiqat inkar probleminin bu bölmədəki təkrarıdır və
-            xüsusi diqqət tələb edir.
+            tələb edir. Bu, Azərbaycan dilli öyrənənlər üçün əvvəlki kəmiyyət
+            göstəriciləri bölmələrində gördüyümüz ikiqat inkar probleminin bu
+            bölmədəki təkrarıdır və xüsusi diqqət tələb edir.
           </p>
         </aside>
 

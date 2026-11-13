@@ -34,8 +34,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               <em>Used to</em> universal formadır — həm təkrarlanan hərəkətləri,
-              həm də daimi olmuş, indi artıq doğru olmayan vəziyyətləri (stative
-              fellərlə, bax: 4.3) bildirə bilir.
+              həm də daimi olmuş, indi artıq doğru olmayan vəziyyətləri
+              bildirə bilir.
             </p>
             <ExampleList
               examples={[
@@ -64,8 +64,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               <em>Would</em> təkrarlanan hərəkətləri bildirə bilir, amma{" "}
-              <strong>stative fellərlə (bax: 4.3) heç vaxt işlənmir</strong> —
-              bu, "used to"-dan fərqli, sərt bir qaydadır.
+              <strong>stative fellərlə heç vaxt işlənmir</strong> — bu,
+              "used to"-dan fərqli, sərt bir qaydadır.
             </p>
             <ExampleList
               examples={[

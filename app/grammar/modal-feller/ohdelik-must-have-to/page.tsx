@@ -17,8 +17,7 @@ export default function Page() {
           Üç forma da "lazımdır, məcburidir" mənasını versə də, fərq{" "}
           <strong>öhdəliyin haradan gəldiyindədir</strong> — sənin öz
           qərarındanmı, yoxsa xarici bir qaydadan/qanundan/vəziyyətdən? Bu fərq,
-          xüsusilə inkar formasında (5.4-də görəcəyik), tamam fərqli mənalara
-          aparır.
+          xüsusilə inkar formasında tamam fərqli mənalara aparır.
         </p>
 
         <section className="space-y-10">
@@ -86,8 +85,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.1.4-dəki can/be able to naxışının eynisi: <em>must</em> yalnız
-              indiki zamanda mövcuddur. Keçmiş və gələcək öhdəlik üçün məcburən{" "}
+              Can/be able to naxışının eynisi: <em>must</em> yalnız indiki
+              zamanda mövcuddur. Keçmiş və gələcək öhdəlik üçün məcburən{" "}
               <em>have to</em>-ya keçilir.
             </p>
             <ExampleList
@@ -166,8 +165,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Bu bölmədəki <em>must</em> öhdəlik bildirir, lakin eyni söz tamam
               fərqli bir funksiyada — dəlilə əsaslanan{" "}
-              <strong>ehtimal/nəticə çıxarma</strong> mənasında da işlənir
-              (5.7-də ətraflı). İkisini kontekstdən ayırmaq lazımdır.
+              <strong>ehtimal/nəticə çıxarma</strong> mənasında da işlənir.
+              İkisini kontekstdən ayırmaq lazımdır.
             </p>
             <ExampleList
               examples={[

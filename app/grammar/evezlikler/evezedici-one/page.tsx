@@ -15,9 +15,9 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           <em>One/ones</em> artıq adı çəkilmiş bir sayıla bilən ismi{" "}
-          <strong>təkrarlamamaq</strong> üçün onun yerinə keçir. Bu, 3.6-dakı
-          göstərici əvəzliklərlə (this one, that one) tez-tez birgə işlənir,
-          amma öz müstəqil qaydalarına malikdir.
+          <strong>təkrarlamamaq</strong> üçün onun yerinə keçir. Bu, göstərici
+          əvəzliklər bölməsindəki formalarla (this one, that one) tez-tez
+          birgə işlənir, amma öz müstəqil qaydalarına malikdir.
         </p>
 
         <section className="space-y-10">
@@ -50,9 +50,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.1-dəki ayrımı xatırla: <em>one/ones</em> yalnız sayıla bilən
-              isimləri əvəz edir. Sayıla bilməyən isim üçün sadəcə buraxılır və
-              ya başqa vasitə (some) işlədilir.
+              Əvvəlki isimlər bölməsinin ayrımını xatırla: <em>one/ones</em>
+              yalnız sayıla bilən isimləri əvəz edir. Sayıla bilməyən isim üçün
+              sadəcə buraxılır və ya başqa vasitə (some) işlədilir.
             </p>
             <ExampleList
               examples={[
@@ -121,7 +121,7 @@ export default function Page() {
             />
             <p className="text-sm text-muted">
               Sifət əlavə olunanda isə "ones" geri qayıdır: "I have some red
-              ones" (3.8.3-ün nümunəsi ilə eyni məntiq).
+              ones" (əvvəlki nümunənin eyni məntiqi ilə).
             </p>
           </div>
 
@@ -134,8 +134,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Gündəlik, qeyri-rəsmi danışıqda mülkiyyət sifəti (my, his, her)
-              "one"-dan əvvələ keçə bilər — bu, 3.3-dəki standart mülkiyyət
-              əvəzliyindən (mine, his, hers) daha{" "}
+              "one"-dan əvvələ keçə bilər — bu, mülkiyyət əvəzlikləri
+              bölməsindəki standart formadan (mine, his, hers) daha{" "}
               <strong>emosional vurğulu</strong> səslənir.
             </p>
             <ExampleList
@@ -147,8 +147,8 @@ export default function Page() {
               ]}
             />
             <p className="text-sm text-muted">
-              Standart/rəsmi forma: "Mine got stolen last week" (3.3-dəki adi
-              mülkiyyət əvəzliyi).
+              Standart/rəsmi forma: "Mine got stolen last week" (mülkiyyət
+              əvəzlikləri bölməsindəki adi forma).
             </p>
           </div>
 

@@ -159,13 +159,12 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.6.6-da öyrəndiyin ikiqat mülkiyyət halının bir forması da
-              mülkiyyət əvəzlikləri ilə qurulur:{" "}
-              <em>isim + of + mine/his/ hers...</em>. Bu struktur{" "}
-              <strong>qeyri-müəyyən</strong> mənanı (bir çox nəfərdən biri)
-              daşıyır — "my colleague" (müəyyən, konkret) ilə "a colleague of
-              mine" (qeyri-müəyyən, bir neçədən biri) arasındakı fərqə diqqət
-              et.
+              Mülkiyyət halı bölməsində öyrəndiyin ikiqat mülkiyyət quruluşu da
+              mülkiyyət əvəzlikləri ilə formalaşır: <em>isim + of + mine/his/
+              hers...</em>. Bu struktur <strong>qeyri-müəyyən</strong> mənanı
+              (bir çox nəfərdən biri) daşıyır — "my colleague" (müəyyən,
+              konkret) ilə "a colleague of mine" (qeyri-müəyyən, bir neçədən
+              biri) arasındakı fərqə diqqət et.
             </p>
             <ExampleList
               examples={[
@@ -216,11 +215,12 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.6.8-də "its/it's" fərqini görmüşdük — bu qayda, əslində,{" "}
-              <strong>bütün</strong> mülkiyyət sifət/əvəzliklərinə aiddir: heç
-              biri (my, your, his, her, its, our, their, mine, yours, hers,
-              ours, theirs) apostrof almır. Apostroflu formalar (it's, who's)
-              həmişə "is/has"-ın qısaldılmasıdır, mülkiyyət deyil.
+              Mülkiyyət halı bölməsində "its/it's" fərqini görmüşdük — bu qayda,
+              əslində, <strong>bütün</strong> mülkiyyət sifət/əvəzliklərinə
+              aiddir: heç biri (my, your, his, her, its, our, their, mine,
+              yours, hers, ours, theirs) apostrof almır. Apostroflu formalar
+              (it's, who's) həmişə "is/has"-ın qısaldılmasıdır, mülkiyyət
+              deyil.
             </p>
             <ExampleList
               examples={[

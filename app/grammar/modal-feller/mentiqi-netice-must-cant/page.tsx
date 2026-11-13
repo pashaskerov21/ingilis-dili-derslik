@@ -17,12 +17,11 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          Bu bölmə 5.6-dakı ehtimal spektrinin ən yüksək (və ən aşağı) ucunu
-          tamamlayır — dəlilə əsaslanan, demək olar{" "}
-          <strong>tam əminliyə</strong> yaxın nəticə çıxarma. Diqqət: bu{" "}
-          <em>must</em> 5.3-dəki öhdəlik mənasından fərqli bir funksiyadır —
-          burada söhbət "etməlisən"dən deyil, "belə olmalıdır (məntiqi nəticəyə
-          görə)"dən gedir.
+          Bu bölmə ehtimal spektrinin ən yüksək (və ən aşağı) ucunu tamamlayır
+          — dəlilə əsaslanan, demək olar <strong>tam əminliyə</strong> yaxın
+          nəticə çıxarma. Diqqət: bu <em>must</em> öhdəlik mənasından fərqli
+          bir funksiyadır — burada söhbət "etməlisən"dən deyil, "belə
+          olmalıdır (məntiqi nəticəyə görə)"dən gedir.
         </p>
 
         <section className="space-y-10">
@@ -62,8 +61,8 @@ export default function Page() {
             <p className="text-foreground leading-relaxed">
               Bu, ən vacib və ən çox səhv edilən qaydadır: nəticə çıxararkən,{" "}
               <em>must</em>-un inkarı <strong>mustn't</strong> deyil (bu, yalnız
-              5.4-dəki qadağa mənasında mövcuddur) —{" "}
-              <strong>can't/cannot</strong> istifadə olunur.
+              qadağa mənasında mövcuddur) — <strong>can't/cannot</strong>
+              istifadə olunur.
             </p>
             <ExampleList
               examples={[
@@ -113,7 +112,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Diqqət: bu, 5.7.2-dəki "mustn't" (qadağa) ilə{" "}
+              Diqqət: bu, qadağa mənasında işlənən "mustn't" ilə{" "}
               <strong>eyni şey deyil</strong> — burada tam forma "must not have"
               istifadə olunur və bu, "yəqin ki baş verməyib" mənasını verir.
             </p>

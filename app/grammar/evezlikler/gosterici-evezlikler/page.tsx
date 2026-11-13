@@ -126,8 +126,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Yazıda çox işlək, amma az öyrədilən qayda: <em>this</em> tez-tez{" "}
-              <strong>indicə deyiləcək</strong> fikrə işarə edir (cataphoric),{" "}
-              <em>that</em> isə <strong>artıq deyilmiş</strong> fikrə geri
+              <strong>indikə deyəcəklər</strong> fikrə işarə edir (cataphoric),{" "}
+              <em>that</em> isə <strong>artıq deyilməmiş</strong> fikrə geri
               qayıdır (anaphoric). Bu, mətnin məntiqi axınını izləməyə kömək
               edir.
             </p>
@@ -220,11 +220,11 @@ export default function Page() {
           <p className="text-foreground leading-relaxed">
             Azərbaycan dilində "bu/bunlar" (yaxın) və "o/onlar" (uzaq) əsas
             fiziki məsafə fərqi ingilis dilinə çox bənzəyir. Əsas fərq
-            3.6.4-dəki <strong>mətn daxili istinad qaydasındadır</strong> —
-            Azərbaycan dilində yazıda "bu" və "o" arasında irəli/geri istinad
-            fərqi bu qədər sistemli şəkildə qeyd edilmir, ona görə ingilis
-            dilində akademik/işgüzar yazıda bu incəliyə xüsusi diqqət lazımdır
-            ki, mətnin məntiqi axını aydın olsun.
+            mətn daxili istinad qaydasındadır — Azərbaycan dilində yazıda "bu"
+            və "o" arasında irəli/geri istinad fərqi bu qədər sistemli şəkildə
+            qeyd edilmir, ona görə ingilis dilində akademik/işgüzar yazıda bu
+            incəliyə xüsusi diqqət lazımdır ki, mətnin məntiqi axını aydın
+            olsun.
           </p>
         </aside>
 

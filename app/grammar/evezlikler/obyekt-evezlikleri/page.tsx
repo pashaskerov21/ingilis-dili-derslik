@@ -15,10 +15,10 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           Obyekt əvəzlikləri felin təsir etdiyi və ya sözönünün aid olduğu
-          şəxs/əşyanı bildirir. 3.1-dən fərqli olaraq, bu əvəzliklərin çoxu{" "}
-          <strong>fərqli, ayrıca forma</strong> daşıyır (I → me, he → him), və
-          mövqeyə görə (birbaşa obyekt, dolayı obyekt, sözönü obyekti) fərqli
-          sıralama qaydalarına tabedir.
+          şəxs/əşyanı bildirir. Subyekt əvəzliklərindən fərqli olaraq, bu
+          əvəzliklərin çoxu <strong>fərqli, ayrıca forma</strong> daşıyır (I →
+          me, he → him), və mövqeyə görə (birbaşa obyekt, dolayı obyekt,
+          sözönü obyekti) fərqli sıralama qaydalarına tabedir.
         </p>
 
         <section className="space-y-10">
@@ -65,10 +65,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              1.1.3-də tanış olduğun ikiqat obyektli fellərlə (give, send, show,
-              offer) obyekt əvəzliyi iki yerdə dura bilər: (1) birbaşa obyektdən{" "}
-              <strong>əvvəl</strong>, sözönüsüz; (2) birbaşa obyektdən{" "}
-              <strong>sonra</strong>, <em>to/for</em> ilə.
+              Əvvəlki bölmədə tanış olduğun ikiqat obyektli fellərlə (give,
+              send, show, offer) obyekt əvəzliyi iki yerdə dura bilər: (1)
+              birbaşa obyektdən <strong>əvvəl</strong>, sözönüsüz; (2) birbaşa
+              obyektdən <strong>sonra</strong>, <em>to/for</em> ilə.
             </p>
             <ExampleList
               examples={[
@@ -146,9 +146,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.1.4-də gördüyümüz kimi, gündəlik danışıqda tam cümlə əvəzinə tək
-              əvəzliklə cavab verərkən, formal qaydadan asılı olmayaraq{" "}
-              <strong>obyekt forması</strong> işlədilir.
+              Şəxs əvəzlikləri bölməsində gördüyümüz kimi, gündəlik danışıqda
+              tam cümlə əvəzinə tək əvəzliklə cavab verərkən, formal qaydadan
+              asılı olmayaraq <strong>obyekt forması</strong> işlədilir.
             </p>
             <ExampleList
               examples={[

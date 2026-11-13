@@ -17,8 +17,8 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          6.4 və 6.5-də bərabərsizlik (biri digərindən çox/az) bildirən
-          formaları öyrəndik. Bu bölmə isə <strong>bərabərlik</strong>{" "}
+          Əvvəlki müqayisə bölmələrində bərabərsizlik (biri digərindən çox/az)
+          bildirən formaları öyrəndik. Bu bölmə isə <strong>bərabərlik</strong>{" "}
           (as...as), <strong>aşağı dərəcə</strong> (less) və müqayisələri{" "}
           <strong>gücləndirmək/yumşaltmaq</strong> üçün əlavə strukturları əhatə
           edir.
@@ -75,7 +75,7 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              2.1-dəki sayıla bilən/bilməyən ayrımı burada da tətbiq olunur —{" "}
+              Sayıla bilən/bilməyən ayrımı burada da tətbiq olunur —{" "}
               <em>as much as</em> sayıla bilməyən, <em>as many as</em> sayıla
               bilən isimlə.
             </p>
@@ -153,7 +153,7 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               <em>Less</em>, <em>more</em>-un tərsidir — heca sayından asılı
-              olmadan (6.4-dəki -er/more seçimi burda tətbiq olunmur){" "}
+              olmadan comparative forması burada tətbiq olunmur;{" "}
               <strong>bütün</strong> sifətlərlə eyni formada işlənir.
             </p>
             <ExampleList

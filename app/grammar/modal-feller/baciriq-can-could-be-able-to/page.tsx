@@ -137,10 +137,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Modal fellər (bax: 5.9-a qədər hamısı) bir-birinin ardınca birbaşa
-              gələ bilməz. Başqa bir modal felin yanında bacarıq ifadə etmək
-              lazım olduqda, <em>can/could</em> əvəzinə <em>be able to</em>{" "}
-              işlədilir.
+              Modal fellər bir-birinin ardınca birbaşa gələ bilməz. Başqa bir
+              modal felin yanında bacarıq ifadə etmək lazım olduqda,{" "}
+              <em>can/could</em> əvəzinə <em>be able to</em> işlədilir.
             </p>
             <ExampleList
               examples={[

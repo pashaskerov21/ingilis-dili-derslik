@@ -16,9 +16,9 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Qarşılıqlı əvəzliklər iki və ya daha çox şəxsin{" "}
           <strong>bir-birinə qarşılıqlı</strong> təsir etdiyi hərəkəti bildirir
-          — A, B-yə edir və eyni zamanda B, A-ya edir. Bu, 3.4-dəki refleksiv
-          əvəzliklərlə tez-tez qarışdırılır, amma məna baxımından tamam
-          fərqlidir.
+          — A, B-yə edir və eyni zamanda B, A-ya edir. Bu, refleksiv
+          əvəzliklər bölməsindəki anlayışla tez-tez qarışdırılır, amma məna
+          baxımından tamam fərqlidir.
         </p>
 
         <section className="space-y-10">
@@ -164,8 +164,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              3.4-dəki refleksiv əvəzliklərlə səthi baxışda bənzəsə də, məna tam
-              fərqlidir: <strong>refleksiv</strong> — hər kəs özünə edir;{" "}
+              Refleksiv əvəzliklərdəki anlayışla səthi baxışda bənzəsə də, məna
+              tam fərqlidir: <strong>refleksiv</strong> — hər kəs özünə edir;{" "}
               <strong>qarşılıqlı</strong> — bir-birinə edir. Bu fərqi
               qarışdırmaq cümlənin mənasını tamamilə dəyişir.
             </p>

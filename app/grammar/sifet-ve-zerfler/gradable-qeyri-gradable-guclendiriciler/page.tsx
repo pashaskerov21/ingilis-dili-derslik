@@ -135,10 +135,10 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              Mütləq sifətlər (bax: 6.7.3) rəsmi qaydaya görə comparative/
-              superlativ formaya keçmir — məntiqi cəhətdən "daha mükəmməl" və ya
-              "ən unikal" ziddiyyətlidir (unique = tək, artıq "ən"dir). Danışıq
-              dilində eşidilsə də, rəsmi yazıda qaçınılmalıdır.
+              Mütləq sifətlər rəsmi qaydaya görə comparative/superlativ formaya
+              keçmir — məntiqi cəhətdən "daha mükəmməl" və ya "ən unikal"
+              ziddiyyətlidir (unique = tək, artıq "ən"dir). Danışıq dilində
+              eşidilsə də, rəsmi yazıda qaçınılmalıdır.
             </p>
             <ExampleList
               examples={[

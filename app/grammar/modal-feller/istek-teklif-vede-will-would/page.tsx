@@ -17,10 +17,10 @@ export default function Page() {
     >
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
-          4.10-da will/going to arasındakı fərqi öyrənmişdik. Bu bölmə isə{" "}
-          <em>will</em>-in daha sosial, şəxsiyyətlərarası funksiyalarını
-          (istəklilik, təklif, vəd) və onun keçmiş (would) və rəsmi (shall)
-          qarşılıqlarını dərinləşdirir.
+          Gələcək zaman bölməsində will/going to arasındakı fərqi öyrənmişdik.
+          Bu bölmə isə <em>will</em>-in daha sosial, şəxsiyyətlərarası
+          funksiyalarını (istəklilik, təklif, vəd) və onun keçmiş (would) və
+          rəsmi (shall) qarşılıqlarını dərinləşdirir.
         </p>
 
         <section className="space-y-10">
@@ -28,7 +28,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">5.9.1</span>
               <h3 className="font-display text-xl text-foreground">
-                Will — istəklilik, təklif, vəd (4.10.4-ün dərinləşməsi)
+                Will — istəklilik, təklif, vəd
               </h3>
             </div>
             <ExampleList
@@ -97,10 +97,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.2-dəki nəzakət spektrinə bənzər şəkildə, <em>would</em> xahiş
-              edərkən <em>will</em>-dən daha rəsmi/nəzakətli alternativdir.{" "}
-              <em>Would you mind + -ing</em> xüsusilə nəzakətli sabit bir
-              strukturdur.
+              Nəzakət spektrinə bənzər şəkildə, <em>would</em> xahiş edərkən{" "}
+              <em>will</em>-dən daha rəsmi/nəzakətli alternativdir. <em>Would
+              you mind + -ing</em> xüsusilə nəzakətli sabit bir strukturdur.
             </p>
             <ExampleList
               examples={[
@@ -181,8 +180,8 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Müqavilə, qanun və rəsmi sənədlərdə <em>shall</em> — subyektdən
-              asılı olmayaraq — güclü öhdəlik bildirmək üçün işlənir (bax:
-              5.3-dəki must-a bənzər funksiya, amma xüsusi hüquqi registr).
+              asılı olmayaraq — güclü öhdəlik bildirmək üçün işlənir; must-a
+              bənzər funksiya daşıyır, amma xüsusi hüquqi registrdə.
             </p>
             <ExampleList
               examples={[
@@ -204,10 +203,9 @@ export default function Page() {
             Azərbaycan dilində təklif, vəd və xahiş nəzakəti fel formasında
             deyil, əlavə sözlərlə (istəyirsənmi, ola bilərmi) ifadə olunur.
             İngilis dilində isə <em>will/would/shall</em> arasındakı seçim
-            birbaşa nəzakət və rəsmilik dərəcəsini kodlaşdırır — bu, üçüncü
-            dəfədir ki (5.2, 5.5-dən sonra) bu naxışı görürük: ingilis dilində
-            nəzakət çox vaxt <strong>hansı köməkçi felin seçildiyi</strong> ilə
-            ifadə olunur.
+            birbaşa nəzakət və rəsmilik dərəcəsini kodlaşdırır — bu, ingilis
+            dilində nəzakət çox vaxt <strong>hansı köməkçi felin seçildiyi</strong>{" "}
+            ilə ifadə olunur.
           </p>
         </aside>
 

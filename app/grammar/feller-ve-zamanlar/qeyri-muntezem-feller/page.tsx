@@ -16,10 +16,10 @@ export default function Page() {
       <div className="space-y-12">
         <p className="text-lg leading-relaxed text-foreground">
           Qeyri-müntəzəm fellərin heç bir sabit orfoqrafiya qaydası yoxdur — hər
-          biri ayrıca əzbərlənməlidir (bax: 4.6.6). Lakin təsadüfi görünsələr
-          də, dörd təkrarlanan <strong>naxışa</strong> bölünürlər. Cədvəl bu
-          naxışlara görə qruplaşdırılıb ki, əzbərləmə prosesi struktursuz yığın
-          kimi deyil, nümunə tanıma kimi getsin.
+          biri ayrıca əzbərlənməlidir. Lakin təsadüfi görünsələr də, dörd
+          təkrarlanan <strong>naxışa</strong> bölünürlər. Cədvəl bu naxışlara
+          görə qruplaşdırılıb ki, əzbərləmə prosesi struktursuz yığın kimi deyil,
+          nümunə tanıma kimi getsin.
         </p>
 
         {/* ---------- QRUP A ---------- */}

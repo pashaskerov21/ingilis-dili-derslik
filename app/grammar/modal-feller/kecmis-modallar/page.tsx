@@ -40,8 +40,7 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">5.8.2</span>
               <h3 className="font-display text-xl text-foreground">
-                Should have / shouldn't have — tənqid, peşmançılıq (5.5-in
-                davamı)
+                Should have / shouldn't have — tənqid, peşmançılıq
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
@@ -74,8 +73,8 @@ export default function Page() {
               <em>Should have</em>-dən fərqli olaraq, <em>could have</em>{" "}
               hərəkətin "düzgün" olub-olmamasını mühakimə etmir — sadəcə{" "}
               <strong>mümkün olduğunu, amma seçilmədiyini</strong> bildirir.
-              Diqqət — bunu 5.7.3-dəki "couldn't have" (məntiqi qeyri-
-              mümkünlük) ilə qarışdırma, bura fərqli kontekstdir.
+              Diqqət — bunu keçmişdə məntiqi qeyri-mümkünlük bildirmək üçün
+              işlənən "couldn't have" ilə qarışdırma, bura fərqli kontekstdir.
             </p>
             <ExampleList
               examples={[
@@ -147,8 +146,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.4.5-də tanış olduğun forma — hərəkət <strong>edilib</strong>,
-              amma sonradan bunun lazımsız olduğu məlum olub.
+              Əvvəlki zərurət/qadağa bölməsində tanış olduğun forma — hərəkət
+              <strong>edilib</strong>, amma sonradan bunun lazımsız olduğu məlum
+              olub.
             </p>
             <ExampleList
               examples={[

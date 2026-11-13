@@ -109,8 +109,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              6.8.2-dəki qaydadan səhv nəticə çıxarıb "-ing yalnız cansız
-              əşyalar üçündür" düşünmə — qayda "cansız/canlı" deyil,{" "}
+              Əvvəlki qaydadan səhv nəticə çıxarıb "-ing yalnız cansız əşyalar
+              üçündür" düşünmə — qayda "cansız/canlı" deyil,{" "}
               <strong>"səbəb/hiss"</strong> əsasındadır. Şəxs özü hissin{" "}
               <strong>səbəbi</strong> olduqda, -ing tamamilə düzgündür.
             </p>

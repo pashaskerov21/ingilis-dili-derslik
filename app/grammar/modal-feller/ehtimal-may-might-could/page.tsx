@@ -19,8 +19,8 @@ export default function Page() {
         <p className="text-lg leading-relaxed text-foreground">
           Bu bölmə bir faktın <strong>doğru olma ehtimalını</strong> (yəqinlik,
           yoxsa şübhə) ifadə edən modal fellərə həsr olunub. Diqqət: bu,
-          5.1-dəki bacarıq və ya 5.2-dəki icazə mənasından fərqli — burada
-          söhbət "nə edə bilər" deyil, "doğru ola bilər mi" sualındandır.
+          bacarıq və icazə mənasından fərqli — burada söhbət "nə edə bilər"
+          deyil, "doğru ola bilər mi" sualındandır.
         </p>
 
         <section className="space-y-10">
@@ -165,7 +165,7 @@ export default function Page() {
             </div>
             <p className="text-foreground leading-relaxed">
               Bütün modal fellər əminlik dərəcəsinə görə bir spektr təşkil edir
-              — bu, 5.7-də (must/can't ilə güclü nəticə) davam edəcək.
+              — bu, daha sonra güclü nəticə bölməsində davam edəcək.
             </p>
             <div className="overflow-x-auto">
               <table className="w-full text-sm border border-line">
@@ -205,8 +205,8 @@ export default function Page() {
             Azərbaycan dilində ehtimal "bəlkə", "ola bilər", "yəqin ki" kimi
             ayrıca zərflərlə ifadə olunur, fel formasının özü dəyişmir. İngilis
             dilində isə ehtimal bilavasitə <strong>modal felin özündə</strong>{" "}
-            kodlanır — bu, həm daha yığcam, həm də (5.6.3-dəki kimi) inkar
-            formasında əminlik dərəcəsinin qəfil dəyişməsinə səbəb olan bir
+            kodlanır — bu, həm daha yığcam, həm də əvvəlki nümunədə olduğu kimi
+            inkar formasında əminlik dərəcəsinin qəfil dəyişməsinə səbəb olan bir
             sistemdir.
           </p>
         </aside>

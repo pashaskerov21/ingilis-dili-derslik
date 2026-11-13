@@ -87,8 +87,8 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              <em>Mustn't</em> qəti qadağa bildirir. <em>Shouldn't</em> (5.5-də
-              ətraflı) isə eyni struktur mövqedə olsa da, əslində{" "}
+              <em>Mustn't</em> qəti qadağa bildirir. <em>Shouldn't</em> isə eyni
+              struktur mövqedə olsa da, əslində{" "}
               <strong>tövsiyə/məsləhət</strong> səviyyəsindədir — qadağan yox,
               sadəcə "yaxşı fikir deyil".
             </p>
@@ -169,10 +169,9 @@ export default function Page() {
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
-              5.3.3-dəki "must"-un qrammatik boşluğu qadağa mənasında da davam
-              edir — keçmiş qadağanı ifadə etmək üçün{" "}
-              <em>wasn't/weren't allowed to</em> və ya <em>couldn't</em>{" "}
-              işlədilir.
+              "Must"-un qrammatik boşluğu qadağa mənasında da davam edir —
+              keçmiş qadağanı ifadə etmək üçün <em>wasn't/weren't allowed to</em>{" "}
+              və ya <em>couldn't</em> işlədilir.
             </p>
             <ExampleList
               examples={[

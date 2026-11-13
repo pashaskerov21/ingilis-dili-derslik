@@ -119,13 +119,15 @@ export default function Page() {
             <div className="flex items-baseline gap-3">
               <span className="font-mono text-sm text-accent">4.9.5</span>
               <h3 className="font-display text-xl text-foreground">
-                Simple vs Continuous: 4.5-in eyni məntiqi, keçmişə köçürülüb
+                Simple vs Continuous: Present Perfect Continuous-in eyni məntiqi,
+                keçmişə köçürülüb
               </h3>
             </div>
             <p className="text-foreground leading-relaxed">
               Past Perfect Simple — nəticə/say/tamamlanma; Past Perfect
-              Continuous — müddət/proses. Eyni "sendviç məntiqi" (4.5.5) burada
-              da keçərlidir.
+              Continuous — müddət/proses. Eyni "sendviç məntiqi" əvvəlki
+              present perfect continuous bölməsindəki anlayışla burada da
+              keçərlidir.
             </p>
             <ExampleList
               examples={[
