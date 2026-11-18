@@ -49,7 +49,7 @@
 
 **Answer:** A variable is a name for a value in memory. In JavaScript, variables are declared with `var`, `let`, or `const`. `let` and `const` were added in ES6 (2015). Declaration creates the variable. Initialization gives it the first value. Assignment changes the value later. Variable names are case-sensitive. A name cannot start with a digit or be a reserved word.
 
-**Cavab:** Dəyişən yaddaşdakı dəyərə verilən addır. JavaScript-də dəyişənlər `var`, `let` və ya `const` ilə elan edilir. `let` və `const` ES6 (2015) ilə əlavə olunub. Elan etmə (declaration) dəyişəni yaradır. İlk dəyər vermə (initialization) ona ilk dəyəri verir. Dəyər mənimsətmə (assignment) isə dəyəri sonradan dəyişir. Dəyişən adlarında böyük və kiçik hərflər fərqlənir. Ad rəqəmlə başlaya bilməz və rezerv olunmuş söz (reserved word) ola bilməz.
+**Cavab:** Dəyişən, yaddaşdakı bir qiymətə verilən addır. JavaScript-də dəyişənlər `var`, `let` və ya `const` vasitəsilə elan edilir. `let` və `const` ES6 (2015) versiyasında əlavə olunub. Elan etmə (declaration) dəyişəni yaradır. İlkin dəyər vermə (initialization) ona ilk qiyməti təyin edir. Dəyər təyini (assignment) isə sonradan həmin qiyməti dəyişir. Dəyişən adlarında böyük və kiçik hərflər fərqləndirilir (case-sensitive). Ad rəqəmlə başlaya bilməz və ya xüsusi təyinatlı (rezerv edilmiş) söz ola bilməz.
 
 ---
 
@@ -59,7 +59,7 @@
 
 **Answer:** `var` is function-scoped. `let` and `const` are block-scoped. `var` and `let` allow reassignment, but `const` does not. `var` allows redeclaration in the same scope, but `let` and `const` do not. A `var` variable is hoisted and initialized with `undefined`. A `let` or `const` variable cannot be accessed before its declaration.
 
-**Cavab:** `var` funksiya səviyyəli scope-a malikdir. `let` və `const` isə blok səviyyəli scope-a malikdir. `var` və `let` yenidən dəyər mənimsətməyə (reassignment) icazə verir, `const` isə vermir. `var` eyni scope-da təkrar elan edilə bilər (redeclaration), `let` və `const` isə bilməz. `var` dəyişəni hoisting olunur və `undefined` ilə başladılır. `let` və `const` dəyişəninə elan sətrindən əvvəl müraciət etmək olmaz.
+**Cavab:** `var` funksiya səviyyəsində əhatə dairəsinə (function-scoped) malikdir. `let` və `const` isə blok səviyyəsində əhatə dairəsinə (block-scoped) malikdir. `var` və `let` dəyişənlərinə yeni dəyər mənimsədilə bilər, lakin `const` üçün bu mümkün deyil. `var` eyni əhatə dairəsində yenidən elan edilə bilər, ancaq `let` və `const` üçün bu yolverilməzdir. `var` dəyişəni "hoisting" (yuxarı qaldırılma) prosesinə məruz qalır və ilkin olaraq `undefined` dəyəri ilə inisiallaşdırılır. `let` və ya `const` dəyişənlərinə isə elan edilməzdən əvvəl müraciət etmək mümkün deyil.
 
 ---
 
@@ -69,7 +69,7 @@
 
 **Answer:** `var` is the original way to declare variables in JavaScript. It is function-scoped, not block-scoped. A `var` declaration inside a block is visible in the whole function. The same name can be declared again in the same scope. At the top level of a browser script, a `var` variable becomes a property of the global object. In modules, it does not.
 
-**Cavab:** `var` JavaScript-də dəyişən elan etməyin ilkin üsuludur. Onun scope-u funksiyadır, blok deyil. Blok daxilində `var` ilə elan edilən dəyişən bütün funksiyada görünür. Eyni ad eyni scope-da yenidən elan edilə bilər. Brauzerdə skriptin üst səviyyəsində `var` dəyişəni qlobal obyektin (global object) xassəsinə (property) çevrilir. Modullarda isə bu baş vermir.
+**Cavab:** `var` JavaScript-də dəyişənləri elan etməyin ilkin üsuludur. O, blok əhatə dairəsinə (block scope) deyil, funksiya əhatə dairəsinə (function scope) malikdir. Blok daxilində elan edilmiş `var` dəyişəni bütün funksiya daxilində görünür. Eyni əhatə dairəsində eyni adla təkrar dəyişən elan etmək mümkündür. Brauzer skriptinin ən üst səviyyəsində `var` dəyişəni qlobal obyektin xassəsinə çevrilir. Modullarda isə belə olmur.
 
 ---
 
@@ -79,7 +79,7 @@
 
 **Answer:** `let` was added in ES6 to declare block-scoped variables. A `let` variable exists only inside its block. Its value can be reassigned. The same name cannot be declared twice in the same scope. A `let` variable is not accessible before its declaration line. A `let` declaration without a value gives `undefined`. At the top level, `let` does not create a property of the global object.
 
-**Cavab:** `let` blok scope-lu dəyişənləri elan etmək üçün ES6-da əlavə olunub. `let` dəyişəni yalnız öz blokunun (block) daxilində mövcuddur. Onun dəyəri sonradan dəyişdirilə bilər. Eyni ad eyni scope-da iki dəfə elan edilə bilməz. `let` dəyişəninə elan sətrindən əvvəl müraciət etmək olmaz. Dəyər verilmədən elan edilən `let` dəyişəni `undefined` olur. Üst səviyyədə `let` qlobal obyektin xassəsini yaratmır.
+**Cavab:** `let` ES6 versiyasında blok əhatə dairəsinə (block scope) malik dəyişənləri elan etmək üçün əlavə edilmişdir. `let` dəyişəni yalnız aid olduğu blok daxilində mövcud olur. Onun dəyəri yenidən təyin edilə bilər. Eyni əhatə dairəsində eyni ada malik dəyişən iki dəfə elan edilə bilməz. `let` dəyişəninə onun elan olunduğu sətirdən əvvəl müraciət etmək mümkün deyil. Dəyər verilmədən elan edilən `let` dəyişəni `undefined` nəticəsini qaytarır. Ən üst səviyyədə `let` qlobal obyektin xassəsini (property) yaratmır.
 
 ---
 
@@ -89,7 +89,7 @@
 
 **Answer:** `const` declares a block-scoped variable that cannot be reassigned. It must be given a value at declaration. Declaring it without a value causes a SyntaxError. Reassignment causes a TypeError. The same name cannot be declared twice in the same scope. `const` fixes the binding, not the value itself.
 
-**Cavab:** `const` yenidən dəyər mənimsədilə bilməyən blok scope-lu dəyişən elan edir. Ona elan zamanı dəyər verilməlidir. Dəyər verilmədən elan etmək SyntaxError-a səbəb olur. Yenidən dəyər mənimsətmə isə TypeError verir. Eyni ad eyni scope-da iki dəfə elan edilə bilməz. `const` dəyərin özünü yox, dəyişənin həmin dəyərə bağlılığını (binding) sabit saxlayır.
+**Cavab:** `const` blok əhatə dairəsinə malik, yenidən təyin edilə bilməyən dəyişən elan edir. Onu elan edərkən mütləq bir dəyər verilməlidir. Dəyər vermədən elan etmək `SyntaxError` xətasına səbəb olur. Yenidən təyin etməyə cəhd isə `TypeError` xətasına gətirib çıxarır. Eyni əhatə dairəsində eyni adla iki dəfə dəyişən elan etmək olmaz. `const` dəyərin özünü deyil, bağlamanı (binding) sabitləşdirir.
 
 ---
 
@@ -99,7 +99,7 @@
 
 **Answer:** No, `const` prevents reassignment only. Primitive values are immutable by nature. Objects and arrays declared with `const` can still be modified. Properties and elements can be added, changed, or removed. `Object.freeze()` blocks changes to the top-level properties of an object. It is shallow, so nested objects remain changeable. Changes to a frozen object fail silently, or throw a TypeError in strict mode.
 
-**Cavab:** Xeyr, `const` yalnız yenidən dəyər mənimsətmənin qarşısını alır. Primitiv dəyərlər (primitive values) təbiətcə dəyişməzdir (immutable). `const` ilə elan edilən obyektlər və massivlər isə yenə də dəyişdirilə bilər. Onlara xassələr və elementlər əlavə oluna, dəyişdirilə və ya silinə bilər. `Object.freeze()` obyektin birinci səviyyəli xassələrinin dəyişdirilməsini əngəlləyir. Bu, səthi (shallow) əməliyyatdır, ona görə daxili (nested) obyektlər dəyişdirilə bilər. Dondurulmuş obyektdə dəyişiklik səssizcə uğursuz olur, strict mode-da isə TypeError verir.
+**Cavab:** Xeyr, `const` yalnız yenidən təyin etmənin (reassignment) qarşısını alır. İbtidai (primitive) dəyərlər təbiətcə dəyişməzdir. `const` ilə elan edilmiş obyektlər və massivlər isə dəyişdirilə bilər; onlara xassələr və elementlər əlavə etmək, mövcud olanları dəyişdirmək və ya silmək mümkündür. `Object.freeze()` obyektin ən üst səviyyəsindəki xassələrdə dəyişiklik edilməsinin qarşısını alır. Bu, "səthi" (shallow) təsirə malikdir, yəni iç-içə yerləşən obyektlər dəyişdirilə bilən olaraq qalır. "Dondurulmuş" (frozen) obyekt üzərində dəyişiklik etməyə cəhd göstərildikdə, heç bir xəbərdarlıq verilmədən əməliyyat baş tutmur və ya "strict mode" (sərt rejim) aktiv olduqda `TypeError` xətası yaranır.
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Answer:** The result depends on the keyword. A `var` variable is hoisted and initialized with `undefined`. Reading it early gives `undefined`. A `let` or `const` variable is hoisted but not initialized. It stays in the temporal dead zone until its declaration runs. Access in this zone throws a ReferenceError.
 
-**Cavab:** Nəticə istifadə olunan açar sözdən (keyword) asılıdır. `var` dəyişəni hoisting olunur və `undefined` ilə başladılır. Ona erkən müraciət `undefined` qaytarır. `let` və `const` dəyişənləri də hoisting olunur, lakin başladılmır. Onlar elan sətri icra olunana qədər müvəqqəti ölü zonada (temporal dead zone) qalır. Bu zonada müraciət ReferenceError verir.
+**Cavab:** Nəticə açar sözdən asılıdır. `var` dəyişəni "yuxarı qaldırılır" (hoisting) və `undefined` dəyəri ilə ilkinləşdirilir. Ona vaxtından əvvəl müraciət etdikdə `undefined` nəticəsi alınır. `let` və ya `const` dəyişəni də "yuxarı qaldırılır", lakin ilkinləşdirilmir. O, elan edildiyi sətir icra olunana qədər "müvəqqəti ölü zona"da (temporal dead zone) qalır. Bu zonada dəyişənə müraciət etmək `ReferenceError` xətasına səbəb olur.
 
 ---
 
@@ -119,7 +119,7 @@
 
 **Answer:** In sloppy mode, assignment to an undeclared name creates a global variable. This is called an implicit global. It becomes a property of the global object. In strict mode, the same assignment throws a ReferenceError. ES modules and class bodies always run in strict mode. Implicit globals are a common source of bugs.
 
-**Cavab:** Sloppy mode-da elan edilməmiş ada dəyər mənimsətmək qlobal dəyişən yaradır. Buna gizli qlobal dəyişən (implicit global) deyilir. O, qlobal obyektin xassəsinə çevrilir. Strict mode-da eyni əməliyyat ReferenceError verir. ES modulları və sinif gövdələri həmişə strict mode-da işləyir. Gizli qlobal dəyişənlər xətaların geniş yayılmış mənbəyidir.
+**Cavab:** "Sloppy" (sərbəst) rejimdə, elan olunmamış bir ada dəyər mənimsədilməsi qlobal dəyişənin yaradılmasına səbəb olur. Buna "örtülü qlobal" (implicit global) deyilir. Bu, qlobal obyektin xassəsinə çevrilir. "Strict" (sərt) rejimdə isə eyni əməliyyat `ReferenceError` xətasına səbəb olur. ES modulları və sinif gövdələri həmişə "strict" rejimdə icra olunur. Örtülü qlobal dəyişənlər proqram xətalarının (baqların) tez-tez rast gəlinən mənbəyidir.
 
 ---
 
@@ -129,17 +129,17 @@
 
 **Answer:** A declared variable without a value holds `undefined`. An undeclared variable has no binding at all. Reading it throws a ReferenceError. The `typeof` operator returns the string "undefined" for an undeclared name. It does not throw in that case. It does throw for a `let` or `const` variable in the temporal dead zone.
 
-**Cavab:** Dəyər verilmədən elan edilmiş dəyişən `undefined` saxlayır. Elan edilməmiş dəyişənin (undeclared variable) isə heç bir binding-i yoxdur. Ona müraciət ReferenceError verir. `typeof` operatoru elan edilməmiş ad üçün "undefined" sətrini qaytarır. Bu halda xəta atmır. Lakin müvəqqəti ölü zonadakı `let` və ya `const` dəyişəni üçün xəta atır.
+**Cavab:** Dəyər verilmədən elan edilmiş dəyişən `undefined` qiymətini saxlayır. Elan edilməmiş dəyişənin isə heç bir bağlılığı (istinadı) yoxdur. Ona müraciət etmək `ReferenceError` xətasına səbəb olur. `typeof` operatoru elan edilməmiş ad üçün "undefined" sətri qaytarır; bu halda heç bir xəta baş vermir. Lakin `let` və ya `const` dəyişənləri "müvəqqəti ölü zona"da (temporal dead zone) olduqda, xəta yaranır.
 
 ---
 
 ### Question 10. Why do `var` and `let` behave differently in loops with asynchronous callbacks?
 
-**Sual:** Asinxron callback-lər olan dövrlərdə `var` və `let` niyə fərqli davranır?
+**Sual:** Asinxron geriçağırma funksiyaları (callbacks) olan dövrlərdə `var` və `let` niyə fərqli davranır?
 
 **Answer:** A `var` loop variable belongs to the whole function. All callbacks share the same variable. They run after the loop ends and see its final value. A `let` loop variable is created again for each iteration. Each callback sees its own variable. This is a typical closure-related interview trap.
 
-**Cavab:** `var` ilə elan edilən dövr dəyişəni (loop variable) bütün funksiyaya aiddir. Bütün callback-lər eyni dəyişəni paylaşır. Onlar dövr bitdikdən sonra işləyir və son dəyəri görür. `let` ilə elan edilən dövr dəyişəni isə hər iterasiya (iteration) üçün yenidən yaradılır. Hər callback öz dəyişənini görür. Bu, closure ilə bağlı tipik interview tələsidir.
+**Cavab:** `var` ilə təyin edilmiş dövr dəyişəni bütün funksiyaya aiddir. Bütün "callback" funksiyaları eyni dəyişəni paylaşır. Onlar dövr başa çatdıqdan sonra icra olunur və həmin dəyişənin son qiymətini görürlər. `let` ilə təyin edilmiş dövr dəyişəni isə hər iterasiya üçün yenidən yaradılır. Hər bir "callback" funksiyası özünə məxsus dəyişəni görür. Bu, "closure" (bağlam) mövzusu ilə bağlı müsahibələrdə tez-tez rast gəlinən tipik bir tələdir.
 
 ---
 
@@ -149,7 +149,7 @@
 
 **Answer:** It depends on the loop type. In `for...of` and `for...in` loops, `const` works. A new binding is created for each iteration. In a classic `for` loop, the counter is changed after each iteration. A `const` counter therefore throws a TypeError on the first increment. A `let` counter is used in that case.
 
-**Cavab:** Bu, dövrün növündən asılıdır. `for...of` və `for...in` dövrlərində `const` işləyir. Hər iterasiya üçün yeni binding yaradılır. Klassik `for` dövründə sayğac (counter) hər iterasiyadan sonra dəyişdirilir. Buna görə `const` sayğac ilk artımda TypeError verir. Belə hallarda `let` sayğac istifadə olunur.
+**Cavab:** Bu, dövrün növündən asılıdır. `for...of` və `for...in` dövrlərində `const` işləyir; hər iterasiya üçün yeni bir bağlama (binding) yaradılır. Klassik `for` dövründə isə sayğac hər iterasiyadan sonra dəyişdirilir. Buna görə də, `const` ilə təyin edilmiş sayğac ilk artırma əməliyyatı zamanı `TypeError` xətasına səbəb olur. Belə hallarda `let` ilə təyin edilmiş sayğacdan istifadə olunur.
 
 ---
 
@@ -159,4 +159,4 @@
 
 **Answer:** `const` is used by default in modern JavaScript. It shows that a variable will not be reassigned. `let` is used only when reassignment is needed. `var` is mostly found in legacy code. The block scope of `let` and `const` limits where a variable is visible. This reduces accidental bugs.
 
-**Cavab:** Müasir JavaScript-də standart olaraq `const` istifadə olunur. O, dəyişənin yenidən dəyər almayacağını göstərir. `let` yalnız yenidən dəyər mənimsətmə lazım olduqda işlədilir. `var` əsasən köhnə koda (legacy code) aiddir. `let` və `const`-un blok scope-u dəyişənin görünmə sahəsini məhdudlaşdırır. Bu, təsadüfi xətaların sayını azaldır.
+**Cavab:** Müasir JavaScript-də standart olaraq `const` istifadə olunur. Bu, dəyişənə yenidən dəyər təyin edilməyəcəyini göstərir. `let` isə yalnız yenidən təyinat tələb olunduqda istifadə edilir. `var` daha çox köhnə kodlarda rast gəlinir. `let` və `const`-un malik olduğu blok əhatə dairəsi (block scope) dəyişənin görünmə sahəsini məhdudlaşdırır. Bu da təsadüfi xətaların yaranma ehtimalını azaldır.
