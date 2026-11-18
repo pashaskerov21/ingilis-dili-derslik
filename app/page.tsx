@@ -1,11 +1,10 @@
 import Link from 'next/link';
-import { SoonBadge } from '@/components/SoonBadge';
 
 interface ModuleCard {
   code: string;
   title: string;
   description: string;
-  href?: string;
+  href: string;
 }
 
 const modules: ModuleCard[] = [
@@ -29,13 +28,9 @@ const modules: ModuleCard[] = [
   },
   {
     code: '04',
-    title: 'Mətnlər',
-    description: 'Səviyyəyə uyğun oxu mətnləri.',
-  },
-  {
-    code: '05',
-    title: 'Testlər',
-    description: 'Bölmə testləri və qarışıq təkrar.',
+    title: 'Software',
+    description: 'Proqramlaşdırma mövzuları üzrə interview sualları və terminlər.',
+    href: '/software/',
   },
 ];
 
@@ -58,8 +53,7 @@ export default function HomePage() {
       <ul className="mt-10 border-t border-line">
         {modules.map((module) => (
           <li key={module.code} className="border-b border-line">
-            {module.href ? (
-              <Link
+            <Link
                 href={module.href}
                 className="group flex items-start gap-4 py-5 transition-colors hover:text-accent"
               >
@@ -80,28 +74,7 @@ export default function HomePage() {
                 >
                   →
                 </span>
-              </Link>
-            ) : (
-              <div
-                aria-disabled="true"
-                className="flex items-start gap-4 py-5 opacity-45"
-              >
-                <span className="mt-1 font-mono text-xs text-muted">
-                  {module.code}
-                </span>
-                <span className="min-w-0 flex-1">
-                  <span className="block font-display text-lg">
-                    {module.title}
-                  </span>
-                  <span className="mt-1 block font-body text-sm text-muted">
-                    {module.description}
-                  </span>
-                </span>
-                <span className="mt-1.5">
-                  <SoonBadge />
-                </span>
-              </div>
-            )}
+            </Link>
           </li>
         ))}
       </ul>
