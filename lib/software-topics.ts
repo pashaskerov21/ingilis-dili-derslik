@@ -5,4 +5,5 @@ export const javascriptTopics = [
   { label: 'Data Types', href: '/software/javascript/data-types/', file: '03-data-types.md' },
   { label: 'Primitive vs Reference Types', href: '/software/javascript/primitive-vs-reference-types/', file: '04-primitive-vs-reference-types.md' },
   { label: 'Type Conversion & Type Coercion', href: '/software/javascript/type-conversion-type-coercion/', file: '05-type-conversion-type-coercion.md' },
+  { label: 'Operators & Expressions', href: '/software/javascript/operators-expressions/', file: '06-operators-expressions.md' },
 ] as const;

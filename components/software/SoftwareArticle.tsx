@@ -45,6 +45,7 @@ function parseArticle(markdown: string) {
       }
       return {
         heading,
+        id: `question-${heading.split('.')[0].replace('Question ', '')}`,
         question: answers.question.join(' '),
         answer: answers.answer.join(' '),
         translation: answers.translation.join(' '),
@@ -69,7 +70,29 @@ export function SoftwareArticle({ file, title }: { file: string; title: string }
         { label: title },
       ]} />
       <h1 className="font-display text-3xl sm:text-4xl">{article.title}</h1>
-      <section className="mt-10 space-y-4">
+      <section className="mt-8 space-y-3">
+        <h2 className="font-display text-2xl">Interview Questions</h2>
+        <ol className="border-t border-line">
+          {article.questions.map((item) => (
+            <li key={item.id} className="border-b border-line">
+              <a href={`#${item.id}`} className="block py-3 transition-colors hover:text-accent">
+                {inlineContent(item.heading)}
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+      <section className="mt-12 space-y-5">
+        {article.questions.map((item) => (
+          <article key={item.id} id={item.id} className="scroll-mt-6 space-y-3 border border-line p-4 sm:p-5">
+            <h2 className="font-display text-lg">{inlineContent(item.heading)}</h2>
+            <p><span className="font-semibold">Sual:</span> {inlineContent(item.question)}</p>
+            <p><span className="font-semibold">Answer:</span> {inlineContent(item.answer)}</p>
+            <p><span className="font-semibold">Cavab:</span> {inlineContent(item.translation)}</p>
+          </article>
+        ))}
+      </section>
+      <section className="mt-12 space-y-4">
         <h2 className="font-display text-2xl">Terminlər</h2>
         <div className="overflow-x-auto">
           <table className="w-full border border-line text-sm">
@@ -87,17 +110,6 @@ export function SoftwareArticle({ file, title }: { file: string; title: string }
             </tbody>
           </table>
         </div>
-      </section>
-      <section className="mt-12 space-y-5">
-        <h2 className="font-display text-2xl">Interview Questions</h2>
-        {article.questions.map((item) => (
-          <article key={item.heading} className="space-y-3 border border-line p-4 sm:p-5">
-            <h3 className="font-display text-lg">{inlineContent(item.heading)}</h3>
-            <p><span className="font-semibold">Sual:</span> {inlineContent(item.question)}</p>
-            <p><span className="font-semibold">Answer:</span> {inlineContent(item.answer)}</p>
-            <p><span className="font-semibold">Cavab:</span> {inlineContent(item.translation)}</p>
-          </article>
-        ))}
       </section>
     </main>
   );
