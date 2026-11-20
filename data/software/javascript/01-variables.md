@@ -59,7 +59,7 @@
 
 **Answer:** `var` is function-scoped. `let` and `const` are block-scoped. `var` and `let` allow reassignment, but `const` does not. `var` allows redeclaration in the same scope, but `let` and `const` do not. A `var` variable is hoisted and initialized with `undefined`. A `let` or `const` variable cannot be accessed before its declaration.
 
-**Cavab:** `var` funksiya səviyyəsində əhatə dairəsinə (function-scoped) malikdir. `let` və `const` isə blok səviyyəsində əhatə dairəsinə (block-scoped) malikdir. `var` və `let` dəyişənlərinə yeni dəyər mənimsədilə bilər, lakin `const` üçün bu mümkün deyil. `var` eyni əhatə dairəsində yenidən elan edilə bilər, ancaq `let` və `const` üçün bu yolverilməzdir. `var` dəyişəni "hoisting" (yuxarı qaldırılma) prosesinə məruz qalır və ilkin olaraq `undefined` dəyəri ilə inisiallaşdırılır. `let` və ya `const` dəyişənlərinə isə elan edilməzdən əvvəl müraciət etmək mümkün deyil.
+**Cavab:** `var` funksiya səviyyəsində əhatə dairəsinə (function-scoped) malikdir. `let` və `const` isə blok səviyyəsində əhatə dairəsinə (block-scoped) malikdir. `var` və `let` dəyişənlərinə yeni dəyər mənimsədilə bilər, lakin `const` üçün bu mümkün deyil. `var` eyni əhatə dairəsində yenidən elan edilə bilər, ancaq `let` və `const` üçün bu yolverilməzdir. `var` dəyişəni "hoisting" (yuxarı qaldırılma) prosesinə məruz qalır və ilkin olaraq `undefined` dəyərini alır. `let` və ya `const` dəyişənlərinə isə elan edilməzdən əvvəl müraciət etmək mümkün deyil.
 
 ---
 

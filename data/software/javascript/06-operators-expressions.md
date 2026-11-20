@@ -1,4 +1,4 @@
-# Operators & Expressions
+﻿# Operators & Expressions
 
 ## 1. Terminlər
 
@@ -50,8 +50,6 @@
 | assignment operator (`=`) | mənimsətmə operatoru |
 | addition assignment (`+=`) | toplama ilə mənimsətmə |
 | multiplication assignment (`*=`) | vurma ilə mənimsətmə |
-| logical OR assignment (`\|\|=`) | məntiqi VƏ YA ilə mənimsətmə |
-| logical AND assignment (`&&=`) | məntiqi VƏ ilə mənimsətmə |
 | nullish coalescing assignment (`??=`) | nullish birləşdirmə ilə mənimsətmə |
 | loose equality (`==`) | tip çevirməklə bərabərlik |
 | loose inequality (`!=`) | tip çevirməklə bərabər olmama |
@@ -61,12 +59,8 @@
 | greater than (`>`) | böyükdür |
 | less than or equal to (`<=`) | kiçik və ya bərabərdir |
 | greater than or equal to (`>=`) | böyük və ya bərabərdir |
-| logical AND (`&&`) | məntiqi VƏ |
-| logical OR (`\|\|`) | məntiqi VƏ YA |
-| logical NOT (`!`) | məntiqi DEYİL |
 | nullish coalescing (`??`) | nullish birləşdirmə |
 | bitwise AND (`&`) | bit səviyyəli VƏ |
-| bitwise OR (`\|`) | bit səviyyəli VƏ YA |
 | bitwise XOR (`^`) | bit səviyyəli XOR |
 | bitwise NOT (`~`) | bit səviyyəli DEYİL |
 | left shift (`<<`) | sola sürüşdürmə |

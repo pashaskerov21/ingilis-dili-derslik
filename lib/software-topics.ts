@@ -6,4 +6,8 @@ export const javascriptTopics = [
   { label: 'Primitive vs Reference Types', href: '/software/javascript/primitive-vs-reference-types/', file: '04-primitive-vs-reference-types.md' },
   { label: 'Type Conversion & Type Coercion', href: '/software/javascript/type-conversion-type-coercion/', file: '05-type-conversion-type-coercion.md' },
   { label: 'Operators & Expressions', href: '/software/javascript/operators-expressions/', file: '06-operators-expressions.md' },
+  { label: 'Conditional Statements: if, else, switch', href: '/software/javascript/conditional-statements/', file: '07-conditional-statements.md' },
+  { label: 'Loops: for, while, for...of, for...in', href: '/software/javascript/loops/', file: '08-loops.md' },
+  { label: 'Functions: Declarations, Expressions, Arrow Functions', href: '/software/javascript/functions/', file: '09-functions.md' },
+  { label: 'Parameters, Arguments & Return Values', href: '/software/javascript/parameters-arguments-return/', file: '10-parameters-arguments-return.md' },
 ] as const;
